@@ -1,0 +1,849 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e114]:
+                  - generic [ref=e115] [cursor=pointer]:
+                    - img [ref=e117]:
+                      - img [ref=e118]
+                    - generic [ref=e119]: HR
+                  - generic [ref=e72761]:
+                    - generic [ref=e72762]: Human Resources
+                    - generic [ref=e72764]:
+                      - link "Employees" [ref=e72765] [cursor=pointer]:
+                        - /url: "#/employees"
+                        - text:  Employees
+                      - link "" [ref=e72766] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72767]: 
+                    - generic [ref=e72769]:
+                      - link "Assignments" [ref=e72770] [cursor=pointer]:
+                        - /url: "#/assignments"
+                        - text:  Assignments
+                      - link "" [ref=e72771] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72772]: 
+                    - generic [ref=e72774]:
+                      - link "Timesheets" [ref=e72775] [cursor=pointer]:
+                        - /url: "#/timesheets/all"
+                        - text:  Timesheets
+                      - link "" [ref=e72776] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72777]: 
+                    - generic [ref=e72779]:
+                      - link "Expenses" [ref=e72780] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/submitted"
+                        - text:  Expenses
+                      - link "" [ref=e72781] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72782]: 
+                    - generic [ref=e72784]:
+                      - link "Invoices" [ref=e72785] [cursor=pointer]:
+                        - /url: "#/invoices/all"
+                        - text:  Invoices
+                      - link "" [ref=e72786] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72787]: 
+                    - generic [ref=e72789]:
+                      - link "Accounts Payable" [ref=e72790] [cursor=pointer]:
+                        - /url: "#/bills/list"
+                        - text:  Accounts Payable
+                      - link "" [ref=e72791] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72792]: 
+                    - generic [ref=e72794]:
+                      - link "US Immigration" [ref=e72795] [cursor=pointer]:
+                        - /url: "#/immigration/case_management"
+                        - text:  US Immigration
+                      - link "" [ref=e72796] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72797]: 
+                    - generic [ref=e72799]:
+                      - link "I9 Compliance" [ref=e72800] [cursor=pointer]:
+                        - /url: "#/i9/list"
+                        - text:  I9 Compliance
+                      - link "" [ref=e72801] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72802]: 
+                    - generic [ref=e72804]:
+                      - link "Tasks" [ref=e72805] [cursor=pointer]:
+                        - /url: "#/tasks_list"
+                        - text:  Tasks
+                      - link "" [ref=e72806] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72807]: 
+                    - generic [ref=e72809]:
+                      - link "Documents" [ref=e72810] [cursor=pointer]:
+                        - /url: "#/documents"
+                        - text:  Documents
+                      - link "" [ref=e72811] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72812]: 
+                    - generic [ref=e72814]:
+                      - link "Onboarding" [ref=e72815] [cursor=pointer]:
+                        - /url: "#/onboarding/requests"
+                        - text:  Onboarding
+                      - link "" [ref=e72816] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72817]: 
+                    - generic [ref=e72819]:
+                      - link "Attendance" [ref=e72820] [cursor=pointer]:
+                        - /url: "#/attendance"
+                        - text:  Attendance
+                      - link "" [ref=e72821] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72822]: 
+                    - generic [ref=e72824]:
+                      - link "Assets Management" [ref=e72825] [cursor=pointer]:
+                        - /url: "#/assets"
+                        - text:  Assets Management
+                      - link "" [ref=e72826] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72827]: 
+                    - generic [ref=e72829]:
+                      - link "Projects" [ref=e72830] [cursor=pointer]:
+                        - /url: "#/projects"
+                        - text:  Projects
+                      - link "" [ref=e72831] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72832]: 
+                    - generic [ref=e72834]:
+                      - link "Offboarding" [ref=e72835] [cursor=pointer]:
+                        - /url: "#/offboarding"
+                        - text:  Offboarding
+                      - link "" [ref=e72836] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72837]: 
+                    - generic [ref=e72839]:
+                      - link "Performance" [ref=e72840] [cursor=pointer]:
+                        - /url: "#/performance"
+                        - text:  Performance
+                      - link "" [ref=e72841] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72842]: 
+                    - generic [ref=e72844]:
+                      - link "Help Desk" [ref=e72845] [cursor=pointer]:
+                        - /url: "#/help_desk"
+                        - text:  Help Desk
+                      - link "" [ref=e72846] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72847]: 
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e77129]:
+          - generic [ref=e77131]:
+            - heading "Tasks" [level=1] [ref=e77133]
+            - generic [ref=e77134]:
+              - link "Home" [ref=e77138] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e77139]:
+                - text: /
+                - generic [ref=e77141]: Tasks
+          - navigation [ref=e77144]:
+            - generic [ref=e77147]:
+              - generic [ref=e77150] [cursor=pointer]: Tasks
+              - generic [ref=e77153] [cursor=pointer]: Task Category
+          - generic [ref=e77154]:
+            - navigation [ref=e77160]:
+              - generic [ref=e77161]: Views
+              - generic [ref=e77165] [cursor=pointer]: Today's Tasks
+              - generic [ref=e77169] [cursor=pointer]: Upcoming Tasks
+              - generic [ref=e77173] [cursor=pointer]: All Tasks
+              - generic [ref=e77177] [cursor=pointer]: Tasks Created By Me
+              - generic [ref=e77181] [cursor=pointer]: Tasks Assigned To Me
+              - generic [ref=e77185] [cursor=pointer]: Expired Tasks
+              - generic [ref=e77189] [cursor=pointer]: Completed Tasks
+            - generic [ref=e77193]:
+              - generic [ref=e77194]:
+                - generic [ref=e77195]:
+                  - button [ref=e77196] [cursor=pointer]:
+                    - img [ref=e77197]: left_panel_close
+                  - generic [ref=e77200]:
+                    - generic [ref=e77205]:
+                      - textbox "Search ID, Task Title" [ref=e77206]
+                      - button [ref=e77207] [cursor=pointer]:
+                        - img [ref=e77208]: search
+                    - generic [ref=e77212] [cursor=pointer]:
+                      - generic [ref=e77214]: Select Status
+                      - combobox "Select Status All" [ref=e77216]:
+                        - generic [ref=e77217]:
+                          - generic [ref=e77219]: All
+                          - img [ref=e77222]
+                - button "Create Task" [ref=e77225]:
+                  - generic [ref=e77226]: Create Task
+              - table [ref=e77231]:
+                - rowgroup [ref=e77232]:
+                  - row "Task Id Title Task Category Created By Due Date Priority Status Reminder Assigned To" [ref=e77250]:
+                    - columnheader [ref=e77251]:
+                      - generic [ref=e77252]:
+                        - generic [ref=e77255] [cursor=pointer]:
+                          - checkbox [ref=e77256]
+                          - generic:
+                            - img
+                        - button [ref=e77257] [cursor=pointer]:
+                          - img [ref=e77258]: expand_more
+                    - columnheader "Task Id" [ref=e77261]:
+                      - generic [ref=e77262]:
+                        - generic [ref=e77263]: Task Id
+                        - button [ref=e77264] [cursor=pointer]:
+                          - img [ref=e77265]: filter_list
+                    - columnheader "Title" [ref=e77268]:
+                      - generic [ref=e77269]:
+                        - generic [ref=e77270]: Title
+                        - button [ref=e77271] [cursor=pointer]:
+                          - img [ref=e77272]: filter_list
+                    - columnheader "Task Category" [ref=e77275]:
+                      - generic [ref=e77276]:
+                        - generic [ref=e77277]: Task Category
+                        - button [ref=e77278] [cursor=pointer]:
+                          - img [ref=e77279]: filter_list
+                    - columnheader "Created By" [ref=e77282]:
+                      - generic [ref=e77283]:
+                        - generic [ref=e77284]: Created By
+                        - button [ref=e77285] [cursor=pointer]:
+                          - img [ref=e77286]: filter_list
+                    - columnheader "Due Date" [ref=e77289]:
+                      - generic [ref=e77290]:
+                        - generic [ref=e77291]: Due Date
+                        - button [ref=e77292] [cursor=pointer]:
+                          - img [ref=e77293]: filter_list
+                    - columnheader "Priority" [ref=e77296]:
+                      - generic [ref=e77297]:
+                        - generic [ref=e77298]: Priority
+                        - button [ref=e77299] [cursor=pointer]:
+                          - img [ref=e77300]: filter_list
+                    - columnheader "Status" [ref=e77303]:
+                      - generic [ref=e77304]:
+                        - generic [ref=e77305]: Status
+                        - button [ref=e77306] [cursor=pointer]:
+                          - img [ref=e77307]: filter_list
+                    - columnheader "Reminder" [ref=e77310]:
+                      - generic [ref=e77311]:
+                        - generic [ref=e77312]: Reminder
+                        - button [ref=e77313] [cursor=pointer]:
+                          - img [ref=e77314]: filter_list
+                    - columnheader "Assigned To" [ref=e77317]:
+                      - generic [ref=e77318]:
+                        - generic [ref=e77319]: Assigned To
+                        - button [ref=e77320] [cursor=pointer]:
+                          - img [ref=e77321]: filter_list
+                - rowgroup [ref=e77324]:
+                  - row "TSK- 3793 Lead created task 10 Module Specific Task Category Srikanth Akkala June 21, 2026 Low Open - Sandip Mahato" [ref=e77325]:
+                    - cell [ref=e77326]:
+                      - generic [ref=e77327]:
+                        - generic [ref=e77330] [cursor=pointer]:
+                          - checkbox [ref=e77331]
+                          - generic:
+                            - img
+                        - button [ref=e77333] [cursor=pointer]:
+                          - img [ref=e77334]: more_vert
+                    - cell "TSK- 3793" [ref=e77337]:
+                      - generic [ref=e77338]: TSK- 3793
+                    - cell "Lead created task 10" [ref=e77339]:
+                      - generic [ref=e77340]: Lead created task 10
+                    - cell "Module Specific Task Category" [ref=e77341]:
+                      - generic [ref=e77342]: Module Specific Task Category
+                    - cell "Srikanth Akkala" [ref=e77343]:
+                      - generic [ref=e77346]: Srikanth Akkala
+                    - cell "June 21, 2026" [ref=e77347]:
+                      - generic [ref=e77348]: June 21, 2026
+                    - cell "Low" [ref=e77349]:
+                      - generic [ref=e77350]: Low
+                    - cell "Open" [ref=e77351]:
+                      - generic [ref=e77353]:
+                        - generic [ref=e77354]: Open
+                        - button [ref=e77355] [cursor=pointer]:
+                          - img [ref=e77356]: edit
+                    - cell "-" [ref=e77359]:
+                      - generic [ref=e77360]: "-"
+                    - cell "Sandip Mahato" [ref=e77361]:
+                      - generic [ref=e77363]:
+                        - generic [ref=e77364]: Sandip Mahato
+                        - button [ref=e77365] [cursor=pointer]:
+                          - img [ref=e77366]: edit
+                  - row "TASK - 4845 Java developer Module Specific Task Category Srikanth Akkala June 12, 2026 Low Assigned June 12, 2026 Srikanth Akkala" [ref=e77369]:
+                    - cell [ref=e77370]:
+                      - generic [ref=e77371]:
+                        - generic [ref=e77374] [cursor=pointer]:
+                          - checkbox [ref=e77375]
+                          - generic:
+                            - img
+                        - button [ref=e77377] [cursor=pointer]:
+                          - img [ref=e77378]: more_vert
+                    - cell "TASK - 4845" [ref=e77381]:
+                      - generic [ref=e77382]: TASK - 4845
+                    - cell "Java developer" [ref=e77383]:
+                      - generic [ref=e77384]: Java developer
+                    - cell "Module Specific Task Category" [ref=e77385]:
+                      - generic [ref=e77386]: Module Specific Task Category
+                    - cell "Srikanth Akkala" [ref=e77387]:
+                      - generic [ref=e77390]: Srikanth Akkala
+                    - cell "June 12, 2026" [ref=e77391]:
+                      - generic [ref=e77392]: June 12, 2026
+                    - cell "Low" [ref=e77393]:
+                      - generic [ref=e77394]: Low
+                    - cell "Assigned" [ref=e77395]:
+                      - generic [ref=e77397]:
+                        - generic [ref=e77398]: Assigned
+                        - button [ref=e77399] [cursor=pointer]:
+                          - img [ref=e77400]: edit
+                    - cell "June 12, 2026" [ref=e77403]:
+                      - generic [ref=e77404]: June 12, 2026
+                    - cell "Srikanth Akkala" [ref=e77405]:
+                      - generic [ref=e77407]:
+                        - generic [ref=e77408]: Srikanth Akkala
+                        - button [ref=e77409] [cursor=pointer]:
+                          - img [ref=e77410]: edit
+                  - row "TASK - 4844 Java developer Module Specific Task Category Srikanth Akkala June 12, 2026 Low In Progress June 12, 2026 Srikanth Akkala" [ref=e77413]:
+                    - cell [ref=e77414]:
+                      - generic [ref=e77415]:
+                        - generic [ref=e77418] [cursor=pointer]:
+                          - checkbox [ref=e77419]
+                          - generic:
+                            - img
+                        - button [ref=e77421] [cursor=pointer]:
+                          - img [ref=e77422]: more_vert
+                    - cell "TASK - 4844" [ref=e77425]:
+                      - generic [ref=e77426]: TASK - 4844
+                    - cell "Java developer" [ref=e77427]:
+                      - generic [ref=e77428]: Java developer
+                    - cell "Module Specific Task Category" [ref=e77429]:
+                      - generic [ref=e77430]: Module Specific Task Category
+                    - cell "Srikanth Akkala" [ref=e77431]:
+                      - generic [ref=e77434]: Srikanth Akkala
+                    - cell "June 12, 2026" [ref=e77435]:
+                      - generic [ref=e77436]: June 12, 2026
+                    - cell "Low" [ref=e77437]:
+                      - generic [ref=e77438]: Low
+                    - cell "In Progress" [ref=e77439]:
+                      - generic [ref=e77441]:
+                        - generic [ref=e77442]: In Progress
+                        - button [ref=e77443] [cursor=pointer]:
+                          - img [ref=e77444]: edit
+                    - cell "June 12, 2026" [ref=e77447]:
+                      - generic [ref=e77448]: June 12, 2026
+                    - cell "Srikanth Akkala" [ref=e77449]:
+                      - generic [ref=e77451]:
+                        - generic [ref=e77452]: Srikanth Akkala
+                        - button [ref=e77453] [cursor=pointer]:
+                          - img [ref=e77454]: edit
+                  - row "TSK- 3792 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77457]:
+                    - cell [ref=e77458]:
+                      - generic [ref=e77459]:
+                        - generic [ref=e77462] [cursor=pointer]:
+                          - checkbox [ref=e77463]
+                          - generic:
+                            - img
+                        - button [ref=e77465] [cursor=pointer]:
+                          - img [ref=e77466]: more_vert
+                    - cell "TSK- 3792" [ref=e77469]:
+                      - generic [ref=e77470]: TSK- 3792
+                    - cell "Assignments start 9" [ref=e77471]:
+                      - generic [ref=e77472]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77473]:
+                      - generic [ref=e77474]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77475]:
+                      - generic [ref=e77478]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77479]:
+                      - generic [ref=e77480]: June 15, 2026
+                    - cell "Medium" [ref=e77481]:
+                      - generic [ref=e77482]: Medium
+                    - cell "Open" [ref=e77483]:
+                      - generic [ref=e77485]:
+                        - generic [ref=e77486]: Open
+                        - button [ref=e77487] [cursor=pointer]:
+                          - img [ref=e77488]: edit
+                    - cell "-" [ref=e77491]:
+                      - generic [ref=e77492]: "-"
+                    - cell "Mohan Employee" [ref=e77493]:
+                      - generic [ref=e77495]:
+                        - generic [ref=e77496]: Mohan Employee
+                        - button [ref=e77497] [cursor=pointer]:
+                          - img [ref=e77498]: edit
+                  - row "TSK- 3791 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77501]:
+                    - cell [ref=e77502]:
+                      - generic [ref=e77503]:
+                        - generic [ref=e77506] [cursor=pointer]:
+                          - checkbox [ref=e77507]
+                          - generic:
+                            - img
+                        - button [ref=e77509] [cursor=pointer]:
+                          - img [ref=e77510]: more_vert
+                    - cell "TSK- 3791" [ref=e77513]:
+                      - generic [ref=e77514]: TSK- 3791
+                    - cell "Assignments start 9" [ref=e77515]:
+                      - generic [ref=e77516]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77517]:
+                      - generic [ref=e77518]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77519]:
+                      - generic [ref=e77522]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77523]:
+                      - generic [ref=e77524]: June 15, 2026
+                    - cell "Medium" [ref=e77525]:
+                      - generic [ref=e77526]: Medium
+                    - cell "Open" [ref=e77527]:
+                      - generic [ref=e77529]:
+                        - generic [ref=e77530]: Open
+                        - button [ref=e77531] [cursor=pointer]:
+                          - img [ref=e77532]: edit
+                    - cell "-" [ref=e77535]:
+                      - generic [ref=e77536]: "-"
+                    - cell "Mohan Employee" [ref=e77537]:
+                      - generic [ref=e77539]:
+                        - generic [ref=e77540]: Mohan Employee
+                        - button [ref=e77541] [cursor=pointer]:
+                          - img [ref=e77542]: edit
+                  - row "TSK- 3790 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77545]:
+                    - cell [ref=e77546]:
+                      - generic [ref=e77547]:
+                        - generic [ref=e77550] [cursor=pointer]:
+                          - checkbox [ref=e77551]
+                          - generic:
+                            - img
+                        - button [ref=e77553] [cursor=pointer]:
+                          - img [ref=e77554]: more_vert
+                    - cell "TSK- 3790" [ref=e77557]:
+                      - generic [ref=e77558]: TSK- 3790
+                    - cell "Assignments start 9" [ref=e77559]:
+                      - generic [ref=e77560]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77561]:
+                      - generic [ref=e77562]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77563]:
+                      - generic [ref=e77566]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77567]:
+                      - generic [ref=e77568]: June 15, 2026
+                    - cell "Medium" [ref=e77569]:
+                      - generic [ref=e77570]: Medium
+                    - cell "Open" [ref=e77571]:
+                      - generic [ref=e77573]:
+                        - generic [ref=e77574]: Open
+                        - button [ref=e77575] [cursor=pointer]:
+                          - img [ref=e77576]: edit
+                    - cell "-" [ref=e77579]:
+                      - generic [ref=e77580]: "-"
+                    - cell "Mohan Employee" [ref=e77581]:
+                      - generic [ref=e77583]:
+                        - generic [ref=e77584]: Mohan Employee
+                        - button [ref=e77585] [cursor=pointer]:
+                          - img [ref=e77586]: edit
+                  - row "TSK- 3789 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77589]:
+                    - cell [ref=e77590]:
+                      - generic [ref=e77591]:
+                        - generic [ref=e77594] [cursor=pointer]:
+                          - checkbox [ref=e77595]
+                          - generic:
+                            - img
+                        - button [ref=e77597] [cursor=pointer]:
+                          - img [ref=e77598]: more_vert
+                    - cell "TSK- 3789" [ref=e77601]:
+                      - generic [ref=e77602]: TSK- 3789
+                    - cell "Assignments start 9" [ref=e77603]:
+                      - generic [ref=e77604]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77605]:
+                      - generic [ref=e77606]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77607]:
+                      - generic [ref=e77610]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77611]:
+                      - generic [ref=e77612]: June 15, 2026
+                    - cell "Medium" [ref=e77613]:
+                      - generic [ref=e77614]: Medium
+                    - cell "Open" [ref=e77615]:
+                      - generic [ref=e77617]:
+                        - generic [ref=e77618]: Open
+                        - button [ref=e77619] [cursor=pointer]:
+                          - img [ref=e77620]: edit
+                    - cell "-" [ref=e77623]:
+                      - generic [ref=e77624]: "-"
+                    - cell "Mohan Employee" [ref=e77625]:
+                      - generic [ref=e77627]:
+                        - generic [ref=e77628]: Mohan Employee
+                        - button [ref=e77629] [cursor=pointer]:
+                          - img [ref=e77630]: edit
+                  - row "TSK- 3788 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77633]:
+                    - cell [ref=e77634]:
+                      - generic [ref=e77635]:
+                        - generic [ref=e77638] [cursor=pointer]:
+                          - checkbox [ref=e77639]
+                          - generic:
+                            - img
+                        - button [ref=e77641] [cursor=pointer]:
+                          - img [ref=e77642]: more_vert
+                    - cell "TSK- 3788" [ref=e77645]:
+                      - generic [ref=e77646]: TSK- 3788
+                    - cell "Assignments start 9" [ref=e77647]:
+                      - generic [ref=e77648]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77649]:
+                      - generic [ref=e77650]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77651]:
+                      - generic [ref=e77654]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77655]:
+                      - generic [ref=e77656]: June 15, 2026
+                    - cell "Medium" [ref=e77657]:
+                      - generic [ref=e77658]: Medium
+                    - cell "Open" [ref=e77659]:
+                      - generic [ref=e77661]:
+                        - generic [ref=e77662]: Open
+                        - button [ref=e77663] [cursor=pointer]:
+                          - img [ref=e77664]: edit
+                    - cell "-" [ref=e77667]:
+                      - generic [ref=e77668]: "-"
+                    - cell "Mohan Employee" [ref=e77669]:
+                      - generic [ref=e77671]:
+                        - generic [ref=e77672]: Mohan Employee
+                        - button [ref=e77673] [cursor=pointer]:
+                          - img [ref=e77674]: edit
+                  - row "TSK- 3787 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77677]:
+                    - cell [ref=e77678]:
+                      - generic [ref=e77679]:
+                        - generic [ref=e77682] [cursor=pointer]:
+                          - checkbox [ref=e77683]
+                          - generic:
+                            - img
+                        - button [ref=e77685] [cursor=pointer]:
+                          - img [ref=e77686]: more_vert
+                    - cell "TSK- 3787" [ref=e77689]:
+                      - generic [ref=e77690]: TSK- 3787
+                    - cell "Assignments start 9" [ref=e77691]:
+                      - generic [ref=e77692]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77693]:
+                      - generic [ref=e77694]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77695]:
+                      - generic [ref=e77698]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77699]:
+                      - generic [ref=e77700]: June 15, 2026
+                    - cell "Medium" [ref=e77701]:
+                      - generic [ref=e77702]: Medium
+                    - cell "Open" [ref=e77703]:
+                      - generic [ref=e77705]:
+                        - generic [ref=e77706]: Open
+                        - button [ref=e77707] [cursor=pointer]:
+                          - img [ref=e77708]: edit
+                    - cell "-" [ref=e77711]:
+                      - generic [ref=e77712]: "-"
+                    - cell "Mohan Employee" [ref=e77713]:
+                      - generic [ref=e77715]:
+                        - generic [ref=e77716]: Mohan Employee
+                        - button [ref=e77717] [cursor=pointer]:
+                          - img [ref=e77718]: edit
+                  - row "TSK- 3786 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77721]:
+                    - cell [ref=e77722]:
+                      - generic [ref=e77723]:
+                        - generic [ref=e77726] [cursor=pointer]:
+                          - checkbox [ref=e77727]
+                          - generic:
+                            - img
+                        - button [ref=e77729] [cursor=pointer]:
+                          - img [ref=e77730]: more_vert
+                    - cell "TSK- 3786" [ref=e77733]:
+                      - generic [ref=e77734]: TSK- 3786
+                    - cell "Assignments start 9" [ref=e77735]:
+                      - generic [ref=e77736]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77737]:
+                      - generic [ref=e77738]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77739]:
+                      - generic [ref=e77742]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77743]:
+                      - generic [ref=e77744]: June 15, 2026
+                    - cell "Medium" [ref=e77745]:
+                      - generic [ref=e77746]: Medium
+                    - cell "Open" [ref=e77747]:
+                      - generic [ref=e77749]:
+                        - generic [ref=e77750]: Open
+                        - button [ref=e77751] [cursor=pointer]:
+                          - img [ref=e77752]: edit
+                    - cell "-" [ref=e77755]:
+                      - generic [ref=e77756]: "-"
+                    - cell "Mohan Employee" [ref=e77757]:
+                      - generic [ref=e77759]:
+                        - generic [ref=e77760]: Mohan Employee
+                        - button [ref=e77761] [cursor=pointer]:
+                          - img [ref=e77762]: edit
+                  - row "TSK- 3785 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77765]:
+                    - cell [ref=e77766]:
+                      - generic [ref=e77767]:
+                        - generic [ref=e77770] [cursor=pointer]:
+                          - checkbox [ref=e77771]
+                          - generic:
+                            - img
+                        - button [ref=e77773] [cursor=pointer]:
+                          - img [ref=e77774]: more_vert
+                    - cell "TSK- 3785" [ref=e77777]:
+                      - generic [ref=e77778]: TSK- 3785
+                    - cell "Assignments start 9" [ref=e77779]:
+                      - generic [ref=e77780]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77781]:
+                      - generic [ref=e77782]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77783]:
+                      - generic [ref=e77786]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77787]:
+                      - generic [ref=e77788]: June 15, 2026
+                    - cell "Medium" [ref=e77789]:
+                      - generic [ref=e77790]: Medium
+                    - cell "Open" [ref=e77791]:
+                      - generic [ref=e77793]:
+                        - generic [ref=e77794]: Open
+                        - button [ref=e77795] [cursor=pointer]:
+                          - img [ref=e77796]: edit
+                    - cell "-" [ref=e77799]:
+                      - generic [ref=e77800]: "-"
+                    - cell "Mohan Employee" [ref=e77801]:
+                      - generic [ref=e77803]:
+                        - generic [ref=e77804]: Mohan Employee
+                        - button [ref=e77805] [cursor=pointer]:
+                          - img [ref=e77806]: edit
+                  - row "TSK- 3784 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - SANDIP MAHATO,Mohan Employee" [ref=e77809]:
+                    - cell [ref=e77810]:
+                      - generic [ref=e77811]:
+                        - generic [ref=e77814] [cursor=pointer]:
+                          - checkbox [ref=e77815]
+                          - generic:
+                            - img
+                        - button [ref=e77817] [cursor=pointer]:
+                          - img [ref=e77818]: more_vert
+                    - cell "TSK- 3784" [ref=e77821]:
+                      - generic [ref=e77822]: TSK- 3784
+                    - cell "Assignments start 9" [ref=e77823]:
+                      - generic [ref=e77824]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77825]:
+                      - generic [ref=e77826]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77827]:
+                      - generic [ref=e77830]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77831]:
+                      - generic [ref=e77832]: June 15, 2026
+                    - cell "Medium" [ref=e77833]:
+                      - generic [ref=e77834]: Medium
+                    - cell "Open" [ref=e77835]:
+                      - generic [ref=e77837]:
+                        - generic [ref=e77838]: Open
+                        - button [ref=e77839] [cursor=pointer]:
+                          - img [ref=e77840]: edit
+                    - cell "-" [ref=e77843]:
+                      - generic [ref=e77844]: "-"
+                    - cell "SANDIP MAHATO,Mohan Employee" [ref=e77845]:
+                      - generic [ref=e77847]:
+                        - generic [ref=e77848]: SANDIP MAHATO,Mohan Employee
+                        - button [ref=e77849] [cursor=pointer]:
+                          - img [ref=e77850]: edit
+                  - row "TSK- 3783 Assignments start 9 Module Specific Task Category Sandip Mahato June 15, 2026 Medium Open - Mohan Employee" [ref=e77853]:
+                    - cell [ref=e77854]:
+                      - generic [ref=e77855]:
+                        - generic [ref=e77858] [cursor=pointer]:
+                          - checkbox [ref=e77859]
+                          - generic:
+                            - img
+                        - button [ref=e77861] [cursor=pointer]:
+                          - img [ref=e77862]: more_vert
+                    - cell "TSK- 3783" [ref=e77865]:
+                      - generic [ref=e77866]: TSK- 3783
+                    - cell "Assignments start 9" [ref=e77867]:
+                      - generic [ref=e77868]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77869]:
+                      - generic [ref=e77870]: Module Specific Task Category
+                    - cell "Sandip Mahato" [ref=e77871]:
+                      - generic [ref=e77874]: Sandip Mahato
+                    - cell "June 15, 2026" [ref=e77875]:
+                      - generic [ref=e77876]: June 15, 2026
+                    - cell "Medium" [ref=e77877]:
+                      - generic [ref=e77878]: Medium
+                    - cell "Open" [ref=e77879]:
+                      - generic [ref=e77881]:
+                        - generic [ref=e77882]: Open
+                        - button [ref=e77883] [cursor=pointer]:
+                          - img [ref=e77884]: edit
+                    - cell "-" [ref=e77887]:
+                      - generic [ref=e77888]: "-"
+                    - cell "Mohan Employee" [ref=e77889]:
+                      - generic [ref=e77891]:
+                        - generic [ref=e77892]: Mohan Employee
+                        - button [ref=e77893] [cursor=pointer]:
+                          - img [ref=e77894]: edit
+                  - row "TSK- 3782 Assignments start 9 Module Specific Task Category Mohana Rao June 14, 2026 Medium Open - Mohan NewDev3,Mohan Employee" [ref=e77897]:
+                    - cell [ref=e77898]:
+                      - generic [ref=e77899]:
+                        - generic [ref=e77902] [cursor=pointer]:
+                          - checkbox [ref=e77903]
+                          - generic:
+                            - img
+                        - button [ref=e77905] [cursor=pointer]:
+                          - img [ref=e77906]: more_vert
+                    - cell "TSK- 3782" [ref=e77909]:
+                      - generic [ref=e77910]: TSK- 3782
+                    - cell "Assignments start 9" [ref=e77911]:
+                      - generic [ref=e77912]: Assignments start 9
+                    - cell "Module Specific Task Category" [ref=e77913]:
+                      - generic [ref=e77914]: Module Specific Task Category
+                    - cell "Mohana Rao" [ref=e77915]:
+                      - generic [ref=e77918]: Mohana Rao
+                    - cell "June 14, 2026" [ref=e77919]:
+                      - generic [ref=e77920]: June 14, 2026
+                    - cell "Medium" [ref=e77921]:
+                      - generic [ref=e77922]: Medium
+                    - cell "Open" [ref=e77923]:
+                      - generic [ref=e77925]:
+                        - generic [ref=e77926]: Open
+                        - button [ref=e77927] [cursor=pointer]:
+                          - img [ref=e77928]: edit
+                    - cell "-" [ref=e77931]:
+                      - generic [ref=e77932]: "-"
+                    - cell "Mohan NewDev3,Mohan Employee" [ref=e77933]:
+                      - generic [ref=e77935]:
+                        - generic [ref=e77936]: Mohan NewDev3,Mohan Employee
+                        - button [ref=e77937] [cursor=pointer]:
+                          - img [ref=e77938]: edit
+                  - row "TSK- 3781 New Employee 4 Module Specific Task Category Mohana Rao June 26, 2026 Low Open - Mohana Rao" [ref=e77941]:
+                    - cell [ref=e77942]:
+                      - generic [ref=e77943]:
+                        - generic [ref=e77946] [cursor=pointer]:
+                          - checkbox [ref=e77947]
+                          - generic:
+                            - img
+                        - button [ref=e77949] [cursor=pointer]:
+                          - img [ref=e77950]: more_vert
+                    - cell "TSK- 3781" [ref=e77953]:
+                      - generic [ref=e77954]: TSK- 3781
+                    - cell "New Employee 4" [ref=e77955]:
+                      - generic [ref=e77956]: New Employee 4
+                    - cell "Module Specific Task Category" [ref=e77957]:
+                      - generic [ref=e77958]: Module Specific Task Category
+                    - cell "Mohana Rao" [ref=e77959]:
+                      - generic [ref=e77962]: Mohana Rao
+                    - cell "June 26, 2026" [ref=e77963]:
+                      - generic [ref=e77964]: June 26, 2026
+                    - cell "Low" [ref=e77965]:
+                      - generic [ref=e77966]: Low
+                    - cell "Open" [ref=e77967]:
+                      - generic [ref=e77969]:
+                        - generic [ref=e77970]: Open
+                        - button [ref=e77971] [cursor=pointer]:
+                          - img [ref=e77972]: edit
+                    - cell "-" [ref=e77975]:
+                      - generic [ref=e77976]: "-"
+                    - cell "Mohana Rao" [ref=e77977]:
+                      - generic [ref=e77979]:
+                        - generic [ref=e77980]: Mohana Rao
+                        - button [ref=e77981] [cursor=pointer]:
+                          - img [ref=e77982]: edit
+              - generic [ref=e77237]:
+                - generic [ref=e77985]:
+                  - generic [ref=e77986]: Go To
+                  - spinbutton [ref=e77988]
+                - combobox [ref=e77239]:
+                  - option "15" [selected]
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e77989]: Showing 1 to 15 of 17
+                - list [ref=e77241]:
+                  - listitem [ref=e77242]:
+                    - generic: «
+                  - listitem [ref=e77244]:
+                    - generic: ‹
+                  - listitem [ref=e77990]:
+                    - generic [ref=e77991] [cursor=pointer]: "1"
+                  - listitem [ref=e77992]:
+                    - generic [ref=e77993] [cursor=pointer]: "2"
+                  - listitem [ref=e77246]:
+                    - generic [ref=e77247] [cursor=pointer]: ›
+                  - listitem [ref=e77248]:
+                    - generic [ref=e77249] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

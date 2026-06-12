@@ -1,0 +1,938 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e71660]:
+          - navigation [ref=e71666]:
+            - generic [ref=e71669]:
+              - link "Home" [ref=e71670] [cursor=pointer]:
+                - /url: "#/dashboard"
+                - generic [ref=e71672]: Home
+              - link "Dashboards" [ref=e71673] [cursor=pointer]:
+                - /url: "#/dashboard/dashboards_list"
+                - generic [ref=e71675]: Dashboards
+          - generic [ref=e71679]:
+            - generic [ref=e71680]:
+              - heading "Good Evening, Pavan Kumar DEV" [level=1] [ref=e71681]
+              - generic [ref=e71682]:
+                - button [ref=e71683]:
+                  - img [ref=e71684]: keep_off
+                - button "Add Widget" [ref=e71687]:
+                  - generic [ref=e71689]:
+                    - img [ref=e71690]: add
+                    - generic [ref=e71691]: Add Widget
+            - generic [ref=e71694]:
+              - generic [ref=e71695]:
+                - generic [ref=e71700]:
+                  - text: Timesheets
+                  - generic [ref=e71701]:
+                    - paragraph [ref=e71814]: No pending timesheets. Check back when you have hours to log.
+                    - generic [ref=e71702]:
+                      - generic [ref=e71704]:
+                        - generic [ref=e71705]:
+                          - generic [ref=e71706]: Expenses
+                          - button "Add" [ref=e71707]:
+                            - generic [ref=e71708]: Add
+                        - generic [ref=e71816]: Oh!! You don't have any Expenses
+                      - generic [ref=e71712]:
+                        - generic [ref=e71713]:
+                          - generic [ref=e71714]: Leaves
+                          - button "Apply" [ref=e71715]:
+                            - generic [ref=e71716]: Apply
+                        - text: Oh!! You don't have any Pending Leaves
+                - generic [ref=e71821]:
+                  - generic [ref=e71822]:
+                    - generic [ref=e71823]:
+                      - generic [ref=e71824]: Attendance
+                      - generic [ref=e71825]: Thu 11, Jun 2026
+                    - generic [ref=e71827]:
+                      - generic [ref=e71829]: 07:50:34
+                      - generic [ref=e71830]: AM
+                  - generic [ref=e71831]:
+                    - generic [ref=e71834]:
+                      - generic [ref=e71835]: pavans Team Shifts
+                      - heading "08:30 AM - 03:30 PM" [level=3] [ref=e71836]:
+                        - generic [ref=e71837]: 08:30 AM
+                        - text: "-"
+                        - generic [ref=e71838]: 03:30 PM
+                    - generic [ref=e71840]:
+                      - generic [ref=e71842]:
+                        - text: Check-In
+                        - generic [ref=e71843]: "--:--"
+                      - generic [ref=e71845]:
+                        - text: Check-Out
+                        - generic [ref=e71846]: "--:--"
+                      - generic [ref=e71848]:
+                        - text: Work Hours
+                        - generic [ref=e71849]: "--:--"
+                      - generic [ref=e71851]:
+                        - text: Break Hours
+                        - generic [ref=e71852]: "--:--"
+                    - generic [ref=e71854]:
+                      - radiogroup [ref=e71856]:
+                        - generic [ref=e71858]:
+                          - radio "WFO" [checked] [ref=e71861] [cursor=pointer]
+                          - generic [ref=e71865]: WFO
+                        - generic [ref=e71867]:
+                          - radio "WFH" [ref=e71870] [cursor=pointer]
+                          - generic [ref=e71873]: WFH
+                      - generic [ref=e71874]:
+                        - generic [ref=e71876]:
+                          - button "Check In" [ref=e71877]:
+                            - generic [ref=e71878]: Check In
+                          - button [ref=e71881]:
+                            - img [ref=e71882]: more_vert
+                        - button "Break" [ref=e71886]:
+                          - generic [ref=e71887]: Break
+                      - textbox "Add a comment for check in" [ref=e71895]
+                - generic [ref=e71900]:
+                  - generic [ref=e71901]:
+                    - generic [ref=e71902]: Quick Add
+                    - button "Add / Edit" [ref=e71903]:
+                      - generic [ref=e71904]: Add / Edit
+                  - generic [ref=e71907]:
+                    - link " Add Accounts" [ref=e71909] [cursor=pointer]:
+                      - /url: "#/accounts/create"
+                      - generic [ref=e71911]: 
+                      - generic [ref=e71912]: Add Accounts
+                    - link " Add Opportunities" [ref=e71914] [cursor=pointer]:
+                      - /url: "#/opportunities/create"
+                      - generic [ref=e71916]: 
+                      - generic [ref=e71917]: Add Opportunities
+                    - link " Add Campaigns" [ref=e71919] [cursor=pointer]:
+                      - /url: "#/promotions/campaigns"
+                      - generic [ref=e71921]: 
+                      - generic [ref=e71922]: Add Campaigns
+                    - link " Add Contacts" [ref=e71924] [cursor=pointer]:
+                      - /url: "#/accounts/contacts/create"
+                      - generic [ref=e71926]: 
+                      - generic [ref=e71927]: Add Contacts
+                    - link " Add Leads" [ref=e71929] [cursor=pointer]:
+                      - /url: "#/leads/create"
+                      - generic [ref=e71931]: 
+                      - generic [ref=e71932]: Add Leads
+                    - link " Add Jobs" [ref=e71934] [cursor=pointer]:
+                      - /url: "#/jobs/create"
+                      - generic [ref=e71936]: 
+                      - generic [ref=e71937]: Add Jobs
+                - generic [ref=e71723]:
+                  - generic [ref=e71724]:
+                    - generic [ref=e71725]: Team Recent Activities
+                    - generic [ref=e71727] [cursor=pointer]: View More
+                  - generic [ref=e71730]:
+                    - generic [ref=e71939] [cursor=pointer]:
+                      - generic [ref=e71940]:
+                        - generic [ref=e71941]: P
+                        - generic [ref=e71942]: K
+                      - generic [ref=e71943]:
+                        - link "Account View aws16 - Client,Vendor" [ref=e71946]:
+                          - /url: "#/accounts/2718/view"
+                        - generic [ref=e71947]:
+                          - generic [ref=e71948]: by Pavan Kumar DEV
+                          - generic [ref=e71949]: 7:46 AM
+                    - generic [ref=e71951] [cursor=pointer]:
+                      - generic [ref=e71952]:
+                        - generic [ref=e71953]: P
+                        - generic [ref=e71954]: K
+                      - generic [ref=e71955]:
+                        - 'link "Job View : OOJ - 86071 - Java developer - aws16 - Dallas, TX - Texas" [ref=e71958]':
+                          - /url: "#/jobs/9554/view"
+                        - generic [ref=e71959]:
+                          - generic [ref=e71960]: by Pavan Kumar DEV
+                          - generic [ref=e71961]: 7:28 AM
+                    - generic [ref=e71963] [cursor=pointer]:
+                      - generic [ref=e71964]:
+                        - generic [ref=e71965]: P
+                        - generic [ref=e71966]: K
+                      - generic [ref=e71967]:
+                        - 'link "Job View : OOJ - 86071 - Java developer - aws16 - Dallas, TX - Texas" [ref=e71970]':
+                          - /url: "#/jobs/9554/view"
+                        - generic [ref=e71971]:
+                          - generic [ref=e71972]: by Pavan Kumar DEV
+                          - generic [ref=e71973]: 7:15 AM
+                    - generic [ref=e71975] [cursor=pointer]:
+                      - generic [ref=e71976]:
+                        - generic [ref=e71977]: P
+                        - generic [ref=e71978]: K
+                      - generic [ref=e71979]:
+                        - 'link "Job View : OOJ - 86071 - Java developer - aws16 - Dallas, TX - Texas" [ref=e71982]':
+                          - /url: "#/jobs/9554/view"
+                        - generic [ref=e71983]:
+                          - generic [ref=e71984]: by Pavan Kumar DEV
+                          - generic [ref=e71985]: 7:01 AM
+                    - generic [ref=e71987] [cursor=pointer]:
+                      - generic [ref=e71988]:
+                        - generic [ref=e71989]: S
+                        - generic [ref=e71990]: A
+                      - generic [ref=e71991]:
+                        - link "Created lead Rahul" [ref=e71994]:
+                          - /url: "#/leads/1699/view"
+                          - text: Created lead
+                          - strong [ref=e71995]:
+                            - text: Rahul
+                            - strong
+                        - generic [ref=e71996]:
+                          - generic [ref=e71997]: by Srikanth Akkala
+                          - generic [ref=e71998]: 6:54 AM
+                - generic [ref=e71738]:
+                  - generic [ref=e71739]:
+                    - generic [ref=e71740]: Today, 11 June
+                    - button "Schedule" [ref=e71741]:
+                      - generic [ref=e71743]:
+                        - generic [ref=e71744]: Schedule
+                        - img [ref=e71745]: arrow_drop_down
+                  - generic [ref=e71748]:
+                    - button "Previous" [ref=e71750] [cursor=pointer]:
+                      - img [ref=e71751]: arrow_back
+                    - generic [ref=e71754]:
+                      - button "07 Sun" [ref=e71756]:
+                        - generic [ref=e71758]:
+                          - generic [ref=e71759]: "07"
+                          - text: Sun
+                      - button "08 Mon" [ref=e71763]:
+                        - generic [ref=e71765]:
+                          - generic [ref=e71766]: "08"
+                          - text: Mon
+                      - button "09 Tue" [ref=e71770]:
+                        - generic [ref=e71772]:
+                          - generic [ref=e71773]: "09"
+                          - text: Tue
+                      - button "10 Wed" [ref=e71777]:
+                        - generic [ref=e71779]:
+                          - generic [ref=e71780]: "10"
+                          - text: Wed
+                      - button "11 Thu" [ref=e71784]:
+                        - generic [ref=e71786]:
+                          - generic [ref=e71787]: "11"
+                          - text: Thu
+                      - button "12 Fri" [ref=e71791]:
+                        - generic [ref=e71793]:
+                          - generic [ref=e71794]: "12"
+                          - text: Fri
+                      - button "13 Sat" [ref=e71798]:
+                        - generic [ref=e71800]:
+                          - generic [ref=e71801]: "13"
+                          - text: Sat
+                    - button "Next" [ref=e71805] [cursor=pointer]:
+                      - img [ref=e71806]: arrow_forward
+                  - generic [ref=e71999]:
+                    - generic [ref=e72001]:
+                      - generic [ref=e72004]: 
+                      - generic [ref=e72005]:
+                        - generic [ref=e72006]:
+                          - text: Work Anniversary ( Anniversary Srikanth m )
+                          - generic [ref=e72007] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72008]: Srikanth m
+                    - generic [ref=e72010]:
+                      - generic [ref=e72013]: 
+                      - generic [ref=e72014]:
+                        - generic [ref=e72015]:
+                          - text: Work Anniversary ( Anniversary Sai m )
+                          - generic [ref=e72016] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72017]: Sai m
+                    - generic [ref=e72019]:
+                      - generic [ref=e72022]: 
+                      - generic [ref=e72023]:
+                        - generic [ref=e72024]:
+                          - text: Work Anniversary ( Anniversary Mohanarao DP )
+                          - generic [ref=e72025] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72026]: Mohanarao DP
+                    - generic [ref=e72028]:
+                      - generic [ref=e72031]: 
+                      - generic [ref=e72032]:
+                        - generic [ref=e72033]:
+                          - text: Work Anniversary ( Anniversary Jhnrabyn Buiyan )
+                          - generic [ref=e72034] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72035]: Jhnrabyn Buiyan
+                    - generic [ref=e72037]:
+                      - generic [ref=e72040]: 
+                      - generic [ref=e72041]:
+                        - generic [ref=e72042]:
+                          - text: Work Anniversary ( Anniversary Nayana Matta )
+                          - generic [ref=e72043] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72044]: Nayana Matta
+                    - generic [ref=e72046]:
+                      - generic [ref=e72049]: 
+                      - generic [ref=e72050]:
+                        - generic [ref=e72051]:
+                          - text: Work Anniversary ( Anniversary Java Beechu )
+                          - generic [ref=e72052] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72053]: Java Beechu
+                    - generic [ref=e72055]:
+                      - generic [ref=e72058]: 
+                      - generic [ref=e72059]:
+                        - generic [ref=e72060]:
+                          - text: Work Anniversary ( Anniversary Srikanth m )
+                          - generic [ref=e72061] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72062]: Srikanth m
+                    - generic [ref=e72064]:
+                      - generic [ref=e72067]: 
+                      - generic [ref=e72068]:
+                        - generic [ref=e72069]:
+                          - text: Work Anniversary ( Anniversary Akkala Akkala )
+                          - generic [ref=e72070] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72071]: Akkala Akkala
+                    - generic [ref=e72073]:
+                      - generic [ref=e72076]: 
+                      - generic [ref=e72077]:
+                        - generic [ref=e72078]:
+                          - text: Work Anniversary ( Anniversary Akkala Akkala )
+                          - generic [ref=e72079] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72080]: Akkala Akkala
+                    - generic [ref=e72082]:
+                      - generic [ref=e72085]: 
+                      - generic [ref=e72086]:
+                        - generic [ref=e72087]:
+                          - text: Work Anniversary ( Anniversary Akkala Akkala )
+                          - generic [ref=e72088] [cursor=pointer]: Say Congratulations!
+                        - generic [ref=e72089]: Akkala Akkala
+                - generic [ref=e72094]:
+                  - generic [ref=e72095]:
+                    - generic [ref=e72097]: 
+                    - generic [ref=e72098]: Upcoming Holidays
+                  - generic [ref=e72101]:
+                    - img "No Records" [ref=e72103]
+                    - generic [ref=e72104]: "\"Work forever? We don't think so... 🗓️\""
+                - generic [ref=e72109]:
+                  - generic [ref=e72110]:
+                    - generic [ref=e72111]:
+                      - generic [ref=e72113]: 
+                      - generic [ref=e72114]: Opportunities Analysis
+                    - generic [ref=e72117]:
+                      - textbox "Select Period" [ref=e72118]: June 01, 2026 - June 30, 2026
+                      - generic:
+                        - generic:
+                          - generic:
+                            - list:
+                              - listitem:
+                                - button "Quarterly"
+                              - listitem:
+                                - button "This Month"
+                              - listitem:
+                                - button "Last Month"
+                              - listitem:
+                                - button "Custom Range"
+                      - generic [ref=e72120]: 
+                  - generic [ref=e72121]:
+                    - generic [ref=e72122]:
+                      - generic [ref=e72123]:
+                        - generic [ref=e72124]: Amount in
+                        - generic [ref=e72125]:
+                          - generic [ref=e72126]: $
+                          - generic [ref=e72127]: 4,655
+                      - generic [ref=e72129]:
+                        - generic [ref=e72130]:
+                          - generic [ref=e72131]: trending_down
+                          - generic [ref=e72132]: "-93 %"
+                        - generic [ref=e72133]: Decreased
+                    - img [ref=e72136]:
+                      - generic "Chart context menu" [ref=e72146] [cursor=pointer]
+                      - generic [ref=e72152]:
+                        - generic [ref=e72154] [cursor=pointer]: Won
+                        - generic [ref=e72157] [cursor=pointer]: Lost
+                      - generic [ref=e72160]: Month
+                      - generic [ref=e72161]:
+                        - generic [ref=e72162]: "0"
+                        - generic [ref=e72163]: "1"
+                        - generic [ref=e72164]: "2"
+                        - generic [ref=e72165]: "3"
+                - generic [ref=e72170]:
+                  - generic [ref=e72171]:
+                    - generic [ref=e72173]: 
+                    - generic [ref=e72174]: Employees on Leave
+                  - generic [ref=e72177]:
+                    - img "No Records" [ref=e72179]
+                    - generic [ref=e72180]: "\"100% attendance - We're on fire! 🔥\""
+                - generic [ref=e72185]:
+                  - generic [ref=e72186]:
+                    - generic [ref=e72188]: 
+                    - generic [ref=e72189]: Hires & Attritions
+                  - img [ref=e72192]:
+                    - generic [ref=e72199]: Values
+                    - generic "Chart context menu" [ref=e72212] [cursor=pointer]
+                    - generic [ref=e72216]:
+                      - generic [ref=e72217]: Jan-26
+                      - generic [ref=e72218]: Feb-26
+                      - generic [ref=e72219]: Mar-26
+                      - generic [ref=e72220]: Apr-26
+                      - generic [ref=e72221]: May-26
+                    - generic [ref=e72222]:
+                      - generic [ref=e72223]: "-10"
+                      - generic [ref=e72224]: "0"
+                      - generic [ref=e72225]: "10"
+                      - generic [ref=e72226]: "20"
+                      - generic [ref=e72227]: "30"
+                      - generic [ref=e72228]: "40"
+                - generic [ref=e72233]:
+                  - generic [ref=e72234]:
+                    - generic [ref=e72235]:
+                      - generic [ref=e72237]: 
+                      - generic [ref=e72238]: Employees Headcount
+                    - button "Department" [ref=e72240]:
+                      - generic [ref=e72242]:
+                        - generic [ref=e72243]: Department
+                        - img [ref=e72244]: arrow_drop_down
+                  - img [ref=e72249]:
+                    - generic "Chart context menu" [ref=e72272] [cursor=pointer]
+                    - generic [ref=e72275] [cursor=pointer]:
+                      - generic [ref=e72284]:
+                        - generic [ref=e72285]: Blank - 1083
+                        - text: Blank - 1083
+                      - generic [ref=e72287]:
+                        - generic [ref=e72288]: Blank - 36
+                        - text: Blank - 36
+                      - generic [ref=e72290]:
+                        - generic [ref=e72291]: Hr - 30
+                        - text: Hr - 30
+                      - generic [ref=e72293]:
+                        - generic [ref=e72294]: Technical - 73
+                        - text: Technical - 73
+                      - generic [ref=e72296]:
+                        - generic [ref=e72297]: Marketing - 36
+                        - text: Marketing - 36
+                      - generic [ref=e72299]:
+                        - generic [ref=e72300]: Development - 29
+                        - text: Development - 29
+                      - generic [ref=e72302]:
+                        - generic [ref=e72303]: Engineering - 16
+                        - text: Engineering - 16
+                - generic [ref=e72309]:
+                  - generic [ref=e72310]:
+                    - generic [ref=e72311]:
+                      - generic [ref=e72313]: 
+                      - generic [ref=e72314]:
+                        - button "MY APPROVALS" [ref=e72315]:
+                          - generic [ref=e72316]: MY APPROVALS
+                        - button "MY REQUESTS" [ref=e72319]:
+                          - generic [ref=e72320]: MY REQUESTS
+                    - link "View More" [ref=e72323] [cursor=pointer]:
+                      - /url: "#/pending_approvals/employees"
+                      - generic [ref=e72324]: View More
+                  - generic [ref=e72328]:
+                    - generic [ref=e72329]:
+                      - generic [ref=e72330] [cursor=pointer]:
+                        - img [ref=e72332]
+                        - generic [ref=e72333]:
+                          - generic [ref=e72334]: $90.00 expenses raised
+                          - generic [ref=e72335]:
+                            - generic [ref=e72336]: by Mohan Employee
+                            - generic [ref=e72337]: May 14, 2026 15:58:56 PM
+                        - generic [ref=e72338]:
+                          - button [ref=e72339]:
+                            - img [ref=e72340]: check
+                          - button [ref=e72343]:
+                            - img [ref=e72344]: close
+                      - generic [ref=e72347] [cursor=pointer]:
+                        - img [ref=e72349]
+                        - generic [ref=e72350]:
+                          - generic [ref=e72351]: $3,000.00 expenses raised
+                          - generic [ref=e72352]:
+                            - generic [ref=e72353]: by Mohana Rao
+                            - generic [ref=e72354]: May 14, 2026 15:57:37 PM
+                        - generic [ref=e72355]:
+                          - button [ref=e72356]:
+                            - img [ref=e72357]: check
+                          - button [ref=e72360]:
+                            - img [ref=e72361]: close
+                    - generic [ref=e72364]:
+                      - generic [ref=e72365] [cursor=pointer]:
+                        - img [ref=e72367]
+                        - generic [ref=e72368]:
+                          - generic [ref=e72369]: 24.00 hours timesheet created for AMT- 2486
+                          - generic [ref=e72370]:
+                            - generic [ref=e72371]: by Mohan Employee
+                            - generic [ref=e72372]: May 14, 2026 12:37:47 PM
+                        - generic [ref=e72373]:
+                          - button [ref=e72374]:
+                            - img [ref=e72375]: check
+                          - button [ref=e72378]:
+                            - img [ref=e72379]: close
+                      - generic [ref=e72382] [cursor=pointer]:
+                        - img [ref=e72384]
+                        - generic [ref=e72385]:
+                          - generic [ref=e72386]: 10.00 hours timesheet created for AMT- 1203
+                          - generic [ref=e72387]:
+                            - generic [ref=e72388]: by Mohana Rao
+                            - generic [ref=e72389]: May 12, 2026 10:37:03 AM
+                        - generic [ref=e72390]:
+                          - button [ref=e72391]:
+                            - img [ref=e72392]: check
+                          - button [ref=e72395]:
+                            - img [ref=e72396]: close
+                    - generic [ref=e72399]:
+                      - generic [ref=e72400] [cursor=pointer]:
+                        - img [ref=e72402]
+                        - generic [ref=e72403]:
+                          - generic [ref=e72404]: invoice Approval (INV-7455)
+                          - generic [ref=e72405]:
+                            - generic [ref=e72406]: by Accenture
+                            - generic [ref=e72407]: October 27, 2022 17:03:21 PM
+                        - generic [ref=e72408]:
+                          - button [ref=e72409]:
+                            - img [ref=e72410]: check
+                          - button [ref=e72413]:
+                            - img [ref=e72414]: close
+                      - generic [ref=e72417] [cursor=pointer]:
+                        - generic [ref=e72419]: T
+                        - generic [ref=e72420]:
+                          - generic [ref=e72421]: invoice Approval (INV-7453)
+                          - generic [ref=e72422]:
+                            - generic [ref=e72423]: by Tata Consultancy Services
+                            - generic [ref=e72424]: October 26, 2022 14:16:47 PM
+                        - generic [ref=e72425]:
+                          - button [ref=e72426]:
+                            - img [ref=e72427]: check
+                          - button [ref=e72430]:
+                            - img [ref=e72431]: close
+                    - generic [ref=e72435] [cursor=pointer]:
+                      - img [ref=e72437]
+                      - generic [ref=e72438]:
+                        - generic [ref=e72439]: Leave Request (March 9, 2022 to March 9, 2022)
+                        - generic [ref=e72440]:
+                          - generic [ref=e72441]: by Rameshhh rameshhh
+                          - generic [ref=e72442]: March 3, 2022 17:11:03 PM
+                      - generic [ref=e72443]:
+                        - button [ref=e72444]:
+                          - img [ref=e72445]: check
+                        - button [ref=e72448]:
+                          - img [ref=e72449]: close
+                    - generic [ref=e72452]:
+                      - generic [ref=e72453] [cursor=pointer]:
+                        - img [ref=e72455]
+                        - generic [ref=e72456]:
+                          - generic [ref=e72457]: bills Approval (BILL-177)
+                          - generic [ref=e72458]:
+                            - generic [ref=e72459]: by CenturyLink
+                            - generic [ref=e72460]: August 22, 2025 14:19:57 PM
+                        - generic [ref=e72461]:
+                          - button [ref=e72462]:
+                            - img [ref=e72463]: check
+                          - button [ref=e72466]:
+                            - img [ref=e72467]: close
+                      - generic [ref=e72470] [cursor=pointer]:
+                        - img [ref=e72472]
+                        - generic [ref=e72473]:
+                          - generic [ref=e72474]: bills Approval (BILL-174)
+                          - generic [ref=e72475]:
+                            - generic [ref=e72476]: by CenturyLink
+                            - generic [ref=e72477]: August 22, 2025 14:01:21 PM
+                        - generic [ref=e72478]:
+                          - button [ref=e72479]:
+                            - img [ref=e72480]: check
+                          - button [ref=e72483]:
+                            - img [ref=e72484]: close
+                - generic [ref=e72491]:
+                  - generic [ref=e72492]:
+                    - generic [ref=e72493]:
+                      - generic [ref=e72495]: 
+                      - generic [ref=e72496]: Leads To Account Conversion
+                    - generic [ref=e72498]:
+                      - textbox "Select Period" [ref=e72499]: June 01, 2026 - June 30, 2026
+                      - generic:
+                        - generic:
+                          - generic:
+                            - list:
+                              - listitem:
+                                - button "Today"
+                              - listitem:
+                                - button "Yesterday"
+                              - listitem:
+                                - button "Last 7 Days"
+                              - listitem:
+                                - button "This Week"
+                              - listitem:
+                                - button "Last Week"
+                              - listitem:
+                                - button "Last 30 Days"
+                              - listitem:
+                                - button "Current Month"
+                              - listitem:
+                                - button "Last Month"
+                              - listitem:
+                                - button "Custom Range"
+                      - generic [ref=e72501]: 
+                  - generic [ref=e72502]:
+                    - generic [ref=e72503]:
+                      - generic [ref=e72504]:
+                        - generic [ref=e72505]: Leads
+                        - generic [ref=e72506] [cursor=pointer]: "13"
+                      - generic [ref=e72507]:
+                        - generic [ref=e72508]: Accounts
+                        - generic [ref=e72509] [cursor=pointer]: "0"
+                      - generic [ref=e72510]:
+                        - generic [ref=e72511]: Decreased by
+                        - generic [ref=e72512]:
+                          - generic [ref=e72513]: trending_down
+                          - generic [ref=e72514]: "-100 %"
+                    - img [ref=e72517]:
+                      - generic "Chart context menu" [ref=e72526] [cursor=pointer]
+                      - generic [ref=e72529]: 0%
+              - generic [ref=e72536]:
+                - generic [ref=e72537]:
+                  - generic [ref=e72539]: 
+                  - generic [ref=e72540]: Active Job Summary
+                - table [ref=e72542]:
+                  - rowgroup [ref=e72543]:
+                    - row "Job ID Job Title Pipeline Candidates Prospective Review Identified Total Submissions End Client Submissions Interviews Joined" [ref=e72544]:
+                      - columnheader "Job ID" [ref=e72545]
+                      - columnheader "Job Title" [ref=e72546]
+                      - columnheader "Pipeline Candidates" [ref=e72547]
+                      - columnheader "Prospective" [ref=e72548]
+                      - columnheader "Review" [ref=e72549]
+                      - columnheader "Identified" [ref=e72550]
+                      - columnheader "Total Submissions" [ref=e72551]
+                      - columnheader "End Client Submissions" [ref=e72552]
+                      - columnheader "Interviews" [ref=e72553]
+                      - columnheader "Joined" [ref=e72554]
+                  - rowgroup [ref=e72555]:
+                    - row "OOJ - 86071 Java developer 0 0 0 0 0 0 0 0" [ref=e72556]:
+                      - cell "OOJ - 86071" [ref=e72557]:
+                        - link "OOJ - 86071" [ref=e72558] [cursor=pointer]:
+                          - /url: "#/jobs/9554/view"
+                      - cell "Java developer" [ref=e72559]:
+                        - link "Java developer" [ref=e72560] [cursor=pointer]:
+                          - /url: "#/jobs/9554/view"
+                      - cell "0" [ref=e72561]
+                      - cell "0" [ref=e72562]
+                      - cell "0" [ref=e72563]
+                      - cell "0" [ref=e72564]
+                      - cell "0" [ref=e72565]
+                      - cell "0" [ref=e72566]
+                      - cell "0" [ref=e72567]
+                      - cell "0" [ref=e72568]
+                    - row "OOJ - 86070 Php Developer 1 2 1 0 1 0 0 0 0" [ref=e72569]:
+                      - cell "OOJ - 86070" [ref=e72570]:
+                        - link "OOJ - 86070" [ref=e72571] [cursor=pointer]:
+                          - /url: "#/jobs/9553/view"
+                      - cell "Php Developer 1" [ref=e72572]:
+                        - link "Php Developer 1" [ref=e72573] [cursor=pointer]:
+                          - /url: "#/jobs/9553/view"
+                      - cell "2" [ref=e72574]:
+                        - link "2" [ref=e72575] [cursor=pointer]:
+                          - /url: "#/jobs/9553/pipeline_details"
+                      - cell "1" [ref=e72576]:
+                        - link "1" [ref=e72577] [cursor=pointer]:
+                          - /url: "#/jobs/9553/pipeline_details/list/496?page=1&view_id=submission_view&stage=496"
+                      - cell "0" [ref=e72578]
+                      - cell "1" [ref=e72579]:
+                        - link "1" [ref=e72580] [cursor=pointer]:
+                          - /url: "#/jobs/9553/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                      - cell "0" [ref=e72581]
+                      - cell "0" [ref=e72582]
+                      - cell "0" [ref=e72583]
+                      - cell "0" [ref=e72584]
+                    - row "OOJ - 86069 Php Developer 0 0 0 0 0 0 0 0" [ref=e72585]:
+                      - cell "OOJ - 86069" [ref=e72586]:
+                        - link "OOJ - 86069" [ref=e72587] [cursor=pointer]:
+                          - /url: "#/jobs/9552/view"
+                      - cell "Php Developer" [ref=e72588]:
+                        - link "Php Developer" [ref=e72589] [cursor=pointer]:
+                          - /url: "#/jobs/9552/view"
+                      - cell "0" [ref=e72590]
+                      - cell "0" [ref=e72591]
+                      - cell "0" [ref=e72592]
+                      - cell "0" [ref=e72593]
+                      - cell "0" [ref=e72594]
+                      - cell "0" [ref=e72595]
+                      - cell "0" [ref=e72596]
+                      - cell "0" [ref=e72597]
+                    - row "OOJ - 86068 Java developer 0 0 0 0 1 0 0 0" [ref=e72598]:
+                      - cell "OOJ - 86068" [ref=e72599]:
+                        - link "OOJ - 86068" [ref=e72600] [cursor=pointer]:
+                          - /url: "#/jobs/9551/view"
+                      - cell "Java developer" [ref=e72601]:
+                        - link "Java developer" [ref=e72602] [cursor=pointer]:
+                          - /url: "#/jobs/9551/view"
+                      - cell "0" [ref=e72603]
+                      - cell "0" [ref=e72604]
+                      - cell "0" [ref=e72605]
+                      - cell "0" [ref=e72606]
+                      - cell "1" [ref=e72607]:
+                        - link "1" [ref=e72608] [cursor=pointer]:
+                          - /url: "#/jobs/9551/submission_details"
+                      - cell "0" [ref=e72609]
+                      - cell "0" [ref=e72610]
+                      - cell "0" [ref=e72611]
+                    - row "OOJ - 86067 Java developer 0 0 0 0 2 0 0 0" [ref=e72612]:
+                      - cell "OOJ - 86067" [ref=e72613]:
+                        - link "OOJ - 86067" [ref=e72614] [cursor=pointer]:
+                          - /url: "#/jobs/9550/view"
+                      - cell "Java developer" [ref=e72615]:
+                        - link "Java developer" [ref=e72616] [cursor=pointer]:
+                          - /url: "#/jobs/9550/view"
+                      - cell "0" [ref=e72617]
+                      - cell "0" [ref=e72618]
+                      - cell "0" [ref=e72619]
+                      - cell "0" [ref=e72620]
+                      - cell "2" [ref=e72621]:
+                        - link "2" [ref=e72622] [cursor=pointer]:
+                          - /url: "#/jobs/9550/submission_details"
+                      - cell "0" [ref=e72623]
+                      - cell "0" [ref=e72624]
+                      - cell "0" [ref=e72625]
+                    - row "OOJ - 86066 Senior Java Developer 0 0 0 0 0 0 0 0" [ref=e72626]:
+                      - cell "OOJ - 86066" [ref=e72627]:
+                        - link "OOJ - 86066" [ref=e72628] [cursor=pointer]:
+                          - /url: "#/jobs/9549/view"
+                      - cell "Senior Java Developer" [ref=e72629]:
+                        - link "Senior Java Developer" [ref=e72630] [cursor=pointer]:
+                          - /url: "#/jobs/9549/view"
+                      - cell "0" [ref=e72631]
+                      - cell "0" [ref=e72632]
+                      - cell "0" [ref=e72633]
+                      - cell "0" [ref=e72634]
+                      - cell "0" [ref=e72635]
+                      - cell "0" [ref=e72636]
+                      - cell "0" [ref=e72637]
+                      - cell "0" [ref=e72638]
+                    - row "OOJ - 86065 Senior Java Developer 2 0 0 2 0 0 0 0" [ref=e72639]:
+                      - cell "OOJ - 86065" [ref=e72640]:
+                        - link "OOJ - 86065" [ref=e72641] [cursor=pointer]:
+                          - /url: "#/jobs/9548/view"
+                      - cell "Senior Java Developer" [ref=e72642]:
+                        - link "Senior Java Developer" [ref=e72643] [cursor=pointer]:
+                          - /url: "#/jobs/9548/view"
+                      - cell "2" [ref=e72644]:
+                        - link "2" [ref=e72645] [cursor=pointer]:
+                          - /url: "#/jobs/9548/pipeline_details"
+                      - cell "0" [ref=e72646]
+                      - cell "0" [ref=e72647]
+                      - cell "2" [ref=e72648]:
+                        - link "2" [ref=e72649] [cursor=pointer]:
+                          - /url: "#/jobs/9548/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                      - cell "0" [ref=e72650]
+                      - cell "0" [ref=e72651]
+                      - cell "0" [ref=e72652]
+                      - cell "0" [ref=e72653]
+                    - row "OOJ - 86064 Senior Java Developer 0 0 0 0 0 0 0 0" [ref=e72654]:
+                      - cell "OOJ - 86064" [ref=e72655]:
+                        - link "OOJ - 86064" [ref=e72656] [cursor=pointer]:
+                          - /url: "#/jobs/9547/view"
+                      - cell "Senior Java Developer" [ref=e72657]:
+                        - link "Senior Java Developer" [ref=e72658] [cursor=pointer]:
+                          - /url: "#/jobs/9547/view"
+                      - cell "0" [ref=e72659]
+                      - cell "0" [ref=e72660]
+                      - cell "0" [ref=e72661]
+                      - cell "0" [ref=e72662]
+                      - cell "0" [ref=e72663]
+                      - cell "0" [ref=e72664]
+                      - cell "0" [ref=e72665]
+                      - cell "0" [ref=e72666]
+                    - row "OOJ - 86063 Java developer 0 0 0 0 0 0 0 0" [ref=e72667]:
+                      - cell "OOJ - 86063" [ref=e72668]:
+                        - link "OOJ - 86063" [ref=e72669] [cursor=pointer]:
+                          - /url: "#/jobs/9546/view"
+                      - cell "Java developer" [ref=e72670]:
+                        - link "Java developer" [ref=e72671] [cursor=pointer]:
+                          - /url: "#/jobs/9546/view"
+                      - cell "0" [ref=e72672]
+                      - cell "0" [ref=e72673]
+                      - cell "0" [ref=e72674]
+                      - cell "0" [ref=e72675]
+                      - cell "0" [ref=e72676]
+                      - cell "0" [ref=e72677]
+                      - cell "0" [ref=e72678]
+                      - cell "0" [ref=e72679]
+                    - row "OOJ - 86062 Java developer 0 0 0 0 0 0 0 0" [ref=e72680]:
+                      - cell "OOJ - 86062" [ref=e72681]:
+                        - link "OOJ - 86062" [ref=e72682] [cursor=pointer]:
+                          - /url: "#/jobs/9545/view"
+                      - cell "Java developer" [ref=e72683]:
+                        - link "Java developer" [ref=e72684] [cursor=pointer]:
+                          - /url: "#/jobs/9545/view"
+                      - cell "0" [ref=e72685]
+                      - cell "0" [ref=e72686]
+                      - cell "0" [ref=e72687]
+                      - cell "0" [ref=e72688]
+                      - cell "0" [ref=e72689]
+                      - cell "0" [ref=e72690]
+                      - cell "0" [ref=e72691]
+                      - cell "0" [ref=e72692]
+                    - row "OOJ - 86054 Angular Developer 0 0 0 0 0 0 0 0" [ref=e72693]:
+                      - cell "OOJ - 86054" [ref=e72694]:
+                        - link "OOJ - 86054" [ref=e72695] [cursor=pointer]:
+                          - /url: "#/jobs/9537/view"
+                      - cell "Angular Developer" [ref=e72696]:
+                        - link "Angular Developer" [ref=e72697] [cursor=pointer]:
+                          - /url: "#/jobs/9537/view"
+                      - cell "0" [ref=e72698]
+                      - cell "0" [ref=e72699]
+                      - cell "0" [ref=e72700]
+                      - cell "0" [ref=e72701]
+                      - cell "0" [ref=e72702]
+                      - cell "0" [ref=e72703]
+                      - cell "0" [ref=e72704]
+                      - cell "0" [ref=e72705]
+                    - row "OOJ - 86052 AS400 Developer 0 0 0 0 0 0 0 0" [ref=e72706]:
+                      - cell "OOJ - 86052" [ref=e72707]:
+                        - link "OOJ - 86052" [ref=e72708] [cursor=pointer]:
+                          - /url: "#/jobs/9535/view"
+                      - cell "AS400 Developer" [ref=e72709]:
+                        - link "AS400 Developer" [ref=e72710] [cursor=pointer]:
+                          - /url: "#/jobs/9535/view"
+                      - cell "0" [ref=e72711]
+                      - cell "0" [ref=e72712]
+                      - cell "0" [ref=e72713]
+                      - cell "0" [ref=e72714]
+                      - cell "0" [ref=e72715]
+                      - cell "0" [ref=e72716]
+                      - cell "0" [ref=e72717]
+                      - cell "0" [ref=e72718]
+                    - row "OOJ - 86032 Salesforce Developer 3 0 0 3 2 0 0 0" [ref=e72719]:
+                      - cell "OOJ - 86032" [ref=e72720]:
+                        - link "OOJ - 86032" [ref=e72721] [cursor=pointer]:
+                          - /url: "#/jobs/9515/view"
+                      - cell "Salesforce Developer" [ref=e72722]:
+                        - link "Salesforce Developer" [ref=e72723] [cursor=pointer]:
+                          - /url: "#/jobs/9515/view"
+                      - cell "3" [ref=e72724]:
+                        - link "3" [ref=e72725] [cursor=pointer]:
+                          - /url: "#/jobs/9515/pipeline_details"
+                      - cell "0" [ref=e72726]
+                      - cell "0" [ref=e72727]
+                      - cell "3" [ref=e72728]:
+                        - link "3" [ref=e72729] [cursor=pointer]:
+                          - /url: "#/jobs/9515/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                      - cell "2" [ref=e72730]:
+                        - link "2" [ref=e72731] [cursor=pointer]:
+                          - /url: "#/jobs/9515/submission_details"
+                      - cell "0" [ref=e72732]
+                      - cell "0" [ref=e72733]
+                      - cell "0" [ref=e72734]
+                    - row "OOJ - 86031 Automation/Performance Te... 0 0 0 0 2 0 1 0" [ref=e72735]:
+                      - cell "OOJ - 86031" [ref=e72736]:
+                        - link "OOJ - 86031" [ref=e72737] [cursor=pointer]:
+                          - /url: "#/jobs/9514/view"
+                      - cell "Automation/Performance Te..." [ref=e72738]:
+                        - link "Automation/Performance Te..." [ref=e72739] [cursor=pointer]:
+                          - /url: "#/jobs/9514/view"
+                      - cell "0" [ref=e72740]
+                      - cell "0" [ref=e72741]
+                      - cell "0" [ref=e72742]
+                      - cell "0" [ref=e72743]
+                      - cell "2" [ref=e72744]:
+                        - link "2" [ref=e72745] [cursor=pointer]:
+                          - /url: "#/jobs/9514/submission_details"
+                      - cell "0" [ref=e72746]
+                      - cell "1" [ref=e72747]:
+                        - link "1" [ref=e72748] [cursor=pointer]:
+                          - /url: "#/jobs/9514/interviews"
+                      - cell "0" [ref=e72749]
+                - generic [ref=e72751]:
+                  - generic [ref=e72752]: Showing 1 to 14 of 14
+                  - list [ref=e72754]:
+                    - listitem [ref=e72755]:
+                      - generic: «
+                    - listitem [ref=e72756]:
+                      - generic: ‹
+                    - listitem [ref=e72757]:
+                      - generic [ref=e72758] [cursor=pointer]: "1"
+                    - listitem [ref=e72759]:
+                      - generic: ›
+                    - listitem [ref=e72760]:
+                      - generic: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

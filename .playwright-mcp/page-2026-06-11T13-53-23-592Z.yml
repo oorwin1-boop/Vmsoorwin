@@ -1,0 +1,617 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e167]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e172] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e10501]:
+          - generic [ref=e10503]:
+            - generic [ref=e10505]: Jobs
+            - generic [ref=e10506]:
+              - link "Home" [ref=e10510] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e10511]:
+                - text: /
+                - generic [ref=e10513]: Jobs
+          - generic [ref=e10515]:
+            - generic [ref=e10516]:
+              - generic [ref=e10517]:
+                - button [ref=e10519]:
+                  - img [ref=e10520]: keyboard_backspace
+                - generic [ref=e10523]:
+                  - button "Publish" [ref=e10524]:
+                    - generic [ref=e10526]:
+                      - generic [ref=e10527]: Publish
+                      - img [ref=e10528]: keyboard_arrow_down
+                  - button "Candidate" [ref=e10531]:
+                    - generic [ref=e10533]:
+                      - generic [ref=e10534]: Candidate
+                      - img [ref=e10535]: keyboard_arrow_down
+                  - button "Pipeline" [ref=e10538]:
+                    - generic [ref=e10540]:
+                      - generic [ref=e10541]: Pipeline
+                      - img [ref=e10542]: keyboard_arrow_down
+              - generic [ref=e10545]:
+                - generic [ref=e10547]:
+                  - generic [ref=e10548]:
+                    - generic [ref=e10549]:
+                      - generic [ref=e10550]:
+                        - generic [ref=e10551]: OOJ - 86071
+                        - generic [ref=e10552]: Active (0 day ago)
+                      - generic [ref=e10553]:
+                        - generic [ref=e10554]: Java developer
+                        - generic [ref=e10557]: Dallas Texas, USA
+                    - separator [ref=e10558]
+                    - generic [ref=e10559]:
+                      - generic [ref=e10560]:
+                        - generic [ref=e10561]: Positions
+                        - generic [ref=e10562]:
+                          - generic [ref=e10563]: 1 Open
+                          - generic [ref=e10564]: 0 Closed
+                      - generic [ref=e10565]:
+                        - generic [ref=e10566]: "Source Campaigns : No"
+                        - generic [ref=e10567]:
+                          - generic [ref=e10568]: "CN :"
+                          - generic [ref=e10569]: "IC : 0"
+                  - generic [ref=e10571]:
+                    - button [ref=e10572]:
+                      - img [ref=e10573]: share
+                    - button [ref=e10576]:
+                      - img [ref=e10577]: more_vert
+                - generic [ref=e10580]:
+                  - generic [ref=e10582]:
+                    - generic [ref=e10583]:
+                      - generic [ref=e10584]: Pipeline
+                      - paragraph [ref=e10585]: "0"
+                    - button [ref=e10586] [cursor=pointer]:
+                      - img [ref=e10587]: account_tree
+                  - generic [ref=e10591]:
+                    - generic [ref=e10592]:
+                      - generic [ref=e10593]: Submitted
+                      - paragraph [ref=e10594]: "0"
+                    - button [ref=e10595] [cursor=pointer]:
+                      - img [ref=e10596]: export_notes
+                  - generic [ref=e10600]:
+                    - generic [ref=e10601]:
+                      - generic [ref=e10602]: End client
+                      - paragraph [ref=e10603]: "0"
+                    - button [ref=e10604] [cursor=pointer]:
+                      - img [ref=e10605]: assignment_ind
+                  - generic [ref=e10609]:
+                    - generic [ref=e10610]:
+                      - generic [ref=e10611]: Interviews
+                      - paragraph [ref=e10612]: "0"
+                    - button [ref=e10613] [cursor=pointer]:
+                      - img [ref=e10614]: adaptive_audio_mic
+                  - generic [ref=e10618]:
+                    - generic [ref=e10619]:
+                      - generic [ref=e10620]: Confirmations
+                      - paragraph [ref=e10621]: "0"
+                    - button [ref=e10622] [cursor=pointer]:
+                      - img [ref=e10623]: verified
+                  - generic [ref=e10627]:
+                    - generic [ref=e10628]:
+                      - generic [ref=e10629]: Rejected
+                      - paragraph [ref=e10630]: "0"
+                    - button [ref=e10631] [cursor=pointer]:
+                      - img [ref=e10632]: block
+                  - generic [ref=e10636]:
+                    - generic [ref=e10637]:
+                      - generic [ref=e10638]: Onboarded
+                      - paragraph [ref=e10639]: "0"
+                    - button [ref=e10640] [cursor=pointer]:
+                      - img [ref=e10641]: id_card
+                - navigation [ref=e10644]:
+                  - button [disabled]
+                  - generic [ref=e10647]:
+                    - link "Overview" [ref=e10648] [cursor=pointer]:
+                      - /url: "#/jobs/9554/overview"
+                      - generic [ref=e10650]: Overview
+                    - link "Info" [active] [ref=e10651] [cursor=pointer]:
+                      - /url: "#/jobs/9554/view"
+                      - generic [ref=e10653]: Info
+                    - link "Considered Candidates (0)" [ref=e10654] [cursor=pointer]:
+                      - /url: "#/jobs/9554/consideration_details?page=1"
+                      - generic [ref=e10656]:
+                        - text: Considered Candidates
+                        - generic [ref=e10657]: (0)
+                    - link "Pipeline (0)" [ref=e10658] [cursor=pointer]:
+                      - /url: "#/jobs/9554/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                      - generic [ref=e10660]:
+                        - text: Pipeline
+                        - generic [ref=e10661]: (0)
+                    - link "Submissions (0)" [ref=e10662] [cursor=pointer]:
+                      - /url: "#/jobs/9554/submission_details"
+                      - generic [ref=e10664]:
+                        - text: Submissions
+                        - generic [ref=e10665]: (0)
+                    - link "Interviews (0)" [ref=e10666] [cursor=pointer]:
+                      - /url: "#/jobs/9554/interviews"
+                      - generic [ref=e10668]:
+                        - text: Interviews
+                        - generic [ref=e10669]: (0)
+                    - link "Communications" [ref=e10670] [cursor=pointer]:
+                      - /url: "#/jobs/9554/communications/mail_track"
+                      - generic [ref=e10672]: Communications
+                    - link "Recruiter Actions" [ref=e10673] [cursor=pointer]:
+                      - /url: "#/jobs/9554/settings"
+                      - generic [ref=e10675]: Recruiter Actions
+                    - link "Assessments (0)" [ref=e10676] [cursor=pointer]:
+                      - /url: "#/jobs/9554/assessments?type=tagged"
+                      - generic [ref=e10678]:
+                        - text: Assessments
+                        - generic [ref=e10679]: (0)
+                  - button [ref=e10680] [cursor=pointer]
+                - generic [ref=e11531]:
+                  - generic [ref=e11532]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - checkbox "Do not publish" [disabled]
+                          - generic:
+                            - img
+                        - generic: Do not publish
+                  - generic [ref=e11535]:
+                    - generic [ref=e11536]:
+                      - button "Job Details" [expanded] [ref=e11537] [cursor=pointer]:
+                        - generic [ref=e11540]:
+                          - generic [ref=e11541]: Job Details
+                          - button [ref=e11543]
+                      - region "Job Details" [ref=e11547]:
+                        - generic [ref=e11550]:
+                          - generic [ref=e11551]:
+                            - generic [ref=e11553]: Primary Skills
+                            - generic [ref=e11554]: "-"
+                          - generic [ref=e11555]:
+                            - generic [ref=e11557]: Job Title
+                            - generic [ref=e11560]: Java developer
+                          - generic [ref=e11561]:
+                            - generic [ref=e11563]: OOR Location
+                            - generic [ref=e11566]: "-"
+                          - generic [ref=e11567]:
+                            - generic [ref=e11569]: Range the Field
+                            - generic [ref=e11570]: 2-4
+                          - generic [ref=e11571]:
+                            - generic [ref=e11573]: Job Benefits
+                            - generic [ref=e11576]: "-"
+                          - generic [ref=e11577]:
+                            - generic [ref=e11579]: Education Required
+                            - generic [ref=e11582]: High School / 10th
+                          - generic [ref=e11583]:
+                            - generic [ref=e11585]: Status
+                            - generic [ref=e11588]: Active
+                          - generic [ref=e11589]:
+                            - generic [ref=e11591]: Job ID
+                            - generic [ref=e11594]: OOJ - 86071
+                          - generic [ref=e11595]:
+                            - generic [ref=e11597]: Customer Type
+                            - generic [ref=e11600]: Prime Vendor
+                          - generic [ref=e11601]:
+                            - generic [ref=e11603]: Customer
+                            - generic [ref=e11606]:
+                              - text: aws16
+                              - link "visibility" [ref=e11607] [cursor=pointer]:
+                                - /url: "#/accounts/2718/view"
+                                - generic [ref=e11608]: visibility
+                          - generic [ref=e11609]:
+                            - generic [ref=e11611]: SHOW Client And Vendor Information
+                            - generic [ref=e11614]: "No"
+                          - generic [ref=e11617]: NPA Qualification
+                          - generic [ref=e11618]:
+                            - generic [ref=e11620]: Industry
+                            - generic [ref=e11623]: "-"
+                          - generic [ref=e11624]:
+                            - generic [ref=e11626]: Company
+                            - generic [ref=e11629]: oorwinui
+                          - generic [ref=e11630]:
+                            - generic [ref=e11632]: Client Job ID
+                            - generic [ref=e11635]: "-"
+                          - generic [ref=e11636]:
+                            - generic [ref=e11638]: City
+                            - generic [ref=e11641]: Dallas, TX
+                          - generic [ref=e11642]:
+                            - generic [ref=e11644]: Secondary Skills
+                            - generic [ref=e11645]: "-"
+                          - generic [ref=e11646]:
+                            - generic [ref=e11648]: Country
+                            - generic [ref=e11651]: USA
+                          - generic [ref=e11652]:
+                            - generic [ref=e11654]: State
+                            - generic [ref=e11657]: Texas
+                          - generic [ref=e11660]: Work Experience
+                          - generic [ref=e11661]:
+                            - generic [ref=e11663]: No. Positions
+                            - generic [ref=e11666]: "1"
+                          - generic [ref=e11667]:
+                            - generic [ref=e11669]: Target Date
+                            - generic [ref=e11672]: "-"
+                          - generic [ref=e11673]:
+                            - generic [ref=e11675]: Remote Status
+                            - generic [ref=e11678]: OnSite
+                          - generic [ref=e11679]:
+                            - generic [ref=e11681]: Priority
+                            - generic [ref=e11684]: adda
+                          - generic [ref=e11685]:
+                            - generic [ref=e11687]: Client Job ID
+                            - generic [ref=e11690]: "-"
+                          - generic [ref=e11691]:
+                            - generic [ref=e11693]: Languages Required
+                            - generic [ref=e11696]: "-"
+                          - generic [ref=e11697]:
+                            - generic [ref=e11699]: Qualifications
+                            - generic [ref=e11702]: "-"
+                          - generic [ref=e11703]:
+                            - generic [ref=e11705]: Office Internal
+                            - generic [ref=e11708]: "-"
+                          - generic [ref=e11709]:
+                            - generic [ref=e11711]: Show Salary on Job Board
+                            - generic [ref=e11714]: "-"
+                          - generic [ref=e11715]:
+                            - generic [ref=e11717]: Source Campaigns
+                            - generic [ref=e11720]: "No"
+                          - generic [ref=e11721]:
+                            - generic [ref=e11723]: Follow Up Campaigns
+                            - generic [ref=e11726]: Enable
+                          - generic [ref=e11727]:
+                            - generic [ref=e11729]: Project Name
+                            - generic [ref=e11732]: "-"
+                          - generic [ref=e11733]:
+                            - generic [ref=e11735]: Project ID
+                            - generic [ref=e11738]: "-"
+                          - generic [ref=e11739]:
+                            - generic [ref=e11741]: Occupational Category
+                            - generic [ref=e11744]: "-"
+                          - generic [ref=e11745]:
+                            - generic [ref=e11747]: Gender
+                            - generic [ref=e11750]: Male
+                          - generic [ref=e11751]:
+                            - generic [ref=e11753]: Are you willing to Relocate ?
+                            - generic [ref=e11756]: "-"
+                          - generic [ref=e11757]:
+                            - generic [ref=e11759]: Department
+                            - generic [ref=e11762]: "-"
+                          - generic [ref=e11763]:
+                            - generic [ref=e11765]: SOW Name
+                            - generic [ref=e11768]: "-"
+                          - generic [ref=e11769]:
+                            - generic [ref=e11771]: Date of Allocation
+                            - generic [ref=e11774]: "-"
+                          - generic [ref=e11775]:
+                            - generic [ref=e11777]: Band - Grade - New
+                            - generic [ref=e11780]: "-"
+                          - generic [ref=e11781]:
+                            - generic [ref=e11783]: Date of Position Hold -Closed
+                            - generic [ref=e11786]: "-"
+                          - generic [ref=e11787]:
+                            - generic [ref=e11789]: Format Date
+                            - generic [ref=e11792]: "-"
+                          - generic [ref=e11793]:
+                            - generic [ref=e11795]: Hiring Category
+                            - generic [ref=e11798]: Enabling Functions
+                          - generic [ref=e11799]:
+                            - generic [ref=e11801]: Show Salary on Job Portal
+                            - generic [ref=e11804]: "-"
+                          - generic [ref=e11805]:
+                            - generic [ref=e11807]: VMS Job ID
+                            - generic [ref=e11810]: "-"
+                          - generic [ref=e11811]:
+                            - generic [ref=e11813]: Job ID VMS
+                            - generic [ref=e11816]: "-"
+                          - generic [ref=e11817]:
+                            - generic [ref=e11819]: Category
+                            - generic [ref=e11822]: "-"
+                          - generic [ref=e11823]:
+                            - generic [ref=e11825]: new test sr
+                            - generic [ref=e11828]: "-"
+                          - generic [ref=e11829]:
+                            - generic [ref=e11831]: Q3 Qualified Jobs
+                            - generic [ref=e11834]: "-"
+                          - generic [ref=e11835]:
+                            - generic [ref=e11837]: q4 jobs test
+                            - generic [ref=e11840]: "-"
+                          - generic [ref=e11841]:
+                            - generic [ref=e11843]: q5 jobs test
+                            - generic [ref=e11846]: "-"
+                          - generic [ref=e11847]:
+                            - generic [ref=e11849]: Q4 Qualified Jobs
+                            - generic [ref=e11852]: "-"
+                          - generic [ref=e11853]:
+                            - generic [ref=e11855]: max input
+                            - generic [ref=e11858]: "-"
+                          - generic [ref=e11859]:
+                            - generic [ref=e11861]: Length Field
+                            - generic [ref=e11864]: "-"
+                          - generic [ref=e11865]:
+                            - generic [ref=e11867]: Text 256
+                            - generic [ref=e11870]: "-"
+                          - generic [ref=e11871]:
+                            - generic [ref=e11873]: Test 256 1
+                            - generic [ref=e11876]: "-"
+                          - generic [ref=e11877]:
+                            - generic [ref=e11879]: Test 256 6
+                            - generic [ref=e11882]: "-"
+                          - generic [ref=e11883]:
+                            - generic [ref=e11885]: test bill
+                            - generic [ref=e11888]: "-"
+                          - generic [ref=e11889]:
+                            - generic [ref=e11891]: tech Skill
+                            - generic [ref=e11894]: "-"
+                    - generic [ref=e11896]:
+                      - button "Text Field Validation" [expanded] [ref=e11897] [cursor=pointer]:
+                        - generic [ref=e11900]:
+                          - generic [ref=e11901]: Text Field Validation
+                          - button [ref=e11903]
+                      - region "Text Field Validation" [ref=e11907]:
+                        - generic [ref=e11911]:
+                          - generic [ref=e11913]: Test 256 5
+                          - generic [ref=e11916]: "-"
+                    - generic [ref=e11918]:
+                      - button "Pay & Billing Details" [expanded] [ref=e11919] [cursor=pointer]:
+                        - generic [ref=e11922]:
+                          - generic [ref=e11923]: Pay & Billing Details
+                          - button [ref=e11925]
+                      - region "Pay & Billing Details" [ref=e11929]:
+                        - generic [ref=e11931]:
+                          - button "Add" [ref=e11933]:
+                            - generic [ref=e11934]: Add
+                          - generic [ref=e11937]:
+                            - generic [ref=e11938]:
+                              - generic [ref=e11940]: Job Type
+                              - generic [ref=e11943]: Contractual
+                            - generic [ref=e11944]:
+                              - generic [ref=e11946]: Pay Type
+                              - generic [ref=e11949]: Hourly
+                            - generic [ref=e11950]:
+                              - generic [ref=e11952]: Bill Rate
+                              - generic [ref=e11953]: 3-4
+                            - generic [ref=e11954]:
+                              - generic [ref=e11956]: Pay Rate
+                              - generic [ref=e11957]: 2-6
+                            - generic [ref=e11958]:
+                              - generic [ref=e11960]: Mark as Preffered
+                              - generic [ref=e11963]: "Yes"
+                            - generic [ref=e11964]:
+                              - generic [ref=e11966]: Client Contract Period
+                              - generic [ref=e11969]: "2"
+                            - generic [ref=e11970]:
+                              - generic [ref=e11972]: One Time Placement Bill Type
+                              - generic [ref=e11975]: "-"
+                            - generic [ref=e11976]:
+                              - generic [ref=e11978]: One Time Placement Bill Value
+                              - generic [ref=e11981]: "-"
+                            - generic [ref=e11982]:
+                              - generic [ref=e11984]: RPO Bill Type
+                              - generic [ref=e11987]: "-"
+                            - generic [ref=e11988]:
+                              - generic [ref=e11990]: RPO Bill Value
+                              - generic [ref=e11993]: "-"
+                            - generic [ref=e11994]:
+                              - generic [ref=e11996]: Client Pay Type
+                              - generic [ref=e11999]: Monthly
+                            - generic [ref=e12000]:
+                              - generic [ref=e12002]: Placement Type
+                              - generic [ref=e12005]: Contractual
+                            - generic [ref=e12006]:
+                              - generic [ref=e12008]: Contract Period
+                              - generic [ref=e12011]: "-"
+                            - table [ref=e12016]:
+                              - rowgroup [ref=e12017]:
+                                - row "Job Type Pay Type Bill Rate Pay Rate Client Contract Period One Time Placement Bill Type One Time Placement Bill Value RPO Bill Type RPO Bill Value Client Pay Type Placement Type Contract Period" [ref=e12018]:
+                                  - columnheader [ref=e12019]
+                                  - columnheader "Job Type" [ref=e12020]
+                                  - columnheader "Pay Type" [ref=e12021]
+                                  - columnheader "Bill Rate" [ref=e12022]
+                                  - columnheader "Pay Rate" [ref=e12023]
+                                  - columnheader "Client Contract Period" [ref=e12024]
+                                  - columnheader "One Time Placement Bill Type" [ref=e12025]
+                                  - columnheader "One Time Placement Bill Value" [ref=e12026]
+                                  - columnheader "RPO Bill Type" [ref=e12027]
+                                  - columnheader "RPO Bill Value" [ref=e12028]
+                                  - columnheader "Client Pay Type" [ref=e12029]
+                                  - columnheader "Placement Type" [ref=e12030]
+                                  - columnheader "Contract Period" [ref=e12031]
+                              - rowgroup [ref=e12032]:
+                                - row "No data found" [ref=e12033]:
+                                  - cell "No data found" [ref=e12034]
+                    - generic [ref=e12035]:
+                      - button "Recruitment Team" [expanded] [ref=e12036] [cursor=pointer]:
+                        - generic [ref=e12039]:
+                          - generic [ref=e12040]: Recruitment Team
+                          - button [ref=e12042]
+                      - region "Recruitment Team" [ref=e12046]:
+                        - generic [ref=e12049]:
+                          - generic [ref=e12050]:
+                            - generic [ref=e12052]: Recruiters
+                            - generic [ref=e12055]: "-"
+                          - generic [ref=e12056]:
+                            - generic [ref=e12058]: Additional Recruiters
+                            - generic [ref=e12061]: Abdul HRMS
+                          - generic [ref=e12062]:
+                            - generic [ref=e12064]: Account Manager
+                            - generic [ref=e12067]: Srikanth Akkala
+                          - generic [ref=e12068]:
+                            - generic [ref=e12070]: Client Contact Name
+                            - generic [ref=e12073]: "-"
+                          - generic [ref=e12074]:
+                            - generic [ref=e12076]: Maximum Submissions
+                            - generic [ref=e12079]: "-"
+                          - generic [ref=e12080]:
+                            - generic [ref=e12082]: Recruitment Manager
+                            - generic [ref=e12085]: "-"
+                          - generic [ref=e12086]:
+                            - generic [ref=e12088]: Sourcer
+                            - generic [ref=e12091]: "-"
+                          - generic [ref=e12092]:
+                            - generic [ref=e12094]: Interview Panel
+                            - generic [ref=e12097]: "-"
+                          - generic [ref=e12098]:
+                            - generic [ref=e12100]: Test 256 2
+                            - generic [ref=e12103]: "-"
+                    - generic [ref=e12105]:
+                      - button "Recruiter Instructions" [expanded] [ref=e12106] [cursor=pointer]:
+                        - generic [ref=e12109]:
+                          - generic [ref=e12110]: Recruiter Instructions
+                          - button [ref=e12112]
+                      - region "Recruiter Instructions" [ref=e12116]:
+                        - generic [ref=e12119]:
+                          - generic [ref=e12120]:
+                            - generic [ref=e12122]: Recruiter Instructions
+                            - generic [ref=e12123]: "-"
+                          - generic [ref=e12124]:
+                            - generic [ref=e12126]: Test 256 3
+                            - generic [ref=e12129]: "-"
+                    - generic [ref=e12131]:
+                      - button "Job Description" [expanded] [ref=e12132] [cursor=pointer]:
+                        - generic [ref=e12135]:
+                          - generic [ref=e12136]: Job Description
+                          - button [ref=e12138]
+                      - region "Job Description" [ref=e12142]:
+                        - generic [ref=e12145]:
+                          - generic [ref=e12146]:
+                            - generic [ref=e12148]: Job Description
+                            - generic [ref=e12149]: Test
+                          - generic [ref=e12150]:
+                            - generic [ref=e12152]: Job Domain
+                            - generic [ref=e12155]: "-"
+                          - generic [ref=e12156]:
+                            - generic [ref=e12158]: Test 256 4
+                            - generic [ref=e12161]: "-"
+                  - generic [ref=e12164]:
+                    - heading "Attachments" [level=1] [ref=e12166]
+                    - generic [ref=e12167]:
+                      - button [ref=e12171]:
+                        - img [ref=e12172]: add
+                        - generic [ref=e12173]: Attach File
+                      - generic [ref=e12176]:
+                        - img [ref=e12177]: cloud_upload
+                        - paragraph [ref=e12178]: No files attached yet
+                  - generic [ref=e12180]:
+                    - heading "Tags" [level=1] [ref=e12182]
+                    - generic [ref=e12186]:
+                      - generic [ref=e12188]: Add Tags
+                      - generic "Tag selection" [ref=e12190]:
+                        - textbox "Add Tags" [ref=e12191]
+              - generic [ref=e10717]:
+                - button "Clone" [ref=e10718]:
+                  - generic [ref=e10719]: Clone
+                - button "Edit" [ref=e10722]:
+                  - generic [ref=e10723]: Edit
+                - button "Previous" [ref=e10726]:
+                  - generic [ref=e10727]: Previous
+            - generic [ref=e10733]:
+              - generic [ref=e10735] [cursor=pointer]: 
+              - generic [ref=e10737] [cursor=pointer]: 
+              - generic [ref=e10739] [cursor=pointer]: 
+              - separator [ref=e10740]
+              - generic [ref=e10741] [cursor=pointer]:
+                - generic [ref=e11384]:
+                  - generic: "679"
+                - generic [ref=e10742]: 
+              - generic [ref=e10744] [cursor=pointer]: 
+              - generic [ref=e10746] [cursor=pointer]: 
+              - generic [ref=e10748] [cursor=pointer]: 
+              - generic [ref=e10750] [cursor=pointer]: 
+              - generic [ref=e10752] [cursor=pointer]: 
+              - generic [ref=e10754] [cursor=pointer]: 
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e582]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

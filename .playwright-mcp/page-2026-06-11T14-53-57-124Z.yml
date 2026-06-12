@@ -1,0 +1,315 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e120]:
+                  - generic [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]:
+                      - img [ref=e124]
+                    - generic [ref=e125]: General
+                  - generic [ref=e83277]:
+                    - generic [ref=e83278]: General
+                    - generic [ref=e83279]:
+                      - link "Accounts" [ref=e83280] [cursor=pointer]:
+                        - /url: "#/accounts"
+                        - text:  Accounts
+                      - link "" [ref=e83281] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83282]: 
+                    - generic [ref=e83283]:
+                      - link "Contacts" [ref=e83284] [cursor=pointer]:
+                        - /url: "#/accounts/contacts"
+                        - text:  Contacts
+                      - link "" [ref=e83285] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83286]: 
+                    - generic [ref=e83287]:
+                      - link "Digital Templates" [ref=e83288] [cursor=pointer]:
+                        - /url: "#/onboarding/document_submissions"
+                        - text: 
+                        - generic [ref=e83289]: Digital Templates
+                      - link "" [ref=e83290] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83291]: 
+                    - generic [ref=e83292]:
+                      - link "Assessments" [ref=e83293] [cursor=pointer]:
+                        - /url: "#/assessments/available"
+                        - text:  Assessments
+                      - link "" [ref=e83294] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83295]: 
+                    - generic [ref=e83296]:
+                      - link "Targets" [ref=e83297] [cursor=pointer]:
+                        - /url: "#/common_targets/ats"
+                        - text:  Targets
+                      - link "" [ref=e83298] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83299]: 
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e84822]:
+          - generic [ref=e84824]:
+            - heading "Settings" [level=1] [ref=e84826]
+            - generic [ref=e84827]:
+              - link "Home" [ref=e84831] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e84832]:
+                - text: /
+                - generic [ref=e84833]: Settings
+          - generic [ref=e84834]:
+            - generic [ref=e84840]:
+              - link "Company Profile" [ref=e84844] [cursor=pointer]:
+                - /url: "#/admin/company_profile"
+              - link "Configurations" [ref=e84848] [cursor=pointer]:
+                - /url: "#/admin/configurations"
+              - link "Access Control" [ref=e84852] [cursor=pointer]:
+                - /url: "#/admin/access_control"
+            - generic [ref=e84915]:
+              - generic [ref=e84916]:
+                - heading "Data Customization" [level=5] [ref=e84917]
+                - generic [ref=e84918]: Customise all keywords, form fields, and workflows to suit your business requirements.
+              - generic [ref=e84920]:
+                - link " Custom Forms Customize forms for jobs, candidates, submissions, resource pool, accounts, employees, etc." [ref=e84923] [cursor=pointer]:
+                  - /url: "#/admin/forms/jobs"
+                  - generic [ref=e84925]: 
+                  - generic [ref=e84926]:
+                    - generic [ref=e84927]: Custom Forms
+                    - generic [ref=e84928]: Customize forms for jobs, candidates, submissions, resource pool, accounts, employees, etc.
+                - link " Keywords Define and manage keywords for jobs, candidates, assignments, employees, documents, accounts, etc." [ref=e84931] [cursor=pointer]:
+                  - /url: "#/admin/keywords/jobs"
+                  - generic [ref=e84933]: 
+                  - generic [ref=e84934]:
+                    - generic [ref=e84935]: Keywords
+                    - generic [ref=e84936]: Define and manage keywords for jobs, candidates, assignments, employees, documents, accounts, etc.
+                - link " Workflows Design workflows for submissions, opportunities, leads, etc. to suit your organizational structure." [ref=e84939] [cursor=pointer]:
+                  - /url: "#/admin/workflow/JobApplication"
+                  - generic [ref=e84941]: 
+                  - generic [ref=e84942]:
+                    - generic [ref=e84943]: Workflows
+                    - generic [ref=e84944]: Design workflows for submissions, opportunities, leads, etc. to suit your organizational structure.
+              - generic [ref=e84945]:
+                - heading "Automations" [level=5] [ref=e84946]
+                - generic [ref=e84947]: Set up automations for resume and job harvesting, reminders, tasks and notifications to suit your needs.
+              - generic [ref=e84949]:
+                - link " Harvesting Configure resume and job harvesting automation frequency, limits and schedules." [ref=e84952] [cursor=pointer]:
+                  - /url: "#/admin/harvesting"
+                  - generic [ref=e84954]: 
+                  - generic [ref=e84955]:
+                    - generic [ref=e84956]: Harvesting
+                    - generic [ref=e84957]: Configure resume and job harvesting automation frequency, limits and schedules.
+                - link " Reminders Create reminders and set up automatic notifications for various processes and tasks across the platform." [ref=e84960] [cursor=pointer]:
+                  - /url: "#/admin/reminders"
+                  - generic [ref=e84962]: 
+                  - generic [ref=e84963]:
+                    - generic [ref=e84964]: Reminders
+                    - generic [ref=e84965]: Create reminders and set up automatic notifications for various processes and tasks across the platform.
+                - link " Task Automation Configure task automation and reminders for employees, leads, assignments, etc." [ref=e84968] [cursor=pointer]:
+                  - /url: "#/admin/tasks/leads"
+                  - generic [ref=e84970]: 
+                  - generic [ref=e84971]:
+                    - generic [ref=e84972]: Task Automation
+                    - generic [ref=e84973]: Configure task automation and reminders for employees, leads, assignments, etc.
+              - generic [ref=e84974]:
+                - heading "General Settings" [level=5] [ref=e84975]
+                - generic [ref=e84976]: Configure all default settings for CRM,ATS and HRM .
+              - generic [ref=e84978]:
+                - link " Approvals Define approval workflows for requisitions etc." [ref=e84981] [cursor=pointer]:
+                  - /url: "#/admin/approvals/information_update"
+                  - generic [ref=e84983]: 
+                  - generic [ref=e84984]:
+                    - generic [ref=e84985]: Approvals
+                    - generic [ref=e84986]: Define approval workflows for requisitions etc.
+                - link " Automation Mailbox Access all automation emails, view or download emails, and see their current status." [ref=e84989] [cursor=pointer]:
+                  - /url: "#/admin/automation_mailbox"
+                  - generic [ref=e84991]: 
+                  - generic [ref=e84992]:
+                    - generic [ref=e84993]: Automation Mailbox
+                    - generic [ref=e84994]: Access all automation emails, view or download emails, and see their current status.
+                - link " Career Portal Configure career portal, manage candidate access, and set up sender email addresses for easy communications." [ref=e84997] [cursor=pointer]:
+                  - /url: "#/admin/career_portal/career_configuration"
+                  - generic [ref=e84999]: 
+                  - generic [ref=e85000]:
+                    - generic [ref=e85001]: Career Portal
+                    - generic [ref=e85002]: Configure career portal, manage candidate access, and set up sender email addresses for easy communications.
+                - link " Communication Configure communication access levels for employees and set up sender email IDs." [ref=e85005] [cursor=pointer]:
+                  - /url: "#/admin/communication/access"
+                  - generic [ref=e85007]: 
+                  - generic [ref=e85008]:
+                    - generic [ref=e85009]: Communication
+                    - generic [ref=e85010]: Configure communication access levels for employees and set up sender email IDs.
+                - link " Credit Allocation Configure credit allocation for mass emails, contact search, etc. and track credit usage by all users." [ref=e85013] [cursor=pointer]:
+                  - /url: "#/admin/credit_allocation/mass_mails"
+                  - generic [ref=e85015]: 
+                  - generic [ref=e85016]:
+                    - generic [ref=e85017]: Credit Allocation
+                    - generic [ref=e85018]: Configure credit allocation for mass emails, contact search, etc. and track credit usage by all users.
+                - link " Default Settings Configure submission fields and templates for recruitment and pool submissions." [ref=e85021] [cursor=pointer]:
+                  - /url: "#/admin/defaultsettings"
+                  - generic [ref=e85023]: 
+                  - generic [ref=e85024]:
+                    - generic [ref=e85025]: Default Settings
+                    - generic [ref=e85026]: Configure submission fields and templates for recruitment and pool submissions.
+                - link " Employee Reporting Configure employee reporting clusters and structures across the organization." [ref=e85029] [cursor=pointer]:
+                  - /url: "#/admin/emp_report_structure"
+                  - generic [ref=e85031]: 
+                  - generic [ref=e85032]:
+                    - generic [ref=e85033]: Employee Reporting
+                    - generic [ref=e85034]: Configure employee reporting clusters and structures across the organization.
+                - link " Expenses & Advance Salaries Configure travel and other expense rates, locations, units, and categories and Advance salaries." [ref=e85037] [cursor=pointer]:
+                  - /url: "#/admin/config_mileage"
+                  - generic [ref=e85039]: 
+                  - generic [ref=e85040]:
+                    - generic [ref=e85041]: Expenses & Advance Salaries
+                    - generic [ref=e85042]: Configure travel and other expense rates, locations, units, and categories and Advance salaries.
+                - link " Communication Templates Create, modify and delete templates for all activities across the platform." [ref=e85045] [cursor=pointer]:
+                  - /url: "#/admin/Templates/mail_templates"
+                  - generic [ref=e85047]: 
+                  - generic [ref=e85048]:
+                    - generic [ref=e85049]: Communication Templates
+                    - generic [ref=e85050]: Create, modify and delete templates for all activities across the platform.
+                - link " Organizational Hierarchy Set up organizational hierarchy and define roles, designations and user structures." [ref=e85053] [cursor=pointer]:
+                  - /url: "#/admin/org_structure"
+                  - generic [ref=e85055]: 
+                  - generic [ref=e85056]:
+                    - generic [ref=e85057]: Organizational Hierarchy
+                    - generic [ref=e85058]: Set up organizational hierarchy and define roles, designations and user structures.
+                - link " Offboarding Manage offboarding policies, assign employees to policies, and define reasons for resignation and termination." [ref=e85061] [cursor=pointer]:
+                  - /url: "#/admin/config_offboarding/policy_settings"
+                  - generic [ref=e85063]: 
+                  - generic [ref=e85064]:
+                    - generic [ref=e85065]: Offboarding
+                    - generic [ref=e85066]: Manage offboarding policies, assign employees to policies, and define reasons for resignation and termination.
+                - link " Products, Services & Pricing Configure your products services cost per unit and margin here" [ref=e85069] [cursor=pointer]:
+                  - /url: "#/admin/products_services"
+                  - generic [ref=e85071]: 
+                  - generic [ref=e85072]:
+                    - generic [ref=e85073]: Products, Services & Pricing
+                    - generic [ref=e85074]: Configure your products services cost per unit and margin here
+                - link " Performance Configure Objective Key Result settings and Review Process settings." [ref=e85077] [cursor=pointer]:
+                  - /url: "#/admin/performance"
+                  - generic [ref=e85079]: 
+                  - generic [ref=e85080]:
+                    - generic [ref=e85081]: Performance
+                    - generic [ref=e85082]: Configure Objective Key Result settings and Review Process settings.
+                - link " Time & Attendance Configure shifts, leave and holiday plans, pay periods, attendance notifications, etc." [ref=e85085] [cursor=pointer]:
+                  - /url: "#/admin/attendance"
+                  - generic [ref=e85087]: 
+                  - generic [ref=e85088]:
+                    - generic [ref=e85089]: Time & Attendance
+                    - generic [ref=e85090]: Configure shifts, leave and holiday plans, pay periods, attendance notifications, etc.
+                - link " Referral Settings Configure referral settings and manage referrals of career portal and referral portal." [ref=e85093] [cursor=pointer]:
+                  - /url: "#/admin/referral_settings"
+                  - generic [ref=e85095]: 
+                  - generic [ref=e85096]:
+                    - generic [ref=e85097]: Referral Settings
+                    - generic [ref=e85098]: Configure referral settings and manage referrals of career portal and referral portal.
+                - link " Water Marking Configure watermarks on candidate Resumes/CV." [ref=e85101] [cursor=pointer]:
+                  - /url: "#/admin/water_marking"
+                  - generic [ref=e85103]: 
+                  - generic [ref=e85104]:
+                    - generic [ref=e85105]: Water Marking
+                    - generic [ref=e85106]: Configure watermarks on candidate Resumes/CV.
+                - link " Bot Settings Configure all your bot settings at one place." [ref=e85109] [cursor=pointer]:
+                  - /url: "#/admin/bot_settings"
+                  - generic [ref=e85111]: 
+                  - generic [ref=e85112]:
+                    - generic [ref=e85113]: Bot Settings
+                    - generic [ref=e85114]: Configure all your bot settings at one place.
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

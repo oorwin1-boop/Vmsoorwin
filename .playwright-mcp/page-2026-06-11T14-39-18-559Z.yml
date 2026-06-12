@@ -1,0 +1,1109 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e52350]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e50729]:
+          - generic [ref=e50731]:
+            - heading "Accounts" [level=1] [ref=e50733]
+            - generic [ref=e50734]:
+              - link "Home" [ref=e50738] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e50739]:
+                - text: /
+                - generic [ref=e50741]: Accounts
+          - generic [ref=e50742]:
+            - generic [ref=e50747]:
+              - generic [ref=e50748]:
+                - heading "Views" [level=6] [ref=e50750]
+                - generic [ref=e50751]:
+                  - generic [ref=e50831]:
+                    - button [ref=e50833] [cursor=pointer]:
+                      - img [ref=e50834]: more_vert
+                    - generic [ref=e50837] [cursor=pointer]: All Accounts
+                  - generic [ref=e50840]:
+                    - button [ref=e50842] [cursor=pointer]:
+                      - img [ref=e50843]: more_vert
+                    - generic [ref=e50846] [cursor=pointer]: My Accounts
+                  - generic [ref=e50849]:
+                    - button [ref=e50851] [cursor=pointer]:
+                      - img [ref=e50852]: more_vert
+                    - generic [ref=e50855] [cursor=pointer]: Recent Accounts
+                  - generic [ref=e50858]:
+                    - button [ref=e50860] [cursor=pointer]:
+                      - img [ref=e50861]: more_vert
+                    - generic [ref=e50864] [cursor=pointer]: My Vendors
+                  - generic [ref=e50867]:
+                    - button [ref=e50869] [cursor=pointer]:
+                      - img [ref=e50870]: more_vert
+                    - generic [ref=e50873] [cursor=pointer]: new view
+                    - button [ref=e50875] [cursor=pointer]:
+                      - img [ref=e50876]: info
+                  - generic [ref=e50881]:
+                    - button [ref=e50883] [cursor=pointer]:
+                      - img [ref=e50884]: more_vert
+                    - generic [ref=e50887] [cursor=pointer]: java
+                    - button [ref=e50889] [cursor=pointer]:
+                      - img [ref=e50890]: info
+                  - generic [ref=e50895]:
+                    - button [ref=e50897] [cursor=pointer]:
+                      - img [ref=e50898]: more_vert
+                    - generic [ref=e50901] [cursor=pointer]: Rec view
+                    - button [ref=e50903] [cursor=pointer]:
+                      - img [ref=e50904]: info
+              - button "Create View" [ref=e50753]:
+                - generic [ref=e50755]:
+                  - generic [ref=e50756]: Create View
+                  - img [ref=e50757]: add
+              - generic [ref=e50907]:
+                - heading "Folders" [level=6] [ref=e50909]
+                - generic [ref=e50910]:
+                  - generic [ref=e50913]:
+                    - button [ref=e50914] [cursor=pointer]:
+                      - img [ref=e50915]: more_vert
+                    - generic [ref=e50918] [cursor=pointer]: Pavans Folder
+                    - button [ref=e50920] [cursor=pointer]:
+                      - img [ref=e50921]: info
+                  - generic [ref=e50926]:
+                    - button [ref=e50927] [cursor=pointer]:
+                      - img [ref=e50928]: more_vert
+                    - generic [ref=e50931] [cursor=pointer]: all
+                    - button [ref=e50933] [cursor=pointer]:
+                      - img [ref=e50934]: info
+                  - generic [ref=e50939]:
+                    - button [ref=e50940] [cursor=pointer]:
+                      - img [ref=e50941]: more_vert
+                    - generic [ref=e50944] [cursor=pointer]: PAVAN'S vIEW
+                    - button [ref=e50946] [cursor=pointer]:
+                      - img [ref=e50947]: info
+                  - generic [ref=e50952]:
+                    - button [ref=e50953] [cursor=pointer]:
+                      - img [ref=e50954]: more_vert
+                    - generic [ref=e50957] [cursor=pointer]: Pavan's Test Folder
+                    - button [ref=e50959] [cursor=pointer]:
+                      - img [ref=e50960]: info
+                  - generic [ref=e50965]:
+                    - button [ref=e50966] [cursor=pointer]:
+                      - img [ref=e50967]: more_vert
+                    - generic [ref=e50970] [cursor=pointer]: Teja Custom
+                    - button [ref=e50972] [cursor=pointer]:
+                      - img [ref=e50973]: info
+                  - generic [ref=e50978]:
+                    - button [ref=e50979] [cursor=pointer]:
+                      - img [ref=e50980]: more_vert
+                    - generic [ref=e50983] [cursor=pointer]: Test
+                    - button [ref=e50985] [cursor=pointer]:
+                      - img [ref=e50986]: info
+                  - generic [ref=e50991]:
+                    - button [ref=e50992] [cursor=pointer]:
+                      - img [ref=e50993]: more_vert
+                    - generic [ref=e50996] [cursor=pointer]: TATA Admin
+                    - button [ref=e50998] [cursor=pointer]:
+                      - img [ref=e50999]: info
+                  - generic [ref=e51004]:
+                    - button [ref=e51005] [cursor=pointer]:
+                      - img [ref=e51006]: more_vert
+                    - generic [ref=e51009] [cursor=pointer]: prathibha
+                    - button [ref=e51011] [cursor=pointer]:
+                      - img [ref=e51012]: info
+                  - generic [ref=e51017]:
+                    - button [ref=e51018] [cursor=pointer]:
+                      - img [ref=e51019]: more_vert
+                    - generic [ref=e51022] [cursor=pointer]: Test Public Folder
+                    - button [ref=e51024] [cursor=pointer]:
+                      - img [ref=e51025]: info
+                  - generic [ref=e51030]:
+                    - button [ref=e51031] [cursor=pointer]:
+                      - img [ref=e51032]: more_vert
+                    - generic [ref=e51035] [cursor=pointer]: BNR
+                    - button [ref=e51037] [cursor=pointer]:
+                      - img [ref=e51038]: info
+                  - generic [ref=e51043]:
+                    - button [ref=e51044] [cursor=pointer]:
+                      - img [ref=e51045]: more_vert
+                    - generic [ref=e51048] [cursor=pointer]: 06052025 Accounts1
+                    - button [ref=e51050] [cursor=pointer]:
+                      - img [ref=e51051]: info
+                  - generic [ref=e51056]:
+                    - button [ref=e51057] [cursor=pointer]:
+                      - img [ref=e51058]: more_vert
+                    - generic [ref=e51061] [cursor=pointer]: paramesh
+                    - button [ref=e51063] [cursor=pointer]:
+                      - img [ref=e51064]: info
+                  - generic [ref=e51069]:
+                    - button [ref=e51070] [cursor=pointer]:
+                      - img [ref=e51071]: more_vert
+                    - generic [ref=e51074] [cursor=pointer]: new
+                    - button [ref=e51076] [cursor=pointer]:
+                      - img [ref=e51077]: info
+            - generic [ref=e50764]:
+              - generic [ref=e50765]:
+                - generic [ref=e50766]:
+                  - button [ref=e50767] [cursor=pointer]:
+                    - img [ref=e50768]: right_panel_open
+                  - generic [ref=e50771]:
+                    - generic [ref=e50775]:
+                      - textbox "Search Name, Website" [ref=e50776]
+                      - button [ref=e50777] [cursor=pointer]:
+                        - img [ref=e50778]: search
+                    - combobox "All" [ref=e50783] [cursor=pointer]:
+                      - generic [ref=e50784]:
+                        - generic [ref=e50786]: All
+                        - img [ref=e50789]
+                - generic [ref=e50791]:
+                  - button "Add Account" [ref=e50792]:
+                    - generic [ref=e50793]: Add Account
+                  - button "Merge Accounts" [ref=e50796]:
+                    - generic [ref=e50797]: Merge Accounts
+                  - button [ref=e50800]:
+                    - img [ref=e50801]: view_column
+                  - button [ref=e51080]:
+                    - img [ref=e51081]: filter_alt
+                  - button [ref=e50804]:
+                    - img [ref=e50805]: more_vert
+              - table [ref=e50810]:
+                - rowgroup [ref=e50811]:
+                  - row "Account Name Type Website Display Name Account Status Account Owner Subsidaries" [ref=e51084]:
+                    - columnheader [ref=e51085]:
+                      - generic [ref=e51086]:
+                        - generic [ref=e51089] [cursor=pointer]:
+                          - checkbox [ref=e51090]
+                          - generic:
+                            - img
+                        - button [ref=e51091] [cursor=pointer]:
+                          - img [ref=e51092]: expand_more
+                    - columnheader "Account Name" [ref=e51095]:
+                      - generic [ref=e51096]:
+                        - generic [ref=e51097]: Account Name
+                        - button [ref=e51098] [cursor=pointer]:
+                          - img [ref=e51099]: filter_list
+                    - columnheader "Type" [ref=e51102]:
+                      - generic [ref=e51103]:
+                        - generic [ref=e51104]: Type
+                        - button [ref=e51105] [cursor=pointer]:
+                          - img [ref=e51106]: filter_list
+                    - columnheader "Website" [ref=e51109]:
+                      - generic [ref=e51110]:
+                        - generic [ref=e51111]: Website
+                        - button [ref=e51112] [cursor=pointer]:
+                          - img [ref=e51113]: filter_list
+                    - columnheader "Display Name" [ref=e51116]:
+                      - generic [ref=e51117]:
+                        - generic [ref=e51118]: Display Name
+                        - button [ref=e51119] [cursor=pointer]:
+                          - img [ref=e51120]: filter_list
+                    - columnheader "Account Status" [ref=e51123]:
+                      - generic [ref=e51124]:
+                        - generic [ref=e51125]: Account Status
+                        - button [ref=e51126] [cursor=pointer]:
+                          - img [ref=e51127]: filter_list
+                    - columnheader "Account Owner" [ref=e51130]:
+                      - generic [ref=e51131]:
+                        - generic [ref=e51132]: Account Owner
+                        - button [ref=e51133] [cursor=pointer]:
+                          - img [ref=e51134]: filter_list
+                    - columnheader "Subsidaries" [ref=e51137]:
+                      - generic [ref=e51138]:
+                        - generic [ref=e51139]: Subsidaries
+                        - button [ref=e51140] [cursor=pointer]:
+                          - img [ref=e51141]: filter_list
+                - rowgroup [ref=e51144]:
+                  - row " SGM Lighting Active Client sgmlighting.com SGM Lighting Active Priya Murugan test..." [ref=e51145]:
+                    - cell "" [ref=e51146]:
+                      - generic [ref=e51147]:
+                        - generic [ref=e51150] [cursor=pointer]:
+                          - checkbox [ref=e51151]
+                          - generic:
+                            - img
+                        - button [ref=e51152] [cursor=pointer]:
+                          - img [ref=e51153]: more_vert
+                        - generic [ref=e51156]:
+                          - button [ref=e51157] [cursor=pointer]:
+                            - img [ref=e51158]: description
+                          - button "" [ref=e51161] [cursor=pointer]:
+                            - generic [ref=e51162]: 
+                          - button [ref=e51165] [cursor=pointer]:
+                            - img [ref=e51166]:
+                              - text: contact_page
+                              - generic: "1"
+                          - button [ref=e51169] [cursor=pointer]:
+                            - img [ref=e51170]: deployed_code_account
+                          - button [ref=e51173] [cursor=pointer]:
+                            - img [ref=e51174]: work
+                    - cell "SGM Lighting Active" [ref=e51177]:
+                      - generic [ref=e51178]:
+                        - link "SGM Lighting" [ref=e51179] [cursor=pointer]:
+                          - /url: "#/accounts/2810/view?is_listing=1"
+                        - generic [ref=e51181]: Active
+                    - cell "Client" [ref=e51182]:
+                      - generic [ref=e51185]: Client
+                    - cell "sgmlighting.com" [ref=e51186]:
+                      - generic [ref=e51189]: sgmlighting.com
+                    - cell "SGM Lighting" [ref=e51190]:
+                      - generic [ref=e51193]: SGM Lighting
+                    - cell "Active" [ref=e51194]:
+                      - generic [ref=e51197]: Active
+                    - cell "Priya Murugan" [ref=e51198]:
+                      - generic [ref=e51201]: Priya Murugan
+                    - cell "test..." [ref=e51202]:
+                      - generic [ref=e51205]: test...
+                  - row " Motul Asia Pacific Singapore Active Client motul.com Motul Asia Pacific S... Active Priya Murugan Testtnnew" [ref=e51206]:
+                    - cell "" [ref=e51207]:
+                      - generic [ref=e51208]:
+                        - generic [ref=e51211] [cursor=pointer]:
+                          - checkbox [ref=e51212]
+                          - generic:
+                            - img
+                        - button [ref=e51213] [cursor=pointer]:
+                          - img [ref=e51214]: more_vert
+                        - generic [ref=e51217]:
+                          - button [ref=e51218] [cursor=pointer]:
+                            - img [ref=e51219]: description
+                          - button "" [ref=e51222] [cursor=pointer]:
+                            - generic [ref=e51223]: 
+                          - button [ref=e51226] [cursor=pointer]:
+                            - img [ref=e51227]:
+                              - text: contact_page
+                              - generic: "1"
+                          - button [ref=e51230] [cursor=pointer]:
+                            - img [ref=e51231]: deployed_code_account
+                          - button [ref=e51234] [cursor=pointer]:
+                            - img [ref=e51235]: work
+                    - cell "Motul Asia Pacific Singapore Active" [ref=e51238]:
+                      - generic [ref=e51239]:
+                        - link "Motul Asia Pacific Singapore" [ref=e51240] [cursor=pointer]:
+                          - /url: "#/accounts/2809/view?is_listing=1"
+                        - generic [ref=e51242]: Active
+                    - cell "Client" [ref=e51243]:
+                      - generic [ref=e51246]: Client
+                    - cell "motul.com" [ref=e51247]:
+                      - generic [ref=e51250]: motul.com
+                    - cell "Motul Asia Pacific S..." [ref=e51251]:
+                      - generic [ref=e51254]: Motul Asia Pacific S...
+                    - cell "Active" [ref=e51255]:
+                      - generic [ref=e51258]: Active
+                    - cell "Priya Murugan" [ref=e51259]:
+                      - generic [ref=e51262]: Priya Murugan
+                    - cell "Testtnnew" [ref=e51263]:
+                      - generic [ref=e51266]: Testtnnew
+                  - row " Karbon Business Active Client karboncard.com Karbon Business Active Priya Murugan karyrath" [ref=e51267]:
+                    - cell "" [ref=e51268]:
+                      - generic [ref=e51269]:
+                        - generic [ref=e51272] [cursor=pointer]:
+                          - checkbox [ref=e51273]
+                          - generic:
+                            - img
+                        - button [ref=e51274] [cursor=pointer]:
+                          - img [ref=e51275]: more_vert
+                        - generic [ref=e51278]:
+                          - button [ref=e51279] [cursor=pointer]:
+                            - img [ref=e51280]: description
+                          - button "" [ref=e51283] [cursor=pointer]:
+                            - generic [ref=e51284]: 
+                          - button [ref=e51287] [cursor=pointer]:
+                            - img [ref=e51288]:
+                              - text: contact_page
+                              - generic: "1"
+                          - button [ref=e51291] [cursor=pointer]:
+                            - img [ref=e51292]: deployed_code_account
+                          - button [ref=e51295] [cursor=pointer]:
+                            - img [ref=e51296]: work
+                    - cell "Karbon Business Active" [ref=e51299]:
+                      - generic [ref=e51300]:
+                        - link "Karbon Business" [ref=e51301] [cursor=pointer]:
+                          - /url: "#/accounts/2808/view?is_listing=1"
+                        - generic [ref=e51303]: Active
+                    - cell "Client" [ref=e51304]:
+                      - generic [ref=e51307]: Client
+                    - cell "karboncard.com" [ref=e51308]:
+                      - generic [ref=e51311]: karboncard.com
+                    - cell "Karbon Business" [ref=e51312]:
+                      - generic [ref=e51315]: Karbon Business
+                    - cell "Active" [ref=e51316]:
+                      - generic [ref=e51319]: Active
+                    - cell "Priya Murugan" [ref=e51320]:
+                      - generic [ref=e51323]: Priya Murugan
+                    - cell "karyrath" [ref=e51324]:
+                      - generic [ref=e51327]: karyrath
+                  - row " Sofy Active Client sofy.ai Sofy Active Priya Murugan test deete" [ref=e51328]:
+                    - cell "" [ref=e51329]:
+                      - generic [ref=e51330]:
+                        - generic [ref=e51333] [cursor=pointer]:
+                          - checkbox [ref=e51334]
+                          - generic:
+                            - img
+                        - button [ref=e51335] [cursor=pointer]:
+                          - img [ref=e51336]: more_vert
+                        - generic [ref=e51339]:
+                          - button [ref=e51340] [cursor=pointer]:
+                            - img [ref=e51341]: description
+                          - button "" [ref=e51344] [cursor=pointer]:
+                            - generic [ref=e51345]: 
+                          - button [ref=e51348] [cursor=pointer]:
+                            - img [ref=e51349]:
+                              - text: contact_page
+                              - generic: "1"
+                          - button [ref=e51352] [cursor=pointer]:
+                            - img [ref=e51353]: deployed_code_account
+                          - button [ref=e51356] [cursor=pointer]:
+                            - img [ref=e51357]: work
+                    - cell "Sofy Active" [ref=e51360]:
+                      - generic [ref=e51361]:
+                        - link "Sofy" [ref=e51362] [cursor=pointer]:
+                          - /url: "#/accounts/2807/view?is_listing=1"
+                        - generic [ref=e51364]: Active
+                    - cell "Client" [ref=e51365]:
+                      - generic [ref=e51368]: Client
+                    - cell "sofy.ai" [ref=e51369]:
+                      - generic [ref=e51372]: sofy.ai
+                    - cell "Sofy" [ref=e51373]:
+                      - generic [ref=e51376]: Sofy
+                    - cell "Active" [ref=e51377]:
+                      - generic [ref=e51380]: Active
+                    - cell "Priya Murugan" [ref=e51381]:
+                      - generic [ref=e51384]: Priya Murugan
+                    - cell "test deete" [ref=e51385]:
+                      - generic [ref=e51388]: test deete
+                  - row " Cultivate Brands Active Client cultivatebrands.com Cultivate Brands Active Priya Murugan test" [ref=e51389]:
+                    - cell "" [ref=e51390]:
+                      - generic [ref=e51391]:
+                        - generic [ref=e51394] [cursor=pointer]:
+                          - checkbox [ref=e51395]
+                          - generic:
+                            - img
+                        - button [ref=e51396] [cursor=pointer]:
+                          - img [ref=e51397]: more_vert
+                        - generic [ref=e51400]:
+                          - button [ref=e51401] [cursor=pointer]:
+                            - img [ref=e51402]: description
+                          - button "" [ref=e51405] [cursor=pointer]:
+                            - generic [ref=e51406]: 
+                          - button [ref=e51409] [cursor=pointer]:
+                            - img [ref=e51410]: contact_page
+                          - button [ref=e51413] [cursor=pointer]:
+                            - img [ref=e51414]: deployed_code_account
+                          - button [ref=e51417] [cursor=pointer]:
+                            - img [ref=e51418]: work
+                    - cell "Cultivate Brands Active" [ref=e51421]:
+                      - generic [ref=e51422]:
+                        - link "Cultivate Brands" [ref=e51423] [cursor=pointer]:
+                          - /url: "#/accounts/2806/view?is_listing=1"
+                        - generic [ref=e51425]: Active
+                    - cell "Client" [ref=e51426]:
+                      - generic [ref=e51429]: Client
+                    - cell "cultivatebrands.com" [ref=e51430]:
+                      - generic [ref=e51433]: cultivatebrands.com
+                    - cell "Cultivate Brands" [ref=e51434]:
+                      - generic [ref=e51437]: Cultivate Brands
+                    - cell "Active" [ref=e51438]:
+                      - generic [ref=e51441]: Active
+                    - cell "Priya Murugan" [ref=e51442]:
+                      - generic [ref=e51445]: Priya Murugan
+                    - cell "test" [ref=e51446]:
+                      - generic [ref=e51449]: test
+                  - row " Visioneer Active Client visioneer.com Visioneer Active Priya Murugan Visioneer" [ref=e51450]:
+                    - cell "" [ref=e51451]:
+                      - generic [ref=e51452]:
+                        - generic [ref=e51455] [cursor=pointer]:
+                          - checkbox [ref=e51456]
+                          - generic:
+                            - img
+                        - button [ref=e51457] [cursor=pointer]:
+                          - img [ref=e51458]: more_vert
+                        - generic [ref=e51461]:
+                          - button [ref=e51462] [cursor=pointer]:
+                            - img [ref=e51463]: description
+                          - button "" [ref=e51466] [cursor=pointer]:
+                            - generic [ref=e51467]: 
+                          - button [ref=e51470] [cursor=pointer]:
+                            - img [ref=e51471]:
+                              - text: contact_page
+                              - generic: "3"
+                          - button [ref=e51474] [cursor=pointer]:
+                            - img [ref=e51475]: deployed_code_account
+                          - button [ref=e51478] [cursor=pointer]:
+                            - img [ref=e51479]: work
+                    - cell "Visioneer Active" [ref=e51482]:
+                      - generic [ref=e51483]:
+                        - link "Visioneer" [ref=e51484] [cursor=pointer]:
+                          - /url: "#/accounts/2805/view?is_listing=1"
+                        - generic [ref=e51486]: Active
+                    - cell "Client" [ref=e51487]:
+                      - generic [ref=e51490]: Client
+                    - cell "visioneer.com" [ref=e51491]:
+                      - generic [ref=e51494]: visioneer.com
+                    - cell "Visioneer" [ref=e51495]:
+                      - generic [ref=e51498]: Visioneer
+                    - cell "Active" [ref=e51499]:
+                      - generic [ref=e51502]: Active
+                    - cell "Priya Murugan" [ref=e51503]:
+                      - generic [ref=e51506]: Priya Murugan
+                    - cell "Visioneer" [ref=e51507]:
+                      - generic [ref=e51510]: Visioneer
+                  - row " SBI34 Do not publish Client,Vendor,Prospe... sbi34.com SBI34 Active Srikanth Akkala -" [ref=e51511]:
+                    - cell "" [ref=e51512]:
+                      - generic [ref=e51513]:
+                        - generic [ref=e51516] [cursor=pointer]:
+                          - checkbox [ref=e51517]
+                          - generic:
+                            - img
+                        - button [ref=e51518] [cursor=pointer]:
+                          - img [ref=e51519]: more_vert
+                        - generic [ref=e51522]:
+                          - button [ref=e51523] [cursor=pointer]:
+                            - img [ref=e51524]:
+                              - text: description
+                              - generic: "1"
+                          - button "" [ref=e51527] [cursor=pointer]:
+                            - generic [ref=e51528]: 
+                            - generic: "1"
+                          - button [ref=e51531] [cursor=pointer]:
+                            - img [ref=e51532]:
+                              - text: contact_page
+                              - generic: "2"
+                          - button [ref=e51535] [cursor=pointer]:
+                            - img [ref=e51536]: deployed_code_account
+                          - button [ref=e51539] [cursor=pointer]:
+                            - img [ref=e51540]:
+                              - text: work
+                              - generic: "2"
+                    - cell "SBI34 Do not publish" [ref=e51543]:
+                      - generic [ref=e51544]:
+                        - link "SBI34" [ref=e51545] [cursor=pointer]:
+                          - /url: "#/accounts/2803/view?is_listing=1"
+                        - generic [ref=e51547]: Do not publish
+                    - cell "Client,Vendor,Prospe..." [ref=e51548]:
+                      - generic [ref=e51551]: Client,Vendor,Prospe...
+                    - cell "sbi34.com" [ref=e51552]:
+                      - generic [ref=e51555]: sbi34.com
+                    - cell "SBI34" [ref=e51556]:
+                      - generic [ref=e51559]: SBI34
+                    - cell "Active" [ref=e51560]:
+                      - generic [ref=e51563]: Active
+                    - cell "Srikanth Akkala" [ref=e51564]:
+                      - generic [ref=e51567]: Srikanth Akkala
+                    - cell "-" [ref=e51568]:
+                      - generic [ref=e51569]: "-"
+                  - row " SBI Account2 Do not publish Client,Vendor sbi2.com SBI Account2 Active Srikanth Akkala -" [ref=e51570]:
+                    - cell "" [ref=e51571]:
+                      - generic [ref=e51572]:
+                        - generic [ref=e51575] [cursor=pointer]:
+                          - checkbox [ref=e51576]
+                          - generic:
+                            - img
+                        - button [ref=e51577] [cursor=pointer]:
+                          - img [ref=e51578]: more_vert
+                        - generic [ref=e51581]:
+                          - button [ref=e51582] [cursor=pointer]:
+                            - img [ref=e51583]: description
+                          - button "" [ref=e51586] [cursor=pointer]:
+                            - generic [ref=e51587]: 
+                          - button [ref=e51590] [cursor=pointer]:
+                            - img [ref=e51591]: contact_page
+                          - button [ref=e51594] [cursor=pointer]:
+                            - img [ref=e51595]: deployed_code_account
+                          - button [ref=e51598] [cursor=pointer]:
+                            - img [ref=e51599]: work
+                    - cell "SBI Account2 Do not publish" [ref=e51602]:
+                      - generic [ref=e51603]:
+                        - link "SBI Account2" [ref=e51604] [cursor=pointer]:
+                          - /url: "#/accounts/2802/view?is_listing=1"
+                        - generic [ref=e51606]: Do not publish
+                    - cell "Client,Vendor" [ref=e51607]:
+                      - generic [ref=e51610]: Client,Vendor
+                    - cell "sbi2.com" [ref=e51611]:
+                      - generic [ref=e51614]: sbi2.com
+                    - cell "SBI Account2" [ref=e51615]:
+                      - generic [ref=e51618]: SBI Account2
+                    - cell "Active" [ref=e51619]:
+                      - generic [ref=e51622]: Active
+                    - cell "Srikanth Akkala" [ref=e51623]:
+                      - generic [ref=e51626]: Srikanth Akkala
+                    - cell "-" [ref=e51627]:
+                      - generic [ref=e51628]: "-"
+                  - row " TC-N005 Phone Test Do not publish Client https://phonetest.co... TC-N005 Phone Test Active Pavan Kumar DEV -" [ref=e51629]:
+                    - cell "" [ref=e51630]:
+                      - generic [ref=e51631]:
+                        - generic [ref=e51634] [cursor=pointer]:
+                          - checkbox [ref=e51635]
+                          - generic:
+                            - img
+                        - button [ref=e51636] [cursor=pointer]:
+                          - img [ref=e51637]: more_vert
+                        - generic [ref=e51640]:
+                          - button [ref=e51641] [cursor=pointer]:
+                            - img [ref=e51642]: description
+                          - button "" [ref=e51645] [cursor=pointer]:
+                            - generic [ref=e51646]: 
+                          - button [ref=e51649] [cursor=pointer]:
+                            - img [ref=e51650]: contact_page
+                          - button [ref=e51653] [cursor=pointer]:
+                            - img [ref=e51654]: deployed_code_account
+                          - button [ref=e51657] [cursor=pointer]:
+                            - img [ref=e51658]: work
+                    - cell "TC-N005 Phone Test Do not publish" [ref=e51661]:
+                      - generic [ref=e51662]:
+                        - link "TC-N005 Phone Test" [ref=e51663] [cursor=pointer]:
+                          - /url: "#/accounts/2794/view?is_listing=1"
+                        - generic [ref=e51665]: Do not publish
+                    - cell "Client" [ref=e51666]:
+                      - generic [ref=e51669]: Client
+                    - cell "https://phonetest.co..." [ref=e51670]:
+                      - generic [ref=e51673]: https://phonetest.co...
+                    - cell "TC-N005 Phone Test" [ref=e51674]:
+                      - generic [ref=e51677]: TC-N005 Phone Test
+                    - cell "Active" [ref=e51678]:
+                      - generic [ref=e51681]: Active
+                    - cell "Pavan Kumar DEV" [ref=e51682]:
+                      - generic [ref=e51685]: Pavan Kumar DEV
+                    - cell "-" [ref=e51686]:
+                      - generic [ref=e51687]: "-"
+                  - row " Minimal Account Inc Active Client https://minimal.com Minimal Account Inc Active Pavan Kumar DEV -" [ref=e51688]:
+                    - cell "" [ref=e51689]:
+                      - generic [ref=e51690]:
+                        - generic [ref=e51693] [cursor=pointer]:
+                          - checkbox [ref=e51694]
+                          - generic:
+                            - img
+                        - button [ref=e51695] [cursor=pointer]:
+                          - img [ref=e51696]: more_vert
+                        - generic [ref=e51699]:
+                          - button [ref=e51700] [cursor=pointer]:
+                            - img [ref=e51701]: description
+                          - button "" [ref=e51704] [cursor=pointer]:
+                            - generic [ref=e51705]: 
+                          - button [ref=e51708] [cursor=pointer]:
+                            - img [ref=e51709]: contact_page
+                          - button [ref=e51712] [cursor=pointer]:
+                            - img [ref=e51713]: deployed_code_account
+                          - button [ref=e51716] [cursor=pointer]:
+                            - img [ref=e51717]: work
+                    - cell "Minimal Account Inc Active" [ref=e51720]:
+                      - generic [ref=e51721]:
+                        - link "Minimal Account Inc" [ref=e51722] [cursor=pointer]:
+                          - /url: "#/accounts/2793/view?is_listing=1"
+                        - generic [ref=e51724]: Active
+                    - cell "Client" [ref=e51725]:
+                      - generic [ref=e51728]: Client
+                    - cell "https://minimal.com" [ref=e51729]:
+                      - generic [ref=e51732]: https://minimal.com
+                    - cell "Minimal Account Inc" [ref=e51733]:
+                      - generic [ref=e51736]: Minimal Account Inc
+                    - cell "Active" [ref=e51737]:
+                      - generic [ref=e51740]: Active
+                    - cell "Pavan Kumar DEV" [ref=e51741]:
+                      - generic [ref=e51744]: Pavan Kumar DEV
+                    - cell "-" [ref=e51745]:
+                      - generic [ref=e51746]: "-"
+                  - row " Global Solutions Ltd Active Client https://www.globalso... Global Solutions Ltd Active Pavan Kumar DEV -" [ref=e51747]:
+                    - cell "" [ref=e51748]:
+                      - generic [ref=e51749]:
+                        - generic [ref=e51752] [cursor=pointer]:
+                          - checkbox [ref=e51753]
+                          - generic:
+                            - img
+                        - button [ref=e51754] [cursor=pointer]:
+                          - img [ref=e51755]: more_vert
+                        - generic [ref=e51758]:
+                          - button [ref=e51759] [cursor=pointer]:
+                            - img [ref=e51760]: description
+                          - button "" [ref=e51763] [cursor=pointer]:
+                            - generic [ref=e51764]: 
+                          - button [ref=e51767] [cursor=pointer]:
+                            - img [ref=e51768]: contact_page
+                          - button [ref=e51771] [cursor=pointer]:
+                            - img [ref=e51772]: deployed_code_account
+                          - button [ref=e51775] [cursor=pointer]:
+                            - img [ref=e51776]: work
+                    - cell "Global Solutions Ltd Active" [ref=e51779]:
+                      - generic [ref=e51780]:
+                        - link "Global Solutions Ltd" [ref=e51781] [cursor=pointer]:
+                          - /url: "#/accounts/2792/view?is_listing=1"
+                        - generic [ref=e51783]: Active
+                    - cell "Client" [ref=e51784]:
+                      - generic [ref=e51787]: Client
+                    - cell "https://www.globalso..." [ref=e51788]:
+                      - generic [ref=e51791]: https://www.globalso...
+                    - cell "Global Solutions Ltd" [ref=e51792]:
+                      - generic [ref=e51795]: Global Solutions Ltd
+                    - cell "Active" [ref=e51796]:
+                      - generic [ref=e51799]: Active
+                    - cell "Pavan Kumar DEV" [ref=e51800]:
+                      - generic [ref=e51803]: Pavan Kumar DEV
+                    - cell "-" [ref=e51804]:
+                      - generic [ref=e51805]: "-"
+                  - row " Acme Corp Active Client https://acmecorp.com Acme Corp Active Pavan Kumar DEV -" [ref=e51806]:
+                    - cell "" [ref=e51807]:
+                      - generic [ref=e51808]:
+                        - generic [ref=e51811] [cursor=pointer]:
+                          - checkbox [ref=e51812]
+                          - generic:
+                            - img
+                        - button [ref=e51813] [cursor=pointer]:
+                          - img [ref=e51814]: more_vert
+                        - generic [ref=e51817]:
+                          - button [ref=e51818] [cursor=pointer]:
+                            - img [ref=e51819]: description
+                          - button "" [ref=e51822] [cursor=pointer]:
+                            - generic [ref=e51823]: 
+                          - button [ref=e51826] [cursor=pointer]:
+                            - img [ref=e51827]: contact_page
+                          - button [ref=e51830] [cursor=pointer]:
+                            - img [ref=e51831]: deployed_code_account
+                          - button [ref=e51834] [cursor=pointer]:
+                            - img [ref=e51835]: work
+                    - cell "Acme Corp Active" [ref=e51838]:
+                      - generic [ref=e51839]:
+                        - link "Acme Corp" [ref=e51840] [cursor=pointer]:
+                          - /url: "#/accounts/2791/view?is_listing=1"
+                        - generic [ref=e51842]: Active
+                    - cell "Client" [ref=e51843]:
+                      - generic [ref=e51846]: Client
+                    - cell "https://acmecorp.com" [ref=e51847]:
+                      - generic [ref=e51850]: https://acmecorp.com
+                    - cell "Acme Corp" [ref=e51851]:
+                      - generic [ref=e51854]: Acme Corp
+                    - cell "Active" [ref=e51855]:
+                      - generic [ref=e51858]: Active
+                    - cell "Pavan Kumar DEV" [ref=e51859]:
+                      - generic [ref=e51862]: Pavan Kumar DEV
+                    - cell "-" [ref=e51863]:
+                      - generic [ref=e51864]: "-"
+                  - row " yiconnect Active Client www.yiconnect.io - Active Peter -" [ref=e51865]:
+                    - cell "" [ref=e51866]:
+                      - generic [ref=e51867]:
+                        - generic [ref=e51870] [cursor=pointer]:
+                          - checkbox [ref=e51871]
+                          - generic:
+                            - img
+                        - button [ref=e51872] [cursor=pointer]:
+                          - img [ref=e51873]: more_vert
+                        - generic [ref=e51876]:
+                          - button [ref=e51877] [cursor=pointer]:
+                            - img [ref=e51878]: description
+                          - button "" [ref=e51881] [cursor=pointer]:
+                            - generic [ref=e51882]: 
+                          - button [ref=e51885] [cursor=pointer]:
+                            - img [ref=e51886]: contact_page
+                          - button [ref=e51889] [cursor=pointer]:
+                            - img [ref=e51890]: deployed_code_account
+                          - button [ref=e51893] [cursor=pointer]:
+                            - img [ref=e51894]: work
+                    - cell "yiconnect Active" [ref=e51897]:
+                      - generic [ref=e51898]:
+                        - link "yiconnect" [ref=e51899] [cursor=pointer]:
+                          - /url: "#/accounts/2790/view?is_listing=1"
+                        - generic [ref=e51901]: Active
+                    - cell "Client" [ref=e51902]:
+                      - generic [ref=e51905]: Client
+                    - cell "www.yiconnect.io" [ref=e51906]:
+                      - generic [ref=e51909]: www.yiconnect.io
+                    - cell "-" [ref=e51910]:
+                      - generic [ref=e51911]: "-"
+                    - cell "Active" [ref=e51912]:
+                      - generic [ref=e51915]: Active
+                    - cell "Peter" [ref=e51916]:
+                      - generic [ref=e51919]: Peter
+                    - cell "-" [ref=e51920]:
+                      - generic [ref=e51921]: "-"
+                  - row " claude test Active Client,End Client claude.test1.com claude test Active Sandip Mahato -" [ref=e51922]:
+                    - cell "" [ref=e51923]:
+                      - generic [ref=e51924]:
+                        - generic [ref=e51927] [cursor=pointer]:
+                          - checkbox [ref=e51928]
+                          - generic:
+                            - img
+                        - button [ref=e51929] [cursor=pointer]:
+                          - img [ref=e51930]: more_vert
+                        - generic [ref=e51933]:
+                          - button [ref=e51934] [cursor=pointer]:
+                            - img [ref=e51935]: description
+                          - button "" [ref=e51938] [cursor=pointer]:
+                            - generic [ref=e51939]: 
+                          - button [ref=e51942] [cursor=pointer]:
+                            - img [ref=e51943]: contact_page
+                          - button [ref=e51946] [cursor=pointer]:
+                            - img [ref=e51947]: deployed_code_account
+                          - button [ref=e51950] [cursor=pointer]:
+                            - img [ref=e51951]: work
+                    - cell "claude test Active" [ref=e51954]:
+                      - generic [ref=e51955]:
+                        - link "claude test" [ref=e51956] [cursor=pointer]:
+                          - /url: "#/accounts/2789/view?is_listing=1"
+                        - generic [ref=e51958]: Active
+                    - cell "Client,End Client" [ref=e51959]:
+                      - generic [ref=e51962]: Client,End Client
+                    - cell "claude.test1.com" [ref=e51963]:
+                      - generic [ref=e51966]: claude.test1.com
+                    - cell "claude test" [ref=e51967]:
+                      - generic [ref=e51970]: claude test
+                    - cell "Active" [ref=e51971]:
+                      - generic [ref=e51974]: Active
+                    - cell "Sandip Mahato" [ref=e51975]:
+                      - generic [ref=e51978]: Sandip Mahato
+                    - cell "-" [ref=e51979]:
+                      - generic [ref=e51980]: "-"
+                  - row " tata test 1 Active Client,Vendor,End Cl... tatatest1.com/test tata test 1 Active Sandip Mahato -" [ref=e51981]:
+                    - cell "" [ref=e51982]:
+                      - generic [ref=e51983]:
+                        - generic [ref=e51986] [cursor=pointer]:
+                          - checkbox [ref=e51987]
+                          - generic:
+                            - img
+                        - button [ref=e51988] [cursor=pointer]:
+                          - img [ref=e51989]: more_vert
+                        - generic [ref=e51992]:
+                          - button [ref=e51993] [cursor=pointer]:
+                            - img [ref=e51994]: description
+                          - button "" [ref=e51997] [cursor=pointer]:
+                            - generic [ref=e51998]: 
+                          - button [ref=e52001] [cursor=pointer]:
+                            - img [ref=e52002]: contact_page
+                          - button [ref=e52005] [cursor=pointer]:
+                            - img [ref=e52006]: deployed_code_account
+                          - button [ref=e52009] [cursor=pointer]:
+                            - img [ref=e52010]: work
+                    - cell "tata test 1 Active" [ref=e52013]:
+                      - generic [ref=e52014]:
+                        - link "tata test 1" [ref=e52015] [cursor=pointer]:
+                          - /url: "#/accounts/2788/view?is_listing=1"
+                        - generic [ref=e52017]: Active
+                    - cell "Client,Vendor,End Cl..." [ref=e52018]:
+                      - generic [ref=e52021]: Client,Vendor,End Cl...
+                    - cell "tatatest1.com/test" [ref=e52022]:
+                      - generic [ref=e52025]: tatatest1.com/test
+                    - cell "tata test 1" [ref=e52026]:
+                      - generic [ref=e52029]: tata test 1
+                    - cell "Active" [ref=e52030]:
+                      - generic [ref=e52033]: Active
+                    - cell "Sandip Mahato" [ref=e52034]:
+                      - generic [ref=e52037]: Sandip Mahato
+                    - cell "-" [ref=e52038]:
+                      - generic [ref=e52039]: "-"
+                  - row " Fusion CX Active Client,Vendor,Prospe... fusioncx.com Fusion CX Active Venu Goli AI -" [ref=e52040]:
+                    - cell "" [ref=e52041]:
+                      - generic [ref=e52042]:
+                        - generic [ref=e52045] [cursor=pointer]:
+                          - checkbox [ref=e52046]
+                          - generic:
+                            - img
+                        - button [ref=e52047] [cursor=pointer]:
+                          - img [ref=e52048]: more_vert
+                        - generic [ref=e52051]:
+                          - button [ref=e52052] [cursor=pointer]:
+                            - img [ref=e52053]: description
+                          - button "" [ref=e52056] [cursor=pointer]:
+                            - generic [ref=e52057]: 
+                          - button [ref=e52060] [cursor=pointer]:
+                            - img [ref=e52061]:
+                              - text: contact_page
+                              - generic: "1"
+                          - button [ref=e52064] [cursor=pointer]:
+                            - img [ref=e52065]: deployed_code_account
+                          - button [ref=e52068] [cursor=pointer]:
+                            - img [ref=e52069]:
+                              - text: work
+                              - generic: "2"
+                    - cell "Fusion CX Active" [ref=e52072]:
+                      - generic [ref=e52073]:
+                        - link "Fusion CX" [ref=e52074] [cursor=pointer]:
+                          - /url: "#/accounts/2787/view?is_listing=1"
+                        - generic [ref=e52076]: Active
+                    - cell "Client,Vendor,Prospe..." [ref=e52077]:
+                      - generic [ref=e52080]: Client,Vendor,Prospe...
+                    - cell "fusioncx.com" [ref=e52081]:
+                      - generic [ref=e52084]: fusioncx.com
+                    - cell "Fusion CX" [ref=e52085]:
+                      - generic [ref=e52088]: Fusion CX
+                    - cell "Active" [ref=e52089]:
+                      - generic [ref=e52092]: Active
+                    - cell "Venu Goli AI" [ref=e52093]:
+                      - generic [ref=e52096]: Venu Goli AI
+                    - cell "-" [ref=e52097]:
+                      - generic [ref=e52098]: "-"
+                  - row " Geovariances Active Client geovariances.com Geovariances Active Venu Recruiter1 -" [ref=e52099]:
+                    - cell "" [ref=e52100]:
+                      - generic [ref=e52101]:
+                        - generic [ref=e52104] [cursor=pointer]:
+                          - checkbox [ref=e52105]
+                          - generic:
+                            - img
+                        - button [ref=e52106] [cursor=pointer]:
+                          - img [ref=e52107]: more_vert
+                        - generic [ref=e52110]:
+                          - button [ref=e52111] [cursor=pointer]:
+                            - img [ref=e52112]: description
+                          - button "" [ref=e52115] [cursor=pointer]:
+                            - generic [ref=e52116]: 
+                          - button [ref=e52119] [cursor=pointer]:
+                            - img [ref=e52120]: contact_page
+                          - button [ref=e52123] [cursor=pointer]:
+                            - img [ref=e52124]: deployed_code_account
+                          - button [ref=e52127] [cursor=pointer]:
+                            - img [ref=e52128]: work
+                    - cell "Geovariances Active" [ref=e52131]:
+                      - generic [ref=e52132]:
+                        - link "Geovariances" [ref=e52133] [cursor=pointer]:
+                          - /url: "#/accounts/2786/view?is_listing=1"
+                        - generic [ref=e52135]: Active
+                    - cell "Client" [ref=e52136]:
+                      - generic [ref=e52139]: Client
+                    - cell "geovariances.com" [ref=e52140]:
+                      - generic [ref=e52143]: geovariances.com
+                    - cell "Geovariances" [ref=e52144]:
+                      - generic [ref=e52147]: Geovariances
+                    - cell "Active" [ref=e52148]:
+                      - generic [ref=e52151]: Active
+                    - cell "Venu Recruiter1" [ref=e52152]:
+                      - generic [ref=e52155]: Venu Recruiter1
+                    - cell "-" [ref=e52156]:
+                      - generic [ref=e52157]: "-"
+                  - row " Maruti Suzuki India Limited Active Client marutisuzuki.com Maruti Suzuki India ... Active Venubabu Goli -" [ref=e52158]:
+                    - cell "" [ref=e52159]:
+                      - generic [ref=e52160]:
+                        - generic [ref=e52163] [cursor=pointer]:
+                          - checkbox [ref=e52164]
+                          - generic:
+                            - img
+                        - button [ref=e52165] [cursor=pointer]:
+                          - img [ref=e52166]: more_vert
+                        - generic [ref=e52169]:
+                          - button [ref=e52170] [cursor=pointer]:
+                            - img [ref=e52171]: description
+                          - button "" [ref=e52174] [cursor=pointer]:
+                            - generic [ref=e52175]: 
+                          - button [ref=e52178] [cursor=pointer]:
+                            - img [ref=e52179]: contact_page
+                          - button [ref=e52182] [cursor=pointer]:
+                            - img [ref=e52183]: deployed_code_account
+                          - button [ref=e52186] [cursor=pointer]:
+                            - img [ref=e52187]: work
+                    - cell "Maruti Suzuki India Limited Active" [ref=e52190]:
+                      - generic [ref=e52191]:
+                        - link "Maruti Suzuki India Limited" [ref=e52192] [cursor=pointer]:
+                          - /url: "#/accounts/2784/view?is_listing=1"
+                        - generic [ref=e52194]: Active
+                    - cell "Client" [ref=e52195]:
+                      - generic [ref=e52198]: Client
+                    - cell "marutisuzuki.com" [ref=e52199]:
+                      - generic [ref=e52202]: marutisuzuki.com
+                    - cell "Maruti Suzuki India ..." [ref=e52203]:
+                      - generic [ref=e52206]: Maruti Suzuki India ...
+                    - cell "Active" [ref=e52207]:
+                      - generic [ref=e52210]: Active
+                    - cell "Venubabu Goli" [ref=e52211]:
+                      - generic [ref=e52214]: Venubabu Goli
+                    - cell "-" [ref=e52215]:
+                      - generic [ref=e52216]: "-"
+                  - row " AcumontSolutions Active Client https://acumont.com/ Acumont Solutions Active Delete HRMS -" [ref=e52217]:
+                    - cell "" [ref=e52218]:
+                      - generic [ref=e52219]:
+                        - generic [ref=e52222] [cursor=pointer]:
+                          - checkbox [ref=e52223]
+                          - generic:
+                            - img
+                        - button [ref=e52224] [cursor=pointer]:
+                          - img [ref=e52225]: more_vert
+                        - generic [ref=e52228]:
+                          - button [ref=e52229] [cursor=pointer]:
+                            - img [ref=e52230]: description
+                          - button "" [ref=e52233] [cursor=pointer]:
+                            - generic [ref=e52234]: 
+                          - button [ref=e52237] [cursor=pointer]:
+                            - img [ref=e52238]: contact_page
+                          - button [ref=e52241] [cursor=pointer]:
+                            - img [ref=e52242]: deployed_code_account
+                          - button [ref=e52245] [cursor=pointer]:
+                            - img [ref=e52246]: work
+                    - cell "AcumontSolutions Active" [ref=e52249]:
+                      - generic [ref=e52250]:
+                        - link "AcumontSolutions" [ref=e52251] [cursor=pointer]:
+                          - /url: "#/accounts/2783/view?is_listing=1"
+                        - generic [ref=e52253]: Active
+                    - cell "Client" [ref=e52254]:
+                      - generic [ref=e52257]: Client
+                    - cell "https://acumont.com/" [ref=e52258]:
+                      - generic [ref=e52261]: https://acumont.com/
+                    - cell "Acumont Solutions" [ref=e52262]:
+                      - generic [ref=e52265]: Acumont Solutions
+                    - cell "Active" [ref=e52266]:
+                      - generic [ref=e52269]: Active
+                    - cell "Delete HRMS" [ref=e52270]:
+                      - generic [ref=e52273]: Delete HRMS
+                    - cell "-" [ref=e52274]:
+                      - generic [ref=e52275]: "-"
+                  - row " SecOps Solution Active Client secopsolution.com - Active Suresh Sales Manager... -" [ref=e52276]:
+                    - cell "" [ref=e52277]:
+                      - generic [ref=e52278]:
+                        - generic [ref=e52281] [cursor=pointer]:
+                          - checkbox [ref=e52282]
+                          - generic:
+                            - img
+                        - button [ref=e52283] [cursor=pointer]:
+                          - img [ref=e52284]: more_vert
+                        - generic [ref=e52287]:
+                          - button [ref=e52288] [cursor=pointer]:
+                            - img [ref=e52289]: description
+                          - button "" [ref=e52292] [cursor=pointer]:
+                            - generic [ref=e52293]: 
+                          - button [ref=e52296] [cursor=pointer]:
+                            - img [ref=e52297]: contact_page
+                          - button [ref=e52300] [cursor=pointer]:
+                            - img [ref=e52301]: deployed_code_account
+                          - button [ref=e52304] [cursor=pointer]:
+                            - img [ref=e52305]: work
+                    - cell "SecOps Solution Active" [ref=e52308]:
+                      - generic [ref=e52309]:
+                        - link "SecOps Solution" [ref=e52310] [cursor=pointer]:
+                          - /url: "#/accounts/2780/view?is_listing=1"
+                        - generic [ref=e52312]: Active
+                    - cell "Client" [ref=e52313]:
+                      - generic [ref=e52316]: Client
+                    - cell "secopsolution.com" [ref=e52317]:
+                      - generic [ref=e52320]: secopsolution.com
+                    - cell "-" [ref=e52321]:
+                      - generic [ref=e52322]: "-"
+                    - cell "Active" [ref=e52323]:
+                      - generic [ref=e52326]: Active
+                    - cell "Suresh Sales Manager..." [ref=e52327]:
+                      - generic [ref=e52330]: Suresh Sales Manager...
+                    - cell "-" [ref=e52331]:
+                      - generic [ref=e52332]: "-"
+              - generic [ref=e50816]:
+                - generic [ref=e52333]:
+                  - generic [ref=e52334]: Go To
+                  - spinbutton [ref=e52336]
+                - combobox [ref=e50818]:
+                  - option "15"
+                  - option "20" [selected]
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e52337]: Showing 1 to 20 of 2119
+                - list [ref=e50820]:
+                  - listitem [ref=e50821]:
+                    - generic: «
+                  - listitem [ref=e50823]:
+                    - generic: ‹
+                  - listitem [ref=e52338]:
+                    - generic [ref=e52339] [cursor=pointer]: "1"
+                  - listitem [ref=e52340]:
+                    - generic [ref=e52341] [cursor=pointer]: "2"
+                  - listitem [ref=e52342]:
+                    - generic [ref=e52343] [cursor=pointer]: "3"
+                  - listitem [ref=e52344]:
+                    - generic [ref=e52345] [cursor=pointer]: "4"
+                  - listitem [ref=e52346]:
+                    - generic: ...
+                  - listitem [ref=e52347]:
+                    - generic [ref=e52348] [cursor=pointer]: "106"
+                  - listitem [ref=e50825]:
+                    - generic [ref=e50826] [cursor=pointer]: ›
+                  - listitem [ref=e50827]:
+                    - generic [ref=e50828] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

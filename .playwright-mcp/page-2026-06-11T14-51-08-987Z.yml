@@ -1,0 +1,565 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e74020]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e114]:
+                  - generic [ref=e115] [cursor=pointer]:
+                    - img [ref=e117]:
+                      - img [ref=e118]
+                    - generic [ref=e119]: HR
+                  - generic [ref=e72761]:
+                    - generic [ref=e72762]: Human Resources
+                    - generic [ref=e72764]:
+                      - link "Employees" [ref=e72765] [cursor=pointer]:
+                        - /url: "#/employees"
+                        - text:  Employees
+                      - link "" [ref=e72766] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72767]: 
+                    - generic [ref=e72769]:
+                      - link "Assignments" [ref=e72770] [cursor=pointer]:
+                        - /url: "#/assignments"
+                        - text:  Assignments
+                      - link "" [ref=e72771] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72772]: 
+                    - generic [ref=e72774]:
+                      - link "Timesheets" [ref=e72775] [cursor=pointer]:
+                        - /url: "#/timesheets/all"
+                        - text:  Timesheets
+                      - link "" [ref=e72776] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72777]: 
+                    - generic [ref=e72779]:
+                      - link "Expenses" [ref=e72780] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/submitted"
+                        - text:  Expenses
+                      - link "" [ref=e72781] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72782]: 
+                    - generic [ref=e72784]:
+                      - link "Invoices" [ref=e72785] [cursor=pointer]:
+                        - /url: "#/invoices/all"
+                        - text:  Invoices
+                      - link "" [ref=e72786] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72787]: 
+                    - generic [ref=e72789]:
+                      - link "Accounts Payable" [ref=e72790] [cursor=pointer]:
+                        - /url: "#/bills/list"
+                        - text:  Accounts Payable
+                      - link "" [ref=e72791] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72792]: 
+                    - generic [ref=e72794]:
+                      - link "US Immigration" [ref=e72795] [cursor=pointer]:
+                        - /url: "#/immigration/case_management"
+                        - text:  US Immigration
+                      - link "" [ref=e72796] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72797]: 
+                    - generic [ref=e72799]:
+                      - link "I9 Compliance" [ref=e72800] [cursor=pointer]:
+                        - /url: "#/i9/list"
+                        - text:  I9 Compliance
+                      - link "" [ref=e72801] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72802]: 
+                    - generic [ref=e72804]:
+                      - link "Tasks" [ref=e72805] [cursor=pointer]:
+                        - /url: "#/tasks_list"
+                        - text:  Tasks
+                      - link "" [ref=e72806] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72807]: 
+                    - generic [ref=e72809]:
+                      - link "Documents" [ref=e72810] [cursor=pointer]:
+                        - /url: "#/documents"
+                        - text:  Documents
+                      - link "" [ref=e72811] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72812]: 
+                    - generic [ref=e72814]:
+                      - link "Onboarding" [ref=e72815] [cursor=pointer]:
+                        - /url: "#/onboarding/requests"
+                        - text:  Onboarding
+                      - link "" [ref=e72816] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72817]: 
+                    - generic [ref=e72819]:
+                      - link "Attendance" [ref=e72820] [cursor=pointer]:
+                        - /url: "#/attendance"
+                        - text:  Attendance
+                      - link "" [ref=e72821] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72822]: 
+                    - generic [ref=e72824]:
+                      - link "Assets Management" [ref=e72825] [cursor=pointer]:
+                        - /url: "#/assets"
+                        - text:  Assets Management
+                      - link "" [ref=e72826] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72827]: 
+                    - generic [ref=e72829]:
+                      - link "Projects" [ref=e72830] [cursor=pointer]:
+                        - /url: "#/projects"
+                        - text:  Projects
+                      - link "" [ref=e72831] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72832]: 
+                    - generic [ref=e72834]:
+                      - link "Offboarding" [ref=e72835] [cursor=pointer]:
+                        - /url: "#/offboarding"
+                        - text:  Offboarding
+                      - link "" [ref=e72836] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72837]: 
+                    - generic [ref=e72839]:
+                      - link "Performance" [ref=e72840] [cursor=pointer]:
+                        - /url: "#/performance"
+                        - text:  Performance
+                      - link "" [ref=e72841] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72842]: 
+                    - generic [ref=e72844]:
+                      - link "Help Desk" [ref=e72845] [cursor=pointer]:
+                        - /url: "#/help_desk"
+                        - text:  Help Desk
+                      - link "" [ref=e72846] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72847]: 
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e73574]:
+          - generic [ref=e73576]:
+            - generic [ref=e73578]: Expenses
+            - generic [ref=e73579]:
+              - link "Home" [ref=e73583] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e73584]:
+                - text: /
+                - generic [ref=e73586]: Expenses
+          - navigation [ref=e73589]:
+            - button [disabled]
+            - generic [ref=e73592]:
+              - link "Expenses" [ref=e73593] [cursor=pointer]:
+                - /url: "#/expenses/expenses/submitted"
+                - generic [ref=e73595]: Expenses
+              - link "Pending Approvals" [ref=e73596] [cursor=pointer]:
+                - /url: "#/expenses/expenses/pending_approvals"
+                - generic [ref=e73598]: Pending Approvals
+              - link "Receipt Inbox" [ref=e73599] [cursor=pointer]:
+                - /url: "#/expenses/expenses/receipts/all_receipts"
+                - generic [ref=e73601]: Receipt Inbox
+              - link "Expense Payments" [ref=e73602] [cursor=pointer]:
+                - /url: "#/expenses/payments"
+                - generic [ref=e73604]: Expense Payments
+              - link "Advance Expenses" [ref=e73605] [cursor=pointer]:
+                - /url: "#/expenses/advance_expenses/submitted"
+                - generic [ref=e73607]: Advance Expenses
+              - link "Advance Expense Payments" [ref=e73608] [cursor=pointer]:
+                - /url: "#/expenses/advance_expense_payments"
+                - generic [ref=e73610]: Advance Expense Payments
+              - link "Advance Salary" [ref=e73722] [cursor=pointer]:
+                - /url: "#/expenses/advance_salaries/submitted"
+                - generic [ref=e73724]: Advance Salary
+            - button [ref=e73725] [cursor=pointer]
+          - generic [ref=e73612]:
+            - generic [ref=e73617]:
+              - heading "Views" [level=6] [ref=e73619]
+              - generic [ref=e73620]:
+                - generic [ref=e73624] [cursor=pointer]: Submitted
+                - generic [ref=e73628] [cursor=pointer]: Approved
+                - generic [ref=e73632] [cursor=pointer]: Rejected
+                - generic [ref=e73636] [cursor=pointer]: Draft
+                - generic [ref=e73640] [cursor=pointer]: Paid
+                - generic [ref=e73644] [cursor=pointer]: Due
+            - generic [ref=e73648]:
+              - generic [ref=e73649]:
+                - generic [ref=e73650]:
+                  - generic [ref=e73651]:
+                    - button [ref=e73652] [cursor=pointer]:
+                      - img [ref=e73653]: left_panel_close
+                    - generic [ref=e73659]:
+                      - textbox "ID, Expense Name, Employee Name" [ref=e73660]
+                      - button [ref=e73661] [cursor=pointer]:
+                        - img [ref=e73662]: search
+                  - generic [ref=e73663]:
+                    - button "Add Expense" [ref=e73727]:
+                      - generic [ref=e73728]: Add Expense
+                    - button [ref=e73664]:
+                      - img [ref=e73665]: view_column
+                    - button [ref=e73668]:
+                      - img [ref=e73669]: tune
+                - generic [ref=e73672]:
+                  - generic [ref=e73675] [cursor=pointer]:
+                    - generic [ref=e73676]: Select Employee
+                    - combobox "Select Employee" [ref=e73678]:
+                      - img [ref=e73684]
+                  - generic [ref=e73688] [cursor=pointer]:
+                    - generic [ref=e73731]: Select Date filter
+                    - combobox "Select Date filter Last 90 Days" [ref=e73732]:
+                      - generic [ref=e73692]:
+                        - generic [ref=e73733]: Last 90 Days
+                        - img [ref=e73697]
+                  - generic [ref=e73699]:
+                    - button [ref=e73700]:
+                      - img [ref=e73701]: filter_alt
+                    - button [ref=e73704]:
+                      - img [ref=e73705]: refresh
+              - table [ref=e73735]:
+                - rowgroup [ref=e73736]:
+                  - row "Expense ID Name Employee Duration Total Expense Submitted Date" [ref=e73737]:
+                    - columnheader [ref=e73738]
+                    - columnheader "Expense ID" [ref=e73739]
+                    - columnheader "Name" [ref=e73740]
+                    - columnheader "Employee" [ref=e73741]
+                    - columnheader "Duration" [ref=e73742]
+                    - columnheader "Total Expense" [ref=e73743]
+                    - columnheader "Submitted Date" [ref=e73744]
+                - rowgroup [ref=e73745]:
+                  - row "EXP- 1882 Mohan Expense Mohan Employee June 1, 2026 to June 5, 2026 $ 1200 June 10, 2026" [ref=e73746]:
+                    - cell [ref=e73747]:
+                      - generic [ref=e73748]:
+                        - button [ref=e73749] [cursor=pointer]:
+                          - img [ref=e73750]: more_vert
+                        - button [ref=e73753] [cursor=pointer]:
+                          - img [ref=e73754]: person_check
+                    - cell "EXP- 1882" [ref=e73757]
+                    - cell "Mohan Expense" [ref=e73758]:
+                      - link "Mohan Expense" [ref=e73759] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/883/view"
+                    - cell "Mohan Employee" [ref=e73760]
+                    - cell "June 1, 2026 to June 5, 2026" [ref=e73761]
+                    - cell "$ 1200" [ref=e73762]
+                    - cell "June 10, 2026" [ref=e73763]
+                  - row "EXP- 1881 Mohan Employee Per Diem Expense Mohan Employee May 1, 2026 to May 10, 2026 $ 90 May 14, 2026" [ref=e73764]:
+                    - cell [ref=e73765]:
+                      - generic [ref=e73766]:
+                        - button [ref=e73767] [cursor=pointer]:
+                          - img [ref=e73768]: more_vert
+                        - button [ref=e73771] [cursor=pointer]:
+                          - img [ref=e73772]: person_check
+                    - cell "EXP- 1881" [ref=e73775]
+                    - cell "Mohan Employee Per Diem Expense" [ref=e73776]:
+                      - link "Mohan Employee Per Diem Expense" [ref=e73777] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/882/view"
+                    - cell "Mohan Employee" [ref=e73778]
+                    - cell "May 1, 2026 to May 10, 2026" [ref=e73779]
+                    - cell "$ 90" [ref=e73780]
+                    - cell "May 14, 2026" [ref=e73781]
+                  - row "EXP- 1880 Fuel Expense Mohana Rao May 1, 2026 to May 10, 2026 $ 3000 May 14, 2026" [ref=e73782]:
+                    - cell [ref=e73783]:
+                      - generic [ref=e73784]:
+                        - button [ref=e73785] [cursor=pointer]:
+                          - img [ref=e73786]: more_vert
+                        - button [ref=e73789] [cursor=pointer]:
+                          - img [ref=e73790]: person_check
+                    - cell "EXP- 1880" [ref=e73793]
+                    - cell "Fuel Expense" [ref=e73794]:
+                      - link "Fuel Expense" [ref=e73795] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/881/view"
+                    - cell "Mohana Rao" [ref=e73796]
+                    - cell "May 1, 2026 to May 10, 2026" [ref=e73797]
+                    - cell "$ 3000" [ref=e73798]
+                    - cell "May 14, 2026" [ref=e73799]
+                  - row "EXP- 1879 travelling expense Sandip Mahato May 11, 2026 to May 12, 2026 $ 112 May 12, 2026" [ref=e73800]:
+                    - cell [ref=e73801]:
+                      - generic [ref=e73802]:
+                        - button [ref=e73803] [cursor=pointer]:
+                          - img [ref=e73804]: more_vert
+                        - button [ref=e73807] [cursor=pointer]:
+                          - img [ref=e73808]: person_check
+                    - cell "EXP- 1879" [ref=e73811]
+                    - cell "travelling expense" [ref=e73812]:
+                      - link "travelling expense" [ref=e73813] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/880/view"
+                    - cell "Sandip Mahato" [ref=e73814]
+                    - cell "May 11, 2026 to May 12, 2026" [ref=e73815]
+                    - cell "$ 112" [ref=e73816]
+                    - cell "May 12, 2026" [ref=e73817]
+                  - row "EXP- 1878 Food Expense Mohana Rao May 11, 2026 to May 12, 2026 $ 130 May 12, 2026" [ref=e73818]:
+                    - cell [ref=e73819]:
+                      - generic [ref=e73820]:
+                        - button [ref=e73821] [cursor=pointer]:
+                          - img [ref=e73822]: more_vert
+                        - button [ref=e73825] [cursor=pointer]:
+                          - img [ref=e73826]: person_check
+                    - cell "EXP- 1878" [ref=e73829]
+                    - cell "Food Expense" [ref=e73830]:
+                      - link "Food Expense" [ref=e73831] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/879/view"
+                    - cell "Mohana Rao" [ref=e73832]
+                    - cell "May 11, 2026 to May 12, 2026" [ref=e73833]
+                    - cell "$ 130" [ref=e73834]
+                    - cell "May 12, 2026" [ref=e73835]
+                  - row "EXP- 1877 Entertainment Expense Mohana Rao May 10, 2026 to May 11, 2026 $ 120 May 12, 2026" [ref=e73836]:
+                    - cell [ref=e73837]:
+                      - generic [ref=e73838]:
+                        - button [ref=e73839] [cursor=pointer]:
+                          - img [ref=e73840]: more_vert
+                        - button [ref=e73843] [cursor=pointer]:
+                          - img [ref=e73844]: person_check
+                    - cell "EXP- 1877" [ref=e73847]
+                    - cell "Entertainment Expense" [ref=e73848]:
+                      - link "Entertainment Expense" [ref=e73849] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/878/view"
+                    - cell "Mohana Rao" [ref=e73850]
+                    - cell "May 10, 2026 to May 11, 2026" [ref=e73851]
+                    - cell "$ 120" [ref=e73852]
+                    - cell "May 12, 2026" [ref=e73853]
+                  - row "EXP- 1876 test name Tharun j May 11, 2026 to May 19, 2026 $ 300 May 11, 2026" [ref=e73854]:
+                    - cell [ref=e73855]:
+                      - generic [ref=e73856]:
+                        - button [ref=e73857] [cursor=pointer]:
+                          - img [ref=e73858]: more_vert
+                        - button [ref=e73861] [cursor=pointer]:
+                          - img [ref=e73862]: person_check
+                    - cell "EXP- 1876" [ref=e73865]
+                    - cell "test name" [ref=e73866]:
+                      - link "test name" [ref=e73867] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/877/view"
+                    - cell "Tharun j" [ref=e73868]
+                    - cell "May 11, 2026 to May 19, 2026" [ref=e73869]
+                    - cell "$ 300" [ref=e73870]
+                    - cell "May 11, 2026" [ref=e73871]
+                  - row "EXP- 1875 test Tharun j May 11, 2026 to May 19, 2026 $ 30 May 11, 2026" [ref=e73872]:
+                    - cell [ref=e73873]:
+                      - generic [ref=e73874]:
+                        - button [ref=e73875] [cursor=pointer]:
+                          - img [ref=e73876]: more_vert
+                        - button [ref=e73879] [cursor=pointer]:
+                          - img [ref=e73880]: person_check
+                    - cell "EXP- 1875" [ref=e73883]
+                    - cell "test" [ref=e73884]:
+                      - link "test" [ref=e73885] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/876/view"
+                    - cell "Tharun j" [ref=e73886]
+                    - cell "May 11, 2026 to May 19, 2026" [ref=e73887]
+                    - cell "$ 30" [ref=e73888]
+                    - cell "May 11, 2026" [ref=e73889]
+                  - row "EXP- 1874 new Exp Tharun j May 11, 2026 to May 19, 2026 $ 10 May 11, 2026" [ref=e73890]:
+                    - cell [ref=e73891]:
+                      - generic [ref=e73892]:
+                        - button [ref=e73893] [cursor=pointer]:
+                          - img [ref=e73894]: more_vert
+                        - button [ref=e73897] [cursor=pointer]:
+                          - img [ref=e73898]: person_check
+                    - cell "EXP- 1874" [ref=e73901]
+                    - cell "new Exp" [ref=e73902]:
+                      - link "new Exp" [ref=e73903] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/875/view"
+                    - cell "Tharun j" [ref=e73904]
+                    - cell "May 11, 2026 to May 19, 2026" [ref=e73905]
+                    - cell "$ 10" [ref=e73906]
+                    - cell "May 11, 2026" [ref=e73907]
+                  - row "EXP- 1873 add per diem expense Mohana Rao April 1, 2026 to April 7, 2026 $ 90 May 8, 2026" [ref=e73908]:
+                    - cell [ref=e73909]:
+                      - generic [ref=e73910]:
+                        - button [ref=e73911] [cursor=pointer]:
+                          - img [ref=e73912]: more_vert
+                        - button [ref=e73915] [cursor=pointer]:
+                          - img [ref=e73916]: person_check
+                    - cell "EXP- 1873" [ref=e73919]
+                    - cell "add per diem expense" [ref=e73920]:
+                      - link "add per diem expense" [ref=e73921] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/874/view"
+                    - cell "Mohana Rao" [ref=e73922]
+                    - cell "April 1, 2026 to April 7, 2026" [ref=e73923]
+                    - cell "$ 90" [ref=e73924]
+                    - cell "May 8, 2026" [ref=e73925]
+                  - row "EXP- 1872 Add Mileage expense Mohana Rao April 1, 2026 to April 7, 2026 $ 2500 May 8, 2026" [ref=e73926]:
+                    - cell [ref=e73927]:
+                      - generic [ref=e73928]:
+                        - button [ref=e73929] [cursor=pointer]:
+                          - img [ref=e73930]: more_vert
+                        - button [ref=e73933] [cursor=pointer]:
+                          - img [ref=e73934]: person_check
+                    - cell "EXP- 1872" [ref=e73937]
+                    - cell "Add Mileage expense" [ref=e73938]:
+                      - link "Add Mileage expense" [ref=e73939] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/873/view"
+                    - cell "Mohana Rao" [ref=e73940]
+                    - cell "April 1, 2026 to April 7, 2026" [ref=e73941]
+                    - cell "$ 2500" [ref=e73942]
+                    - cell "May 8, 2026" [ref=e73943]
+                  - row "EXP- 1871 Transportation Mohana Rao April 1, 2026 to April 20, 2026 $ 660 April 29, 2026" [ref=e73944]:
+                    - cell [ref=e73945]:
+                      - generic [ref=e73946]:
+                        - button [ref=e73947] [cursor=pointer]:
+                          - img [ref=e73948]: more_vert
+                        - button [ref=e73951] [cursor=pointer]:
+                          - img [ref=e73952]: person_check
+                    - cell "EXP- 1871" [ref=e73955]
+                    - cell "Transportation" [ref=e73956]:
+                      - link "Transportation" [ref=e73957] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/872/view"
+                    - cell "Mohana Rao" [ref=e73958]
+                    - cell "April 1, 2026 to April 20, 2026" [ref=e73959]
+                    - cell "$ 660" [ref=e73960]
+                    - cell "April 29, 2026" [ref=e73961]
+                  - row "EXP- 1870 Food Mohana Rao April 1, 2026 to April 15, 2026 $ 120 April 29, 2026" [ref=e73962]:
+                    - cell [ref=e73963]:
+                      - generic [ref=e73964]:
+                        - button [ref=e73965] [cursor=pointer]:
+                          - img [ref=e73966]: more_vert
+                        - button [ref=e73969] [cursor=pointer]:
+                          - img [ref=e73970]: person_check
+                    - cell "EXP- 1870" [ref=e73973]
+                    - cell "Food" [ref=e73974]:
+                      - link "Food" [ref=e73975] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/871/view"
+                    - cell "Mohana Rao" [ref=e73976]
+                    - cell "April 1, 2026 to April 15, 2026" [ref=e73977]
+                    - cell "$ 120" [ref=e73978]
+                    - cell "April 29, 2026" [ref=e73979]
+                  - row "EXP- 1869 eqew Venubabu Goli April 1, 2026 to April 9, 2026 $ 100 April 9, 2026" [ref=e73980]:
+                    - cell [ref=e73981]:
+                      - generic [ref=e73982]:
+                        - button [ref=e73983] [cursor=pointer]:
+                          - img [ref=e73984]: more_vert
+                        - button [ref=e73987] [cursor=pointer]:
+                          - img [ref=e73988]: person_check
+                    - cell "EXP- 1869" [ref=e73991]
+                    - cell "eqew" [ref=e73992]:
+                      - link "eqew" [ref=e73993] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/870/view"
+                    - cell "Venubabu Goli" [ref=e73994]
+                    - cell "April 1, 2026 to April 9, 2026" [ref=e73995]
+                    - cell "$ 100" [ref=e73996]
+                    - cell "April 9, 2026" [ref=e73997]
+                  - row "EXP- 1868 test Tharun j April 1, 2026 to April 30, 2026 $ 100 April 9, 2026" [ref=e73998]:
+                    - cell [ref=e73999]:
+                      - generic [ref=e74000]:
+                        - button [ref=e74001] [cursor=pointer]:
+                          - img [ref=e74002]: more_vert
+                        - button [ref=e74005] [cursor=pointer]:
+                          - img [ref=e74006]: person_check
+                    - cell "EXP- 1868" [ref=e74009]
+                    - cell "test" [ref=e74010]:
+                      - link "test" [ref=e74011] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/869/view"
+                    - cell "Tharun j" [ref=e74012]
+                    - cell "April 1, 2026 to April 30, 2026" [ref=e74013]
+                    - cell "$ 100" [ref=e74014]
+                    - cell "April 9, 2026" [ref=e74015]
+              - generic [ref=e73711]:
+                - combobox [ref=e73713]:
+                  - option "15" [selected]
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e74016]: Showing 1 to 15 of 15
+                - list [ref=e73715]:
+                  - listitem [ref=e73716]:
+                    - generic: «
+                  - listitem [ref=e73717]:
+                    - generic: ‹
+                  - listitem [ref=e74017]:
+                    - generic [ref=e74018] [cursor=pointer]: "1"
+                  - listitem [ref=e73718]:
+                    - generic: ›
+                  - listitem [ref=e73720]:
+                    - generic: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

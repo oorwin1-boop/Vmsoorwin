@@ -1,0 +1,372 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e167]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e172] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e10501]:
+          - generic [ref=e10503]:
+            - generic [ref=e10505]: Jobs
+            - generic [ref=e10506]:
+              - link "Home" [ref=e10510] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e10511]:
+                - text: /
+                - generic [ref=e10513]: Jobs
+          - generic [ref=e10515]:
+            - generic [ref=e10516]:
+              - generic [ref=e10517]:
+                - button [ref=e10519]:
+                  - img [ref=e10520]: keyboard_backspace
+                - generic [ref=e10523]:
+                  - button "Publish" [ref=e10524]:
+                    - generic [ref=e10526]:
+                      - generic [ref=e10527]: Publish
+                      - img [ref=e10528]: keyboard_arrow_down
+                  - button "Candidate" [ref=e10531]:
+                    - generic [ref=e10533]:
+                      - generic [ref=e10534]: Candidate
+                      - img [ref=e10535]: keyboard_arrow_down
+                  - button "Pipeline" [ref=e10538]:
+                    - generic [ref=e10540]:
+                      - generic [ref=e10541]: Pipeline
+                      - img [ref=e10542]: keyboard_arrow_down
+              - generic [ref=e10545]:
+                - generic [ref=e10547]:
+                  - generic [ref=e10548]:
+                    - generic [ref=e10549]:
+                      - generic [ref=e10550]:
+                        - generic [ref=e10551]: OOJ - 86071
+                        - generic [ref=e10552]: Active (0 day ago)
+                      - generic [ref=e10553]:
+                        - generic [ref=e10554]: Java developer
+                        - generic [ref=e10557]: Dallas Texas, USA
+                    - separator [ref=e10558]
+                    - generic [ref=e10559]:
+                      - generic [ref=e10560]:
+                        - generic [ref=e10561]: Positions
+                        - generic [ref=e10562]:
+                          - generic [ref=e10563]: 1 Open
+                          - generic [ref=e10564]: 0 Closed
+                      - generic [ref=e10565]:
+                        - generic [ref=e10566]: "Source Campaigns : No"
+                        - generic [ref=e10567]:
+                          - generic [ref=e10568]: "CN :"
+                          - generic [ref=e10569]: "IC : 0"
+                  - generic [ref=e10571]:
+                    - button [ref=e10572]:
+                      - img [ref=e10573]: share
+                    - button [ref=e10576]:
+                      - img [ref=e10577]: more_vert
+                - generic [ref=e10580]:
+                  - generic [ref=e10582]:
+                    - generic [ref=e10583]:
+                      - generic [ref=e10584]: Pipeline
+                      - paragraph [ref=e10585]: "0"
+                    - button [ref=e10586] [cursor=pointer]:
+                      - img [ref=e10587]: account_tree
+                  - generic [ref=e10591]:
+                    - generic [ref=e10592]:
+                      - generic [ref=e10593]: Submitted
+                      - paragraph [ref=e10594]: "0"
+                    - button [ref=e10595] [cursor=pointer]:
+                      - img [ref=e10596]: export_notes
+                  - generic [ref=e10600]:
+                    - generic [ref=e10601]:
+                      - generic [ref=e10602]: End client
+                      - paragraph [ref=e10603]: "0"
+                    - button [ref=e10604] [cursor=pointer]:
+                      - img [ref=e10605]: assignment_ind
+                  - generic [ref=e10609]:
+                    - generic [ref=e10610]:
+                      - generic [ref=e10611]: Interviews
+                      - paragraph [ref=e10612]: "0"
+                    - button [ref=e10613] [cursor=pointer]:
+                      - img [ref=e10614]: adaptive_audio_mic
+                  - generic [ref=e10618]:
+                    - generic [ref=e10619]:
+                      - generic [ref=e10620]: Confirmations
+                      - paragraph [ref=e10621]: "0"
+                    - button [ref=e10622] [cursor=pointer]:
+                      - img [ref=e10623]: verified
+                  - generic [ref=e10627]:
+                    - generic [ref=e10628]:
+                      - generic [ref=e10629]: Rejected
+                      - paragraph [ref=e10630]: "0"
+                    - button [ref=e10631] [cursor=pointer]:
+                      - img [ref=e10632]: block
+                  - generic [ref=e10636]:
+                    - generic [ref=e10637]:
+                      - generic [ref=e10638]: Onboarded
+                      - paragraph [ref=e10639]: "0"
+                    - button [ref=e10640] [cursor=pointer]:
+                      - img [ref=e10641]: id_card
+                - navigation [ref=e10644]:
+                  - button [disabled]
+                  - generic [ref=e10647]:
+                    - link "Overview" [active] [ref=e10648] [cursor=pointer]:
+                      - /url: "#/jobs/9554/overview"
+                      - generic [ref=e10650]: Overview
+                    - link "Info" [ref=e10651] [cursor=pointer]:
+                      - /url: "#/jobs/9554/view"
+                      - generic [ref=e10653]: Info
+                    - link "Considered Candidates (0)" [ref=e10654] [cursor=pointer]:
+                      - /url: "#/jobs/9554/consideration_details?page=1"
+                      - generic [ref=e10656]:
+                        - text: Considered Candidates
+                        - generic [ref=e10657]: (0)
+                    - link "Pipeline (0)" [ref=e10658] [cursor=pointer]:
+                      - /url: "#/jobs/9554/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                      - generic [ref=e10660]:
+                        - text: Pipeline
+                        - generic [ref=e10661]: (0)
+                    - link "Submissions (0)" [ref=e10662] [cursor=pointer]:
+                      - /url: "#/jobs/9554/submission_details"
+                      - generic [ref=e10664]:
+                        - text: Submissions
+                        - generic [ref=e10665]: (0)
+                    - link "Interviews (0)" [ref=e10666] [cursor=pointer]:
+                      - /url: "#/jobs/9554/interviews"
+                      - generic [ref=e10668]:
+                        - text: Interviews
+                        - generic [ref=e10669]: (0)
+                    - link "Communications" [ref=e10670] [cursor=pointer]:
+                      - /url: "#/jobs/9554/communications/mail_track"
+                      - generic [ref=e10672]: Communications
+                    - link "Recruiter Actions" [ref=e10673] [cursor=pointer]:
+                      - /url: "#/jobs/9554/settings"
+                      - generic [ref=e10675]: Recruiter Actions
+                    - link "Assessments (0)" [ref=e10676] [cursor=pointer]:
+                      - /url: "#/jobs/9554/assessments?type=tagged"
+                      - generic [ref=e10678]:
+                        - text: Assessments
+                        - generic [ref=e10679]: (0)
+                  - button [ref=e10680] [cursor=pointer]
+                - generic [ref=e11387]:
+                  - generic [ref=e11390]:
+                    - generic [ref=e11394]:
+                      - generic [ref=e11396]: "0"
+                      - generic [ref=e11397]: Pipelined
+                    - generic [ref=e11401]:
+                      - generic [ref=e11403]: "0"
+                      - generic [ref=e11404]: submitted
+                    - generic [ref=e11408]:
+                      - generic [ref=e11410]: "0"
+                      - generic [ref=e11411]: interviewed
+                    - generic [ref=e11415]:
+                      - generic [ref=e11417]: "0"
+                      - generic [ref=e11418]: Confirmations
+                    - generic [ref=e11422]:
+                      - generic [ref=e11424]: "0"
+                      - generic [ref=e11425]: Accepted
+                    - generic [ref=e11429]:
+                      - generic [ref=e11431]: "0"
+                      - generic [ref=e11432]: Rejected
+                    - generic [ref=e11436]:
+                      - generic [ref=e11438]: "0"
+                      - generic [ref=e11439]: Onboarded
+                  - generic [ref=e11441]:
+                    - heading "To-Do" [level=4] [ref=e11442]
+                    - generic [ref=e11444]:
+                      - generic [ref=e11445]:
+                        - img [ref=e11446]: arrow_right
+                        - generic [ref=e11447]: 0 Tasks pending
+                      - generic [ref=e11448]:
+                        - img [ref=e11449]: arrow_right
+                        - generic [ref=e11450]: 0 Interviews
+                        - text: scheduled
+                      - generic [ref=e11451]:
+                        - img [ref=e11452]: arrow_right
+                        - generic [ref=e11453]: 0 Candidates onboarding in progress
+                      - generic [ref=e11454]:
+                        - img [ref=e11455]: arrow_right
+                        - generic [ref=e11456]: 0 Candidates
+                        - text: in pipeline
+                  - generic [ref=e11458]:
+                    - generic [ref=e11459]:
+                      - paragraph [ref=e11460]:
+                        - generic [ref=e11461]: Created By
+                        - generic [ref=e11462]: Srikanth Akkala
+                      - paragraph [ref=e11463]:
+                        - generic [ref=e11464]: Created On
+                        - generic [ref=e11465]: June 11, 2026
+                    - generic [ref=e11466]:
+                      - paragraph [ref=e11467]:
+                        - generic [ref=e11468]: Modified By
+                        - generic [ref=e11469]: Srikanth Akkala
+                      - paragraph [ref=e11470]:
+                        - generic [ref=e11471]: Modified On
+                        - generic [ref=e11472]: June 11, 2026
+                  - generic [ref=e11474]:
+                    - generic [ref=e11475]: Matching Profiles
+                    - generic [ref=e11476]:
+                      - generic [ref=e11477]:
+                        - generic [ref=e11478]:
+                          - text: "0"
+                          - generic [ref=e11479]: Candidates
+                        - generic [ref=e11480]: 80% to 100% match
+                      - generic [ref=e11481]:
+                        - generic [ref=e11482]:
+                          - text: "0"
+                          - generic [ref=e11483]: Candidates
+                        - generic [ref=e11484]: 50% to 100% match
+                      - generic [ref=e11485]:
+                        - generic [ref=e11486]:
+                          - text: "0"
+                          - generic [ref=e11487]: Candidates
+                        - generic [ref=e11488]: 10% to 100% match
+                  - generic [ref=e11490]:
+                    - generic [ref=e11491]: Activity
+                    - generic [ref=e11495]:
+                      - generic [ref=e11496]:
+                        - generic [ref=e11497]:
+                          - generic [ref=e11499]:
+                            - text: June 11, 2026
+                            - generic [ref=e11500]: 05:51:17
+                          - generic [ref=e11503]:
+                            - generic [ref=e11505]: share
+                            - generic [ref=e11507]: Job Pay & Billing Details has been created By Srikanth Akkala
+                        - generic [ref=e11508]:
+                          - generic [ref=e11510]:
+                            - text: June 11, 2026
+                            - generic [ref=e11511]: 05:51:17
+                          - generic [ref=e11514]:
+                            - generic [ref=e11516]: share
+                            - generic [ref=e11518]: Created Job By Srikanth Akkala
+                      - generic [ref=e11521]:
+                        - generic [ref=e11522]: Showing 1 to 2 of 2
+                        - list [ref=e11524]:
+                          - listitem [ref=e11525]:
+                            - generic: «
+                          - listitem [ref=e11526]:
+                            - generic: ‹
+                          - listitem [ref=e11527]:
+                            - generic [ref=e11528] [cursor=pointer]: "1"
+                          - listitem [ref=e11529]:
+                            - generic: ›
+                          - listitem [ref=e11530]:
+                            - generic: »
+              - generic [ref=e10717]:
+                - button "Clone" [ref=e10718]:
+                  - generic [ref=e10719]: Clone
+                - button "Edit" [ref=e10722]:
+                  - generic [ref=e10723]: Edit
+                - button "Previous" [ref=e10726]:
+                  - generic [ref=e10727]: Previous
+            - generic [ref=e10733]:
+              - generic [ref=e10735] [cursor=pointer]: 
+              - generic [ref=e10737] [cursor=pointer]: 
+              - generic [ref=e10739] [cursor=pointer]: 
+              - separator [ref=e10740]
+              - generic [ref=e10741] [cursor=pointer]:
+                - generic [ref=e11384]:
+                  - generic: "679"
+                - generic [ref=e10742]: 
+              - generic [ref=e10744] [cursor=pointer]: 
+              - generic [ref=e10746] [cursor=pointer]: 
+              - generic [ref=e10748] [cursor=pointer]: 
+              - generic [ref=e10750] [cursor=pointer]: 
+              - generic [ref=e10752] [cursor=pointer]: 
+              - generic [ref=e10754] [cursor=pointer]: 
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e582]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

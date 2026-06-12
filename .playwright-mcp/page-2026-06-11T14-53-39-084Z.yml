@@ -1,0 +1,361 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e84176]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e120]:
+                  - generic [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]:
+                      - img [ref=e124]
+                    - generic [ref=e125]: General
+                  - generic [ref=e83277]:
+                    - generic [ref=e83278]: General
+                    - generic [ref=e83279]:
+                      - link "Accounts" [ref=e83280] [cursor=pointer]:
+                        - /url: "#/accounts"
+                        - text:  Accounts
+                      - link "" [ref=e83281] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83282]: 
+                    - generic [ref=e83283]:
+                      - link "Contacts" [ref=e83284] [cursor=pointer]:
+                        - /url: "#/accounts/contacts"
+                        - text:  Contacts
+                      - link "" [ref=e83285] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83286]: 
+                    - generic [ref=e83287]:
+                      - link "Digital Templates" [ref=e83288] [cursor=pointer]:
+                        - /url: "#/onboarding/document_submissions"
+                        - text: 
+                        - generic [ref=e83289]: Digital Templates
+                      - link "" [ref=e83290] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83291]: 
+                    - generic [ref=e83292]:
+                      - link "Assessments" [ref=e83293] [cursor=pointer]:
+                        - /url: "#/assessments/available"
+                        - text:  Assessments
+                      - link "" [ref=e83294] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83295]: 
+                    - generic [ref=e83296]:
+                      - link "Targets" [ref=e83297] [cursor=pointer]:
+                        - /url: "#/common_targets/ats"
+                        - text:  Targets
+                      - link "" [ref=e83298] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83299]: 
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e83997]:
+          - generic [ref=e83999]:
+            - heading "Targets" [level=1] [ref=e84000]
+            - generic [ref=e84001]:
+              - link "Home" [ref=e84005] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e84006]:
+                - text: /
+                - generic [ref=e84008]: Targets
+          - generic [ref=e84009]:
+            - generic [ref=e84015]:
+              - generic [ref=e84019] [cursor=pointer]: ATS
+              - generic [ref=e84023] [cursor=pointer]: CRM
+            - generic [ref=e84027]:
+              - generic [ref=e84028]:
+                - button [ref=e84030] [cursor=pointer]:
+                  - img [ref=e84031]: right_panel_open
+                - generic [ref=e84035]:
+                  - tablist [ref=e84038]:
+                    - generic [ref=e84039]:
+                      - tab "My Targets" [selected] [ref=e84040] [cursor=pointer]:
+                        - generic [ref=e84042]: My Targets
+                      - tab "Organization Targets" [ref=e84043] [cursor=pointer]:
+                        - generic [ref=e84045]: Organization Targets
+                      - tab "Other Targets" [ref=e84046] [cursor=pointer]:
+                        - generic [ref=e84048]: Other Targets
+                  - generic [ref=e84049]:
+                    - tabpanel "My Targets"
+                    - tabpanel [ref=e84050]
+                    - tabpanel [ref=e84051]
+              - generic [ref=e84054]:
+                - link "Set Targets" [ref=e84056] [cursor=pointer]:
+                  - /url: "#/common_targets/configure/ats"
+                  - generic [ref=e84057]: Set Targets
+                - generic [ref=e84061]:
+                  - generic [ref=e84063]: Day Targets
+                  - generic [ref=e84064]:
+                    - generic [ref=e84066]:
+                      - generic [ref=e84067]:
+                        - generic [ref=e84068]: Candidates
+                        - generic [ref=e84069]:
+                          - generic [ref=e84070]: "1"
+                          - generic [ref=e84071]: /
+                          - generic [ref=e84072]: "2"
+                          - generic [ref=e84073]: ( 50% )
+                      - img [ref=e84182]:
+                        - generic "Chart context menu" [ref=e84195] [cursor=pointer]
+                        - generic [ref=e84199]:
+                          - generic [ref=e84200]: "0"
+                          - generic [ref=e84201]: "0.5"
+                          - generic [ref=e84202]: "1"
+                          - generic [ref=e84203]: "1.5"
+                          - generic [ref=e84204]: "2"
+                    - generic [ref=e84076]:
+                      - generic [ref=e84077]:
+                        - generic [ref=e84078]: Submissions
+                        - generic [ref=e84079]:
+                          - generic [ref=e84080]: "0"
+                          - generic [ref=e84081]: /
+                          - generic [ref=e84082]: "2"
+                          - generic [ref=e84083]: ( 0% )
+                      - img [ref=e84207]:
+                        - generic "Chart context menu" [ref=e84219] [cursor=pointer]
+                        - generic [ref=e84223]:
+                          - generic [ref=e84224]: "0"
+                          - generic [ref=e84225]: "0.5"
+                          - generic [ref=e84226]: "1"
+                          - generic [ref=e84227]: "1.5"
+                          - generic [ref=e84228]: "2"
+                    - generic [ref=e84086]:
+                      - generic [ref=e84087]:
+                        - generic [ref=e84088]: Internal Submissions
+                        - generic [ref=e84089]:
+                          - generic [ref=e84090]: "0"
+                          - generic [ref=e84091]: /
+                          - generic [ref=e84092]: "2"
+                          - generic [ref=e84093]: ( 0% )
+                      - img [ref=e84231]:
+                        - generic "Chart context menu" [ref=e84243] [cursor=pointer]
+                        - generic [ref=e84247]:
+                          - generic [ref=e84248]: "0"
+                          - generic [ref=e84249]: "0.5"
+                          - generic [ref=e84250]: "1"
+                          - generic [ref=e84251]: "1.5"
+                          - generic [ref=e84252]: "2"
+                    - generic [ref=e84096]:
+                      - generic [ref=e84097]:
+                        - generic [ref=e84098]: Client Submissions
+                        - generic [ref=e84099]:
+                          - generic [ref=e84100]: "0"
+                          - generic [ref=e84101]: /
+                          - generic [ref=e84102]: "2"
+                          - generic [ref=e84103]: ( 0% )
+                      - img [ref=e84255]:
+                        - generic "Chart context menu" [ref=e84267] [cursor=pointer]
+                        - generic [ref=e84271]:
+                          - generic [ref=e84272]: "0"
+                          - generic [ref=e84273]: "0.5"
+                          - generic [ref=e84274]: "1"
+                          - generic [ref=e84275]: "1.5"
+                          - generic [ref=e84276]: "2"
+                    - generic [ref=e84106]:
+                      - generic [ref=e84107]:
+                        - generic [ref=e84108]: Pool Submissions
+                        - generic [ref=e84109]:
+                          - generic [ref=e84110]: "0"
+                          - generic [ref=e84111]: /
+                          - generic [ref=e84112]: "2"
+                          - generic [ref=e84113]: ( 0% )
+                      - img [ref=e84279]:
+                        - generic "Chart context menu" [ref=e84291] [cursor=pointer]
+                        - generic [ref=e84295]:
+                          - generic [ref=e84296]: "0"
+                          - generic [ref=e84297]: "0.5"
+                          - generic [ref=e84298]: "1"
+                          - generic [ref=e84299]: "1.5"
+                          - generic [ref=e84300]: "2"
+                    - generic [ref=e84116]:
+                      - generic [ref=e84117]:
+                        - generic [ref=e84118]: Placements
+                        - generic [ref=e84119]:
+                          - generic [ref=e84120]: "0"
+                          - generic [ref=e84121]: /
+                          - generic [ref=e84122]: "2"
+                          - generic [ref=e84123]: ( 0% )
+                      - img [ref=e84303]:
+                        - generic "Chart context menu" [ref=e84315] [cursor=pointer]
+                        - generic [ref=e84319]:
+                          - generic [ref=e84320]: "0"
+                          - generic [ref=e84321]: "0.5"
+                          - generic [ref=e84322]: "1"
+                          - generic [ref=e84323]: "1.5"
+                          - generic [ref=e84324]: "2"
+                    - generic [ref=e84126]:
+                      - generic [ref=e84127]:
+                        - generic [ref=e84128]: Pool Placements
+                        - generic [ref=e84129]:
+                          - generic [ref=e84130]: "0"
+                          - generic [ref=e84131]: /
+                          - generic [ref=e84132]: "2"
+                          - generic [ref=e84133]: ( 0% )
+                      - img [ref=e84327]:
+                        - generic "Chart context menu" [ref=e84339] [cursor=pointer]
+                        - generic [ref=e84343]:
+                          - generic [ref=e84344]: "0"
+                          - generic [ref=e84345]: "0.5"
+                          - generic [ref=e84346]: "1"
+                          - generic [ref=e84347]: "1.5"
+                          - generic [ref=e84348]: "2"
+                    - generic [ref=e84136]:
+                      - generic [ref=e84137]:
+                        - generic [ref=e84138]: Interviews
+                        - generic [ref=e84139]:
+                          - generic [ref=e84140]: "0"
+                          - generic [ref=e84141]: /
+                          - generic [ref=e84142]: "2"
+                          - generic [ref=e84143]: ( 0% )
+                      - img [ref=e84351]:
+                        - generic "Chart context menu" [ref=e84363] [cursor=pointer]
+                        - generic [ref=e84367]:
+                          - generic [ref=e84368]: "0"
+                          - generic [ref=e84369]: "0.5"
+                          - generic [ref=e84370]: "1"
+                          - generic [ref=e84371]: "1.5"
+                          - generic [ref=e84372]: "2"
+                    - generic [ref=e84146]:
+                      - generic [ref=e84147]:
+                        - generic [ref=e84148]: Calls
+                        - generic [ref=e84149]:
+                          - generic [ref=e84150]: "0"
+                          - generic [ref=e84151]: /
+                          - generic [ref=e84152]: "2"
+                          - generic [ref=e84153]: ( 0% )
+                      - img [ref=e84375]:
+                        - generic "Chart context menu" [ref=e84387] [cursor=pointer]
+                        - generic [ref=e84391]:
+                          - generic [ref=e84392]: "0"
+                          - generic [ref=e84393]: "0.5"
+                          - generic [ref=e84394]: "1"
+                          - generic [ref=e84395]: "1.5"
+                          - generic [ref=e84396]: "2"
+                    - generic [ref=e84156]:
+                      - generic [ref=e84157]:
+                        - generic [ref=e84158]: Job Shares
+                        - generic [ref=e84159]:
+                          - generic [ref=e84160]: "0"
+                          - generic [ref=e84161]: /
+                          - generic [ref=e84162]: "2"
+                          - generic [ref=e84163]: ( 0% )
+                      - img [ref=e84399]:
+                        - generic "Chart context menu" [ref=e84411] [cursor=pointer]
+                        - generic [ref=e84415]:
+                          - generic [ref=e84416]: "0"
+                          - generic [ref=e84417]: "0.5"
+                          - generic [ref=e84418]: "1"
+                          - generic [ref=e84419]: "1.5"
+                          - generic [ref=e84420]: "2"
+                    - generic [ref=e84166]:
+                      - generic [ref=e84167]:
+                        - generic [ref=e84168]: HotList Shares
+                        - generic [ref=e84169]:
+                          - generic [ref=e84170]: "0"
+                          - generic [ref=e84171]: /
+                          - generic [ref=e84172]: "2"
+                          - generic [ref=e84173]: ( 0% )
+                      - img [ref=e84423]:
+                        - generic "Chart context menu" [ref=e84435] [cursor=pointer]
+                        - generic [ref=e84439]:
+                          - generic [ref=e84440]: "0"
+                          - generic [ref=e84441]: "0.5"
+                          - generic [ref=e84442]: "1"
+                          - generic [ref=e84443]: "1.5"
+                          - generic [ref=e84444]: "2"
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

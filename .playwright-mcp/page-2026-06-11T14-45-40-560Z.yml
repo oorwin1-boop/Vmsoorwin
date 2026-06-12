@@ -1,0 +1,665 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e67594]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e65954]:
+          - generic [ref=e65956]:
+            - heading "Candidates" [level=1] [ref=e65958]
+            - generic [ref=e65959]:
+              - link "Home" [ref=e65963] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e65964]:
+                - text: /
+                - generic [ref=e65966]: Candidates
+          - generic [ref=e65969]:
+            - generic [ref=e65984]:
+              - generic [ref=e65985]:
+                - generic [ref=e65987]:
+                  - generic [ref=e65988]:
+                    - generic [ref=e65990]: Personal Details
+                    - generic [ref=e65993]:
+                      - generic [ref=e65997]:
+                        - generic:
+                          - generic:
+                            - generic [ref=e65999]: Candidate ID
+                            - textbox "Candidate ID" [disabled] [ref=e66000]: OOC -16275
+                      - generic [ref=e66008]:
+                        - generic [ref=e66010]: First Name
+                        - textbox "First Name" [ref=e66012]
+                      - generic [ref=e66020] [cursor=pointer]:
+                        - generic [ref=e66022]: Work Authorization
+                        - combobox "Work Authorization Select" [ref=e66024]:
+                          - generic [ref=e66025]:
+                            - generic [ref=e66027]: Select
+                            - img [ref=e66030]
+                      - generic [ref=e66039]:
+                        - generic [ref=e66041]: Last Name
+                        - textbox "Last Name" [ref=e66043]
+                      - generic [ref=e66050]:
+                        - generic [ref=e66052]: Email
+                        - textbox "Email" [ref=e66054]
+                      - generic [ref=e66062]:
+                        - generic [ref=e66064]: Middle Name
+                        - textbox "Middle Name" [ref=e66066]
+                      - generic [ref=e66073]:
+                        - generic [ref=e66075]: Alternate Email
+                        - textbox "Alternate Email" [ref=e66077]
+                      - generic [ref=e66081]:
+                        - generic [ref=e66085]:
+                          - generic [ref=e66087]: Phone
+                          - generic [ref=e66090]:
+                            - button "+1" [ref=e66091]:
+                              - generic [ref=e66092]: "+1"
+                            - textbox [ref=e66096]
+                        - spinbutton [ref=e66103]
+                      - generic [ref=e66109]:
+                        - generic [ref=e66113]:
+                          - generic [ref=e66115]: Expected R...
+                          - spinbutton "Expected R..." [ref=e66117]
+                        - generic [ref=e66119]: To
+                        - generic [ref=e66123]:
+                          - generic [ref=e66125]: Expected R...
+                          - spinbutton "Expected R..." [ref=e66127]
+                      - generic [ref=e66134]:
+                        - generic [ref=e66136]: Authorized to work in Whi...
+                        - textbox "Authorized to work in Whi..." [ref=e66138]
+                      - generic [ref=e66145]:
+                        - generic [ref=e66147]: Github URL
+                        - textbox "Github URL" [ref=e66149]
+                      - generic [ref=e66157] [cursor=pointer]:
+                        - generic [ref=e66159]: Candidate Status
+                        - combobox "Candidate Status Available" [ref=e66161]:
+                          - generic [ref=e66162]:
+                            - generic [ref=e66164]: Available
+                            - img [ref=e66167]
+                      - generic [ref=e66176]:
+                        - generic [ref=e66178]: Mobile
+                        - generic [ref=e66181]:
+                          - button "+1" [ref=e66182]:
+                            - generic [ref=e66183]: "+1"
+                          - textbox [ref=e66187]
+                      - generic [ref=e66194]:
+                        - generic [ref=e66196]: Willing to relocate *
+                        - generic "item.label_name" [ref=e66198]:
+                          - textbox "Willing to relocate *" [ref=e66199]:
+                            - /placeholder: Add willing to relocate...
+                      - generic [ref=e66206] [cursor=pointer]:
+                        - generic [ref=e66208]: State
+                        - combobox "State" [ref=e66210]:
+                          - img [ref=e66216]
+                      - generic [ref=e66225] [cursor=pointer]:
+                        - generic [ref=e66227]: Owner
+                        - combobox "Owner Pavan Kumar DEV" [ref=e66229]:
+                          - generic [ref=e66230]:
+                            - generic [ref=e66233]: Pavan Kumar DEV
+                            - img [ref=e66236]
+                      - generic [ref=e66245]:
+                        - generic [ref=e66247]: Job Title
+                        - textbox "Job Title" [ref=e66249]
+                      - generic [ref=e66257] [cursor=pointer]:
+                        - generic [ref=e66259]: Source
+                        - combobox "Source Direct Sourcing" [ref=e66261]:
+                          - generic [ref=e66262]:
+                            - generic [ref=e66264]: Direct Sourcing
+                            - img [ref=e66267]
+                      - generic [ref=e66275]:
+                        - generic [ref=e66277]: Date Of Birth
+                        - textbox "Date Of Birth" [ref=e66279]
+                        - button "Open calendar" [ref=e66282] [cursor=pointer]:
+                          - img [ref=e66283]
+                      - generic [ref=e66293]:
+                        - generic [ref=e66295]: Years of Experience
+                        - spinbutton "Years of Experience" [ref=e66297]
+                      - generic [ref=e66305] [cursor=pointer]:
+                        - generic [ref=e66307]: Experience Level
+                        - combobox "Experience Level Select" [ref=e66309]:
+                          - generic [ref=e66310]:
+                            - generic [ref=e66312]: Select
+                            - img [ref=e66315]
+                      - generic [ref=e66323]:
+                        - generic [ref=e66325]: City
+                        - combobox "City" [ref=e66327]
+                      - generic [ref=e66334] [cursor=pointer]:
+                        - generic [ref=e66336]: Country
+                        - combobox "Country USA" [ref=e66338]:
+                          - generic [ref=e66339]:
+                            - generic [ref=e66341]: USA
+                            - img [ref=e66344]
+                      - generic [ref=e66353]:
+                        - generic [ref=e66355]: Address
+                        - textbox "Address" [ref=e66357]
+                      - generic [ref=e66365]:
+                        - generic [ref=e66367]: Pincode
+                        - textbox "Pincode" [ref=e66369]
+                      - generic [ref=e66373]:
+                        - generic [ref=e66377]:
+                          - generic [ref=e66379]: Skills
+                          - generic "item.label_name" [ref=e66381]:
+                            - combobox "Skills" [ref=e66382]
+                        - button [ref=e66385]:
+                          - img [ref=e66386]: refresh
+                      - generic [ref=e66391]:
+                        - generic [ref=e66395]:
+                          - generic [ref=e66397]: Soft Skills
+                          - generic "item.label_name" [ref=e66399]:
+                            - combobox "Soft Skills" [ref=e66400]
+                        - button [ref=e66403]:
+                          - img [ref=e66404]: refresh
+                      - generic [ref=e66409]:
+                        - generic [ref=e66410]: Profile Summary
+                        - application "Rich Text Editor, editor_form" [ref=e66412]:
+                          - group "Editor toolbars":
+                            - toolbar "Basic Styles" [ref=e66413]:
+                              - button "Bold" [ref=e66414]
+                              - button "Italic" [ref=e66416]
+                              - button "Copy" [disabled] [ref=e66418]
+                              - button "Paste" [ref=e66420]
+                            - toolbar "Paragraph" [ref=e66422]:
+                              - button "Insert/Remove Bulleted List" [ref=e66423]
+                              - button "Insert/Remove Numbered List" [ref=e66425]
+                            - toolbar "Editing" [ref=e66427]:
+                              - button "Align Left" [ref=e66428]
+                              - button "Center" [ref=e66430]
+                              - button "Justify" [ref=e66432]
+                              - button "Align Right" [ref=e66434]
+                            - toolbar "Links" [ref=e66436]:
+                              - button "Link" [ref=e66437]
+                            - toolbar "Insert" [ref=e66439]:
+                              - button "Image" [ref=e66440]
+                              - button "Table" [ref=e66442]
+                            - toolbar "Colors" [ref=e66444]:
+                              - button "Text Color" [ref=e66445]
+                              - button "Background Color" [ref=e66448]
+                            - toolbar "Clipboard/Undo" [ref=e66451]:
+                              - button "Undo" [disabled] [ref=e66452]
+                              - button "Redo" [disabled] [ref=e66454]
+                            - toolbar "Styles" [ref=e66456]:
+                              - button "Styles" [ref=e66457]:
+                                - generic [ref=e66458]: Styles
+                              - button "Format" [ref=e66461]:
+                                - generic [ref=e66462]: Format
+                              - button "Font" [ref=e66465]:
+                                - generic [ref=e66466]: Font
+                              - button "Size" [ref=e66469]:
+                                - generic [ref=e66470]: Size
+                              - button "Paste from Word" [ref=e66473]
+                              - button "Source" [ref=e66475]:
+                                - generic [ref=e66477]: Source
+                          - iframe [ref=e66478]:
+                            - textbox "Editor, editor_form" [active] [ref=f14e1]
+                      - generic [ref=e66484]:
+                        - generic [ref=e66486]: Facebook URL
+                        - textbox "Facebook URL" [ref=e66488]
+                      - generic [ref=e66495]:
+                        - generic [ref=e66497]: LinkedIn URL
+                        - textbox "LinkedIn URL" [ref=e66499]
+                      - generic [ref=e66507] [cursor=pointer]:
+                        - generic [ref=e66509]: Expected Candidate CTC Ty...
+                        - combobox "Expected Candidate CTC Ty... Select" [ref=e66511]:
+                          - generic [ref=e66512]:
+                            - generic [ref=e66514]: Select
+                            - img [ref=e66517]
+                      - generic [ref=e66525]:
+                        - generic [ref=e66527]: X (Twitter) URL
+                        - textbox "X (Twitter) URL" [ref=e66529]
+                      - generic [ref=e66536]:
+                        - generic [ref=e66538]: Video Resume
+                        - textbox "Video Resume" [ref=e66540]
+                      - generic [ref=e66546]:
+                        - generic [ref=e66550]:
+                          - generic [ref=e66552]: Account
+                          - combobox "Account" [ref=e66554]
+                        - button [ref=e66557]:
+                          - img [ref=e66558]: add
+                      - generic [ref=e66565]:
+                        - generic [ref=e66569] [cursor=pointer]:
+                          - generic [ref=e66571]: Contact Name
+                          - combobox "Contact Name" [ref=e66573]:
+                            - img [ref=e66579]
+                        - button [ref=e66583]:
+                          - img [ref=e66584]: add
+                      - generic [ref=e66593] [cursor=pointer]:
+                        - generic [ref=e66595]: Remote Status
+                        - combobox "Remote Status OnSite" [ref=e66597]:
+                          - generic [ref=e66598]:
+                            - generic [ref=e66600]: OnSite
+                            - img [ref=e66603]
+                      - generic [ref=e66612] [cursor=pointer]:
+                        - generic [ref=e66614]: GENDER
+                        - combobox "GENDER Select" [ref=e66616]:
+                          - generic [ref=e66617]:
+                            - generic [ref=e66619]: Select
+                            - img [ref=e66622]
+                      - generic [ref=e66631] [cursor=pointer]:
+                        - generic [ref=e66633]: Current Candidate CTC Typ...
+                        - combobox "Current Candidate CTC Typ..." [ref=e66635]:
+                          - img [ref=e66641]
+                      - generic [ref=e66650]:
+                        - generic [ref=e66652]: Current CTC
+                        - textbox "Current CTC" [ref=e66654]
+                      - generic [ref=e66660]:
+                        - generic [ref=e66662]: Languages Known
+                        - generic "item.label_name" [ref=e66664]:
+                          - combobox "Languages Known" [ref=e66665]
+                      - generic [ref=e66672] [cursor=pointer]:
+                        - generic [ref=e66674]: Nationality
+                        - combobox "Nationality" [ref=e66676]:
+                          - img [ref=e66682]
+                      - generic [ref=e66687]:
+                        - generic [ref=e66689]: Job Type
+                        - radiogroup [ref=e66690]:
+                          - generic [ref=e66692]:
+                            - radio "Permanent" [ref=e66695] [cursor=pointer]
+                            - generic [ref=e66698]: Permanent
+                          - generic [ref=e66700]:
+                            - radio "Part Time" [ref=e66703] [cursor=pointer]
+                            - generic [ref=e66706]: Part Time
+                      - generic [ref=e66709]:
+                        - generic [ref=e66711]: Preferred Shift
+                        - radiogroup [ref=e66712]:
+                          - generic [ref=e66714]:
+                            - radio "Day" [ref=e66717] [cursor=pointer]
+                            - generic [ref=e66720]: Day
+                          - generic [ref=e66722]:
+                            - radio "Night" [ref=e66725] [cursor=pointer]
+                            - generic [ref=e66728]: Night
+                          - generic [ref=e66730]:
+                            - radio "Flexible" [ref=e66733] [cursor=pointer]
+                            - generic [ref=e66736]: Flexible
+                      - generic [ref=e66738]:
+                        - generic [ref=e66741]:
+                          - generic [ref=e66743]: Notice Period
+                          - spinbutton "Notice Period" [ref=e66745]
+                        - combobox [ref=e66751] [cursor=pointer]:
+                          - img [ref=e66756]
+                      - generic [ref=e66765] [cursor=pointer]:
+                        - generic [ref=e66767]: Contact this candidate di...
+                        - combobox "Contact this candidate di... Select" [ref=e66769]:
+                          - generic [ref=e66770]:
+                            - generic [ref=e66772]: Select
+                            - img [ref=e66775]
+                      - generic [ref=e66784]:
+                        - generic [ref=e66786]: Percentage of Client Fee
+                        - textbox "Percentage of Client Fee" [ref=e66788]
+                      - generic [ref=e66796] [cursor=pointer]:
+                        - generic [ref=e66798]: Security Clearance
+                        - combobox "Security Clearance Select" [ref=e66800]:
+                          - generic [ref=e66801]:
+                            - generic [ref=e66803]: Select
+                            - img [ref=e66806]
+                      - generic [ref=e66815] [cursor=pointer]:
+                        - generic [ref=e66817]: Ask for Referrals
+                        - combobox "Ask for Referrals Select" [ref=e66819]:
+                          - generic [ref=e66820]:
+                            - generic [ref=e66822]: Select
+                            - img [ref=e66825]
+                      - generic [ref=e66832]:
+                        - generic [ref=e66834]: Security Clearance Level
+                        - generic "item.label_name" [ref=e66836]:
+                          - combobox "Security Clearance Level" [ref=e66837]
+                      - generic [ref=e66845] [cursor=pointer]:
+                        - generic [ref=e66847]: Marital Status
+                        - combobox "Marital Status Select" [ref=e66849]:
+                          - generic [ref=e66850]:
+                            - generic [ref=e66852]: Select
+                            - img [ref=e66855]
+                      - generic [ref=e66864]:
+                        - generic [ref=e66866]: What is your current work...
+                        - textbox "What is your current work..." [ref=e66868]
+                      - generic [ref=e66876] [cursor=pointer]:
+                        - generic [ref=e66878]: What is your native place...
+                        - combobox "What is your native place... Select" [ref=e66880]:
+                          - generic [ref=e66881]:
+                            - generic [ref=e66883]: Select
+                            - img [ref=e66886]
+                      - generic [ref=e66895]:
+                        - generic [ref=e66897]: Current Company
+                        - textbox "Current Company" [ref=e66899]
+                      - generic [ref=e66907] [cursor=pointer]:
+                        - generic [ref=e66909]: Current Industry
+                        - combobox "Current Industry Select" [ref=e66911]:
+                          - generic [ref=e66912]:
+                            - generic [ref=e66914]: Select
+                            - img [ref=e66917]
+                      - generic [ref=e66926] [cursor=pointer]:
+                        - generic [ref=e66928]: Highest Degree
+                        - combobox "Highest Degree Select" [ref=e66930]:
+                          - generic [ref=e66931]:
+                            - generic [ref=e66933]: Select
+                            - img [ref=e66936]
+                      - generic [ref=e66944]:
+                        - generic [ref=e66946]: What is your total CTC?
+                        - spinbutton "What is your total CTC?" [ref=e66948]
+                      - generic [ref=e66955]:
+                        - generic [ref=e66957]: What is your average CTC?
+                        - spinbutton "What is your average CTC?" [ref=e66959]
+                      - generic [ref=e66966]:
+                        - generic [ref=e66968]: What is your variable CTC...
+                        - spinbutton "What is your variable CTC..." [ref=e66970]
+                      - generic [ref=e66978] [cursor=pointer]:
+                        - generic [ref=e66980]: Industry
+                        - combobox "Industry" [ref=e66982]:
+                          - img [ref=e66988]
+                      - generic [ref=e66997]:
+                        - generic [ref=e66999]: Nick Name
+                        - textbox "Nick Name" [ref=e67001]
+                      - generic [ref=e67009] [cursor=pointer]:
+                        - generic [ref=e67011]: Education Required
+                        - combobox "Education Required" [ref=e67013]:
+                          - img [ref=e67019]
+                      - generic [ref=e67028]:
+                        - generic [ref=e67030]: willing to relocate to an...
+                        - textbox "willing to relocate to an..." [ref=e67032]
+                      - generic [ref=e67040]:
+                        - generic [ref=e67042]: Relevent Experience- old
+                        - textbox "Relevent Experience- old" [ref=e67044]
+                      - generic [ref=e67052]:
+                        - generic [ref=e67054]: Relevent Experience
+                        - textbox "Relevent Experience" [ref=e67056]
+                      - generic [ref=e67063]:
+                        - generic [ref=e67065]: Last Working Day
+                        - textbox "Last Working Day" [ref=e67067]
+                        - button "Open calendar" [ref=e67070] [cursor=pointer]:
+                          - img [ref=e67071]
+                      - generic [ref=e67081]:
+                        - generic [ref=e67083]: Year of Education Pass
+                        - textbox "Year of Education Pass" [ref=e67085]
+                        - button "Open calendar" [ref=e67088] [cursor=pointer]:
+                          - img [ref=e67089]
+                      - generic [ref=e67100]:
+                        - generic [ref=e67102]: Client - Resume ID
+                        - textbox "Client - Resume ID" [ref=e67104]
+                      - generic [ref=e67112]:
+                        - generic [ref=e67114]: Indent ID
+                        - textbox "Indent ID" [ref=e67116]
+                      - generic [ref=e67124] [cursor=pointer]:
+                        - generic [ref=e67126]: Band
+                        - combobox "Band Select" [ref=e67128]:
+                          - generic [ref=e67129]:
+                            - generic [ref=e67131]: Select
+                            - img [ref=e67134]
+                      - generic [ref=e67143]:
+                        - generic [ref=e67145]: Current Employer
+                        - textbox "Current Employer" [ref=e67147]
+                      - generic [ref=e67155]:
+                        - generic [ref=e67157]: Holding Offer CTC
+                        - textbox "Holding Offer CTC" [ref=e67159]
+                      - generic [ref=e67167]:
+                        - generic [ref=e67169]: Holding Offer
+                        - textbox "Holding Offer" [ref=e67171]
+                      - generic [ref=e67179] [cursor=pointer]:
+                        - generic [ref=e67181]: Serving Notice period
+                        - combobox "Serving Notice period Select" [ref=e67183]:
+                          - generic [ref=e67184]:
+                            - generic [ref=e67186]: Select
+                            - img [ref=e67189]
+                      - generic [ref=e67198]:
+                        - generic [ref=e67200]: C-MOBILE
+                        - generic [ref=e67203]:
+                          - button "+1" [ref=e67204]:
+                            - generic [ref=e67205]: "+1"
+                          - textbox [ref=e67209]
+                      - generic [ref=e67217]:
+                        - generic [ref=e67219]: Project Manager
+                        - textbox "Project Manager" [ref=e67221]
+                      - generic [ref=e67229]:
+                        - generic [ref=e67231]: phone fileld3
+                        - generic [ref=e67234]:
+                          - button "+1" [ref=e67235]:
+                            - generic [ref=e67236]: "+1"
+                          - textbox [ref=e67240]
+                      - generic [ref=e67248]:
+                        - generic [ref=e67250]: cus phone
+                        - generic [ref=e67253]:
+                          - button "+1" [ref=e67254]:
+                            - generic [ref=e67255]: "+1"
+                          - textbox [ref=e67259]
+                      - generic [ref=e67267]:
+                        - generic [ref=e67269]: RP Watsapp
+                        - generic [ref=e67272]:
+                          - button "+1" [ref=e67273]:
+                            - generic [ref=e67274]: "+1"
+                          - textbox [ref=e67278]
+                      - generic [ref=e67286] [cursor=pointer]:
+                        - generic [ref=e67288]: R2 Qualified Candidate
+                        - combobox "R2 Qualified Candidate" [ref=e67290]:
+                          - img [ref=e67296]
+                      - generic [ref=e67305] [cursor=pointer]:
+                        - generic [ref=e67307]: Confirm
+                        - combobox "Confirm Select" [ref=e67309]:
+                          - generic [ref=e67310]:
+                            - generic [ref=e67312]: Select
+                            - img [ref=e67315]
+                      - generic [ref=e67324]:
+                        - generic [ref=e67326]: TextC
+                        - textbox "TextC" [ref=e67328]
+                  - generic [ref=e67330]:
+                    - generic [ref=e67332]: Test field Validation
+                    - generic [ref=e67342]:
+                      - generic [ref=e67344]: Test 255 4
+                      - textbox "Test 255 4" [ref=e67346]
+                  - generic [ref=e67348]:
+                    - generic [ref=e67350]: Custom User Fields
+                    - generic [ref=e67353]:
+                      - generic [ref=e67360] [cursor=pointer]:
+                        - generic [ref=e67362]: Users to Notify
+                        - combobox "Users to Notify Select" [ref=e67364]:
+                          - generic [ref=e67365]:
+                            - generic [ref=e67367]: Select
+                            - img [ref=e67370]
+                      - generic [ref=e67379] [cursor=pointer]:
+                        - generic [ref=e67381]: Users Need to Fill
+                        - combobox "Users Need to Fill" [ref=e67383]:
+                          - img [ref=e67389]
+                      - generic [ref=e67398]:
+                        - generic [ref=e67400]: Test 255 2
+                        - textbox "Test 255 2" [ref=e67402]
+                  - generic [ref=e67404]:
+                    - generic [ref=e67405]:
+                      - generic [ref=e67406]: Resumes
+                      - button "Add" [ref=e67408]:
+                        - img [ref=e67409]: add
+                        - generic [ref=e67410]: Add
+                    - generic [ref=e67413]: No records found
+                  - generic [ref=e67414]:
+                    - generic [ref=e67415]:
+                      - generic [ref=e67416]: Certification Details
+                      - button "Add" [ref=e67418]:
+                        - img [ref=e67419]: add
+                        - generic [ref=e67420]: Add
+                    - generic [ref=e67423]: No records found
+                  - generic [ref=e67424]:
+                    - generic [ref=e67425]:
+                      - generic [ref=e67426]: Expected Pay details
+                      - button "Add" [ref=e67428]:
+                        - img [ref=e67429]: add
+                        - generic [ref=e67430]: Add
+                    - generic [ref=e67433]:
+                      - generic [ref=e67435]:
+                        - generic [ref=e67442] [cursor=pointer]:
+                          - generic [ref=e67444]: Employment type
+                          - combobox "Employment type Select" [ref=e67446]:
+                            - generic [ref=e67447]:
+                              - generic [ref=e67449]: Select
+                              - img [ref=e67452]
+                        - generic [ref=e67461] [cursor=pointer]:
+                          - generic [ref=e67463]: Expected Rate Type
+                          - combobox "Expected Rate Type" [ref=e67465]:
+                            - img [ref=e67471]
+                        - generic [ref=e67476]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Mark as Preffered" [checked] [disabled]
+                                - generic:
+                                  - img
+                              - generic: Mark as Preffered
+                        - generic [ref=e67483]:
+                          - generic [ref=e67485]: Confirm1
+                          - textbox "Confirm1" [ref=e67487]
+                        - generic [ref=e67495]:
+                          - generic [ref=e67497]: test
+                          - textbox "test" [ref=e67499]
+                        - generic [ref=e67507]:
+                          - generic [ref=e67509]: Test 255 3
+                          - textbox "Test 255 3" [ref=e67511]
+                      - table [ref=e67516]:
+                        - rowgroup [ref=e67517]:
+                          - row "Employment type Expected Rate Type Confirm1 test Test 255 3" [ref=e67518]:
+                            - columnheader [ref=e67519]
+                            - columnheader "Employment type" [ref=e67520]
+                            - columnheader "Expected Rate Type" [ref=e67521]
+                            - columnheader "Confirm1" [ref=e67522]
+                            - columnheader "test" [ref=e67523]
+                            - columnheader "Test 255 3" [ref=e67524]
+                        - rowgroup [ref=e67525]:
+                          - row "No data found" [ref=e67526]:
+                            - cell "No data found" [ref=e67527]
+                  - generic [ref=e67528]:
+                    - generic [ref=e67529]:
+                      - generic [ref=e67530]: Education Details
+                      - button "Add" [ref=e67532]:
+                        - img [ref=e67533]: add
+                        - generic [ref=e67534]: Add
+                    - generic [ref=e67537]: No records found
+                  - generic [ref=e67538]:
+                    - generic [ref=e67539]:
+                      - generic [ref=e67540]: Work Experience Details
+                      - button "Add" [ref=e67542]:
+                        - img [ref=e67543]: add
+                        - generic [ref=e67544]: Add
+                    - generic [ref=e67547]: No records found
+                  - generic [ref=e67548]:
+                    - generic [ref=e67549]:
+                      - generic [ref=e67550]: Reference Details
+                      - button "Add" [ref=e67552]:
+                        - img [ref=e67553]: add
+                        - generic [ref=e67554]: Add
+                    - generic [ref=e67557]: No records found
+                  - generic [ref=e67558]:
+                    - generic [ref=e67559]:
+                      - generic [ref=e67560]: Documents
+                      - button "Add" [ref=e67562]:
+                        - img [ref=e67563]: add
+                        - generic [ref=e67564]: Add
+                    - generic [ref=e67567]: No records found
+                - generic [ref=e67569]:
+                  - heading "Tags" [level=1] [ref=e67571]
+                  - generic [ref=e67575]:
+                    - generic [ref=e67577]: Add Tags
+                    - generic "Tag selection" [ref=e67579]:
+                      - textbox "Add Tags" [ref=e67580]
+              - generic [ref=e67585]:
+                - img [ref=e67586]
+                - img [ref=e67588] [cursor=pointer]: draft_orders
+            - generic [ref=e65972]:
+              - button "Back" [ref=e65973]:
+                - generic [ref=e65974]: Back
+              - button "Save" [ref=e65977]:
+                - generic [ref=e65978]: Save
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;
+  - generic [ref=e67592]: Pavan Kumar DEV Super Admin

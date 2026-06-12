@@ -1,0 +1,421 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e84817]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e120]:
+                  - generic [ref=e121] [cursor=pointer]:
+                    - img [ref=e123]:
+                      - img [ref=e124]
+                    - generic [ref=e125]: General
+                  - generic [ref=e83277]:
+                    - generic [ref=e83278]: General
+                    - generic [ref=e83279]:
+                      - link "Accounts" [ref=e83280] [cursor=pointer]:
+                        - /url: "#/accounts"
+                        - text:  Accounts
+                      - link "" [ref=e83281] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83282]: 
+                    - generic [ref=e83283]:
+                      - link "Contacts" [ref=e83284] [cursor=pointer]:
+                        - /url: "#/accounts/contacts"
+                        - text:  Contacts
+                      - link "" [ref=e83285] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83286]: 
+                    - generic [ref=e83287]:
+                      - link "Digital Templates" [ref=e83288] [cursor=pointer]:
+                        - /url: "#/onboarding/document_submissions"
+                        - text: 
+                        - generic [ref=e83289]: Digital Templates
+                      - link "" [ref=e83290] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83291]: 
+                    - generic [ref=e83292]:
+                      - link "Assessments" [ref=e83293] [cursor=pointer]:
+                        - /url: "#/assessments/available"
+                        - text:  Assessments
+                      - link "" [ref=e83294] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83295]: 
+                    - generic [ref=e83296]:
+                      - link "Targets" [ref=e83297] [cursor=pointer]:
+                        - /url: "#/common_targets/ats"
+                        - text:  Targets
+                      - link "" [ref=e83298] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e83299]: 
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e84446]:
+          - generic [ref=e84448]:
+            - heading "Marketplace" [level=1] [ref=e84450]
+            - generic [ref=e84451]:
+              - link "Home" [ref=e84455] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e84456]:
+                - text: /
+                - generic [ref=e84458]: Marketplace
+          - navigation [ref=e84460]:
+            - generic [ref=e84463]:
+              - generic [ref=e84466] [cursor=pointer]: Available
+              - generic [ref=e84469] [cursor=pointer]: Installed
+          - generic [ref=e84474]:
+            - generic [ref=e84475]:
+              - generic [ref=e84476]:
+                - generic [ref=e84479] [cursor=pointer]: All
+                - generic [ref=e84482] [cursor=pointer]: AI (Beta)
+                - generic [ref=e84485] [cursor=pointer]: Assessment Tools
+                - generic [ref=e84488] [cursor=pointer]: Background Checks
+                - generic [ref=e84491] [cursor=pointer]: Job Board
+                - generic [ref=e84494] [cursor=pointer]: Productivity
+                - generic [ref=e84497] [cursor=pointer]: SMS
+                - generic [ref=e84500] [cursor=pointer]: Video Interview
+                - generic [ref=e84503] [cursor=pointer]: VMS
+                - generic [ref=e84506] [cursor=pointer]: VOIP
+                - generic [ref=e84509] [cursor=pointer]: WhatsApp
+              - generic [ref=e84514]:
+                - textbox "Search for an Integration" [ref=e84515]
+                - button [ref=e84516] [cursor=pointer]:
+                  - img [ref=e84517]: search
+            - generic [ref=e84520]:
+              - generic [ref=e84521]: Job Board Integrations
+              - generic [ref=e84522]:
+                - generic [ref=e84523]: Oorwin offers a wide range of job board integrations to help you search for candidates and publish jobs on multiple job boards directly from Oorwin.
+                - button "Bulk Assign" [ref=e84524] [cursor=pointer]:
+                  - generic [ref=e84525]: Bulk Assign
+              - generic [ref=e84528]:
+                - generic [ref=e84529]:
+                  - img [ref=e84531] [cursor=pointer]
+                  - generic [ref=e84532]:
+                    - heading "Dice" [level=4]
+                    - generic [ref=e84533]:
+                      - generic [ref=e84534]: Paid
+                      - img [ref=e84535]
+                      - button [ref=e84536] [cursor=pointer]:
+                        - img [ref=e84537]: more_vert
+                - generic [ref=e84540]:
+                  - img [ref=e84542] [cursor=pointer]
+                  - generic [ref=e84543]:
+                    - heading "Monster" [level=4]
+                    - generic [ref=e84544]:
+                      - generic [ref=e84545]: Paid
+                      - img [ref=e84546]
+                      - button [ref=e84547] [cursor=pointer]:
+                        - img [ref=e84548]: more_vert
+                - generic [ref=e84551]:
+                  - img [ref=e84553] [cursor=pointer]
+                  - generic [ref=e84554]:
+                    - heading "Career Builder" [level=4]
+                    - generic [ref=e84555]:
+                      - generic [ref=e84556]: Paid
+                      - img [ref=e84557]
+                      - button [ref=e84558] [cursor=pointer]:
+                        - img [ref=e84559]: more_vert
+                - generic [ref=e84562]:
+                  - img [ref=e84564] [cursor=pointer]
+                  - generic [ref=e84565]:
+                    - heading "TechFetch" [level=4]
+                    - generic [ref=e84566]:
+                      - generic [ref=e84567]: Paid
+                      - img [ref=e84568]
+                      - button [ref=e84569] [cursor=pointer]:
+                        - img [ref=e84570]: more_vert
+                - generic [ref=e84573]:
+                  - img [ref=e84575] [cursor=pointer]
+                  - generic [ref=e84576]:
+                    - heading "Foundit" [level=4]
+                    - generic [ref=e84577]:
+                      - generic [ref=e84578]: Paid
+                      - img [ref=e84579]
+                      - button [ref=e84580] [cursor=pointer]:
+                        - img [ref=e84581]: more_vert
+                - generic [ref=e84584]:
+                  - img [ref=e84586] [cursor=pointer]
+                  - generic [ref=e84587]:
+                    - heading "Nexxt" [level=4]
+                    - generic [ref=e84588]:
+                      - generic [ref=e84589]: Paid
+                      - img [ref=e84590]
+                      - button [ref=e84591] [cursor=pointer]:
+                        - img [ref=e84592]: more_vert
+                - generic [ref=e84595]:
+                  - img [ref=e84597] [cursor=pointer]
+                  - generic [ref=e84598]:
+                    - heading "JobServe" [level=4]
+                    - generic [ref=e84599]:
+                      - generic [ref=e84600]: Paid
+                      - img [ref=e84601]
+                      - button [ref=e84602] [cursor=pointer]:
+                        - img [ref=e84603]: more_vert
+                - generic [ref=e84606]:
+                  - img [ref=e84608] [cursor=pointer]
+                  - generic [ref=e84609]:
+                    - heading "Zoominfo" [level=4]
+                    - generic [ref=e84610]:
+                      - generic [ref=e84611]: Paid
+                      - img [ref=e84612]
+                      - button [ref=e84613] [cursor=pointer]:
+                        - img [ref=e84614]: more_vert
+                - generic [ref=e84617]:
+                  - img [ref=e84619] [cursor=pointer]
+                  - generic [ref=e84620]:
+                    - heading "LinkedIn(Premium)" [level=4]
+                    - generic [ref=e84621]:
+                      - generic [ref=e84622]: Paid
+                      - img [ref=e84623]
+                      - button [ref=e84624] [cursor=pointer]:
+                        - img [ref=e84625]: more_vert
+                - generic [ref=e84628]:
+                  - img [ref=e84630] [cursor=pointer]
+                  - generic [ref=e84631]:
+                    - heading "Jobboard.com" [level=4]
+                    - generic [ref=e84632]:
+                      - generic [ref=e84633]: Paid
+                      - img [ref=e84634]
+                      - button [ref=e84635] [cursor=pointer]:
+                        - img [ref=e84636]: more_vert
+                - generic [ref=e84639]:
+                  - img [ref=e84641] [cursor=pointer]
+                  - generic [ref=e84642]:
+                    - heading "Post Job Free" [level=4]
+                    - generic [ref=e84643]:
+                      - generic [ref=e84644]: Free
+                      - img [ref=e84645]
+                      - button [ref=e84646] [cursor=pointer]:
+                        - img [ref=e84647]: more_vert
+                - generic [ref=e84650]:
+                  - img [ref=e84652] [cursor=pointer]
+                  - generic [ref=e84653]:
+                    - heading "ZipRecruiter" [level=4]
+                    - generic [ref=e84654]:
+                      - generic [ref=e84655]: Free
+                      - img [ref=e84656]
+                      - button [ref=e84657] [cursor=pointer]:
+                        - img [ref=e84658]: more_vert
+                - generic [ref=e84661]:
+                  - img [ref=e84663] [cursor=pointer]
+                  - generic [ref=e84664]:
+                    - heading "JobRapido" [level=4]
+                    - generic [ref=e84665]:
+                      - generic [ref=e84666]: Free
+                      - img [ref=e84667]
+                      - button [ref=e84668] [cursor=pointer]:
+                        - img [ref=e84669]: more_vert
+                - generic [ref=e84672]:
+                  - img [ref=e84674] [cursor=pointer]
+                  - generic [ref=e84675]:
+                    - heading "GlassDoor" [level=4]
+                    - generic [ref=e84676]:
+                      - generic [ref=e84677]: Free
+                      - img [ref=e84678]
+                      - button [ref=e84679] [cursor=pointer]:
+                        - img [ref=e84680]: more_vert
+                - generic [ref=e84683]:
+                  - img [ref=e84685] [cursor=pointer]
+                  - generic [ref=e84686]:
+                    - heading "Jooble" [level=4]
+                    - generic [ref=e84687]:
+                      - generic [ref=e84688]: Free
+                      - img [ref=e84689]
+                      - button [ref=e84690] [cursor=pointer]:
+                        - img [ref=e84691]: more_vert
+                - generic [ref=e84694]:
+                  - img [ref=e84696] [cursor=pointer]
+                  - generic [ref=e84697]:
+                    - heading "CareerJet" [level=4]
+                    - generic [ref=e84698]:
+                      - generic [ref=e84699]: Free
+                      - img [ref=e84700]
+                      - button [ref=e84701] [cursor=pointer]:
+                        - img [ref=e84702]: more_vert
+                - generic [ref=e84705]:
+                  - img [ref=e84707] [cursor=pointer]
+                  - generic [ref=e84708]:
+                    - heading "Jobomas" [level=4]
+                    - generic [ref=e84709]:
+                      - generic [ref=e84710]: Free
+                      - img [ref=e84711]
+                      - button [ref=e84712] [cursor=pointer]:
+                        - img [ref=e84713]: more_vert
+                - generic [ref=e84716]:
+                  - img [ref=e84718] [cursor=pointer]
+                  - generic [ref=e84719]:
+                    - heading "SheJobs" [level=4]
+                    - generic [ref=e84720]:
+                      - generic [ref=e84721]: Free
+                      - img [ref=e84722]
+                      - button [ref=e84723] [cursor=pointer]:
+                        - img [ref=e84724]: more_vert
+                - generic [ref=e84727]:
+                  - img [ref=e84729] [cursor=pointer]
+                  - generic [ref=e84730]:
+                    - heading "Monster" [level=4]
+                    - generic [ref=e84731]:
+                      - generic [ref=e84732]: Free
+                      - img [ref=e84733]
+                      - button [ref=e84734] [cursor=pointer]:
+                        - img [ref=e84735]: more_vert
+                - generic [ref=e84738]:
+                  - img [ref=e84740] [cursor=pointer]
+                  - generic [ref=e84741]:
+                    - heading "Jora" [level=4]
+                    - generic [ref=e84742]:
+                      - generic [ref=e84743]: Free
+                      - img [ref=e84744]
+                      - button [ref=e84745] [cursor=pointer]:
+                        - img [ref=e84746]: more_vert
+                - generic [ref=e84749]:
+                  - img [ref=e84751] [cursor=pointer]
+                  - generic [ref=e84752]:
+                    - heading "Recruit" [level=4]
+                    - generic [ref=e84753]:
+                      - generic [ref=e84754]: Free
+                      - img [ref=e84755]
+                      - button [ref=e84756] [cursor=pointer]:
+                        - img [ref=e84757]: more_vert
+                - generic [ref=e84760]:
+                  - img [ref=e84762] [cursor=pointer]
+                  - generic [ref=e84763]:
+                    - heading "Talent" [level=4]
+                    - generic [ref=e84764]:
+                      - generic [ref=e84765]: Free
+                      - img [ref=e84766]
+                      - button [ref=e84767] [cursor=pointer]:
+                        - img [ref=e84768]: more_vert
+                - generic [ref=e84771]:
+                  - img [ref=e84773] [cursor=pointer]
+                  - generic [ref=e84774]:
+                    - heading "Dr.Jobs Pro" [level=4]
+                    - generic [ref=e84775]:
+                      - generic [ref=e84776]: Free
+                      - img [ref=e84777]
+                      - button [ref=e84778] [cursor=pointer]:
+                        - img [ref=e84779]: more_vert
+                - generic [ref=e84782]:
+                  - img [ref=e84784] [cursor=pointer]
+                  - generic [ref=e84785]:
+                    - heading "LinkedIn" [level=4]
+                    - generic [ref=e84786]:
+                      - generic [ref=e84787]: Free
+                      - img [ref=e84788]
+                      - button [ref=e84789] [cursor=pointer]:
+                        - img [ref=e84790]: more_vert
+                - generic [ref=e84793]:
+                  - img [ref=e84795] [cursor=pointer]
+                  - generic [ref=e84796]:
+                    - heading "WhatJobs" [level=4]
+                    - generic [ref=e84797]:
+                      - generic [ref=e84798]: Free
+                      - img [ref=e84799]
+                      - button [ref=e84800] [cursor=pointer]:
+                        - img [ref=e84801]: more_vert
+                - generic [ref=e84804]:
+                  - img [ref=e84806] [cursor=pointer]
+                  - generic [ref=e84807]:
+                    - heading "Snaprecruit" [level=4]
+                    - generic [ref=e84808]:
+                      - generic [ref=e84809]: Free
+                      - img [ref=e84810]
+                      - button [ref=e84811] [cursor=pointer]:
+                        - img [ref=e84812]: more_vert
+              - separator [ref=e84815]
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

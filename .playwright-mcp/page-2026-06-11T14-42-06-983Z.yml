@@ -1,0 +1,376 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e62492]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e62143]:
+          - generic [ref=e62145]:
+            - generic [ref=e62146]: Reports
+            - generic [ref=e62147]:
+              - link "Home" [ref=e62151] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e62152]:
+                - text: /
+                - link "Reports" [ref=e62155] [cursor=pointer]:
+                  - /url: "#/reports/allReports/hire"
+              - generic [ref=e62156]:
+                - text: /
+                - link "Ats" [ref=e62159] [cursor=pointer]:
+                  - /url: "#/reports/allReports/hire"
+              - generic [ref=e62160]:
+                - text: /
+                - generic [ref=e62162]: All Reports
+          - navigation [ref=e62166]:
+            - generic [ref=e62169]:
+              - link "All Reports" [ref=e62170] [cursor=pointer]:
+                - /url: "#/reports/allReports/hire"
+                - generic [ref=e62172]: All Reports
+              - link "Scheduled Reports" [ref=e62173] [cursor=pointer]:
+                - /url: "#/reports/allReports/scheduledReports/hire"
+                - generic [ref=e62175]: Scheduled Reports
+              - link "Custom Reports" [ref=e62176] [cursor=pointer]:
+                - /url: "#/reports/allReports/customReports/hire"
+                - generic [ref=e62179]: Custom Reports
+          - generic [ref=e62180]:
+            - generic [ref=e62185]:
+              - heading "Views" [level=6] [ref=e62186]
+              - generic [ref=e62187]:
+                - link "ATS" [ref=e62191] [cursor=pointer]:
+                  - /url: "#/reports/allReports/hire"
+                - link "HRMS" [ref=e62195] [cursor=pointer]:
+                  - /url: "#/reports/allReports/hr"
+                - link "CRM" [ref=e62199] [cursor=pointer]:
+                  - /url: "#/reports/allReports/crm"
+            - generic [ref=e62203]:
+              - generic [ref=e62205]:
+                - button [ref=e62206] [cursor=pointer]:
+                  - img [ref=e62207]: right_panel_open
+                - generic [ref=e62214]:
+                  - textbox "Search Name" [ref=e62215]
+                  - button [ref=e62216] [cursor=pointer]:
+                    - img [ref=e62217]: search
+              - table [ref=e62219]:
+                - rowgroup [ref=e62220]:
+                  - row "Report Name Category Type Favourites" [ref=e62221]:
+                    - columnheader "Report Name" [ref=e62222]:
+                      - generic [ref=e62223]:
+                        - text: Report Name
+                        - button [ref=e62224] [cursor=pointer]:
+                          - img [ref=e62225]: filter_list
+                    - columnheader "Category" [ref=e62228]:
+                      - generic [ref=e62229]:
+                        - text: Category
+                        - button [ref=e62230] [cursor=pointer]:
+                          - img [ref=e62231]: filter_list
+                    - columnheader "Type" [ref=e62234]:
+                      - generic [ref=e62235]:
+                        - text: Type
+                        - button [ref=e62236] [cursor=pointer]:
+                          - img [ref=e62237]: filter_list
+                    - columnheader "Favourites" [ref=e62240]
+                - rowgroup [ref=e62259]:
+                  - row "Recruiter Per Day Submissions Recruitment Standard Reports" [ref=e62260]:
+                    - cell "Recruiter Per Day Submissions" [ref=e62261]:
+                      - link "Recruiter Per Day Submissions" [ref=e62263] [cursor=pointer]:
+                        - /url: "#/reports/recruiterPerDaySubmissions"
+                    - cell "Recruitment" [ref=e62264]
+                    - cell "Standard Reports" [ref=e62265]
+                    - cell [ref=e62266]:
+                      - button [ref=e62267] [cursor=pointer]:
+                        - img [ref=e62268]: star_border
+                  - row "Partner Portal Detailed Report Recruitment Standard Reports" [ref=e62271]:
+                    - cell "Partner Portal Detailed Report" [ref=e62272]:
+                      - link "Partner Portal Detailed Report" [ref=e62274] [cursor=pointer]:
+                        - /url: "#/reports/jobPublishToPartnerPortalDetailsReport"
+                    - cell "Recruitment" [ref=e62275]
+                    - cell "Standard Reports" [ref=e62276]
+                    - cell [ref=e62277]:
+                      - button [ref=e62278] [cursor=pointer]:
+                        - img [ref=e62279]: star_border
+                  - row "Job Application Source Summary Report Recruitment Standard Reports" [ref=e62282]:
+                    - cell "Job Application Source Summary Report" [ref=e62283]:
+                      - link "Job Application Source Summary Report" [ref=e62285] [cursor=pointer]:
+                        - /url: "#/reports/jobApplicationSourceSummaryReport"
+                    - cell "Recruitment" [ref=e62286]
+                    - cell "Standard Reports" [ref=e62287]
+                    - cell [ref=e62288]:
+                      - button [ref=e62289] [cursor=pointer]:
+                        - img [ref=e62290]: star_border
+                  - row "User Login & Logout Activity Report Recruitment Standard Reports" [ref=e62293]:
+                    - cell "User Login & Logout Activity Report" [ref=e62294]:
+                      - link "User Login & Logout Activity Report" [ref=e62296] [cursor=pointer]:
+                        - /url: "#/reports/userLoginLogoutActivityReport"
+                    - cell "Recruitment" [ref=e62297]
+                    - cell "Standard Reports" [ref=e62298]
+                    - cell [ref=e62299]:
+                      - button [ref=e62300] [cursor=pointer]:
+                        - img [ref=e62301]: star_border
+                  - row "Bench Sales - Pool Submission Margin Report Bench Sales Standard Reports" [ref=e62304]:
+                    - cell "Bench Sales - Pool Submission Margin Report" [ref=e62305]:
+                      - link "Bench Sales - Pool Submission Margin Report" [ref=e62307] [cursor=pointer]:
+                        - /url: "#/reports/salesPoolSubmissionsMarginReport"
+                    - cell "Bench Sales" [ref=e62308]
+                    - cell "Standard Reports" [ref=e62309]
+                    - cell [ref=e62310]:
+                      - button [ref=e62311] [cursor=pointer]:
+                        - img [ref=e62312]: star_border
+                  - row "Recruitment Submissions Summary (By Submitter and Jobs) Recruitment Standard Reports" [ref=e62315]:
+                    - cell "Recruitment Submissions Summary (By Submitter and Jobs)" [ref=e62316]:
+                      - link "Recruitment Submissions Summary (By Submitter and Jobs)" [ref=e62318] [cursor=pointer]:
+                        - /url: "#/reports/recruitmentSubmissionsBySubmitterAndJobs"
+                    - cell "Recruitment" [ref=e62319]
+                    - cell "Standard Reports" [ref=e62320]
+                    - cell [ref=e62321]:
+                      - button [ref=e62322] [cursor=pointer]:
+                        - img [ref=e62323]: star_border
+                  - row "Account Manager Vs Recruiter Summary Report Recruitment Standard Reports" [ref=e62326]:
+                    - cell "Account Manager Vs Recruiter Summary Report" [ref=e62327]:
+                      - link "Account Manager Vs Recruiter Summary Report" [ref=e62329] [cursor=pointer]:
+                        - /url: "#/reports/accountManagerVsRecruiterSummaryReport"
+                    - cell "Recruitment" [ref=e62330]
+                    - cell "Standard Reports" [ref=e62331]
+                    - cell [ref=e62332]:
+                      - button [ref=e62333] [cursor=pointer]:
+                        - img [ref=e62334]: star_border
+                  - row "Recruitment - Client Summary Report (By Jobs Break up) Recruitment Standard Reports" [ref=e62337]:
+                    - cell "Recruitment - Client Summary Report (By Jobs Break up)" [ref=e62338]:
+                      - link "Recruitment - Client Summary Report (By Jobs Break up)" [ref=e62340] [cursor=pointer]:
+                        - /url: "#/reports/getClientSummaryByJobsBreakUp"
+                    - cell "Recruitment" [ref=e62341]
+                    - cell "Standard Reports" [ref=e62342]
+                    - cell [ref=e62343]:
+                      - button [ref=e62344] [cursor=pointer]:
+                        - img [ref=e62345]: star_border
+                  - row "Client Summary Report (By Client Submitted Date) Recruitment Standard Reports" [ref=e62348]:
+                    - cell "Client Summary Report (By Client Submitted Date)" [ref=e62349]:
+                      - link "Client Summary Report (By Client Submitted Date)" [ref=e62351] [cursor=pointer]:
+                        - /url: "#/reports/clientSummaryReportBySubmittedDate"
+                    - cell "Recruitment" [ref=e62352]
+                    - cell "Standard Reports" [ref=e62353]
+                    - cell [ref=e62354]:
+                      - button [ref=e62355] [cursor=pointer]:
+                        - img [ref=e62356]: star_border
+                  - row "Recruitment - Recruiter Summary Report (By Submissions) Recruitment Standard Reports" [ref=e62359]:
+                    - cell "Recruitment - Recruiter Summary Report (By Submissions)" [ref=e62360]:
+                      - link "Recruitment - Recruiter Summary Report (By Submissions)" [ref=e62362] [cursor=pointer]:
+                        - /url: "#/reports/getRecruiterSummaryByJobsAndSub"
+                    - cell "Recruitment" [ref=e62363]
+                    - cell "Standard Reports" [ref=e62364]
+                    - cell [ref=e62365]:
+                      - button [ref=e62366] [cursor=pointer]:
+                        - img [ref=e62367]: star_border
+                  - row "Recruiter Summary - Based On Activities Recruitment Standard Reports" [ref=e62370]:
+                    - cell "Recruiter Summary - Based On Activities" [ref=e62371]:
+                      - link "Recruiter Summary - Based On Activities" [ref=e62373] [cursor=pointer]:
+                        - /url: "#/reports/recruiterSummaryBasedOnActivities"
+                    - cell "Recruitment" [ref=e62374]
+                    - cell "Standard Reports" [ref=e62375]
+                    - cell [ref=e62376]:
+                      - button [ref=e62377] [cursor=pointer]:
+                        - img [ref=e62378]: star_border
+                  - row "Recruiter Summary(As Recruiter & Additional Recruiter) Recruitment Standard Reports" [ref=e62381]:
+                    - cell "Recruiter Summary(As Recruiter & Additional Recruiter)" [ref=e62382]:
+                      - link "Recruiter Summary(As Recruiter & Additional Recruiter)" [ref=e62384] [cursor=pointer]:
+                        - /url: "#/reports/getRecruiterAndAdditionalRecruiter"
+                    - cell "Recruitment" [ref=e62385]
+                    - cell "Standard Reports" [ref=e62386]
+                    - cell [ref=e62387]:
+                      - button [ref=e62388] [cursor=pointer]:
+                        - img [ref=e62389]: star_border
+                  - row "Recruitment - Account Manager VS Client Summary Recruitment Standard Reports" [ref=e62392]:
+                    - cell "Recruitment - Account Manager VS Client Summary" [ref=e62393]:
+                      - link "Recruitment - Account Manager VS Client Summary" [ref=e62395] [cursor=pointer]:
+                        - /url: "#/reports/getAccountMangerVsClientSummary"
+                    - cell "Recruitment" [ref=e62396]
+                    - cell "Standard Reports" [ref=e62397]
+                    - cell [ref=e62398]:
+                      - button [ref=e62399] [cursor=pointer]:
+                        - img [ref=e62400]: star_border
+                  - row "User Notes Summary Report Recruitment Standard Reports" [ref=e62403]:
+                    - cell "User Notes Summary Report" [ref=e62404]:
+                      - link "User Notes Summary Report" [ref=e62406] [cursor=pointer]:
+                        - /url: "#/reports/getRecruitmentUserNotesSummary"
+                    - cell "Recruitment" [ref=e62407]
+                    - cell "Standard Reports" [ref=e62408]
+                    - cell [ref=e62409]:
+                      - button [ref=e62410] [cursor=pointer]:
+                        - img [ref=e62411]: star_border
+                  - row "Recruitment - Submissions & Interviews Summary Recruitment Standard Reports" [ref=e62414]:
+                    - cell "Recruitment - Submissions & Interviews Summary" [ref=e62415]:
+                      - link "Recruitment - Submissions & Interviews Summary" [ref=e62417] [cursor=pointer]:
+                        - /url: "#/reports/recruitmentInterviewsAndSubmissionSummary"
+                    - cell "Recruitment" [ref=e62418]
+                    - cell "Standard Reports" [ref=e62419]
+                    - cell [ref=e62420]:
+                      - button [ref=e62421] [cursor=pointer]:
+                        - img [ref=e62422]: star_border
+                  - row "Recruiter Summary Report Recruitment Standard Reports" [ref=e62425]:
+                    - cell "Recruiter Summary Report" [ref=e62426]:
+                      - link "Recruiter Summary Report" [ref=e62428] [cursor=pointer]:
+                        - /url: "#/reports/getRecruiterSummaryReport"
+                    - cell "Recruitment" [ref=e62429]
+                    - cell "Standard Reports" [ref=e62430]
+                    - cell [ref=e62431]:
+                      - button [ref=e62432] [cursor=pointer]:
+                        - img [ref=e62433]: star_border
+                  - row "Recruitment - Pipeline Stage Summary (By Sourcer & Pipeline Date) Recruitment Standard Reports" [ref=e62436]:
+                    - cell "Recruitment - Pipeline Stage Summary (By Sourcer & Pipeline Date)" [ref=e62437]:
+                      - link "Recruitment - Pipeline Stage Summary (By Sourcer & Pipeline Date)" [ref=e62439] [cursor=pointer]:
+                        - /url: "#/reports/getPipelineCandidateBySourcer"
+                    - cell "Recruitment" [ref=e62440]
+                    - cell "Standard Reports" [ref=e62441]
+                    - cell [ref=e62442]:
+                      - button [ref=e62443] [cursor=pointer]:
+                        - img [ref=e62444]: star_border
+                  - row "Recruitment - Submissions & Interview Activity Recruitment Standard Reports" [ref=e62447]:
+                    - cell "Recruitment - Submissions & Interview Activity" [ref=e62448]:
+                      - link "Recruitment - Submissions & Interview Activity" [ref=e62450] [cursor=pointer]:
+                        - /url: "#/reports/getRecruitmentSubmissionsInterviewsActivity"
+                    - cell "Recruitment" [ref=e62451]
+                    - cell "Standard Reports" [ref=e62452]
+                    - cell [ref=e62453]:
+                      - button [ref=e62454] [cursor=pointer]:
+                        - img [ref=e62455]: star_border
+                  - row "Recruitment - Candidates Pipeline Summary Recruitment Standard Reports" [ref=e62458]:
+                    - cell "Recruitment - Candidates Pipeline Summary" [ref=e62459]:
+                      - link "Recruitment - Candidates Pipeline Summary" [ref=e62461] [cursor=pointer]:
+                        - /url: "#/reports/recruitmentCandidatesPipelineSummary"
+                    - cell "Recruitment" [ref=e62462]
+                    - cell "Standard Reports" [ref=e62463]
+                    - cell [ref=e62464]:
+                      - button [ref=e62465] [cursor=pointer]:
+                        - img [ref=e62466]: star_border
+                  - row "Recruitment - Team Lead(s) Summary (By Client & Job Created Date) Recruitment Standard Reports" [ref=e62469]:
+                    - cell "Recruitment - Team Lead(s) Summary (By Client & Job Created Date)" [ref=e62470]:
+                      - link "Recruitment - Team Lead(s) Summary (By Client & Job Created Date)" [ref=e62472] [cursor=pointer]:
+                        - /url: "#/reports/getRecruitmentTeamLeadByClientCreatedDate"
+                    - cell "Recruitment" [ref=e62473]
+                    - cell "Standard Reports" [ref=e62474]
+                    - cell [ref=e62475]:
+                      - button [ref=e62476] [cursor=pointer]:
+                        - img [ref=e62477]: star_border
+              - generic [ref=e62243]:
+                - generic [ref=e62480]: Showing 1 to 20 of 99
+                - list [ref=e62245]:
+                  - listitem [ref=e62246]:
+                    - generic: «
+                  - listitem [ref=e62247]:
+                    - generic: ‹
+                  - listitem [ref=e62481]:
+                    - generic [ref=e62482] [cursor=pointer]: "1"
+                  - listitem [ref=e62483]:
+                    - generic [ref=e62484] [cursor=pointer]: "2"
+                  - listitem [ref=e62485]:
+                    - generic [ref=e62486] [cursor=pointer]: "3"
+                  - listitem [ref=e62487]:
+                    - generic [ref=e62488] [cursor=pointer]: "4"
+                  - listitem [ref=e62489]:
+                    - generic [ref=e62490] [cursor=pointer]: "5"
+                  - listitem [ref=e62248]:
+                    - generic [ref=e62249] [cursor=pointer]: ›
+                  - listitem [ref=e62250]:
+                    - generic [ref=e62251] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

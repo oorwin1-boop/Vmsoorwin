@@ -1,0 +1,495 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e69314]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e68671]:
+          - generic [ref=e68673]:
+            - generic [ref=e68675]: Accounts
+            - generic [ref=e68676]:
+              - link "Home" [ref=e68680] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e68681]:
+                - text: /
+                - generic [ref=e68683]: Accounts
+          - generic [ref=e68685]:
+            - generic [ref=e68686]:
+              - generic [ref=e68687]:
+                - generic [ref=e68688]:
+                  - generic [ref=e68689]:
+                    - button [ref=e68691]:
+                      - img [ref=e68692]: keyboard_backspace
+                    - generic [ref=e68695]:
+                      - img [ref=e68697]
+                      - generic [ref=e68698]:
+                        - heading "aws16" [level=2] [ref=e68699]
+                        - generic [ref=e68702]: Active
+                  - generic [ref=e68703]:
+                    - generic [ref=e68704]:
+                      - link "aws16.com" [ref=e68705] [cursor=pointer]:
+                        - /url: https://aws16.com
+                      - generic [ref=e68706]: Client,Vendor
+                    - generic [ref=e68707]:
+                      - generic [ref=e68708]:
+                        - generic [ref=e68709]: Created By
+                        - generic [ref=e68710]: Srikanth Akkala
+                      - generic [ref=e68711]:
+                        - generic [ref=e68712]: Created On
+                        - generic [ref=e68713]: Jan 22,2026
+                    - generic [ref=e68714]:
+                      - generic [ref=e68715]:
+                        - generic [ref=e68716]: Modified By
+                        - generic [ref=e68717]: Srikanth Akkala
+                      - generic [ref=e68718]:
+                        - generic [ref=e68719]: Modified On
+                        - generic [ref=e68720]: Jan 22,2026
+                    - generic [ref=e68721]:
+                      - generic [ref=e68722]:
+                        - generic [ref=e68723]:
+                          - text: Parent Account
+                          - generic [ref=e68724]: 
+                        - generic [ref=e68725]: N/A
+                      - generic [ref=e68726]:
+                        - generic [ref=e68727]:
+                          - text: Subsidaries
+                          - generic [ref=e68728]: 
+                        - generic [ref=e68729]: "0"
+                - generic [ref=e68730]:
+                  - button "" [ref=e68731]:
+                    - generic [ref=e68733]: 
+                  - button [ref=e68736]:
+                    - img [ref=e68737]: Email
+                  - button [ref=e68740]:
+                    - img [ref=e68741]: export_notes
+                  - button "" [ref=e68744]:
+                    - generic [ref=e68746]: 
+              - generic [ref=e68749]:
+                - generic [ref=e68751]:
+                  - generic [ref=e68752]: SA
+                  - generic [ref=e68753]:
+                    - generic [ref=e68754]: Account Owner
+                    - generic [ref=e68756]: Srikanth Akkala
+                - navigation [ref=e68757]:
+                  - button [disabled]
+                  - generic [ref=e68760]:
+                    - link "Overview" [ref=e68761] [cursor=pointer]:
+                      - /url: "#/accounts/2718/overview"
+                      - generic [ref=e68763]: Overview
+                    - link "Info" [ref=e68764] [cursor=pointer]:
+                      - /url: "#/accounts/2718/view"
+                      - generic [ref=e68766]: Info
+                    - link "Contacts (2)" [ref=e68767] [cursor=pointer]:
+                      - /url: "#/accounts/2718/contacts?page=1"
+                      - generic [ref=e68769]:
+                        - text: Contacts
+                        - generic [ref=e68770]: (2)
+                    - link "Opportunities (1)" [ref=e68771] [cursor=pointer]:
+                      - /url: "#/accounts/2718/opportunities"
+                      - generic [ref=e68773]:
+                        - text: Opportunities
+                        - generic [ref=e68774]: (1)
+                    - link "Leads (0)" [ref=e68775] [cursor=pointer]:
+                      - /url: "#/accounts/2718/leads"
+                      - generic [ref=e68777]:
+                        - text: Leads
+                        - generic [ref=e68778]: (0)
+                    - link "Assignments (0)" [ref=e68779] [cursor=pointer]:
+                      - /url: "#/accounts/2718/assignments"
+                      - generic [ref=e68781]:
+                        - text: Assignments
+                        - generic [ref=e68782]: (0)
+                    - link "Communications" [ref=e68783] [cursor=pointer]:
+                      - /url: "#/accounts/2718/communications/mail_track"
+                      - generic [ref=e68785]: Communications
+                    - link "Jobs (10)" [ref=e68786] [cursor=pointer]:
+                      - /url: "#/accounts/2718/jobs"
+                      - generic [ref=e68788]:
+                        - text: Jobs
+                        - generic [ref=e68789]: (10)
+                    - link "submissions (12)" [ref=e68790] [cursor=pointer]:
+                      - /url: "#/accounts/2718/submissions"
+                      - generic [ref=e68792]:
+                        - text: submissions
+                        - generic [ref=e68793]: (12)
+                    - link "Invoices" [ref=e68795] [cursor=pointer]:
+                      - /url: "#/accounts/2718/invoice_details/invoices"
+                      - generic [ref=e68797]: Invoices
+                    - link "External Approvers" [ref=e68799] [cursor=pointer]:
+                      - /url: "#/accounts/2718/approvals"
+                      - generic [ref=e68801]: External Approvers
+                    - link "Documents (0)" [ref=e68803] [cursor=pointer]:
+                      - /url: "#/accounts/2718/documents"
+                      - generic [ref=e68805]:
+                        - text: Documents
+                        - generic [ref=e68806]: (0)
+                    - link "Accounts Payable" [ref=e68808] [cursor=pointer]:
+                      - /url: "#/accounts/2718/bill_details/bills"
+                      - generic [ref=e68810]: Accounts Payable
+                    - link "Candidate Application Workflow" [ref=e68811] [cursor=pointer]:
+                      - /url: "#/accounts/2718/candidate_application_workflow"
+                      - generic [ref=e68813]: Candidate Application Workflow
+                  - button [ref=e68814] [cursor=pointer]
+                - generic [ref=e68817]:
+                  - generic [ref=e68819]:
+                    - generic:
+                      - generic:
+                        - generic:
+                          - checkbox "Do Not Publish Jobs" [disabled]
+                          - generic:
+                            - img
+                        - generic: Do Not Publish Jobs
+                  - generic [ref=e68822]:
+                    - generic [ref=e68823]:
+                      - button "Account Information" [expanded] [ref=e68824] [cursor=pointer]:
+                        - generic [ref=e68827]:
+                          - generic [ref=e68828]: Account Information
+                          - button [ref=e68830]
+                      - region "Account Information" [ref=e68834]:
+                        - generic [ref=e68837]:
+                          - generic [ref=e68838]:
+                            - generic [ref=e68840]: Account Name
+                            - generic [ref=e68843]: aws16
+                          - generic [ref=e68844]:
+                            - generic [ref=e68846]: Display Name
+                            - generic [ref=e68849]: aws16
+                          - generic [ref=e68850]:
+                            - generic [ref=e68852]: Account Status
+                            - generic [ref=e68855]: Active
+                          - generic [ref=e68856]:
+                            - generic [ref=e68858]: Account Owner
+                            - generic [ref=e68861]: Srikanth Akkala
+                          - generic [ref=e68862]:
+                            - generic [ref=e68864]: Type
+                            - generic [ref=e68867]: Client, Vendor
+                          - generic [ref=e68868]:
+                            - generic [ref=e68870]: Contract End Date
+                            - generic [ref=e68873]: January 23, 2026
+                          - generic [ref=e68874]:
+                            - generic [ref=e68876]: Website
+                            - generic [ref=e68879]: aws16.com
+                          - generic [ref=e68880]:
+                            - generic [ref=e68882]: Phone Number
+                            - generic [ref=e68885]:
+                              - button [ref=e68886] [cursor=pointer]:
+                                - img [ref=e68887]: 
+                              - generic [ref=e68890]: +1 (912) 282-8282
+                              - generic [ref=e68891]: ; 2882
+                          - generic [ref=e68892]:
+                            - generic [ref=e68894]: Industry
+                            - generic [ref=e68897]: "-"
+                          - generic [ref=e68898]:
+                            - generic [ref=e68900]: Description
+                            - generic [ref=e68901]: Testing by srikanth akkala
+                          - generic [ref=e68902]:
+                            - generic [ref=e68904]: Source of Creation
+                            - generic [ref=e68907]: Portal
+                          - generic [ref=e68908]:
+                            - generic [ref=e68910]: Jobs - Submission Workflow
+                            - generic [ref=e68913]: "-"
+                          - generic [ref=e68914]:
+                            - generic [ref=e68916]: Subsidaries
+                            - generic [ref=e68919]: "-"
+                          - generic [ref=e68920]:
+                            - generic [ref=e68922]: check
+                            - generic [ref=e68925]: "-"
+                          - generic [ref=e68926]:
+                            - generic [ref=e68928]: s-Text
+                            - generic [ref=e68931]: "-"
+                          - generic [ref=e68932]:
+                            - generic [ref=e68934]: s-DropDown
+                            - generic [ref=e68937]: "-"
+                          - generic [ref=e68938]:
+                            - generic [ref=e68940]: s-MultiSelect
+                            - generic [ref=e68943]: "-"
+                          - generic [ref=e68944]:
+                            - generic [ref=e68946]: s-checkboxes
+                            - generic [ref=e68949]: "-"
+                          - generic [ref=e68952]: s-textarea
+                          - generic [ref=e68953]:
+                            - generic [ref=e68955]: s-TextEditor
+                            - generic [ref=e68956]: Testing By srikanth akkala
+                          - generic [ref=e68957]:
+                            - generic [ref=e68959]: s-TextEditor
+                            - generic [ref=e68960]: Testing By srikanth akkala
+                          - generic [ref=e68961]:
+                            - generic [ref=e68963]: s-Date
+                            - generic [ref=e68966]: "-"
+                          - generic [ref=e68967]:
+                            - generic [ref=e68969]: s-number
+                            - generic [ref=e68972]: "-"
+                          - generic [ref=e68973]:
+                            - generic [ref=e68975]: s-currency
+                            - generic [ref=e68978]: "-"
+                          - generic [ref=e68979]:
+                            - generic [ref=e68981]: s-Range
+                            - generic [ref=e68982]: ","
+                          - generic [ref=e68983]:
+                            - generic [ref=e68985]: s-range
+                            - generic [ref=e68986]: ","
+                          - generic [ref=e68989]: s-url
+                          - generic [ref=e68992]: s-phone
+                          - generic [ref=e68993]:
+                            - generic [ref=e68995]: s-email
+                            - generic [ref=e68996]: "-"
+                          - generic [ref=e68997]:
+                            - generic [ref=e68999]: s-tags
+                            - generic [ref=e69002]: "-"
+                          - generic [ref=e69003]:
+                            - generic [ref=e69005]: s-Radio
+                            - generic [ref=e69008]: "-"
+                          - generic [ref=e69009]:
+                            - generic [ref=e69011]: s-multiUsers
+                            - generic [ref=e69014]: "-"
+                          - generic [ref=e69015]:
+                            - generic [ref=e69017]: s-user
+                            - generic [ref=e69020]: "-"
+                          - generic [ref=e69021]:
+                            - generic [ref=e69023]: Test 255 1
+                            - generic [ref=e69026]: "-"
+                          - generic [ref=e69027]:
+                            - generic [ref=e69029]: Test 255 2
+                            - generic [ref=e69032]: "-"
+                    - generic [ref=e69034]:
+                      - button "Invoice Details Slabs" [expanded] [ref=e69035] [cursor=pointer]:
+                        - generic [ref=e69038]:
+                          - generic [ref=e69039]: Invoice Details Slabs
+                          - button [ref=e69041]
+                      - region "Invoice Details Slabs" [ref=e69045]:
+                        - table [ref=e69052]:
+                          - rowgroup [ref=e69053]:
+                            - row "From To Net Terms No Of Days From Actual DOJ Placement Bill Type Placement Bill Value" [ref=e69054]:
+                              - columnheader "From" [ref=e69055]
+                              - columnheader "To" [ref=e69056]
+                              - columnheader "Net Terms" [ref=e69057]
+                              - columnheader "No Of Days From Actual DOJ" [ref=e69058]
+                              - columnheader "Placement Bill Type" [ref=e69059]
+                              - columnheader "Placement Bill Value" [ref=e69060]
+                          - rowgroup
+                    - generic [ref=e69061]:
+                      - button "Test Field Validation" [expanded] [ref=e69062] [cursor=pointer]:
+                        - generic [ref=e69065]:
+                          - generic [ref=e69066]: Test Field Validation
+                          - button [ref=e69068]
+                      - region "Test Field Validation" [ref=e69072]:
+                        - generic [ref=e69076]:
+                          - generic [ref=e69078]: Test 255 9
+                          - generic [ref=e69081]: "-"
+                    - generic [ref=e69083]:
+                      - button "Invoice Details" [expanded] [ref=e69084] [cursor=pointer]:
+                        - generic [ref=e69087]:
+                          - generic [ref=e69088]: Invoice Details
+                          - button [ref=e69090]
+                      - region "Invoice Details" [ref=e69094]:
+                        - generic [ref=e69097]:
+                          - generic [ref=e69098]:
+                            - generic [ref=e69100]: Billing Cycle
+                            - generic [ref=e69103]: Hourly
+                          - generic [ref=e69104]:
+                            - generic [ref=e69106]: Default Discount Type
+                            - generic [ref=e69109]: "-"
+                          - generic [ref=e69110]:
+                            - generic [ref=e69112]: Default Discount Value
+                            - generic [ref=e69115]: "-"
+                          - generic [ref=e69116]:
+                            - generic [ref=e69118]: Net Terms
+                            - generic [ref=e69121]: Net 30
+                          - generic [ref=e69122]:
+                            - generic [ref=e69124]: Placement Bill Value
+                            - generic [ref=e69127]: "-"
+                          - generic [ref=e69128]:
+                            - generic [ref=e69130]: One Time Placement Invoicing Days From Actual Date Of Joining
+                            - generic [ref=e69133]: "-"
+                          - generic [ref=e69134]:
+                            - generic [ref=e69136]: Invoice Template
+                            - generic [ref=e69139]: Airy Classic
+                          - generic [ref=e69140]:
+                            - generic [ref=e69142]: One Time Placement Bill Type
+                            - generic [ref=e69145]: "-"
+                          - generic [ref=e69146]:
+                            - generic [ref=e69148]: Test 255 3
+                            - generic [ref=e69151]: "-"
+                          - generic [ref=e69152]:
+                            - generic [ref=e69154]: Test 255 4
+                            - generic [ref=e69157]: "-"
+                    - generic [ref=e69159]:
+                      - button "Invoice Code Configuration" [expanded] [ref=e69160] [cursor=pointer]:
+                        - generic [ref=e69163]:
+                          - generic [ref=e69164]: Invoice Code Configuration
+                          - button [ref=e69166]
+                      - region "Invoice Code Configuration" [ref=e69170]:
+                        - generic [ref=e69176]:
+                          - generic [ref=e69178]: Invoice Payment Reminder
+                          - generic [ref=e69180]: Code
+                    - generic [ref=e69181]:
+                      - button "Billing Address" [expanded] [ref=e69182] [cursor=pointer]:
+                        - generic [ref=e69185]:
+                          - generic [ref=e69186]: Billing Address
+                          - button [ref=e69188]
+                      - region "Billing Address" [ref=e69192]:
+                        - generic [ref=e69194]:
+                          - button "Add More" [ref=e69196]:
+                            - generic [ref=e69198]:
+                              - img [ref=e69199]: add
+                              - generic [ref=e69200]: Add More
+                          - generic [ref=e69204]: No records found
+                    - generic [ref=e69205]:
+                      - button "Shipping Address" [expanded] [ref=e69206] [cursor=pointer]:
+                        - generic [ref=e69209]:
+                          - generic [ref=e69210]: Shipping Address
+                          - button [ref=e69212]
+                      - region "Shipping Address" [ref=e69216]:
+                        - generic [ref=e69218]:
+                          - button "Add More" [ref=e69220]:
+                            - generic [ref=e69222]:
+                              - img [ref=e69223]: add
+                              - generic [ref=e69224]: Add More
+                          - generic [ref=e69228]: No records found
+                    - generic [ref=e69229]:
+                      - button "Interview Address" [expanded] [ref=e69230] [cursor=pointer]:
+                        - generic [ref=e69233]:
+                          - generic [ref=e69234]: Interview Address
+                          - button [ref=e69236]
+                      - region "Interview Address" [ref=e69240]:
+                        - generic [ref=e69242]:
+                          - button "Add More" [ref=e69244]:
+                            - generic [ref=e69246]:
+                              - img [ref=e69247]: add
+                              - generic [ref=e69248]: Add More
+                          - generic [ref=e69252]: No records found
+                  - generic [ref=e69254]:
+                    - heading "Tags" [level=1] [ref=e69256]
+                    - generic [ref=e69260]:
+                      - generic [ref=e69262]: Add Tags
+                      - generic "Tag selection" [ref=e69264]:
+                        - textbox "Add Tags" [ref=e69265]
+              - generic [ref=e69268]:
+                - button "Edit" [ref=e69269]:
+                  - generic [ref=e69270]: Edit
+                - button "Previous" [ref=e69273]:
+                  - generic [ref=e69274]: Previous
+                - button "Next" [ref=e69277]:
+                  - generic [ref=e69278]: Next
+            - generic [ref=e69284]:
+              - generic [ref=e69286] [cursor=pointer]: 
+              - generic [ref=e69287] [cursor=pointer]:
+                - generic [ref=e69288]:
+                  - generic: "1"
+                - generic [ref=e69289]: 
+              - generic [ref=e69290] [cursor=pointer]:
+                - generic [ref=e69291]:
+                  - generic: "2"
+                - generic [ref=e69292]: 
+              - separator [ref=e69293]
+              - generic [ref=e69295] [cursor=pointer]: 
+              - generic [ref=e69297] [cursor=pointer]: 
+              - generic [ref=e69299] [cursor=pointer]: 
+              - generic [ref=e69301] [cursor=pointer]: 
+              - generic [ref=e69303] [cursor=pointer]: 
+              - generic [ref=e69305] [cursor=pointer]: 
+              - generic [ref=e69307] [cursor=pointer]: 
+              - generic [ref=e69309] [cursor=pointer]: 
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;
+  - generic [ref=e69312]: Pavan Kumar DEV Super Admin

@@ -1,0 +1,192 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e71660]:
+          - navigation [ref=e71666]:
+            - generic [ref=e71669]:
+              - link "Home" [ref=e71670] [cursor=pointer]:
+                - /url: "#/dashboard"
+                - generic [ref=e71672]: Home
+              - link "Dashboards" [ref=e71673] [cursor=pointer]:
+                - /url: "#/dashboard/dashboards_list"
+                - generic [ref=e71675]: Dashboards
+          - generic [ref=e71679]:
+            - generic [ref=e71680]:
+              - heading "Good Evening, Pavan Kumar DEV" [level=1] [ref=e71681]
+              - generic [ref=e71682]:
+                - button [ref=e71683]:
+                  - img [ref=e71684]: keep_off
+                - button "Add Widget" [ref=e71687]:
+                  - generic [ref=e71689]:
+                    - img [ref=e71690]: add
+                    - generic [ref=e71691]: Add Widget
+            - generic [ref=e71695]:
+              - generic [ref=e71700]:
+                - text: Timesheets
+                - generic [ref=e71702]:
+                  - generic [ref=e71705]:
+                    - generic [ref=e71706]: Expenses
+                    - button "Add" [ref=e71707]:
+                      - generic [ref=e71708]: Add
+                  - generic [ref=e71713]:
+                    - generic [ref=e71714]: Leaves
+                    - button "Apply" [ref=e71715]:
+                      - generic [ref=e71716]: Apply
+              - generic [ref=e71723]:
+                - generic [ref=e71724]:
+                  - generic [ref=e71725]: Team Recent Activities
+                  - generic [ref=e71727] [cursor=pointer]: View More
+                - generic [ref=e71731]:
+                  - generic [ref=e71732]:
+                    - img "No Records"
+                  - generic [ref=e71733]: "\"Starting fresh! 🎯\""
+              - generic [ref=e71738]:
+                - generic [ref=e71739]:
+                  - generic [ref=e71740]: Today, 11 June
+                  - button "Schedule" [ref=e71741]:
+                    - generic [ref=e71743]:
+                      - generic [ref=e71744]: Schedule
+                      - img [ref=e71745]: arrow_drop_down
+                - generic [ref=e71748]:
+                  - button "Previous" [ref=e71750] [cursor=pointer]:
+                    - img [ref=e71751]: arrow_back
+                  - generic [ref=e71754]:
+                    - button "07 Sun" [ref=e71756]:
+                      - generic [ref=e71758]:
+                        - generic [ref=e71759]: "07"
+                        - text: Sun
+                    - button "08 Mon" [ref=e71763]:
+                      - generic [ref=e71765]:
+                        - generic [ref=e71766]: "08"
+                        - text: Mon
+                    - button "09 Tue" [ref=e71770]:
+                      - generic [ref=e71772]:
+                        - generic [ref=e71773]: "09"
+                        - text: Tue
+                    - button "10 Wed" [ref=e71777]:
+                      - generic [ref=e71779]:
+                        - generic [ref=e71780]: "10"
+                        - text: Wed
+                    - button "11 Thu" [ref=e71784]:
+                      - generic [ref=e71786]:
+                        - generic [ref=e71787]: "11"
+                        - text: Thu
+                    - button "12 Fri" [ref=e71791]:
+                      - generic [ref=e71793]:
+                        - generic [ref=e71794]: "12"
+                        - text: Fri
+                    - button "13 Sat" [ref=e71798]:
+                      - generic [ref=e71800]:
+                        - generic [ref=e71801]: "13"
+                        - text: Sat
+                  - button "Next" [ref=e71805] [cursor=pointer]:
+                    - img [ref=e71806]: arrow_forward
+                - generic [ref=e71809]:
+                  - generic [ref=e71810]:
+                    - img "No Records"
+                  - generic [ref=e71811]: "\"Your calendar is suspiciously quiet... 🤔\""
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

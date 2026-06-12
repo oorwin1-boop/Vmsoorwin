@@ -1,0 +1,575 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e65284]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e64910]:
+          - generic [ref=e64912]:
+            - heading "Billing & Usage" [level=1] [ref=e64914]
+            - generic [ref=e64915]:
+              - link "Home" [ref=e64919] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e64920]:
+                - text: /
+                - generic [ref=e64922]: Billing & Usage
+          - generic [ref=e64923]:
+            - generic [ref=e64929]:
+              - link "Subscription" [ref=e64933] [cursor=pointer]:
+                - /url: "#/admin/subscription/info"
+              - link "Company Info" [ref=e64937] [cursor=pointer]:
+                - /url: "#/admin/subscription/company_info"
+              - link "Payment Methods" [ref=e64941] [cursor=pointer]:
+                - /url: "#/admin/subscription/payment_methods"
+              - link "Transactions" [ref=e64945] [cursor=pointer]:
+                - /url: "#/admin/subscription/transactions"
+            - generic [ref=e64951]:
+              - generic [ref=e64952]:
+                - button [ref=e64954]:
+                  - img [ref=e64955]: keyboard_backspace
+                - generic [ref=e64958]:
+                  - generic [ref=e64959]:
+                    - generic [ref=e64960]: contract_edit
+                    - generic [ref=e64961]:
+                      - generic [ref=e64962]: Additional Services
+                      - generic [ref=e64963]: Choose additional servicecs for your plan
+                  - generic [ref=e64964]:
+                    - generic [ref=e64965]: shopping_cart
+                    - generic [ref=e64966]:
+                      - generic [ref=e64967]: Checkout
+                      - generic [ref=e64968]: Here is the summary of your order
+              - generic [ref=e64970]:
+                - generic [ref=e64971]:
+                  - generic [ref=e64972]:
+                    - generic [ref=e64973]:
+                      - generic [ref=e64974]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - checkbox "ATS" [checked] [disabled]
+                              - generic:
+                                - img
+                            - generic: ATS
+                      - generic [ref=e64975]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - checkbox "HR" [checked] [disabled]
+                              - generic:
+                                - img
+                            - generic: HR
+                      - generic [ref=e64976]:
+                        - generic:
+                          - generic:
+                            - generic:
+                              - checkbox "CRM" [checked] [disabled]
+                              - generic:
+                                - img
+                            - generic: CRM
+                    - generic [ref=e64977]:
+                      - generic [ref=e64978]: Current Plan
+                      - generic [ref=e64979]:
+                        - text: ENTERPRISE
+                        - generic [ref=e64981]: Yearly
+                  - generic [ref=e64983]:
+                    - button "User Licenses" [expanded] [ref=e64984] [cursor=pointer]:
+                      - generic [ref=e64986]: User Licenses
+                    - region "User Licenses" [ref=e64988]:
+                      - generic [ref=e64991]:
+                        - generic [ref=e64993]:
+                          - generic [ref=e64994]:
+                            - generic [ref=e64995]: CRM Licenses($12.98/user)
+                            - generic [ref=e64997]: Choose how many users you can access CRM Licenses
+                          - generic [ref=e65001]:
+                            - generic [ref=e65003]: Quantity
+                            - spinbutton "Quantity" [ref=e65005]: "0"
+                        - generic [ref=e65007]:
+                          - generic [ref=e65008]:
+                            - generic [ref=e65009]: ATS Licenses($32.45/user)
+                            - generic [ref=e65011]: Choose how many users you can access ATS Licenses
+                          - generic [ref=e65015]:
+                            - generic [ref=e65017]: Quantity
+                            - spinbutton "Quantity" [ref=e65019]: "0"
+                        - generic [ref=e65021]:
+                          - generic [ref=e65022]:
+                            - generic [ref=e65023]: HR Licenses($19.47/user)
+                            - generic [ref=e65025]: Choose how many users you can access HR Licenses
+                          - generic [ref=e65029]:
+                            - generic [ref=e65031]: Quantity
+                            - spinbutton "Quantity" [ref=e65033]: "0"
+                  - generic [ref=e65035]:
+                    - button "Additional Services" [expanded] [ref=e65036] [cursor=pointer]:
+                      - generic [ref=e65038]: Additional Services
+                    - region "Additional Services" [ref=e65040]:
+                      - generic [ref=e65042]:
+                        - generic [ref=e65044]:
+                          - generic [ref=e65045]:
+                            - generic [ref=e65048] [cursor=pointer]:
+                              - checkbox [ref=e65049]
+                              - generic:
+                                - img
+                            - generic [ref=e65051]: Contact Finder
+                          - generic [ref=e65052]:
+                            - generic [ref=e65053]:
+                              - generic [ref=e65055]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65057]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65060]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65061]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65062]
+                            - generic [ref=e65063]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65065]:
+                          - generic [ref=e65066]:
+                            - generic [ref=e65069] [cursor=pointer]:
+                              - checkbox [ref=e65070]
+                              - generic:
+                                - img
+                            - generic [ref=e65072]: Digital Templates
+                          - generic [ref=e65073]:
+                            - generic [ref=e65074]:
+                              - generic [ref=e65076]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65078]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65081]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65082]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65083]
+                            - generic [ref=e65084]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65086]:
+                          - generic [ref=e65087]:
+                            - generic [ref=e65090] [cursor=pointer]:
+                              - checkbox [ref=e65091]
+                              - generic:
+                                - img
+                            - generic [ref=e65093]: Email Cleanup
+                          - generic [ref=e65094]:
+                            - generic [ref=e65095]:
+                              - generic [ref=e65097]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65099]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65102]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65103]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65104]
+                            - generic [ref=e65105]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65107]:
+                          - generic [ref=e65108]:
+                            - generic [ref=e65111] [cursor=pointer]:
+                              - checkbox [ref=e65112]
+                              - generic:
+                                - img
+                            - generic [ref=e65114]: I-9 Forms
+                          - generic [ref=e65115]:
+                            - generic [ref=e65116]:
+                              - generic [ref=e65118]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65120]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65123]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65124]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65125]
+                            - generic [ref=e65126]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65128]:
+                          - generic [ref=e65129]:
+                            - generic [ref=e65132] [cursor=pointer]:
+                              - checkbox [ref=e65133]
+                              - generic:
+                                - img
+                            - generic [ref=e65135]: Job Grabber
+                          - generic [ref=e65136]:
+                            - generic [ref=e65137]:
+                              - generic [ref=e65139]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65141]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65144]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65145]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65146]
+                            - generic [ref=e65147]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65149]:
+                          - generic [ref=e65150]:
+                            - generic [ref=e65153] [cursor=pointer]:
+                              - checkbox [ref=e65154]
+                              - generic:
+                                - img
+                            - generic [ref=e65156]: LinkedIn Contact Finder
+                          - generic [ref=e65157]:
+                            - generic [ref=e65158]:
+                              - generic [ref=e65160]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65162]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65165]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65166]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65167]
+                            - generic [ref=e65168]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65170]:
+                          - generic [ref=e65171]:
+                            - generic [ref=e65174] [cursor=pointer]:
+                              - checkbox [ref=e65175]
+                              - generic:
+                                - img
+                            - generic [ref=e65177]: Bulk Emails
+                          - generic [ref=e65178]:
+                            - generic [ref=e65179]:
+                              - generic [ref=e65181]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65183]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65186]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65187]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65188]
+                            - generic [ref=e65189]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65191]:
+                          - generic [ref=e65192]:
+                            - generic [ref=e65195] [cursor=pointer]:
+                              - checkbox [ref=e65196]
+                              - generic:
+                                - img
+                            - generic [ref=e65198]:
+                              - text: Oorwin Assessments
+                              - img [ref=e65199] [cursor=pointer]: info
+                          - generic [ref=e65200]:
+                            - generic [ref=e65201]:
+                              - generic [ref=e65203]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65205]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65208]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65209]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65210]
+                            - generic [ref=e65211]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65213]:
+                          - generic [ref=e65214]:
+                            - generic [ref=e65217] [cursor=pointer]:
+                              - checkbox [ref=e65218]
+                              - generic:
+                                - img
+                            - generic [ref=e65220]: Oorwin Branding Removal
+                          - generic [ref=e65221]:
+                            - generic [ref=e65224]:
+                              - generic:
+                                - generic:
+                                  - generic [ref=e65226]: Quantity
+                                  - generic:
+                                    - combobox "Quantity Select" [disabled]:
+                                      - generic:
+                                        - generic:
+                                          - generic: Select
+                                        - generic:
+                                          - generic:
+                                            - img
+                            - generic [ref=e65228]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65230]:
+                          - generic [ref=e65231]:
+                            - generic [ref=e65234] [cursor=pointer]:
+                              - checkbox [ref=e65235]
+                              - generic:
+                                - img
+                            - generic [ref=e65237]: Partner Logins
+                          - generic [ref=e65238]:
+                            - generic [ref=e65240]:
+                              - generic [ref=e65242]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65243]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65244]
+                              - generic [ref=e65245]: $10.00 / month
+                            - generic [ref=e65246]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                        - generic [ref=e65248]:
+                          - generic [ref=e65249]:
+                            - generic [ref=e65252] [cursor=pointer]:
+                              - checkbox [ref=e65253]
+                              - generic:
+                                - img
+                            - generic [ref=e65255]: Oorwin SMS
+                          - generic [ref=e65256]:
+                            - generic [ref=e65257]:
+                              - generic [ref=e65259]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65261]: Quantity
+                                    - generic:
+                                      - combobox "Quantity Select" [disabled]:
+                                        - generic:
+                                          - generic:
+                                            - generic: Select
+                                          - generic:
+                                            - generic:
+                                              - img
+                              - generic [ref=e65264]:
+                                - generic:
+                                  - generic:
+                                    - generic [ref=e65265]: Units
+                                    - spinbutton "Units" [disabled] [ref=e65266]
+                            - generic [ref=e65267]:
+                              - generic:
+                                - generic:
+                                  - generic:
+                                    - checkbox "Auto Renew" [disabled]
+                                    - generic:
+                                      - img
+                                  - generic: Auto Renew
+                - generic [ref=e65270]:
+                  - generic [ref=e65271]: Total Items -0
+                  - generic [ref=e65272]:
+                    - text: Total Cost
+                    - heading "$ 0.00" [level=2] [ref=e65273]
+                    - text: Billed Yearly
+              - button "Checkout" [ref=e65276]:
+                - generic [ref=e65277]: Checkout
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;
+  - generic [ref=e65282]: Pavan Kumar DEV Super Admin

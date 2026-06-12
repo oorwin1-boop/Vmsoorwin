@@ -1,0 +1,2482 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e35683]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e35687]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e35688] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e21502]:
+          - generic [ref=e21504]:
+            - heading "Jobs" [level=1] [ref=e35689]
+            - generic [ref=e21507]:
+              - link "Home" [ref=e35690] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e21512]:
+                - text: /
+                - generic [ref=e21514]: Jobs
+          - navigation [ref=e21516]:
+            - generic [ref=e21519]:
+              - link "All Jobs" [ref=e35691] [cursor=pointer]:
+                - /url: "#/jobs"
+                - generic [ref=e21522]: All Jobs
+              - link "Published Jobs" [ref=e35692] [cursor=pointer]:
+                - /url: "#/jobs/getPromotedJobsListView"
+                - generic [ref=e21525]: Published Jobs
+          - generic [ref=e21526]:
+            - generic [ref=e21531]:
+              - generic [ref=e21532]:
+                - heading "Views" [level=6] [ref=e35693]
+                - generic [ref=e21535]:
+                  - generic [ref=e21605]:
+                    - button [ref=e21607] [cursor=pointer]:
+                      - img [ref=e21608]: more_vert
+                    - generic [ref=e21611] [cursor=pointer]: All Jobs
+                  - generic [ref=e21614]:
+                    - button [ref=e21616] [cursor=pointer]:
+                      - img [ref=e21617]: more_vert
+                    - generic [ref=e21620] [cursor=pointer]: Active Jobs
+                  - generic [ref=e21623]:
+                    - button [ref=e21625] [cursor=pointer]:
+                      - img [ref=e21626]: more_vert
+                    - generic [ref=e21629] [cursor=pointer]: Inactive Jobs
+                  - generic [ref=e21632]:
+                    - button [ref=e21634] [cursor=pointer]:
+                      - img [ref=e21635]: more_vert
+                    - generic [ref=e21638] [cursor=pointer]: My Active Jobs
+                  - generic [ref=e21641]:
+                    - button [ref=e21643] [cursor=pointer]:
+                      - img [ref=e21644]: more_vert
+                    - generic [ref=e21647] [cursor=pointer]: Recent Jobs
+                  - generic [ref=e21650]:
+                    - button [ref=e21652] [cursor=pointer]:
+                      - img [ref=e21653]: more_vert
+                    - generic [ref=e21656] [cursor=pointer]: xdf
+                    - button [ref=e21658] [cursor=pointer]:
+                      - img [ref=e21659]: info
+                  - generic [ref=e21664]:
+                    - button [ref=e21666] [cursor=pointer]:
+                      - img [ref=e21667]: more_vert
+                    - generic [ref=e21670] [cursor=pointer]: Webtech VMS
+                    - button [ref=e21672] [cursor=pointer]:
+                      - img [ref=e21673]: info
+                  - generic [ref=e21678]:
+                    - button [ref=e21680] [cursor=pointer]:
+                      - img [ref=e21681]: more_vert
+                    - generic [ref=e21684] [cursor=pointer]: Created After March 1st By venu
+                    - button [ref=e21686] [cursor=pointer]:
+                      - img [ref=e21687]: info
+                  - generic [ref=e21692]:
+                    - button [ref=e21694] [cursor=pointer]:
+                      - img [ref=e21695]: more_vert
+                    - generic [ref=e21698] [cursor=pointer]: Target Expired Jobs
+                    - button [ref=e21700] [cursor=pointer]:
+                      - img [ref=e21701]: info
+                  - generic [ref=e21706]:
+                    - button [ref=e21708] [cursor=pointer]:
+                      - img [ref=e21709]: more_vert
+                    - generic [ref=e21712] [cursor=pointer]: "24324324"
+                    - button [ref=e21714] [cursor=pointer]:
+                      - img [ref=e21715]: info
+              - button "Create View" [ref=e35694]:
+                - generic [ref=e21539]:
+                  - generic [ref=e21540]: Create View
+                  - img [ref=e21541]: add
+              - generic [ref=e21718]:
+                - heading "Folders" [level=6] [ref=e35695]
+                - generic [ref=e21721]:
+                  - generic [ref=e21724]:
+                    - button [ref=e21725] [cursor=pointer]:
+                      - img [ref=e21726]: more_vert
+                    - generic [ref=e21729] [cursor=pointer]: submission_view
+                    - button [ref=e21731] [cursor=pointer]:
+                      - img [ref=e21732]: info
+                  - generic [ref=e21737]:
+                    - button [ref=e21738] [cursor=pointer]:
+                      - img [ref=e21739]: more_vert
+                    - generic [ref=e21742] [cursor=pointer]: icms view
+                    - button [ref=e21744] [cursor=pointer]:
+                      - img [ref=e21745]: info
+                  - generic [ref=e21750]:
+                    - button [ref=e21751] [cursor=pointer]:
+                      - img [ref=e21752]: more_vert
+                    - generic [ref=e21755] [cursor=pointer]: Bullhorn
+                    - button [ref=e21757] [cursor=pointer]:
+                      - img [ref=e21758]: info
+                  - generic [ref=e21763]:
+                    - button [ref=e21764] [cursor=pointer]:
+                      - img [ref=e21765]: more_vert
+                    - generic [ref=e21768] [cursor=pointer]: Reflik
+                    - button [ref=e21770] [cursor=pointer]:
+                      - img [ref=e21771]: info
+                  - generic [ref=e21776]:
+                    - button [ref=e21777] [cursor=pointer]:
+                      - img [ref=e21778]: more_vert
+                    - generic [ref=e21781] [cursor=pointer]: IQ Navigator
+                    - button [ref=e21783] [cursor=pointer]:
+                      - img [ref=e21784]: info
+                  - generic [ref=e21789]:
+                    - button [ref=e21790] [cursor=pointer]:
+                      - img [ref=e21791]: more_vert
+                    - generic [ref=e21794] [cursor=pointer]: submission_list
+                    - button [ref=e21796] [cursor=pointer]:
+                      - img [ref=e21797]: info
+                  - generic [ref=e21802]:
+                    - button [ref=e21803] [cursor=pointer]:
+                      - img [ref=e21804]: more_vert
+                    - generic [ref=e21807] [cursor=pointer]: test Folder
+                    - button [ref=e21809] [cursor=pointer]:
+                      - img [ref=e21810]: info
+                  - generic [ref=e21815]:
+                    - button [ref=e21816] [cursor=pointer]:
+                      - img [ref=e21817]: more_vert
+                    - generic [ref=e21820] [cursor=pointer]: test
+                    - button [ref=e21822] [cursor=pointer]:
+                      - img [ref=e21823]: info
+                  - generic [ref=e21828]:
+                    - button [ref=e21829] [cursor=pointer]:
+                      - img [ref=e21830]: more_vert
+                    - generic [ref=e21833] [cursor=pointer]: test 1
+                    - button [ref=e21835] [cursor=pointer]:
+                      - img [ref=e21836]: info
+                  - generic [ref=e21841]:
+                    - button [ref=e21842] [cursor=pointer]:
+                      - img [ref=e21843]: more_vert
+                    - generic [ref=e21846] [cursor=pointer]: Dev Private
+                    - button [ref=e21848] [cursor=pointer]:
+                      - img [ref=e21849]: info
+            - generic [ref=e21548]:
+              - generic [ref=e21549]:
+                - generic [ref=e21550]:
+                  - button [ref=e21551] [cursor=pointer]:
+                    - img [ref=e21552]: right_panel_open
+                  - generic [ref=e21560]:
+                    - textbox "Search Job Title, Job ID ,Tags" [active] [ref=e35696]: Java
+                    - button [ref=e25341] [cursor=pointer]:
+                      - img [ref=e25342]: close
+                - generic [ref=e21565]:
+                  - button "Add Job" [expanded] [ref=e35697]:
+                    - generic [ref=e21568]:
+                      - img [ref=e21569]: add
+                      - generic [ref=e21570]: Add Job
+                      - img [ref=e21571]: expand_more
+                  - button [ref=e21574]:
+                    - img [ref=e21575]: view_column
+                  - button [ref=e21852]:
+                    - img [ref=e21853]: filter_alt
+                  - button [ref=e21578]:
+                    - img [ref=e21579]: more_vert
+              - table [ref=e21584]:
+                - rowgroup [ref=e21585]:
+                  - row "Job ID Job Title Status Account Manager Recruiters State Customer City Customer Type Created By Created Date Priority Source Campaigns Campaigns Needed Source Initiated Campaigns Client Job ID Interview Panel Job Domain Recruiter Instructions Modified By Modified Date Open Positions Closed Positions Requisition ID Submissions Age Remote Status Occupational Category Are you willing to Relocate ? Sourcer Client Contact Phone Maximum Submissions Recruitment Manager Share To Partners Follow Up Campaigns End Client Placement Type Company" [ref=e35698]:
+                    - columnheader [ref=e21857]:
+                      - generic [ref=e21858]:
+                        - generic [ref=e21861] [cursor=pointer]:
+                          - checkbox [ref=e21862]
+                          - generic:
+                            - img
+                        - button [ref=e21863] [cursor=pointer]:
+                          - img [ref=e21864]: expand_more
+                    - columnheader "Job ID" [ref=e35699]:
+                      - generic [ref=e21868]:
+                        - text: Job ID
+                        - button [ref=e21870] [cursor=pointer]:
+                          - img [ref=e21871]: filter_list
+                    - columnheader "Job Title" [ref=e35700]:
+                      - generic [ref=e21875]:
+                        - text: Job Title
+                        - button [ref=e21877] [cursor=pointer]:
+                          - img [ref=e21878]: filter_list
+                    - columnheader "Status" [ref=e35701]:
+                      - generic [ref=e21882]:
+                        - text: Status
+                        - button [ref=e21884] [cursor=pointer]:
+                          - img [ref=e21885]: filter_list
+                    - columnheader "Account Manager" [ref=e35702]:
+                      - generic [ref=e21889]:
+                        - text: Account Manager
+                        - button [ref=e21891] [cursor=pointer]:
+                          - img [ref=e21892]: filter_list
+                    - columnheader "Recruiters" [ref=e35703]:
+                      - generic [ref=e21896]:
+                        - text: Recruiters
+                        - button [ref=e21898] [cursor=pointer]:
+                          - img [ref=e21899]: filter_list
+                    - columnheader "State" [ref=e35704]:
+                      - generic [ref=e21903]:
+                        - text: State
+                        - button [ref=e21905] [cursor=pointer]:
+                          - img [ref=e21906]: filter_list
+                    - columnheader "Customer" [ref=e35705]:
+                      - generic [ref=e21910]:
+                        - text: Customer
+                        - button [ref=e21912] [cursor=pointer]:
+                          - img [ref=e21913]: filter_list
+                    - columnheader "City" [ref=e35706]:
+                      - generic [ref=e21917]:
+                        - text: City
+                        - button [ref=e21919] [cursor=pointer]:
+                          - img [ref=e21920]: filter_list
+                    - columnheader "Customer Type" [ref=e35707]:
+                      - generic [ref=e21924]:
+                        - text: Customer Type
+                        - button [ref=e21926] [cursor=pointer]:
+                          - img [ref=e21927]: filter_list
+                    - columnheader "Created By" [ref=e35708]:
+                      - generic [ref=e21931]:
+                        - text: Created By
+                        - button [ref=e21933] [cursor=pointer]:
+                          - img [ref=e21934]: filter_list
+                    - columnheader "Created Date" [ref=e35709]:
+                      - generic [ref=e21938]:
+                        - text: Created Date
+                        - button [ref=e21940] [cursor=pointer]:
+                          - img [ref=e21941]: filter_list
+                    - columnheader "Priority" [ref=e35710]:
+                      - generic [ref=e21945]:
+                        - text: Priority
+                        - button [ref=e21947] [cursor=pointer]:
+                          - img [ref=e21948]: filter_list
+                    - columnheader "Source Campaigns" [ref=e35711]:
+                      - generic [ref=e21952]:
+                        - text: Source Campaigns
+                        - button [ref=e21954] [cursor=pointer]:
+                          - img [ref=e21955]: filter_list
+                    - columnheader "Campaigns Needed" [ref=e35712]:
+                      - generic [ref=e21959]:
+                        - text: Campaigns Needed
+                        - button [ref=e21961] [cursor=pointer]:
+                          - img [ref=e21962]: filter_list
+                    - columnheader "Source" [ref=e35713]:
+                      - generic [ref=e21966]:
+                        - text: Source
+                        - button [ref=e21968] [cursor=pointer]:
+                          - img [ref=e21969]: filter_list
+                    - columnheader "Initiated Campaigns" [ref=e35714]:
+                      - generic [ref=e21973]:
+                        - text: Initiated Campaigns
+                        - button [ref=e21975] [cursor=pointer]:
+                          - img [ref=e21976]: filter_list
+                    - columnheader "Client Job ID" [ref=e35715]:
+                      - generic [ref=e21980]:
+                        - text: Client Job ID
+                        - button [ref=e21982] [cursor=pointer]:
+                          - img [ref=e21983]: filter_list
+                    - columnheader "Interview Panel" [ref=e35716]:
+                      - generic [ref=e21987]:
+                        - text: Interview Panel
+                        - button [ref=e21989] [cursor=pointer]:
+                          - img [ref=e21990]: filter_list
+                    - columnheader "Job Domain" [ref=e35717]:
+                      - generic [ref=e21994]:
+                        - text: Job Domain
+                        - button [ref=e21996] [cursor=pointer]:
+                          - img [ref=e21997]: filter_list
+                    - columnheader "Recruiter Instructions" [ref=e35718]:
+                      - generic [ref=e22001]:
+                        - text: Recruiter Instructions
+                        - button [ref=e22003] [cursor=pointer]:
+                          - img [ref=e22004]: filter_list
+                    - columnheader "Modified By" [ref=e35719]:
+                      - generic [ref=e22008]:
+                        - text: Modified By
+                        - button [ref=e22010] [cursor=pointer]:
+                          - img [ref=e22011]: filter_list
+                    - columnheader "Modified Date" [ref=e35720]:
+                      - generic [ref=e22015]:
+                        - text: Modified Date
+                        - button [ref=e22017] [cursor=pointer]:
+                          - img [ref=e22018]: filter_list
+                    - columnheader "Open Positions" [ref=e35721]:
+                      - generic [ref=e22022]:
+                        - text: Open Positions
+                        - button [ref=e22024] [cursor=pointer]:
+                          - img [ref=e22025]: filter_list
+                    - columnheader "Closed Positions" [ref=e35722]:
+                      - generic [ref=e22029]:
+                        - text: Closed Positions
+                        - button [ref=e22031] [cursor=pointer]:
+                          - img [ref=e22032]: filter_list
+                    - columnheader "Requisition ID" [ref=e35723]:
+                      - generic [ref=e22036]:
+                        - text: Requisition ID
+                        - button [ref=e22038] [cursor=pointer]:
+                          - img [ref=e22039]: filter_list
+                    - columnheader "Submissions" [ref=e35724]:
+                      - generic [ref=e22043]:
+                        - text: Submissions
+                        - button [ref=e22045] [cursor=pointer]:
+                          - img [ref=e22046]: filter_list
+                    - columnheader "Age" [ref=e35725]:
+                      - generic [ref=e22050]:
+                        - text: Age
+                        - button [ref=e22052] [cursor=pointer]:
+                          - img [ref=e22053]: filter_list
+                    - columnheader "Remote Status" [ref=e35726]:
+                      - generic [ref=e22057]:
+                        - text: Remote Status
+                        - button [ref=e22059] [cursor=pointer]:
+                          - img [ref=e22060]: filter_list
+                    - columnheader "Occupational Category" [ref=e35727]:
+                      - generic [ref=e22064]:
+                        - text: Occupational Category
+                        - button [ref=e22066] [cursor=pointer]:
+                          - img [ref=e22067]: filter_list
+                    - columnheader "Are you willing to Relocate ?" [ref=e35728]:
+                      - generic [ref=e22071]:
+                        - text: Are you willing to Relocate ?
+                        - button [ref=e22073] [cursor=pointer]:
+                          - img [ref=e22074]: filter_list
+                    - columnheader "Sourcer" [ref=e35729]:
+                      - generic [ref=e22078]:
+                        - text: Sourcer
+                        - button [ref=e22080] [cursor=pointer]:
+                          - img [ref=e22081]: filter_list
+                    - columnheader "Client Contact Phone" [ref=e35730]:
+                      - generic [ref=e22085]:
+                        - text: Client Contact Phone
+                        - button [ref=e22087] [cursor=pointer]:
+                          - img [ref=e22088]: filter_list
+                    - columnheader "Maximum Submissions" [ref=e35731]:
+                      - generic [ref=e22092]:
+                        - text: Maximum Submissions
+                        - button [ref=e22094] [cursor=pointer]:
+                          - img [ref=e22095]: filter_list
+                    - columnheader "Recruitment Manager" [ref=e35732]:
+                      - generic [ref=e22099]:
+                        - text: Recruitment Manager
+                        - button [ref=e22101] [cursor=pointer]:
+                          - img [ref=e22102]: filter_list
+                    - columnheader "Share To Partners" [ref=e35733]:
+                      - generic [ref=e22106]:
+                        - text: Share To Partners
+                        - button [ref=e22108] [cursor=pointer]:
+                          - img [ref=e22109]: filter_list
+                    - columnheader "Follow Up Campaigns" [ref=e35734]:
+                      - generic [ref=e22113]:
+                        - text: Follow Up Campaigns
+                        - button [ref=e22115] [cursor=pointer]:
+                          - img [ref=e22116]: filter_list
+                    - columnheader "End Client" [ref=e35735]:
+                      - generic [ref=e22120]:
+                        - text: End Client
+                        - button [ref=e22122] [cursor=pointer]:
+                          - img [ref=e22123]: filter_list
+                    - columnheader "Placement Type" [ref=e35736]:
+                      - generic [ref=e22127]:
+                        - text: Placement Type
+                        - button [ref=e22129] [cursor=pointer]:
+                          - img [ref=e22130]: filter_list
+                    - columnheader "Company" [ref=e35737]:
+                      - generic [ref=e22134]:
+                        - text: Company
+                        - button [ref=e22136] [cursor=pointer]:
+                          - img [ref=e22137]: filter_list
+                - rowgroup [ref=e22140]:
+                  - row "OOJ - 85968 Java Developer Closed Venu Delete Venu CRM Manager,Ven... Alaska Faithful Consulting Hyder, AK Vendor Venu Delete May 08, 2026 00:22:3... High no 0 Internal 1 Venu Delete May 08, 2026 00:33:2... 0 1 2 0 Days OnSite Delete ATS 0 Enable Contractual oorwinui" [ref=e35738]:
+                    - cell [ref=e32073]:
+                      - generic [ref=e32074]:
+                        - generic [ref=e32077] [cursor=pointer]:
+                          - checkbox [ref=e32078]
+                          - generic:
+                            - img
+                        - button [ref=e32079] [cursor=pointer]:
+                          - img [ref=e32080]: more_vert
+                        - generic [ref=e32083]:
+                          - button [ref=e32084] [cursor=pointer]:
+                            - img [ref=e32085]:
+                              - text: description
+                              - generic: "1"
+                          - button [ref=e32088] [cursor=pointer]:
+                            - img [ref=e32089]:
+                              - text: demography
+                              - generic: "2"
+                          - button [ref=e32092] [cursor=pointer]:
+                            - img [ref=e32093]:
+                              - text: account_tree
+                              - generic: "1"
+                        - button [ref=e32096] [cursor=pointer]:
+                          - img [ref=e32097]: account_circle
+                        - button [ref=e32100] [cursor=pointer]
+                    - cell "OOJ - 85968" [ref=e35739]:
+                      - link "OOJ - 85968" [ref=e35740] [cursor=pointer]:
+                        - /url: "#/jobs/9451/view?is_listing=1"
+                    - cell "Java Developer" [ref=e35741]:
+                      - generic [ref=e32108]:
+                        - link "Java Developer" [ref=e35742] [cursor=pointer]:
+                          - /url: "#/jobs/9451/view?is_listing=1"
+                        - button [ref=e32110] [cursor=pointer]:
+                          - img [ref=e32111]: visibility
+                    - cell "Closed" [ref=e35743]:
+                      - generic [ref=e32116]:
+                        - generic [ref=e32119]: Closed
+                        - button [ref=e32120] [cursor=pointer]:
+                          - img [ref=e32121]: edit
+                    - cell "Venu Delete" [ref=e35744]:
+                      - generic [ref=e32128]: Venu Delete
+                    - cell "Venu CRM Manager,Ven..." [ref=e35745]:
+                      - generic [ref=e32133]: Venu CRM Manager,Ven...
+                    - cell "Alaska" [ref=e35746]:
+                      - generic [ref=e32138]: Alaska
+                    - cell "Faithful Consulting" [ref=e35747]:
+                      - link "Faithful Consulting" [ref=e35748] [cursor=pointer]:
+                        - /url: "#/accounts/2772/view"
+                    - cell "Hyder, AK" [ref=e35749]:
+                      - generic [ref=e32147]: Hyder, AK
+                    - cell "Vendor" [ref=e35750]:
+                      - generic [ref=e32152]: Vendor
+                    - cell "Venu Delete" [ref=e35751]:
+                      - generic [ref=e32157]: Venu Delete
+                    - cell "May 08, 2026 00:22:3..." [ref=e35752]:
+                      - generic [ref=e32162]: May 08, 2026 00:22:3...
+                    - cell "High" [ref=e35753]:
+                      - generic [ref=e32167]: High
+                    - cell "no" [ref=e35754]:
+                      - generic [ref=e32172]: "no"
+                    - cell "0" [ref=e35755]
+                    - cell "Internal" [ref=e35756]:
+                      - generic [ref=e32178]: Internal
+                    - cell "1" [ref=e35757]:
+                      - generic [ref=e32183]: "1"
+                    - cell [ref=e32184]
+                    - cell [ref=e32185]
+                    - cell [ref=e32186]
+                    - cell [ref=e32187]
+                    - cell "Venu Delete" [ref=e35758]:
+                      - generic [ref=e32192]: Venu Delete
+                    - cell "May 08, 2026 00:33:2..." [ref=e35759]:
+                      - generic [ref=e32197]: May 08, 2026 00:33:2...
+                    - cell "0" [ref=e35760]
+                    - cell "1" [ref=e35761]:
+                      - generic [ref=e32203]: "1"
+                    - cell [ref=e32204]
+                    - cell "2" [ref=e35762]:
+                      - link "2" [ref=e35763] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9451"
+                    - cell "0 Days" [ref=e35764]:
+                      - generic [ref=e32213]: 0 Days
+                    - cell "OnSite" [ref=e35765]:
+                      - generic [ref=e32218]: OnSite
+                    - cell [ref=e32219]
+                    - cell [ref=e32220]
+                    - cell "Delete ATS" [ref=e35766]:
+                      - generic [ref=e32225]: Delete ATS
+                    - cell [ref=e32226]
+                    - cell "0" [ref=e35767]
+                    - cell [ref=e32228]
+                    - cell [ref=e32229]
+                    - cell "Enable" [ref=e35768]:
+                      - generic [ref=e32232]:
+                        - generic [ref=e32234]: Enable
+                        - button [ref=e32235] [cursor=pointer]:
+                          - img [ref=e32236]: edit
+                    - cell [ref=e32239]
+                    - cell "Contractual" [ref=e35769]:
+                      - generic [ref=e32244]: Contractual
+                    - cell "oorwinui" [ref=e35770]:
+                      - generic [ref=e32249]: oorwinui
+                  - row "OOJ - 85964 Java Developer Active Venubabu Goli Arkansas Revalsys Technologies Cale, AR Prime Vendor Venubabu Goli May 07, 2026 04:39:4... High no 0 Internal 0 Venubabu Goli May 07, 2026 04:39:4... 12 0 1 35 Days OnSite 0 Enable Contractual oorwinui" [ref=e35771]:
+                    - cell [ref=e32251]:
+                      - generic [ref=e32252]:
+                        - generic [ref=e32255] [cursor=pointer]:
+                          - checkbox [ref=e32256]
+                          - generic:
+                            - img
+                        - button [ref=e32257] [cursor=pointer]:
+                          - img [ref=e32258]: more_vert
+                        - generic [ref=e32261]:
+                          - button [ref=e32262] [cursor=pointer]:
+                            - img [ref=e32263]: description
+                          - button [ref=e32266] [cursor=pointer]:
+                            - img [ref=e32267]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e32270] [cursor=pointer]:
+                            - img [ref=e32271]:
+                              - text: account_tree
+                              - generic: "1"
+                        - button [ref=e32274] [cursor=pointer]:
+                          - img [ref=e32275]: account_circle
+                        - button [ref=e32278] [cursor=pointer]
+                    - cell "OOJ - 85964" [ref=e35772]:
+                      - link "OOJ - 85964" [ref=e35773] [cursor=pointer]:
+                        - /url: "#/jobs/9447/view?is_listing=1"
+                    - cell "Java Developer" [ref=e35774]:
+                      - generic [ref=e32286]:
+                        - link "Java Developer" [ref=e35775] [cursor=pointer]:
+                          - /url: "#/jobs/9447/view?is_listing=1"
+                        - button [ref=e32288] [cursor=pointer]:
+                          - img [ref=e32289]: visibility
+                    - cell "Active" [ref=e35776]:
+                      - generic [ref=e32294]:
+                        - generic [ref=e32297]: Active
+                        - button [ref=e32298] [cursor=pointer]:
+                          - img [ref=e32299]: edit
+                    - cell "Venubabu Goli" [ref=e35777]:
+                      - generic [ref=e32306]: Venubabu Goli
+                    - cell [ref=e32307]
+                    - cell "Arkansas" [ref=e35778]:
+                      - generic [ref=e32312]: Arkansas
+                    - cell "Revalsys Technologies" [ref=e35779]:
+                      - link "Revalsys Technologies" [ref=e35780] [cursor=pointer]:
+                        - /url: "#/accounts/1223/view"
+                    - cell "Cale, AR" [ref=e35781]:
+                      - generic [ref=e32321]: Cale, AR
+                    - cell "Prime Vendor" [ref=e35782]:
+                      - generic [ref=e32326]: Prime Vendor
+                    - cell "Venubabu Goli" [ref=e35783]:
+                      - generic [ref=e32331]: Venubabu Goli
+                    - cell "May 07, 2026 04:39:4..." [ref=e35784]:
+                      - generic [ref=e32336]: May 07, 2026 04:39:4...
+                    - cell "High" [ref=e35785]:
+                      - generic [ref=e32341]: High
+                    - cell "no" [ref=e35786]:
+                      - generic [ref=e32346]: "no"
+                    - cell "0" [ref=e35787]
+                    - cell "Internal" [ref=e35788]:
+                      - generic [ref=e32352]: Internal
+                    - cell "0" [ref=e35789]
+                    - cell [ref=e32354]
+                    - cell [ref=e32355]
+                    - cell [ref=e32356]
+                    - cell [ref=e32357]
+                    - cell "Venubabu Goli" [ref=e35790]:
+                      - generic [ref=e32362]: Venubabu Goli
+                    - cell "May 07, 2026 04:39:4..." [ref=e35791]:
+                      - generic [ref=e32367]: May 07, 2026 04:39:4...
+                    - cell "12" [ref=e35792]:
+                      - generic [ref=e32372]: "12"
+                    - cell "0" [ref=e35793]
+                    - cell [ref=e32374]
+                    - cell "1" [ref=e35794]:
+                      - link "1" [ref=e35795] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9447"
+                    - cell "35 Days" [ref=e35796]:
+                      - generic [ref=e32383]: 35 Days
+                    - cell "OnSite" [ref=e35797]:
+                      - generic [ref=e32388]: OnSite
+                    - cell [ref=e32389]
+                    - cell [ref=e32390]
+                    - cell [ref=e32391]
+                    - cell [ref=e32392]
+                    - cell "0" [ref=e35798]
+                    - cell [ref=e32394]
+                    - cell [ref=e32395]
+                    - cell "Enable" [ref=e35799]:
+                      - generic [ref=e32398]:
+                        - generic [ref=e32400]: Enable
+                        - button [ref=e32401] [cursor=pointer]:
+                          - img [ref=e32402]: edit
+                    - cell [ref=e32405]
+                    - cell "Contractual" [ref=e35800]:
+                      - generic [ref=e32410]: Contractual
+                    - cell "oorwinui" [ref=e35801]:
+                      - generic [ref=e32415]: oorwinui
+                  - row "OOJ - 85962 java developer Active Jaswanth Kumar hire,... Priya Murugan,Jaswan... Texas Revalsys Technologies Texas City, TX Prime Vendor Priya Murugan May 07, 2026 02:32:4... Constant no 0 Internal 0 Priya Murugan May 07, 2026 04:52:2... 1 0 0 35 Days OnSite 0 Enable Contractual oorwinui" [ref=e35802]:
+                    - cell [ref=e32417]:
+                      - generic [ref=e32418]:
+                        - generic [ref=e32421] [cursor=pointer]:
+                          - checkbox [ref=e32422]
+                          - generic:
+                            - img
+                        - button [ref=e32423] [cursor=pointer]:
+                          - img [ref=e32424]: more_vert
+                        - generic [ref=e32427]:
+                          - button [ref=e32428] [cursor=pointer]:
+                            - img [ref=e32429]: description
+                          - button [ref=e32432] [cursor=pointer]:
+                            - img [ref=e32433]: demography
+                          - button [ref=e32436] [cursor=pointer]:
+                            - img [ref=e32437]: account_tree
+                        - button [ref=e32440] [cursor=pointer]:
+                          - img [ref=e32441]: account_circle
+                        - button [ref=e32444] [cursor=pointer]
+                    - cell "OOJ - 85962" [ref=e35803]:
+                      - link "OOJ - 85962" [ref=e35804] [cursor=pointer]:
+                        - /url: "#/jobs/9445/view?is_listing=1"
+                    - cell "java developer" [ref=e35805]:
+                      - generic [ref=e32452]:
+                        - link "java developer" [ref=e35806] [cursor=pointer]:
+                          - /url: "#/jobs/9445/view?is_listing=1"
+                        - button [ref=e32454] [cursor=pointer]:
+                          - img [ref=e32455]: visibility
+                    - cell "Active" [ref=e35807]:
+                      - generic [ref=e32460]:
+                        - generic [ref=e32463]: Active
+                        - button [ref=e32464] [cursor=pointer]:
+                          - img [ref=e32465]: edit
+                    - cell "Jaswanth Kumar hire,..." [ref=e35808]:
+                      - generic [ref=e32472]: Jaswanth Kumar hire,...
+                    - cell "Priya Murugan,Jaswan..." [ref=e35809]:
+                      - generic [ref=e32477]: Priya Murugan,Jaswan...
+                    - cell "Texas" [ref=e35810]:
+                      - generic [ref=e32482]: Texas
+                    - cell "Revalsys Technologies" [ref=e35811]:
+                      - link "Revalsys Technologies" [ref=e35812] [cursor=pointer]:
+                        - /url: "#/accounts/1223/view"
+                    - cell "Texas City, TX" [ref=e35813]:
+                      - generic [ref=e32491]: Texas City, TX
+                    - cell "Prime Vendor" [ref=e35814]:
+                      - generic [ref=e32496]: Prime Vendor
+                    - cell "Priya Murugan" [ref=e35815]:
+                      - generic [ref=e32501]: Priya Murugan
+                    - cell "May 07, 2026 02:32:4..." [ref=e35816]:
+                      - generic [ref=e32506]: May 07, 2026 02:32:4...
+                    - cell "Constant" [ref=e35817]:
+                      - generic [ref=e32511]: Constant
+                    - cell "no" [ref=e35818]:
+                      - generic [ref=e32516]: "no"
+                    - cell "0" [ref=e35819]
+                    - cell "Internal" [ref=e35820]:
+                      - generic [ref=e32522]: Internal
+                    - cell "0" [ref=e35821]
+                    - cell [ref=e32524]
+                    - cell [ref=e32525]
+                    - cell [ref=e32526]
+                    - cell [ref=e32527]
+                    - cell "Priya Murugan" [ref=e35822]:
+                      - generic [ref=e32532]: Priya Murugan
+                    - cell "May 07, 2026 04:52:2..." [ref=e35823]:
+                      - generic [ref=e32537]: May 07, 2026 04:52:2...
+                    - cell "1" [ref=e35824]:
+                      - generic [ref=e32542]: "1"
+                    - cell "0" [ref=e35825]
+                    - cell [ref=e32544]
+                    - cell "0" [ref=e35826]: "0"
+                    - cell "35 Days" [ref=e35827]:
+                      - generic [ref=e32550]: 35 Days
+                    - cell "OnSite" [ref=e35828]:
+                      - generic [ref=e32555]: OnSite
+                    - cell [ref=e32556]
+                    - cell [ref=e32557]
+                    - cell [ref=e32558]
+                    - cell [ref=e32559]
+                    - cell "0" [ref=e35829]
+                    - cell [ref=e32561]
+                    - cell [ref=e32562]
+                    - cell "Enable" [ref=e35830]:
+                      - generic [ref=e32565]:
+                        - generic [ref=e32567]: Enable
+                        - button [ref=e32568] [cursor=pointer]:
+                          - img [ref=e32569]: edit
+                    - cell [ref=e32572]
+                    - cell "Contractual" [ref=e35831]:
+                      - generic [ref=e32577]: Contractual
+                    - cell "oorwinui" [ref=e35832]:
+                      - generic [ref=e32582]: oorwinui
+                  - row "OOJ - 85955 Java developer Active Srikanth Akkala Aparna Reddy Texas AWS14 Dallas, TX Vendor Srikanth Akkala May 05, 2026 22:56:1... Super High no 0 Internal 0 Mohana Rao May 05, 2026 23:37:3... 7 1 1 37 Days OnSite 0 Mohan ANG0002 Enable Contractual oorwinui" [ref=e35833]:
+                    - cell [ref=e32584]:
+                      - generic [ref=e32585]:
+                        - generic [ref=e32588] [cursor=pointer]:
+                          - checkbox [ref=e32589]
+                          - generic:
+                            - img
+                        - button [ref=e32590] [cursor=pointer]:
+                          - img [ref=e32591]: more_vert
+                        - generic [ref=e32594]:
+                          - button [ref=e32595] [cursor=pointer]:
+                            - img [ref=e32596]: description
+                          - button [ref=e32599] [cursor=pointer]:
+                            - img [ref=e32600]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e32603] [cursor=pointer]:
+                            - img [ref=e32604]: account_tree
+                        - button [ref=e32607] [cursor=pointer]:
+                          - img [ref=e32608]: account_circle
+                        - button [ref=e32611] [cursor=pointer]
+                    - cell "OOJ - 85955" [ref=e35834]:
+                      - link "OOJ - 85955" [ref=e35835] [cursor=pointer]:
+                        - /url: "#/jobs/9438/view?is_listing=1"
+                    - cell "Java developer" [ref=e35836]:
+                      - generic [ref=e32619]:
+                        - link "Java developer" [ref=e35837] [cursor=pointer]:
+                          - /url: "#/jobs/9438/view?is_listing=1"
+                        - button [ref=e32621] [cursor=pointer]:
+                          - img [ref=e32622]: visibility
+                    - cell "Active" [ref=e35838]:
+                      - generic [ref=e32627]:
+                        - generic [ref=e32630]: Active
+                        - button [ref=e32631] [cursor=pointer]:
+                          - img [ref=e32632]: edit
+                    - cell "Srikanth Akkala" [ref=e35839]:
+                      - generic [ref=e32639]: Srikanth Akkala
+                    - cell "Aparna Reddy" [ref=e35840]:
+                      - generic [ref=e32644]: Aparna Reddy
+                    - cell "Texas" [ref=e35841]:
+                      - generic [ref=e32649]: Texas
+                    - cell "AWS14" [ref=e35842]:
+                      - link "AWS14" [ref=e35843] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e35844]:
+                      - generic [ref=e32658]: Dallas, TX
+                    - cell "Vendor" [ref=e35845]:
+                      - generic [ref=e32663]: Vendor
+                    - cell "Srikanth Akkala" [ref=e35846]:
+                      - generic [ref=e32668]: Srikanth Akkala
+                    - cell "May 05, 2026 22:56:1..." [ref=e35847]:
+                      - generic [ref=e32673]: May 05, 2026 22:56:1...
+                    - cell "Super High" [ref=e35848]:
+                      - generic [ref=e32678]: Super High
+                    - cell "no" [ref=e35849]:
+                      - generic [ref=e32683]: "no"
+                    - cell "0" [ref=e35850]
+                    - cell "Internal" [ref=e35851]:
+                      - generic [ref=e32689]: Internal
+                    - cell "0" [ref=e35852]
+                    - cell [ref=e32691]
+                    - cell [ref=e32692]
+                    - cell [ref=e32693]
+                    - cell [ref=e32694]
+                    - cell "Mohana Rao" [ref=e35853]:
+                      - generic [ref=e32699]: Mohana Rao
+                    - cell "May 05, 2026 23:37:3..." [ref=e35854]:
+                      - generic [ref=e32704]: May 05, 2026 23:37:3...
+                    - cell "7" [ref=e35855]:
+                      - generic [ref=e32709]: "7"
+                    - cell "1" [ref=e35856]:
+                      - generic [ref=e32714]: "1"
+                    - cell [ref=e32715]
+                    - cell "1" [ref=e35857]:
+                      - link "1" [ref=e35858] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9438"
+                    - cell "37 Days" [ref=e35859]:
+                      - generic [ref=e32724]: 37 Days
+                    - cell "OnSite" [ref=e35860]:
+                      - generic [ref=e32729]: OnSite
+                    - cell [ref=e32730]
+                    - cell [ref=e32731]
+                    - cell [ref=e32732]
+                    - cell [ref=e32733]
+                    - cell "0" [ref=e35861]
+                    - cell "Mohan ANG0002" [ref=e35862]:
+                      - generic [ref=e32739]: Mohan ANG0002
+                    - cell [ref=e32740]
+                    - cell "Enable" [ref=e35863]:
+                      - generic [ref=e32743]:
+                        - generic [ref=e32745]: Enable
+                        - button [ref=e32746] [cursor=pointer]:
+                          - img [ref=e32747]: edit
+                    - cell [ref=e32750]
+                    - cell "Contractual" [ref=e35864]:
+                      - generic [ref=e32755]: Contractual
+                    - cell "oorwinui" [ref=e35865]:
+                      - generic [ref=e32760]: oorwinui
+                  - row "OOJ - 85953 Java Developer Active Venubabu Goli Arkansas Revalsys Technologies Cale, AR Prime Vendor Venubabu Goli May 04, 2026 03:42:0... High no 0 Internal 0 Venubabu Goli May 04, 2026 03:42:0... 12 0 0 38 Days OnSite 0 Enable Contractual oorwinui" [ref=e35866]:
+                    - cell [ref=e32762]:
+                      - generic [ref=e32763]:
+                        - generic [ref=e32766] [cursor=pointer]:
+                          - checkbox [ref=e32767]
+                          - generic:
+                            - img
+                        - button [ref=e32768] [cursor=pointer]:
+                          - img [ref=e32769]: more_vert
+                        - generic [ref=e32772]:
+                          - button [ref=e32773] [cursor=pointer]:
+                            - img [ref=e32774]: description
+                          - button [ref=e32777] [cursor=pointer]:
+                            - img [ref=e32778]: demography
+                          - button [ref=e32781] [cursor=pointer]:
+                            - img [ref=e32782]: account_tree
+                        - button [ref=e32785] [cursor=pointer]:
+                          - img [ref=e32786]: account_circle
+                        - button [ref=e32789] [cursor=pointer]
+                    - cell "OOJ - 85953" [ref=e35867]:
+                      - link "OOJ - 85953" [ref=e35868] [cursor=pointer]:
+                        - /url: "#/jobs/9436/view?is_listing=1"
+                    - cell "Java Developer" [ref=e35869]:
+                      - generic [ref=e32797]:
+                        - link "Java Developer" [ref=e35870] [cursor=pointer]:
+                          - /url: "#/jobs/9436/view?is_listing=1"
+                        - button [ref=e32799] [cursor=pointer]:
+                          - img [ref=e32800]: visibility
+                    - cell "Active" [ref=e35871]:
+                      - generic [ref=e32805]:
+                        - generic [ref=e32808]: Active
+                        - button [ref=e32809] [cursor=pointer]:
+                          - img [ref=e32810]: edit
+                    - cell "Venubabu Goli" [ref=e35872]:
+                      - generic [ref=e32817]: Venubabu Goli
+                    - cell [ref=e32818]
+                    - cell "Arkansas" [ref=e35873]:
+                      - generic [ref=e32823]: Arkansas
+                    - cell "Revalsys Technologies" [ref=e35874]:
+                      - link "Revalsys Technologies" [ref=e35875] [cursor=pointer]:
+                        - /url: "#/accounts/1223/view"
+                    - cell "Cale, AR" [ref=e35876]:
+                      - generic [ref=e32832]: Cale, AR
+                    - cell "Prime Vendor" [ref=e35877]:
+                      - generic [ref=e32837]: Prime Vendor
+                    - cell "Venubabu Goli" [ref=e35878]:
+                      - generic [ref=e32842]: Venubabu Goli
+                    - cell "May 04, 2026 03:42:0..." [ref=e35879]:
+                      - generic [ref=e32847]: May 04, 2026 03:42:0...
+                    - cell "High" [ref=e35880]:
+                      - generic [ref=e32852]: High
+                    - cell "no" [ref=e35881]:
+                      - generic [ref=e32857]: "no"
+                    - cell "0" [ref=e35882]
+                    - cell "Internal" [ref=e35883]:
+                      - generic [ref=e32863]: Internal
+                    - cell "0" [ref=e35884]
+                    - cell [ref=e32865]
+                    - cell [ref=e32866]
+                    - cell [ref=e32867]
+                    - cell [ref=e32868]
+                    - cell "Venubabu Goli" [ref=e35885]:
+                      - generic [ref=e32873]: Venubabu Goli
+                    - cell "May 04, 2026 03:42:0..." [ref=e35886]:
+                      - generic [ref=e32878]: May 04, 2026 03:42:0...
+                    - cell "12" [ref=e35887]:
+                      - generic [ref=e32883]: "12"
+                    - cell "0" [ref=e35888]
+                    - cell [ref=e32885]
+                    - cell "0" [ref=e35889]: "0"
+                    - cell "38 Days" [ref=e35890]:
+                      - generic [ref=e32891]: 38 Days
+                    - cell "OnSite" [ref=e35891]:
+                      - generic [ref=e32896]: OnSite
+                    - cell [ref=e32897]
+                    - cell [ref=e32898]
+                    - cell [ref=e32899]
+                    - cell [ref=e32900]
+                    - cell "0" [ref=e35892]
+                    - cell [ref=e32902]
+                    - cell [ref=e32903]
+                    - cell "Enable" [ref=e35893]:
+                      - generic [ref=e32906]:
+                        - generic [ref=e32908]: Enable
+                        - button [ref=e32909] [cursor=pointer]:
+                          - img [ref=e32910]: edit
+                    - cell [ref=e32913]
+                    - cell "Contractual" [ref=e35894]:
+                      - generic [ref=e32918]: Contractual
+                    - cell "oorwinui" [ref=e35895]:
+                      - generic [ref=e32923]: oorwinui
+                  - row "OOJ - 85952 Java developer13 Active Srikanth Akkala,Jasw... Srikanth Akkala,Apar... Arizona,Texas Apple50 Dallas, TX Prime Vendor Dhana Akkala April 28, 2026 06:22... Super High no 0 Internal 1 Tharun j May 04, 2026 21:34:2... 9 0 23 44 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e35896]:
+                    - cell [ref=e32925]:
+                      - generic [ref=e32926]:
+                        - generic [ref=e32929] [cursor=pointer]:
+                          - checkbox [ref=e32930]
+                          - generic:
+                            - img
+                        - button [ref=e32931] [cursor=pointer]:
+                          - img [ref=e32932]: more_vert
+                        - generic [ref=e32935]:
+                          - button [ref=e32936] [cursor=pointer]:
+                            - img [ref=e32937]: description
+                          - button [ref=e32940] [cursor=pointer]:
+                            - img [ref=e32941]:
+                              - text: demography
+                              - generic: "23"
+                          - button [ref=e32944] [cursor=pointer]:
+                            - img [ref=e32945]:
+                              - text: account_tree
+                              - generic: "1"
+                        - button [ref=e32948] [cursor=pointer]:
+                          - img [ref=e32949]: account_circle
+                        - button [ref=e32952] [cursor=pointer]
+                    - cell "OOJ - 85952" [ref=e35897]:
+                      - link "OOJ - 85952" [ref=e35898] [cursor=pointer]:
+                        - /url: "#/jobs/9435/view?is_listing=1"
+                    - cell "Java developer13" [ref=e35899]:
+                      - generic [ref=e32960]:
+                        - link "Java developer13" [ref=e35900] [cursor=pointer]:
+                          - /url: "#/jobs/9435/view?is_listing=1"
+                        - button [ref=e32962] [cursor=pointer]:
+                          - img [ref=e32963]: visibility
+                    - cell "Active" [ref=e35901]:
+                      - generic [ref=e32968]:
+                        - generic [ref=e32971]: Active
+                        - button [ref=e32972] [cursor=pointer]:
+                          - img [ref=e32973]: edit
+                    - cell "Srikanth Akkala,Jasw..." [ref=e35902]:
+                      - generic [ref=e32980]: Srikanth Akkala,Jasw...
+                    - cell "Srikanth Akkala,Apar..." [ref=e35903]:
+                      - generic [ref=e32985]: Srikanth Akkala,Apar...
+                    - cell "Arizona,Texas" [ref=e35904]:
+                      - generic [ref=e32990]: Arizona,Texas
+                    - cell "Apple50" [ref=e35905]:
+                      - link "Apple50" [ref=e35906] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e35907]:
+                      - generic [ref=e32999]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e35908]:
+                      - generic [ref=e33004]: Prime Vendor
+                    - cell "Dhana Akkala" [ref=e35909]:
+                      - generic [ref=e33009]: Dhana Akkala
+                    - cell "April 28, 2026 06:22..." [ref=e35910]:
+                      - generic [ref=e33014]: April 28, 2026 06:22...
+                    - cell "Super High" [ref=e35911]:
+                      - generic [ref=e33019]: Super High
+                    - cell "no" [ref=e35912]:
+                      - generic [ref=e33024]: "no"
+                    - cell "0" [ref=e35913]
+                    - cell "Internal" [ref=e35914]:
+                      - generic [ref=e33030]: Internal
+                    - cell "1" [ref=e35915]:
+                      - generic [ref=e33035]: "1"
+                    - cell [ref=e33036]
+                    - cell [ref=e33037]
+                    - cell [ref=e33038]
+                    - cell [ref=e33039]
+                    - cell "Tharun j" [ref=e35916]:
+                      - generic [ref=e33044]: Tharun j
+                    - cell "May 04, 2026 21:34:2..." [ref=e35917]:
+                      - generic [ref=e33049]: May 04, 2026 21:34:2...
+                    - cell "9" [ref=e35918]:
+                      - generic [ref=e33054]: "9"
+                    - cell "0" [ref=e35919]
+                    - cell [ref=e33056]
+                    - cell "23" [ref=e35920]:
+                      - link "23" [ref=e35921] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9435"
+                    - cell "44 Days" [ref=e35922]:
+                      - generic [ref=e33065]: 44 Days
+                    - cell "OnSite" [ref=e35923]:
+                      - generic [ref=e33070]: OnSite
+                    - cell [ref=e33071]
+                    - cell [ref=e33072]
+                    - cell [ref=e33073]
+                    - cell [ref=e33074]
+                    - cell "33" [ref=e35924]:
+                      - generic [ref=e33079]: "33"
+                    - cell "Rao Akkala" [ref=e35925]:
+                      - generic [ref=e33084]: Rao Akkala
+                    - cell [ref=e33085]
+                    - cell "Enable" [ref=e35926]:
+                      - generic [ref=e33088]:
+                        - generic [ref=e33090]: Enable
+                        - button [ref=e33091] [cursor=pointer]:
+                          - img [ref=e33092]: edit
+                    - cell [ref=e33095]
+                    - cell "Contractual" [ref=e35927]:
+                      - generic [ref=e33100]: Contractual
+                    - cell "oorwinui" [ref=e35928]:
+                      - generic [ref=e33105]: oorwinui
+                  - row "OOJ - 85951 Java developer13 Active Srikanth Akkala,Jasw... Srikanth Akkala,Apar... Arizona,Texas Apple50 Dallas, TX Prime Vendor Aparna Reddy April 28, 2026 06:07... Super High no 0 Internal 0 Srikanth Akkala April 28, 2026 06:13... 9 0 2 44 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e35929]:
+                    - cell [ref=e33107]:
+                      - generic [ref=e33108]:
+                        - generic [ref=e33111] [cursor=pointer]:
+                          - checkbox [ref=e33112]
+                          - generic:
+                            - img
+                        - button [ref=e33113] [cursor=pointer]:
+                          - img [ref=e33114]: more_vert
+                        - generic [ref=e33117]:
+                          - button [ref=e33118] [cursor=pointer]:
+                            - img [ref=e33119]: description
+                          - button [ref=e33122] [cursor=pointer]:
+                            - img [ref=e33123]:
+                              - text: demography
+                              - generic: "2"
+                          - button [ref=e33126] [cursor=pointer]:
+                            - img [ref=e33127]: account_tree
+                        - button [ref=e33130] [cursor=pointer]:
+                          - img [ref=e33131]: account_circle
+                        - button [ref=e33134] [cursor=pointer]
+                    - cell "OOJ - 85951" [ref=e35930]:
+                      - link "OOJ - 85951" [ref=e35931] [cursor=pointer]:
+                        - /url: "#/jobs/9434/view?is_listing=1"
+                    - cell "Java developer13" [ref=e35932]:
+                      - generic [ref=e33142]:
+                        - link "Java developer13" [ref=e35933] [cursor=pointer]:
+                          - /url: "#/jobs/9434/view?is_listing=1"
+                        - button [ref=e33144] [cursor=pointer]:
+                          - img [ref=e33145]: visibility
+                    - cell "Active" [ref=e35934]:
+                      - generic [ref=e33150]:
+                        - generic [ref=e33153]: Active
+                        - button [ref=e33154] [cursor=pointer]:
+                          - img [ref=e33155]: edit
+                    - cell "Srikanth Akkala,Jasw..." [ref=e35935]:
+                      - generic [ref=e33162]: Srikanth Akkala,Jasw...
+                    - cell "Srikanth Akkala,Apar..." [ref=e35936]:
+                      - generic [ref=e33167]: Srikanth Akkala,Apar...
+                    - cell "Arizona,Texas" [ref=e35937]:
+                      - generic [ref=e33172]: Arizona,Texas
+                    - cell "Apple50" [ref=e35938]:
+                      - link "Apple50" [ref=e35939] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e35940]:
+                      - generic [ref=e33181]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e35941]:
+                      - generic [ref=e33186]: Prime Vendor
+                    - cell "Aparna Reddy" [ref=e35942]:
+                      - generic [ref=e33191]: Aparna Reddy
+                    - cell "April 28, 2026 06:07..." [ref=e35943]:
+                      - generic [ref=e33196]: April 28, 2026 06:07...
+                    - cell "Super High" [ref=e35944]:
+                      - generic [ref=e33201]: Super High
+                    - cell "no" [ref=e35945]:
+                      - generic [ref=e33206]: "no"
+                    - cell "0" [ref=e35946]
+                    - cell "Internal" [ref=e35947]:
+                      - generic [ref=e33212]: Internal
+                    - cell "0" [ref=e35948]
+                    - cell [ref=e33214]
+                    - cell [ref=e33215]
+                    - cell [ref=e33216]
+                    - cell [ref=e33217]
+                    - cell "Srikanth Akkala" [ref=e35949]:
+                      - generic [ref=e33222]: Srikanth Akkala
+                    - cell "April 28, 2026 06:13..." [ref=e35950]:
+                      - generic [ref=e33227]: April 28, 2026 06:13...
+                    - cell "9" [ref=e35951]:
+                      - generic [ref=e33232]: "9"
+                    - cell "0" [ref=e35952]
+                    - cell [ref=e33234]
+                    - cell "2" [ref=e35953]:
+                      - link "2" [ref=e35954] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9434"
+                    - cell "44 Days" [ref=e35955]:
+                      - generic [ref=e33243]: 44 Days
+                    - cell "OnSite" [ref=e35956]:
+                      - generic [ref=e33248]: OnSite
+                    - cell [ref=e33249]
+                    - cell [ref=e33250]
+                    - cell [ref=e33251]
+                    - cell [ref=e33252]
+                    - cell "33" [ref=e35957]:
+                      - generic [ref=e33257]: "33"
+                    - cell "Rao Akkala" [ref=e35958]:
+                      - generic [ref=e33262]: Rao Akkala
+                    - cell [ref=e33263]
+                    - cell "Enable" [ref=e35959]:
+                      - generic [ref=e33266]:
+                        - generic [ref=e33268]: Enable
+                        - button [ref=e33269] [cursor=pointer]:
+                          - img [ref=e33270]: edit
+                    - cell [ref=e33273]
+                    - cell "Contractual" [ref=e35960]:
+                      - generic [ref=e33278]: Contractual
+                    - cell "oorwinui" [ref=e35961]:
+                      - generic [ref=e33283]: oorwinui
+                  - row "OOJ - 85940 Java developer Active Srikanth Akkala Pavan Kumar DEV,Bhan... Arizona,Texas Apple50 Dallas, TX Prime Vendor Srikanth Akkala April 23, 2026 01:36... Super High no 0 Internal 2 Srikanth Akkala April 28, 2026 00:37... 9 0 1 49 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e35962]:
+                    - cell [ref=e33285]:
+                      - generic [ref=e33286]:
+                        - generic [ref=e33289] [cursor=pointer]:
+                          - checkbox [ref=e33290]
+                          - generic:
+                            - img
+                        - button [ref=e33291] [cursor=pointer]:
+                          - img [ref=e33292]: more_vert
+                        - generic [ref=e33295]:
+                          - button [ref=e33296] [cursor=pointer]:
+                            - img [ref=e33297]: description
+                          - button [ref=e33300] [cursor=pointer]:
+                            - img [ref=e33301]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e33304] [cursor=pointer]:
+                            - img [ref=e33305]:
+                              - text: account_tree
+                              - generic: "1"
+                        - button [ref=e33308] [cursor=pointer]:
+                          - img [ref=e33309]: account_circle
+                        - button [ref=e33312] [cursor=pointer]
+                    - cell "OOJ - 85940" [ref=e35963]:
+                      - link "OOJ - 85940" [ref=e35964] [cursor=pointer]:
+                        - /url: "#/jobs/9423/view?is_listing=1"
+                    - cell "Java developer" [ref=e35965]:
+                      - generic [ref=e33320]:
+                        - link "Java developer" [ref=e35966] [cursor=pointer]:
+                          - /url: "#/jobs/9423/view?is_listing=1"
+                        - button [ref=e33322] [cursor=pointer]:
+                          - img [ref=e33323]: visibility
+                    - cell "Active" [ref=e35967]:
+                      - generic [ref=e33328]:
+                        - generic [ref=e33331]: Active
+                        - button [ref=e33332] [cursor=pointer]:
+                          - img [ref=e33333]: edit
+                    - cell "Srikanth Akkala" [ref=e35968]:
+                      - generic [ref=e33340]: Srikanth Akkala
+                    - cell "Pavan Kumar DEV,Bhan..." [ref=e35969]:
+                      - generic [ref=e33345]: Pavan Kumar DEV,Bhan...
+                    - cell "Arizona,Texas" [ref=e35970]:
+                      - generic [ref=e33350]: Arizona,Texas
+                    - cell "Apple50" [ref=e35971]:
+                      - link "Apple50" [ref=e35972] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e35973]:
+                      - generic [ref=e33359]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e35974]:
+                      - generic [ref=e33364]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e35975]:
+                      - generic [ref=e33369]: Srikanth Akkala
+                    - cell "April 23, 2026 01:36..." [ref=e35976]:
+                      - generic [ref=e33374]: April 23, 2026 01:36...
+                    - cell "Super High" [ref=e35977]:
+                      - generic [ref=e33379]: Super High
+                    - cell "no" [ref=e35978]:
+                      - generic [ref=e33384]: "no"
+                    - cell "0" [ref=e35979]
+                    - cell "Internal" [ref=e35980]:
+                      - generic [ref=e33390]: Internal
+                    - cell "2" [ref=e35981]:
+                      - generic [ref=e33395]: "2"
+                    - cell [ref=e33396]
+                    - cell [ref=e33397]
+                    - cell [ref=e33398]
+                    - cell [ref=e33399]
+                    - cell "Srikanth Akkala" [ref=e35982]:
+                      - generic [ref=e33404]: Srikanth Akkala
+                    - cell "April 28, 2026 00:37..." [ref=e35983]:
+                      - generic [ref=e33409]: April 28, 2026 00:37...
+                    - cell "9" [ref=e35984]:
+                      - generic [ref=e33414]: "9"
+                    - cell "0" [ref=e35985]
+                    - cell [ref=e33416]
+                    - cell "1" [ref=e35986]:
+                      - link "1" [ref=e35987] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9423"
+                    - cell "49 Days" [ref=e35988]:
+                      - generic [ref=e33425]: 49 Days
+                    - cell "OnSite" [ref=e35989]:
+                      - generic [ref=e33430]: OnSite
+                    - cell [ref=e33431]
+                    - cell [ref=e33432]
+                    - cell [ref=e33433]
+                    - cell [ref=e33434]
+                    - cell "33" [ref=e35990]:
+                      - generic [ref=e33439]: "33"
+                    - cell "Rao Akkala" [ref=e35991]:
+                      - generic [ref=e33444]: Rao Akkala
+                    - cell [ref=e33445]
+                    - cell "Enable" [ref=e35992]:
+                      - generic [ref=e33448]:
+                        - generic [ref=e33450]: Enable
+                        - button [ref=e33451] [cursor=pointer]:
+                          - img [ref=e33452]: edit
+                    - cell [ref=e33455]
+                    - cell "Contractual" [ref=e35993]:
+                      - generic [ref=e33460]: Contractual
+                    - cell "oorwinui" [ref=e35994]:
+                      - generic [ref=e33465]: oorwinui
+                  - row "OOJ - 85938 Java developer uiop Active Srikanth Akkala Bhanu Prakash Texas AWS14 Dallas, TX Prime Vendor Srikanth Akkala April 23, 2026 23:32... Middle no 0 Internal 0 test Testing By srikanth ... Srikanth Akkala April 23, 2026 23:32... 9 0 0 49 Days OnSite 33 Dhana Akkala SUDHAKAR Goli Enable Contractual oorwinui" [ref=e35995]:
+                    - cell [ref=e33467]:
+                      - generic [ref=e33468]:
+                        - generic [ref=e33471] [cursor=pointer]:
+                          - checkbox [ref=e33472]
+                          - generic:
+                            - img
+                        - button [ref=e33473] [cursor=pointer]:
+                          - img [ref=e33474]: more_vert
+                        - generic [ref=e33477]:
+                          - button [ref=e33478] [cursor=pointer]:
+                            - img [ref=e33479]: description
+                          - button [ref=e33482] [cursor=pointer]:
+                            - img [ref=e33483]: demography
+                          - button [ref=e33486] [cursor=pointer]:
+                            - img [ref=e33487]: account_tree
+                        - button [ref=e33490] [cursor=pointer]:
+                          - img [ref=e33491]: account_circle
+                        - button [ref=e33494] [cursor=pointer]
+                    - cell "OOJ - 85938" [ref=e35996]:
+                      - link "OOJ - 85938" [ref=e35997] [cursor=pointer]:
+                        - /url: "#/jobs/9421/view?is_listing=1"
+                    - cell "Java developer uiop" [ref=e35998]:
+                      - generic [ref=e33502]:
+                        - link "Java developer uiop" [ref=e35999] [cursor=pointer]:
+                          - /url: "#/jobs/9421/view?is_listing=1"
+                        - button [ref=e33504] [cursor=pointer]:
+                          - img [ref=e33505]: visibility
+                    - cell "Active" [ref=e36000]:
+                      - generic [ref=e33510]:
+                        - generic [ref=e33513]: Active
+                        - button [ref=e33514] [cursor=pointer]:
+                          - img [ref=e33515]: edit
+                    - cell "Srikanth Akkala" [ref=e36001]:
+                      - generic [ref=e33522]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36002]:
+                      - generic [ref=e33527]: Bhanu Prakash
+                    - cell "Texas" [ref=e36003]:
+                      - generic [ref=e33532]: Texas
+                    - cell "AWS14" [ref=e36004]:
+                      - link "AWS14" [ref=e36005] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e36006]:
+                      - generic [ref=e33541]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36007]:
+                      - generic [ref=e33546]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36008]:
+                      - generic [ref=e33551]: Srikanth Akkala
+                    - cell "April 23, 2026 23:32..." [ref=e36009]:
+                      - generic [ref=e33556]: April 23, 2026 23:32...
+                    - cell "Middle" [ref=e36010]:
+                      - generic [ref=e33561]: Middle
+                    - cell "no" [ref=e36011]:
+                      - generic [ref=e33566]: "no"
+                    - cell "0" [ref=e36012]
+                    - cell "Internal" [ref=e36013]:
+                      - generic [ref=e33572]: Internal
+                    - cell "0" [ref=e36014]
+                    - cell "test" [ref=e36015]:
+                      - generic [ref=e33578]: test
+                    - cell [ref=e33579]
+                    - cell [ref=e33580]
+                    - cell "Testing By srikanth ..." [ref=e36016]:
+                      - generic [ref=e33585]: Testing By srikanth ...
+                    - cell "Srikanth Akkala" [ref=e36017]:
+                      - generic [ref=e33590]: Srikanth Akkala
+                    - cell "April 23, 2026 23:32..." [ref=e36018]:
+                      - generic [ref=e33595]: April 23, 2026 23:32...
+                    - cell "9" [ref=e36019]:
+                      - generic [ref=e33600]: "9"
+                    - cell "0" [ref=e36020]
+                    - cell [ref=e33602]
+                    - cell "0" [ref=e36021]: "0"
+                    - cell "49 Days" [ref=e36022]:
+                      - generic [ref=e33608]: 49 Days
+                    - cell "OnSite" [ref=e36023]:
+                      - generic [ref=e33613]: OnSite
+                    - cell [ref=e33614]
+                    - cell [ref=e33615]
+                    - cell [ref=e33616]
+                    - cell [ref=e33617]
+                    - cell "33" [ref=e36024]:
+                      - generic [ref=e33622]: "33"
+                    - cell "Dhana Akkala" [ref=e36025]:
+                      - generic [ref=e33627]: Dhana Akkala
+                    - cell "SUDHAKAR Goli" [ref=e36026]:
+                      - generic [ref=e33632]: SUDHAKAR Goli
+                    - cell "Enable" [ref=e36027]:
+                      - generic [ref=e33635]:
+                        - generic [ref=e33637]: Enable
+                        - button [ref=e33638] [cursor=pointer]:
+                          - img [ref=e33639]: edit
+                    - cell [ref=e33642]
+                    - cell "Contractual" [ref=e36028]:
+                      - generic [ref=e33647]: Contractual
+                    - cell "oorwinui" [ref=e36029]:
+                      - generic [ref=e33652]: oorwinui
+                  - row "OOJ - 85937 Java developer Active Srikanth Akkala Bhanu Prakash Texas AWS14 Dallas, TX Prime Vendor Srikanth Akkala April 23, 2026 22:57... Middle no 0 Internal 0 test Testing By srikanth ... Srikanth Akkala April 23, 2026 22:57... 9 0 2 49 Days OnSite 33 Dhana Akkala SUDHAKAR Goli Enable Contractual oorwinui" [ref=e36030]:
+                    - cell [ref=e33654]:
+                      - generic [ref=e33655]:
+                        - generic [ref=e33658] [cursor=pointer]:
+                          - checkbox [ref=e33659]
+                          - generic:
+                            - img
+                        - button [ref=e33660] [cursor=pointer]:
+                          - img [ref=e33661]: more_vert
+                        - generic [ref=e33664]:
+                          - button [ref=e33665] [cursor=pointer]:
+                            - img [ref=e33666]: description
+                          - button [ref=e33669] [cursor=pointer]:
+                            - img [ref=e33670]:
+                              - text: demography
+                              - generic: "2"
+                          - button [ref=e33673] [cursor=pointer]:
+                            - img [ref=e33674]: account_tree
+                        - button [ref=e33677] [cursor=pointer]:
+                          - img [ref=e33678]: account_circle
+                        - button [ref=e33681] [cursor=pointer]
+                    - cell "OOJ - 85937" [ref=e36031]:
+                      - link "OOJ - 85937" [ref=e36032] [cursor=pointer]:
+                        - /url: "#/jobs/9420/view?is_listing=1"
+                    - cell "Java developer" [ref=e36033]:
+                      - generic [ref=e33689]:
+                        - link "Java developer" [ref=e36034] [cursor=pointer]:
+                          - /url: "#/jobs/9420/view?is_listing=1"
+                        - button [ref=e33691] [cursor=pointer]:
+                          - img [ref=e33692]: visibility
+                    - cell "Active" [ref=e36035]:
+                      - generic [ref=e33697]:
+                        - generic [ref=e33700]: Active
+                        - button [ref=e33701] [cursor=pointer]:
+                          - img [ref=e33702]: edit
+                    - cell "Srikanth Akkala" [ref=e36036]:
+                      - generic [ref=e33709]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36037]:
+                      - generic [ref=e33714]: Bhanu Prakash
+                    - cell "Texas" [ref=e36038]:
+                      - generic [ref=e33719]: Texas
+                    - cell "AWS14" [ref=e36039]:
+                      - link "AWS14" [ref=e36040] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e36041]:
+                      - generic [ref=e33728]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36042]:
+                      - generic [ref=e33733]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36043]:
+                      - generic [ref=e33738]: Srikanth Akkala
+                    - cell "April 23, 2026 22:57..." [ref=e36044]:
+                      - generic [ref=e33743]: April 23, 2026 22:57...
+                    - cell "Middle" [ref=e36045]:
+                      - generic [ref=e33748]: Middle
+                    - cell "no" [ref=e36046]:
+                      - generic [ref=e33753]: "no"
+                    - cell "0" [ref=e36047]
+                    - cell "Internal" [ref=e36048]:
+                      - generic [ref=e33759]: Internal
+                    - cell "0" [ref=e36049]
+                    - cell "test" [ref=e36050]:
+                      - generic [ref=e33765]: test
+                    - cell [ref=e33766]
+                    - cell [ref=e33767]
+                    - cell "Testing By srikanth ..." [ref=e36051]:
+                      - generic [ref=e33772]: Testing By srikanth ...
+                    - cell "Srikanth Akkala" [ref=e36052]:
+                      - generic [ref=e33777]: Srikanth Akkala
+                    - cell "April 23, 2026 22:57..." [ref=e36053]:
+                      - generic [ref=e33782]: April 23, 2026 22:57...
+                    - cell "9" [ref=e36054]:
+                      - generic [ref=e33787]: "9"
+                    - cell "0" [ref=e36055]
+                    - cell [ref=e33789]
+                    - cell "2" [ref=e36056]:
+                      - link "2" [ref=e36057] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9420"
+                    - cell "49 Days" [ref=e36058]:
+                      - generic [ref=e33798]: 49 Days
+                    - cell "OnSite" [ref=e36059]:
+                      - generic [ref=e33803]: OnSite
+                    - cell [ref=e33804]
+                    - cell [ref=e33805]
+                    - cell [ref=e33806]
+                    - cell [ref=e33807]
+                    - cell "33" [ref=e36060]:
+                      - generic [ref=e33812]: "33"
+                    - cell "Dhana Akkala" [ref=e36061]:
+                      - generic [ref=e33817]: Dhana Akkala
+                    - cell "SUDHAKAR Goli" [ref=e36062]:
+                      - generic [ref=e33822]: SUDHAKAR Goli
+                    - cell "Enable" [ref=e36063]:
+                      - generic [ref=e33825]:
+                        - generic [ref=e33827]: Enable
+                        - button [ref=e33828] [cursor=pointer]:
+                          - img [ref=e33829]: edit
+                    - cell [ref=e33832]
+                    - cell "Contractual" [ref=e36064]:
+                      - generic [ref=e33837]: Contractual
+                    - cell "oorwinui" [ref=e36065]:
+                      - generic [ref=e33842]: oorwinui
+                  - row "OOJ - 85935 Java developer Active Jaswanth burugupalli Bhanu Prakash Arizona,Texas Apple50 Dallas, TX Prime Vendor Jaswanth burugupalli April 22, 2026 03:48... Super High no 0 Internal 0 Jaswanth burugupalli April 22, 2026 03:48... 9 0 3 50 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e36066]:
+                    - cell [ref=e33844]:
+                      - generic [ref=e33845]:
+                        - generic [ref=e33848] [cursor=pointer]:
+                          - checkbox [ref=e33849]
+                          - generic:
+                            - img
+                        - button [ref=e33850] [cursor=pointer]:
+                          - img [ref=e33851]: more_vert
+                        - generic [ref=e33854]:
+                          - button [ref=e33855] [cursor=pointer]:
+                            - img [ref=e33856]: description
+                          - button [ref=e33859] [cursor=pointer]:
+                            - img [ref=e33860]:
+                              - text: demography
+                              - generic: "3"
+                          - button [ref=e33863] [cursor=pointer]:
+                            - img [ref=e33864]: account_tree
+                        - button [ref=e33867] [cursor=pointer]:
+                          - img [ref=e33868]: account_circle
+                        - button [ref=e33871] [cursor=pointer]
+                    - cell "OOJ - 85935" [ref=e36067]:
+                      - link "OOJ - 85935" [ref=e36068] [cursor=pointer]:
+                        - /url: "#/jobs/9418/view?is_listing=1"
+                    - cell "Java developer" [ref=e36069]:
+                      - generic [ref=e33879]:
+                        - link "Java developer" [ref=e36070] [cursor=pointer]:
+                          - /url: "#/jobs/9418/view?is_listing=1"
+                        - button [ref=e33881] [cursor=pointer]:
+                          - img [ref=e33882]: visibility
+                    - cell "Active" [ref=e36071]:
+                      - generic [ref=e33887]:
+                        - generic [ref=e33890]: Active
+                        - button [ref=e33891] [cursor=pointer]:
+                          - img [ref=e33892]: edit
+                    - cell "Jaswanth burugupalli" [ref=e36072]:
+                      - generic [ref=e33899]: Jaswanth burugupalli
+                    - cell "Bhanu Prakash" [ref=e36073]:
+                      - generic [ref=e33904]: Bhanu Prakash
+                    - cell "Arizona,Texas" [ref=e36074]:
+                      - generic [ref=e33909]: Arizona,Texas
+                    - cell "Apple50" [ref=e36075]:
+                      - link "Apple50" [ref=e36076] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e36077]:
+                      - generic [ref=e33918]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36078]:
+                      - generic [ref=e33923]: Prime Vendor
+                    - cell "Jaswanth burugupalli" [ref=e36079]:
+                      - generic [ref=e33928]: Jaswanth burugupalli
+                    - cell "April 22, 2026 03:48..." [ref=e36080]:
+                      - generic [ref=e33933]: April 22, 2026 03:48...
+                    - cell "Super High" [ref=e36081]:
+                      - generic [ref=e33938]: Super High
+                    - cell "no" [ref=e36082]:
+                      - generic [ref=e33943]: "no"
+                    - cell "0" [ref=e36083]
+                    - cell "Internal" [ref=e36084]:
+                      - generic [ref=e33949]: Internal
+                    - cell "0" [ref=e36085]
+                    - cell [ref=e33951]
+                    - cell [ref=e33952]
+                    - cell [ref=e33953]
+                    - cell [ref=e33954]
+                    - cell "Jaswanth burugupalli" [ref=e36086]:
+                      - generic [ref=e33959]: Jaswanth burugupalli
+                    - cell "April 22, 2026 03:48..." [ref=e36087]:
+                      - generic [ref=e33964]: April 22, 2026 03:48...
+                    - cell "9" [ref=e36088]:
+                      - generic [ref=e33969]: "9"
+                    - cell "0" [ref=e36089]
+                    - cell [ref=e33971]
+                    - cell "3" [ref=e36090]:
+                      - link "3" [ref=e36091] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9418"
+                    - cell "50 Days" [ref=e36092]:
+                      - generic [ref=e33980]: 50 Days
+                    - cell "OnSite" [ref=e36093]:
+                      - generic [ref=e33985]: OnSite
+                    - cell [ref=e33986]
+                    - cell [ref=e33987]
+                    - cell [ref=e33988]
+                    - cell [ref=e33989]
+                    - cell "33" [ref=e36094]:
+                      - generic [ref=e33994]: "33"
+                    - cell "Rao Akkala" [ref=e36095]:
+                      - generic [ref=e33999]: Rao Akkala
+                    - cell [ref=e34000]
+                    - cell "Enable" [ref=e36096]:
+                      - generic [ref=e34003]:
+                        - generic [ref=e34005]: Enable
+                        - button [ref=e34006] [cursor=pointer]:
+                          - img [ref=e34007]: edit
+                    - cell [ref=e34010]
+                    - cell "Contractual" [ref=e36097]:
+                      - generic [ref=e34015]: Contractual
+                    - cell "oorwinui" [ref=e36098]:
+                      - generic [ref=e34020]: oorwinui
+                  - row "OOJ - 85934 Java developer Active Srikanth Akkala,Jasw... Srikanth Akkala,Apar... Arizona,Texas Apple50 Dallas, TX Prime Vendor Srikanth Akkala April 22, 2026 03:22... Super High no 0 Internal 0 Aparna Reddy April 28, 2026 06:05... 9 0 1 50 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e36099]:
+                    - cell [ref=e34022]:
+                      - generic [ref=e34023]:
+                        - generic [ref=e34026] [cursor=pointer]:
+                          - checkbox [ref=e34027]
+                          - generic:
+                            - img
+                        - button [ref=e34028] [cursor=pointer]:
+                          - img [ref=e34029]: more_vert
+                        - generic [ref=e34032]:
+                          - button [ref=e34033] [cursor=pointer]:
+                            - img [ref=e34034]: description
+                          - button [ref=e34037] [cursor=pointer]:
+                            - img [ref=e34038]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e34041] [cursor=pointer]:
+                            - img [ref=e34042]: account_tree
+                        - button [ref=e34045] [cursor=pointer]:
+                          - img [ref=e34046]: account_circle
+                        - button [ref=e34049] [cursor=pointer]
+                    - cell "OOJ - 85934" [ref=e36100]:
+                      - link "OOJ - 85934" [ref=e36101] [cursor=pointer]:
+                        - /url: "#/jobs/9417/view?is_listing=1"
+                    - cell "Java developer" [ref=e36102]:
+                      - generic [ref=e34057]:
+                        - link "Java developer" [ref=e36103] [cursor=pointer]:
+                          - /url: "#/jobs/9417/view?is_listing=1"
+                        - button [ref=e34059] [cursor=pointer]:
+                          - img [ref=e34060]: visibility
+                    - cell "Active" [ref=e36104]:
+                      - generic [ref=e34065]:
+                        - generic [ref=e34068]: Active
+                        - button [ref=e34069] [cursor=pointer]:
+                          - img [ref=e34070]: edit
+                    - cell "Srikanth Akkala,Jasw..." [ref=e36105]:
+                      - generic [ref=e34077]: Srikanth Akkala,Jasw...
+                    - cell "Srikanth Akkala,Apar..." [ref=e36106]:
+                      - generic [ref=e34082]: Srikanth Akkala,Apar...
+                    - cell "Arizona,Texas" [ref=e36107]:
+                      - generic [ref=e34087]: Arizona,Texas
+                    - cell "Apple50" [ref=e36108]:
+                      - link "Apple50" [ref=e36109] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e36110]:
+                      - generic [ref=e34096]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36111]:
+                      - generic [ref=e34101]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36112]:
+                      - generic [ref=e34106]: Srikanth Akkala
+                    - cell "April 22, 2026 03:22..." [ref=e36113]:
+                      - generic [ref=e34111]: April 22, 2026 03:22...
+                    - cell "Super High" [ref=e36114]:
+                      - generic [ref=e34116]: Super High
+                    - cell "no" [ref=e36115]:
+                      - generic [ref=e34121]: "no"
+                    - cell "0" [ref=e36116]
+                    - cell "Internal" [ref=e36117]:
+                      - generic [ref=e34127]: Internal
+                    - cell "0" [ref=e36118]
+                    - cell [ref=e34129]
+                    - cell [ref=e34130]
+                    - cell [ref=e34131]
+                    - cell [ref=e34132]
+                    - cell "Aparna Reddy" [ref=e36119]:
+                      - generic [ref=e34137]: Aparna Reddy
+                    - cell "April 28, 2026 06:05..." [ref=e36120]:
+                      - generic [ref=e34142]: April 28, 2026 06:05...
+                    - cell "9" [ref=e36121]:
+                      - generic [ref=e34147]: "9"
+                    - cell "0" [ref=e36122]
+                    - cell [ref=e34149]
+                    - cell "1" [ref=e36123]:
+                      - link "1" [ref=e36124] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9417"
+                    - cell "50 Days" [ref=e36125]:
+                      - generic [ref=e34158]: 50 Days
+                    - cell "OnSite" [ref=e36126]:
+                      - generic [ref=e34163]: OnSite
+                    - cell [ref=e34164]
+                    - cell [ref=e34165]
+                    - cell [ref=e34166]
+                    - cell [ref=e34167]
+                    - cell "33" [ref=e36127]:
+                      - generic [ref=e34172]: "33"
+                    - cell "Rao Akkala" [ref=e36128]:
+                      - generic [ref=e34177]: Rao Akkala
+                    - cell [ref=e34178]
+                    - cell "Enable" [ref=e36129]:
+                      - generic [ref=e34181]:
+                        - generic [ref=e34183]: Enable
+                        - button [ref=e34184] [cursor=pointer]:
+                          - img [ref=e34185]: edit
+                    - cell [ref=e34188]
+                    - cell "Contractual" [ref=e36130]:
+                      - generic [ref=e34193]: Contractual
+                    - cell "oorwinui" [ref=e36131]:
+                      - generic [ref=e34198]: oorwinui
+                  - row "OOJ - 85925 Java developer Active Srikanth Akkala Bhanu Prakash Arizona,Texas Apple50 Dallas, TX Prime Vendor Srikanth Akkala April 21, 2026 23:25... Super High no 0 Internal 1 Srikanth Akkala April 21, 2026 23:25... 9 0 3 51 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e36132]:
+                    - cell [ref=e34200]:
+                      - generic [ref=e34201]:
+                        - generic [ref=e34204] [cursor=pointer]:
+                          - checkbox [ref=e34205]
+                          - generic:
+                            - img
+                        - button [ref=e34206] [cursor=pointer]:
+                          - img [ref=e34207]: more_vert
+                        - generic [ref=e34210]:
+                          - button [ref=e34211] [cursor=pointer]:
+                            - img [ref=e34212]: description
+                          - button [ref=e34215] [cursor=pointer]:
+                            - img [ref=e34216]:
+                              - text: demography
+                              - generic: "3"
+                          - button [ref=e34219] [cursor=pointer]:
+                            - img [ref=e34220]:
+                              - text: account_tree
+                              - generic: "2"
+                        - button [ref=e34223] [cursor=pointer]:
+                          - img [ref=e34224]: account_circle
+                        - button [ref=e34227] [cursor=pointer]
+                    - cell "OOJ - 85925" [ref=e36133]:
+                      - link "OOJ - 85925" [ref=e36134] [cursor=pointer]:
+                        - /url: "#/jobs/9408/view?is_listing=1"
+                    - cell "Java developer" [ref=e36135]:
+                      - generic [ref=e34235]:
+                        - link "Java developer" [ref=e36136] [cursor=pointer]:
+                          - /url: "#/jobs/9408/view?is_listing=1"
+                        - button [ref=e34237] [cursor=pointer]:
+                          - img [ref=e34238]: visibility
+                    - cell "Active" [ref=e36137]:
+                      - generic [ref=e34243]:
+                        - generic [ref=e34246]: Active
+                        - button [ref=e34247] [cursor=pointer]:
+                          - img [ref=e34248]: edit
+                    - cell "Srikanth Akkala" [ref=e36138]:
+                      - generic [ref=e34255]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36139]:
+                      - generic [ref=e34260]: Bhanu Prakash
+                    - cell "Arizona,Texas" [ref=e36140]:
+                      - generic [ref=e34265]: Arizona,Texas
+                    - cell "Apple50" [ref=e36141]:
+                      - link "Apple50" [ref=e36142] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e36143]:
+                      - generic [ref=e34274]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36144]:
+                      - generic [ref=e34279]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36145]:
+                      - generic [ref=e34284]: Srikanth Akkala
+                    - cell "April 21, 2026 23:25..." [ref=e36146]:
+                      - generic [ref=e34289]: April 21, 2026 23:25...
+                    - cell "Super High" [ref=e36147]:
+                      - generic [ref=e34294]: Super High
+                    - cell "no" [ref=e36148]:
+                      - generic [ref=e34299]: "no"
+                    - cell "0" [ref=e36149]
+                    - cell "Internal" [ref=e36150]:
+                      - generic [ref=e34305]: Internal
+                    - cell "1" [ref=e36151]:
+                      - generic [ref=e34310]: "1"
+                    - cell [ref=e34311]
+                    - cell [ref=e34312]
+                    - cell [ref=e34313]
+                    - cell [ref=e34314]
+                    - cell "Srikanth Akkala" [ref=e36152]:
+                      - generic [ref=e34319]: Srikanth Akkala
+                    - cell "April 21, 2026 23:25..." [ref=e36153]:
+                      - generic [ref=e34324]: April 21, 2026 23:25...
+                    - cell "9" [ref=e36154]:
+                      - generic [ref=e34329]: "9"
+                    - cell "0" [ref=e36155]
+                    - cell [ref=e34331]
+                    - cell "3" [ref=e36156]:
+                      - link "3" [ref=e36157] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9408"
+                    - cell "51 Days" [ref=e36158]:
+                      - generic [ref=e34340]: 51 Days
+                    - cell "OnSite" [ref=e36159]:
+                      - generic [ref=e34345]: OnSite
+                    - cell [ref=e34346]
+                    - cell [ref=e34347]
+                    - cell [ref=e34348]
+                    - cell [ref=e34349]
+                    - cell "33" [ref=e36160]:
+                      - generic [ref=e34354]: "33"
+                    - cell "Rao Akkala" [ref=e36161]:
+                      - generic [ref=e34359]: Rao Akkala
+                    - cell [ref=e34360]
+                    - cell "Enable" [ref=e36162]:
+                      - generic [ref=e34363]:
+                        - generic [ref=e34365]: Enable
+                        - button [ref=e34366] [cursor=pointer]:
+                          - img [ref=e34367]: edit
+                    - cell [ref=e34370]
+                    - cell "Contractual" [ref=e36163]:
+                      - generic [ref=e34375]: Contractual
+                    - cell "oorwinui" [ref=e36164]:
+                      - generic [ref=e34380]: oorwinui
+                  - row "OOJ - 85924 Java developer Active Srikanth Akkala Bhanu Prakash Arizona,Texas Apple50 Dallas, TX Prime Vendor Srikanth Akkala April 21, 2026 22:58... Super High no 0 Internal 1 Srikanth Akkala April 21, 2026 22:58... 9 0 0 51 Days OnSite 33 Rao Akkala Enable Contractual oorwinui" [ref=e36165]:
+                    - cell [ref=e34382]:
+                      - generic [ref=e34383]:
+                        - generic [ref=e34386] [cursor=pointer]:
+                          - checkbox [ref=e34387]
+                          - generic:
+                            - img
+                        - button [ref=e34388] [cursor=pointer]:
+                          - img [ref=e34389]: more_vert
+                        - generic [ref=e34392]:
+                          - button [ref=e34393] [cursor=pointer]:
+                            - img [ref=e34394]: description
+                          - button [ref=e34397] [cursor=pointer]:
+                            - img [ref=e34398]: demography
+                          - button [ref=e34401] [cursor=pointer]:
+                            - img [ref=e34402]:
+                              - text: account_tree
+                              - generic: "1"
+                        - button [ref=e34405] [cursor=pointer]:
+                          - img [ref=e34406]: account_circle
+                        - button [ref=e34409] [cursor=pointer]
+                    - cell "OOJ - 85924" [ref=e36166]:
+                      - link "OOJ - 85924" [ref=e36167] [cursor=pointer]:
+                        - /url: "#/jobs/9407/view?is_listing=1"
+                    - cell "Java developer" [ref=e36168]:
+                      - generic [ref=e34417]:
+                        - link "Java developer" [ref=e36169] [cursor=pointer]:
+                          - /url: "#/jobs/9407/view?is_listing=1"
+                        - button [ref=e34419] [cursor=pointer]:
+                          - img [ref=e34420]: visibility
+                    - cell "Active" [ref=e36170]:
+                      - generic [ref=e34425]:
+                        - generic [ref=e34428]: Active
+                        - button [ref=e34429] [cursor=pointer]:
+                          - img [ref=e34430]: edit
+                    - cell "Srikanth Akkala" [ref=e36171]:
+                      - generic [ref=e34437]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36172]:
+                      - generic [ref=e34442]: Bhanu Prakash
+                    - cell "Arizona,Texas" [ref=e36173]:
+                      - generic [ref=e34447]: Arizona,Texas
+                    - cell "Apple50" [ref=e36174]:
+                      - link "Apple50" [ref=e36175] [cursor=pointer]:
+                        - /url: "#/accounts/2767/view"
+                    - cell "Dallas, TX" [ref=e36176]:
+                      - generic [ref=e34456]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36177]:
+                      - generic [ref=e34461]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36178]:
+                      - generic [ref=e34466]: Srikanth Akkala
+                    - cell "April 21, 2026 22:58..." [ref=e36179]:
+                      - generic [ref=e34471]: April 21, 2026 22:58...
+                    - cell "Super High" [ref=e36180]:
+                      - generic [ref=e34476]: Super High
+                    - cell "no" [ref=e36181]:
+                      - generic [ref=e34481]: "no"
+                    - cell "0" [ref=e36182]
+                    - cell "Internal" [ref=e36183]:
+                      - generic [ref=e34487]: Internal
+                    - cell "1" [ref=e36184]:
+                      - generic [ref=e34492]: "1"
+                    - cell [ref=e34493]
+                    - cell [ref=e34494]
+                    - cell [ref=e34495]
+                    - cell [ref=e34496]
+                    - cell "Srikanth Akkala" [ref=e36185]:
+                      - generic [ref=e34501]: Srikanth Akkala
+                    - cell "April 21, 2026 22:58..." [ref=e36186]:
+                      - generic [ref=e34506]: April 21, 2026 22:58...
+                    - cell "9" [ref=e36187]:
+                      - generic [ref=e34511]: "9"
+                    - cell "0" [ref=e36188]
+                    - cell [ref=e34513]
+                    - cell "0" [ref=e36189]: "0"
+                    - cell "51 Days" [ref=e36190]:
+                      - generic [ref=e34519]: 51 Days
+                    - cell "OnSite" [ref=e36191]:
+                      - generic [ref=e34524]: OnSite
+                    - cell [ref=e34525]
+                    - cell [ref=e34526]
+                    - cell [ref=e34527]
+                    - cell [ref=e34528]
+                    - cell "33" [ref=e36192]:
+                      - generic [ref=e34533]: "33"
+                    - cell "Rao Akkala" [ref=e36193]:
+                      - generic [ref=e34538]: Rao Akkala
+                    - cell [ref=e34539]
+                    - cell "Enable" [ref=e36194]:
+                      - generic [ref=e34542]:
+                        - generic [ref=e34544]: Enable
+                        - button [ref=e34545] [cursor=pointer]:
+                          - img [ref=e34546]: edit
+                    - cell [ref=e34549]
+                    - cell "Contractual" [ref=e36195]:
+                      - generic [ref=e34554]: Contractual
+                    - cell "oorwinui" [ref=e36196]:
+                      - generic [ref=e34559]: oorwinui
+                  - row "OOJ - 85923 Senior Java Developer Active Srikanth Akkala Bhanu Prakash Texas AWS14 Dallas, TX Prime Vendor Hire Admin April 20, 2026 04:25... Middle no 0 Internal 0 Data Scientist with ... Hire Admin April 20, 2026 04:25... 4 0 2 52 Days OnSite 0 Enable apple5 Contractual oorwinui" [ref=e36197]:
+                    - cell [ref=e34561]:
+                      - generic [ref=e34562]:
+                        - generic [ref=e34565] [cursor=pointer]:
+                          - checkbox [ref=e34566]
+                          - generic:
+                            - img
+                        - button [ref=e34567] [cursor=pointer]:
+                          - img [ref=e34568]: more_vert
+                        - generic [ref=e34571]:
+                          - button [ref=e34572] [cursor=pointer]:
+                            - img [ref=e34573]: description
+                          - button [ref=e34576] [cursor=pointer]:
+                            - img [ref=e34577]:
+                              - text: demography
+                              - generic: "2"
+                          - button [ref=e34580] [cursor=pointer]:
+                            - img [ref=e34581]: account_tree
+                        - button [ref=e34584] [cursor=pointer]:
+                          - img [ref=e34585]: account_circle
+                        - button [ref=e34588] [cursor=pointer]
+                    - cell "OOJ - 85923" [ref=e36198]:
+                      - link "OOJ - 85923" [ref=e36199] [cursor=pointer]:
+                        - /url: "#/jobs/9406/view?is_listing=1"
+                    - cell "Senior Java Developer" [ref=e36200]:
+                      - generic [ref=e34596]:
+                        - link "Senior Java Developer" [ref=e36201] [cursor=pointer]:
+                          - /url: "#/jobs/9406/view?is_listing=1"
+                        - button [ref=e34598] [cursor=pointer]:
+                          - img [ref=e34599]: visibility
+                    - cell "Active" [ref=e36202]:
+                      - generic [ref=e34604]:
+                        - generic [ref=e34607]: Active
+                        - button [ref=e34608] [cursor=pointer]:
+                          - img [ref=e34609]: edit
+                    - cell "Srikanth Akkala" [ref=e36203]:
+                      - generic [ref=e34616]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36204]:
+                      - generic [ref=e34621]: Bhanu Prakash
+                    - cell "Texas" [ref=e36205]:
+                      - generic [ref=e34626]: Texas
+                    - cell "AWS14" [ref=e36206]:
+                      - link "AWS14" [ref=e36207] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e36208]:
+                      - generic [ref=e34635]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36209]:
+                      - generic [ref=e34640]: Prime Vendor
+                    - cell "Hire Admin" [ref=e36210]:
+                      - generic [ref=e34645]: Hire Admin
+                    - cell "April 20, 2026 04:25..." [ref=e36211]:
+                      - generic [ref=e34650]: April 20, 2026 04:25...
+                    - cell "Middle" [ref=e36212]:
+                      - generic [ref=e34655]: Middle
+                    - cell "no" [ref=e36213]:
+                      - generic [ref=e34660]: "no"
+                    - cell "0" [ref=e36214]
+                    - cell "Internal" [ref=e36215]:
+                      - generic [ref=e34666]: Internal
+                    - cell "0" [ref=e36216]
+                    - cell [ref=e34668]
+                    - cell [ref=e34669]
+                    - cell [ref=e34670]
+                    - cell "Data Scientist with ..." [ref=e36217]:
+                      - generic [ref=e34675]: Data Scientist with ...
+                    - cell "Hire Admin" [ref=e36218]:
+                      - generic [ref=e34680]: Hire Admin
+                    - cell "April 20, 2026 04:25..." [ref=e36219]:
+                      - generic [ref=e34685]: April 20, 2026 04:25...
+                    - cell "4" [ref=e36220]:
+                      - generic [ref=e34690]: "4"
+                    - cell "0" [ref=e36221]
+                    - cell [ref=e34692]
+                    - cell "2" [ref=e36222]:
+                      - link "2" [ref=e36223] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9406"
+                    - cell "52 Days" [ref=e36224]:
+                      - generic [ref=e34701]: 52 Days
+                    - cell "OnSite" [ref=e36225]:
+                      - generic [ref=e34706]: OnSite
+                    - cell [ref=e34707]
+                    - cell [ref=e34708]
+                    - cell [ref=e34709]
+                    - cell [ref=e34710]
+                    - cell "0" [ref=e36226]
+                    - cell [ref=e34712]
+                    - cell [ref=e34713]
+                    - cell "Enable" [ref=e36227]:
+                      - generic [ref=e34716]:
+                        - generic [ref=e34718]: Enable
+                        - button [ref=e34719] [cursor=pointer]:
+                          - img [ref=e34720]: edit
+                    - cell "apple5" [ref=e36228]:
+                      - generic [ref=e34727]: apple5
+                    - cell "Contractual" [ref=e36229]:
+                      - generic [ref=e34732]: Contractual
+                    - cell "oorwinui" [ref=e36230]:
+                      - generic [ref=e34737]: oorwinui
+                  - row "OOJ - 85921 Java developer Active Srikanth Akkala Bhanu Prakash Texas apple5 Dallas, TX Prime Vendor Srikanth Akkala April 20, 2026 01:43... Middle no 0 Internal 0 Sandhya akkala (Inte... Srikanth Akkala April 20, 2026 01:43... 9 0 1 52 Days OnSite 0 Enable Apple20 Contractual oorwinui" [ref=e36231]:
+                    - cell [ref=e34739]:
+                      - generic [ref=e34740]:
+                        - generic [ref=e34743] [cursor=pointer]:
+                          - checkbox [ref=e34744]
+                          - generic:
+                            - img
+                        - button [ref=e34745] [cursor=pointer]:
+                          - img [ref=e34746]: more_vert
+                        - generic [ref=e34749]:
+                          - button [ref=e34750] [cursor=pointer]:
+                            - img [ref=e34751]: description
+                          - button [ref=e34754] [cursor=pointer]:
+                            - img [ref=e34755]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e34758] [cursor=pointer]:
+                            - img [ref=e34759]: account_tree
+                        - button [ref=e34762] [cursor=pointer]:
+                          - img [ref=e34763]: account_circle
+                        - button [ref=e34766] [cursor=pointer]
+                    - cell "OOJ - 85921" [ref=e36232]:
+                      - link "OOJ - 85921" [ref=e36233] [cursor=pointer]:
+                        - /url: "#/jobs/9404/view?is_listing=1"
+                    - cell "Java developer" [ref=e36234]:
+                      - generic [ref=e34774]:
+                        - link "Java developer" [ref=e36235] [cursor=pointer]:
+                          - /url: "#/jobs/9404/view?is_listing=1"
+                        - button [ref=e34776] [cursor=pointer]:
+                          - img [ref=e34777]: visibility
+                    - cell "Active" [ref=e36236]:
+                      - generic [ref=e34782]:
+                        - generic [ref=e34785]: Active
+                        - button [ref=e34786] [cursor=pointer]:
+                          - img [ref=e34787]: edit
+                    - cell "Srikanth Akkala" [ref=e36237]:
+                      - generic [ref=e34794]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36238]:
+                      - generic [ref=e34799]: Bhanu Prakash
+                    - cell "Texas" [ref=e36239]:
+                      - generic [ref=e34804]: Texas
+                    - cell "apple5" [ref=e36240]:
+                      - link "apple5" [ref=e36241] [cursor=pointer]:
+                        - /url: "#/accounts/2733/view"
+                    - cell "Dallas, TX" [ref=e36242]:
+                      - generic [ref=e34813]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36243]:
+                      - generic [ref=e34818]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36244]:
+                      - generic [ref=e34823]: Srikanth Akkala
+                    - cell "April 20, 2026 01:43..." [ref=e36245]:
+                      - generic [ref=e34828]: April 20, 2026 01:43...
+                    - cell "Middle" [ref=e36246]:
+                      - generic [ref=e34833]: Middle
+                    - cell "no" [ref=e36247]:
+                      - generic [ref=e34838]: "no"
+                    - cell "0" [ref=e36248]
+                    - cell "Internal" [ref=e36249]:
+                      - generic [ref=e34844]: Internal
+                    - cell "0" [ref=e36250]
+                    - cell [ref=e34846]
+                    - cell "Sandhya akkala (Inte..." [ref=e36251]:
+                      - generic [ref=e34851]: Sandhya akkala (Inte...
+                    - cell [ref=e34852]
+                    - cell [ref=e34853]
+                    - cell "Srikanth Akkala" [ref=e36252]:
+                      - generic [ref=e34858]: Srikanth Akkala
+                    - cell "April 20, 2026 01:43..." [ref=e36253]:
+                      - generic [ref=e34863]: April 20, 2026 01:43...
+                    - cell "9" [ref=e36254]:
+                      - generic [ref=e34868]: "9"
+                    - cell "0" [ref=e36255]
+                    - cell [ref=e34870]
+                    - cell "1" [ref=e36256]:
+                      - link "1" [ref=e36257] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9404"
+                    - cell "52 Days" [ref=e36258]:
+                      - generic [ref=e34879]: 52 Days
+                    - cell "OnSite" [ref=e36259]:
+                      - generic [ref=e34884]: OnSite
+                    - cell [ref=e34885]
+                    - cell [ref=e34886]
+                    - cell [ref=e34887]
+                    - cell [ref=e34888]
+                    - cell "0" [ref=e36260]
+                    - cell [ref=e34890]
+                    - cell [ref=e34891]
+                    - cell "Enable" [ref=e36261]:
+                      - generic [ref=e34894]:
+                        - generic [ref=e34896]: Enable
+                        - button [ref=e34897] [cursor=pointer]:
+                          - img [ref=e34898]: edit
+                    - cell "Apple20" [ref=e36262]:
+                      - generic [ref=e34905]: Apple20
+                    - cell "Contractual" [ref=e36263]:
+                      - generic [ref=e34910]: Contractual
+                    - cell "oorwinui" [ref=e36264]:
+                      - generic [ref=e34915]: oorwinui
+                  - row "OOJ - 85920 Java developer Active Srikanth Akkala Bhanu Prakash Texas AWS14 Dallas, TX Prime Vendor Srikanth Akkala April 20, 2026 01:14... Middle no 0 Internal 0 Sandhya akkala (Inte... Srikanth Akkala April 20, 2026 01:23... 9 0 1 52 Days OnSite 0 Enable apple5 Contractual oorwinui" [ref=e36265]:
+                    - cell [ref=e34917]:
+                      - generic [ref=e34918]:
+                        - generic [ref=e34921] [cursor=pointer]:
+                          - checkbox [ref=e34922]
+                          - generic:
+                            - img
+                        - button [ref=e34923] [cursor=pointer]:
+                          - img [ref=e34924]: more_vert
+                        - generic [ref=e34927]:
+                          - button [ref=e34928] [cursor=pointer]:
+                            - img [ref=e34929]: description
+                          - button [ref=e34932] [cursor=pointer]:
+                            - img [ref=e34933]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e34936] [cursor=pointer]:
+                            - img [ref=e34937]: account_tree
+                        - button [ref=e34940] [cursor=pointer]:
+                          - img [ref=e34941]: account_circle
+                        - button [ref=e34944] [cursor=pointer]
+                    - cell "OOJ - 85920" [ref=e36266]:
+                      - link "OOJ - 85920" [ref=e36267] [cursor=pointer]:
+                        - /url: "#/jobs/9403/view?is_listing=1"
+                    - cell "Java developer" [ref=e36268]:
+                      - generic [ref=e34952]:
+                        - link "Java developer" [ref=e36269] [cursor=pointer]:
+                          - /url: "#/jobs/9403/view?is_listing=1"
+                        - button [ref=e34954] [cursor=pointer]:
+                          - img [ref=e34955]: visibility
+                    - cell "Active" [ref=e36270]:
+                      - generic [ref=e34960]:
+                        - generic [ref=e34963]: Active
+                        - button [ref=e34964] [cursor=pointer]:
+                          - img [ref=e34965]: edit
+                    - cell "Srikanth Akkala" [ref=e36271]:
+                      - generic [ref=e34972]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36272]:
+                      - generic [ref=e34977]: Bhanu Prakash
+                    - cell "Texas" [ref=e36273]:
+                      - generic [ref=e34982]: Texas
+                    - cell "AWS14" [ref=e36274]:
+                      - link "AWS14" [ref=e36275] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e36276]:
+                      - generic [ref=e34991]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36277]:
+                      - generic [ref=e34996]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36278]:
+                      - generic [ref=e35001]: Srikanth Akkala
+                    - cell "April 20, 2026 01:14..." [ref=e36279]:
+                      - generic [ref=e35006]: April 20, 2026 01:14...
+                    - cell "Middle" [ref=e36280]:
+                      - generic [ref=e35011]: Middle
+                    - cell "no" [ref=e36281]:
+                      - generic [ref=e35016]: "no"
+                    - cell "0" [ref=e36282]
+                    - cell "Internal" [ref=e36283]:
+                      - generic [ref=e35022]: Internal
+                    - cell "0" [ref=e36284]
+                    - cell [ref=e35024]
+                    - cell "Sandhya akkala (Inte..." [ref=e36285]:
+                      - generic [ref=e35029]: Sandhya akkala (Inte...
+                    - cell [ref=e35030]
+                    - cell [ref=e35031]
+                    - cell "Srikanth Akkala" [ref=e36286]:
+                      - generic [ref=e35036]: Srikanth Akkala
+                    - cell "April 20, 2026 01:23..." [ref=e36287]:
+                      - generic [ref=e35041]: April 20, 2026 01:23...
+                    - cell "9" [ref=e36288]:
+                      - generic [ref=e35046]: "9"
+                    - cell "0" [ref=e36289]
+                    - cell [ref=e35048]
+                    - cell "1" [ref=e36290]:
+                      - link "1" [ref=e36291] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9403"
+                    - cell "52 Days" [ref=e36292]:
+                      - generic [ref=e35057]: 52 Days
+                    - cell "OnSite" [ref=e36293]:
+                      - generic [ref=e35062]: OnSite
+                    - cell [ref=e35063]
+                    - cell [ref=e35064]
+                    - cell [ref=e35065]
+                    - cell [ref=e35066]
+                    - cell "0" [ref=e36294]
+                    - cell [ref=e35068]
+                    - cell [ref=e35069]
+                    - cell "Enable" [ref=e36295]:
+                      - generic [ref=e35072]:
+                        - generic [ref=e35074]: Enable
+                        - button [ref=e35075] [cursor=pointer]:
+                          - img [ref=e35076]: edit
+                    - cell "apple5" [ref=e36296]:
+                      - generic [ref=e35083]: apple5
+                    - cell "Contractual" [ref=e36297]:
+                      - generic [ref=e35088]: Contractual
+                    - cell "oorwinui" [ref=e36298]:
+                      - generic [ref=e35093]: oorwinui
+                  - row "OOJ - 85919 Java developer Active Srikanth Akkala Bhanu Prakash Texas AWS14 Dallas, TX Prime Vendor Srikanth Akkala April 20, 2026 23:15... Middle no 0 Internal 0 Sandhya akkala (Inte... Srikanth Akkala April 20, 2026 23:49... 9 0 1 52 Days OnSite 0 Enable Contractual oorwinui" [ref=e36299]:
+                    - cell [ref=e35095]:
+                      - generic [ref=e35096]:
+                        - generic [ref=e35099] [cursor=pointer]:
+                          - checkbox [ref=e35100]
+                          - generic:
+                            - img
+                        - button [ref=e35101] [cursor=pointer]:
+                          - img [ref=e35102]: more_vert
+                        - generic [ref=e35105]:
+                          - button [ref=e35106] [cursor=pointer]:
+                            - img [ref=e35107]: description
+                          - button [ref=e35110] [cursor=pointer]:
+                            - img [ref=e35111]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e35114] [cursor=pointer]:
+                            - img [ref=e35115]: account_tree
+                        - button [ref=e35118] [cursor=pointer]:
+                          - img [ref=e35119]: account_circle
+                        - button [ref=e35122] [cursor=pointer]
+                    - cell "OOJ - 85919" [ref=e36300]:
+                      - link "OOJ - 85919" [ref=e36301] [cursor=pointer]:
+                        - /url: "#/jobs/9402/view?is_listing=1"
+                    - cell "Java developer" [ref=e36302]:
+                      - generic [ref=e35130]:
+                        - link "Java developer" [ref=e36303] [cursor=pointer]:
+                          - /url: "#/jobs/9402/view?is_listing=1"
+                        - button [ref=e35132] [cursor=pointer]:
+                          - img [ref=e35133]: visibility
+                    - cell "Active" [ref=e36304]:
+                      - generic [ref=e35138]:
+                        - generic [ref=e35141]: Active
+                        - button [ref=e35142] [cursor=pointer]:
+                          - img [ref=e35143]: edit
+                    - cell "Srikanth Akkala" [ref=e36305]:
+                      - generic [ref=e35150]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36306]:
+                      - generic [ref=e35155]: Bhanu Prakash
+                    - cell "Texas" [ref=e36307]:
+                      - generic [ref=e35160]: Texas
+                    - cell "AWS14" [ref=e36308]:
+                      - link "AWS14" [ref=e36309] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e36310]:
+                      - generic [ref=e35169]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36311]:
+                      - generic [ref=e35174]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36312]:
+                      - generic [ref=e35179]: Srikanth Akkala
+                    - cell "April 20, 2026 23:15..." [ref=e36313]:
+                      - generic [ref=e35184]: April 20, 2026 23:15...
+                    - cell "Middle" [ref=e36314]:
+                      - generic [ref=e35189]: Middle
+                    - cell "no" [ref=e36315]:
+                      - generic [ref=e35194]: "no"
+                    - cell "0" [ref=e36316]
+                    - cell "Internal" [ref=e36317]:
+                      - generic [ref=e35200]: Internal
+                    - cell "0" [ref=e36318]
+                    - cell [ref=e35202]
+                    - cell "Sandhya akkala (Inte..." [ref=e36319]:
+                      - generic [ref=e35207]: Sandhya akkala (Inte...
+                    - cell [ref=e35208]
+                    - cell [ref=e35209]
+                    - cell "Srikanth Akkala" [ref=e36320]:
+                      - generic [ref=e35214]: Srikanth Akkala
+                    - cell "April 20, 2026 23:49..." [ref=e36321]:
+                      - generic [ref=e35219]: April 20, 2026 23:49...
+                    - cell "9" [ref=e36322]:
+                      - generic [ref=e35224]: "9"
+                    - cell "0" [ref=e36323]
+                    - cell [ref=e35226]
+                    - cell "1" [ref=e36324]:
+                      - link "1" [ref=e36325] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9402"
+                    - cell "52 Days" [ref=e36326]:
+                      - generic [ref=e35235]: 52 Days
+                    - cell "OnSite" [ref=e36327]:
+                      - generic [ref=e35240]: OnSite
+                    - cell [ref=e35241]
+                    - cell [ref=e35242]
+                    - cell [ref=e35243]
+                    - cell [ref=e35244]
+                    - cell "0" [ref=e36328]
+                    - cell [ref=e35246]
+                    - cell [ref=e35247]
+                    - cell "Enable" [ref=e36329]:
+                      - generic [ref=e35250]:
+                        - generic [ref=e35252]: Enable
+                        - button [ref=e35253] [cursor=pointer]:
+                          - img [ref=e35254]: edit
+                    - cell [ref=e35257]
+                    - cell "Contractual" [ref=e36330]:
+                      - generic [ref=e35262]: Contractual
+                    - cell "oorwinui" [ref=e36331]:
+                      - generic [ref=e35267]: oorwinui
+                  - row "OOJ - 85918 Java developer Active Srikanth Akkala Bhanu Prakash Texas AWS14 Dallas, TX Prime Vendor Srikanth Akkala April 20, 2026 23:15... Middle no 0 Internal 0 Srikanth Akkala April 20, 2026 23:15... 9 0 1 52 Days OnSite 0 Enable Contractual oorwinui" [ref=e36332]:
+                    - cell [ref=e35269]:
+                      - generic [ref=e35270]:
+                        - generic [ref=e35273] [cursor=pointer]:
+                          - checkbox [ref=e35274]
+                          - generic:
+                            - img
+                        - button [ref=e35275] [cursor=pointer]:
+                          - img [ref=e35276]: more_vert
+                        - generic [ref=e35279]:
+                          - button [ref=e35280] [cursor=pointer]:
+                            - img [ref=e35281]: description
+                          - button [ref=e35284] [cursor=pointer]:
+                            - img [ref=e35285]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e35288] [cursor=pointer]:
+                            - img [ref=e35289]: account_tree
+                        - button [ref=e35292] [cursor=pointer]:
+                          - img [ref=e35293]: account_circle
+                        - button [ref=e35296] [cursor=pointer]
+                    - cell "OOJ - 85918" [ref=e36333]:
+                      - link "OOJ - 85918" [ref=e36334] [cursor=pointer]:
+                        - /url: "#/jobs/9401/view?is_listing=1"
+                    - cell "Java developer" [ref=e36335]:
+                      - generic [ref=e35304]:
+                        - link "Java developer" [ref=e36336] [cursor=pointer]:
+                          - /url: "#/jobs/9401/view?is_listing=1"
+                        - button [ref=e35306] [cursor=pointer]:
+                          - img [ref=e35307]: visibility
+                    - cell "Active" [ref=e36337]:
+                      - generic [ref=e35312]:
+                        - generic [ref=e35315]: Active
+                        - button [ref=e35316] [cursor=pointer]:
+                          - img [ref=e35317]: edit
+                    - cell "Srikanth Akkala" [ref=e36338]:
+                      - generic [ref=e35324]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36339]:
+                      - generic [ref=e35329]: Bhanu Prakash
+                    - cell "Texas" [ref=e36340]:
+                      - generic [ref=e35334]: Texas
+                    - cell "AWS14" [ref=e36341]:
+                      - link "AWS14" [ref=e36342] [cursor=pointer]:
+                        - /url: "#/accounts/2725/view"
+                    - cell "Dallas, TX" [ref=e36343]:
+                      - generic [ref=e35343]: Dallas, TX
+                    - cell "Prime Vendor" [ref=e36344]:
+                      - generic [ref=e35348]: Prime Vendor
+                    - cell "Srikanth Akkala" [ref=e36345]:
+                      - generic [ref=e35353]: Srikanth Akkala
+                    - cell "April 20, 2026 23:15..." [ref=e36346]:
+                      - generic [ref=e35358]: April 20, 2026 23:15...
+                    - cell "Middle" [ref=e36347]:
+                      - generic [ref=e35363]: Middle
+                    - cell "no" [ref=e36348]:
+                      - generic [ref=e35368]: "no"
+                    - cell "0" [ref=e36349]
+                    - cell "Internal" [ref=e36350]:
+                      - generic [ref=e35374]: Internal
+                    - cell "0" [ref=e36351]
+                    - cell [ref=e35376]
+                    - cell [ref=e35377]
+                    - cell [ref=e35378]
+                    - cell [ref=e35379]
+                    - cell "Srikanth Akkala" [ref=e36352]:
+                      - generic [ref=e35384]: Srikanth Akkala
+                    - cell "April 20, 2026 23:15..." [ref=e36353]:
+                      - generic [ref=e35389]: April 20, 2026 23:15...
+                    - cell "9" [ref=e36354]:
+                      - generic [ref=e35394]: "9"
+                    - cell "0" [ref=e36355]
+                    - cell [ref=e35396]
+                    - cell "1" [ref=e36356]:
+                      - link "1" [ref=e36357] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9401"
+                    - cell "52 Days" [ref=e36358]:
+                      - generic [ref=e35405]: 52 Days
+                    - cell "OnSite" [ref=e36359]:
+                      - generic [ref=e35410]: OnSite
+                    - cell [ref=e35411]
+                    - cell [ref=e35412]
+                    - cell [ref=e35413]
+                    - cell [ref=e35414]
+                    - cell "0" [ref=e36360]
+                    - cell [ref=e35416]
+                    - cell [ref=e35417]
+                    - cell "Enable" [ref=e36361]:
+                      - generic [ref=e35420]:
+                        - generic [ref=e35422]: Enable
+                        - button [ref=e35423] [cursor=pointer]:
+                          - img [ref=e35424]: edit
+                    - cell [ref=e35427]
+                    - cell "Contractual" [ref=e36362]:
+                      - generic [ref=e35432]: Contractual
+                    - cell "oorwinui" [ref=e36363]:
+                      - generic [ref=e35437]: oorwinui
+                  - row "OOJ - 85917 Java developer Active Srikanth Akkala Bhanu Prakash Texas AWSSS Dallas, TX Vendor Mohana Rao April 20, 2026 22:34... Super High no 0 Internal 0 Mohana Rao April 20, 2026 22:34... 1 0 1 52 Days OnSite 0 Enable Contractual oorwinui" [ref=e36364]:
+                    - cell [ref=e35439]:
+                      - generic [ref=e35440]:
+                        - generic [ref=e35443] [cursor=pointer]:
+                          - checkbox [ref=e35444]
+                          - generic:
+                            - img
+                        - button [ref=e35445] [cursor=pointer]:
+                          - img [ref=e35446]: more_vert
+                        - generic [ref=e35449]:
+                          - button [ref=e35450] [cursor=pointer]:
+                            - img [ref=e35451]: description
+                          - button [ref=e35454] [cursor=pointer]:
+                            - img [ref=e35455]:
+                              - text: demography
+                              - generic: "1"
+                          - button [ref=e35458] [cursor=pointer]:
+                            - img [ref=e35459]: account_tree
+                        - button [ref=e35462] [cursor=pointer]:
+                          - img [ref=e35463]: account_circle
+                        - button [ref=e35466] [cursor=pointer]
+                    - cell "OOJ - 85917" [ref=e36365]:
+                      - link "OOJ - 85917" [ref=e36366] [cursor=pointer]:
+                        - /url: "#/jobs/9400/view?is_listing=1"
+                    - cell "Java developer" [ref=e36367]:
+                      - generic [ref=e35474]:
+                        - link "Java developer" [ref=e36368] [cursor=pointer]:
+                          - /url: "#/jobs/9400/view?is_listing=1"
+                        - button [ref=e35476] [cursor=pointer]:
+                          - img [ref=e35477]: visibility
+                    - cell "Active" [ref=e36369]:
+                      - generic [ref=e35482]:
+                        - generic [ref=e35485]: Active
+                        - button [ref=e35486] [cursor=pointer]:
+                          - img [ref=e35487]: edit
+                    - cell "Srikanth Akkala" [ref=e36370]:
+                      - generic [ref=e35494]: Srikanth Akkala
+                    - cell "Bhanu Prakash" [ref=e36371]:
+                      - generic [ref=e35499]: Bhanu Prakash
+                    - cell "Texas" [ref=e36372]:
+                      - generic [ref=e35504]: Texas
+                    - cell "AWSSS" [ref=e36373]:
+                      - link "AWSSS" [ref=e36374] [cursor=pointer]:
+                        - /url: "#/accounts/2687/view"
+                    - cell "Dallas, TX" [ref=e36375]:
+                      - generic [ref=e35513]: Dallas, TX
+                    - cell "Vendor" [ref=e36376]:
+                      - generic [ref=e35518]: Vendor
+                    - cell "Mohana Rao" [ref=e36377]:
+                      - generic [ref=e35523]: Mohana Rao
+                    - cell "April 20, 2026 22:34..." [ref=e36378]:
+                      - generic [ref=e35528]: April 20, 2026 22:34...
+                    - cell "Super High" [ref=e36379]:
+                      - generic [ref=e35533]: Super High
+                    - cell "no" [ref=e36380]:
+                      - generic [ref=e35538]: "no"
+                    - cell "0" [ref=e36381]
+                    - cell "Internal" [ref=e36382]:
+                      - generic [ref=e35544]: Internal
+                    - cell "0" [ref=e36383]
+                    - cell [ref=e35546]
+                    - cell [ref=e35547]
+                    - cell [ref=e35548]
+                    - cell [ref=e35549]
+                    - cell "Mohana Rao" [ref=e36384]:
+                      - generic [ref=e35554]: Mohana Rao
+                    - cell "April 20, 2026 22:34..." [ref=e36385]:
+                      - generic [ref=e35559]: April 20, 2026 22:34...
+                    - cell "1" [ref=e36386]:
+                      - generic [ref=e35564]: "1"
+                    - cell "0" [ref=e36387]
+                    - cell [ref=e35566]
+                    - cell "1" [ref=e36388]:
+                      - link "1" [ref=e36389] [cursor=pointer]:
+                        - /url: "#/jobs/considers?view_id=submission_view&job_id=9400"
+                    - cell "52 Days" [ref=e36390]:
+                      - generic [ref=e35575]: 52 Days
+                    - cell "OnSite" [ref=e36391]:
+                      - generic [ref=e35580]: OnSite
+                    - cell [ref=e35581]
+                    - cell [ref=e35582]
+                    - cell [ref=e35583]
+                    - cell [ref=e35584]
+                    - cell "0" [ref=e36392]
+                    - cell [ref=e35586]
+                    - cell [ref=e35587]
+                    - cell "Enable" [ref=e36393]:
+                      - generic [ref=e35590]:
+                        - generic [ref=e35592]: Enable
+                        - button [ref=e35593] [cursor=pointer]:
+                          - img [ref=e35594]: edit
+                    - cell [ref=e35597]
+                    - cell "Contractual" [ref=e36394]:
+                      - generic [ref=e35602]: Contractual
+                    - cell "oorwinui" [ref=e36395]:
+                      - generic [ref=e35607]: oorwinui
+              - generic [ref=e21590]:
+                - generic [ref=e25315]:
+                  - generic [ref=e25316]: Go To
+                  - spinbutton [ref=e25318]
+                - combobox [ref=e21592]:
+                  - option "15"
+                  - option "20" [selected]
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e25319]: Showing 21 to 40 of 1390
+                - list [ref=e21594]:
+                  - listitem [ref=e21595]:
+                    - generic [ref=e21596] [cursor=pointer]: «
+                  - listitem [ref=e21597]:
+                    - generic [ref=e21598] [cursor=pointer]: ‹
+                  - listitem [ref=e25320]:
+                    - generic [ref=e25321] [cursor=pointer]: "1"
+                  - listitem [ref=e25322]:
+                    - generic [ref=e25323] [cursor=pointer]: "2"
+                  - listitem [ref=e25324]:
+                    - generic [ref=e25325] [cursor=pointer]: "3"
+                  - listitem [ref=e25326]:
+                    - generic [ref=e25327] [cursor=pointer]: "4"
+                  - listitem [ref=e25328]:
+                    - generic: ...
+                  - listitem [ref=e25329]:
+                    - generic [ref=e25330] [cursor=pointer]: "70"
+                  - listitem [ref=e21599]:
+                    - generic [ref=e21600] [cursor=pointer]: ›
+                  - listitem [ref=e21601]:
+                    - generic [ref=e21602] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e36396]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;
+  - menu [ref=e35642]:
+    - generic [ref=e35643]:
+      - menuitem " Manual" [ref=e35644] [cursor=pointer]:
+        - generic [ref=e35645]:
+          - generic [ref=e35646]: 
+          - generic [ref=e35647]: Manual
+      - menuitem "Parse Text" [ref=e35648] [cursor=pointer]:
+        - img [ref=e35649]: plagiarism
+        - generic [ref=e35651]: Parse Text
+      - menuitem "Generate JD & Create job" [ref=e35652] [cursor=pointer]:
+        - generic [ref=e35653]:
+          - img [ref=e35655]
+          - generic [ref=e35656]: Generate JD & Create job
+      - menuitem " Upload & Parse Document" [ref=e35657] [cursor=pointer]:
+        - generic [ref=e35658]:
+          - generic [ref=e35659]: 
+          - generic [ref=e35660]: Upload & Parse Document

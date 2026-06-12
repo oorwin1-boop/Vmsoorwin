@@ -1,0 +1,748 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e61373]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e60436]:
+          - generic [ref=e60438]:
+            - heading "Employees" [level=1] [ref=e60440]
+            - generic [ref=e60441]:
+              - link "Home" [ref=e60445] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e60446]:
+                - text: /
+                - generic [ref=e60448]: Employees
+          - generic [ref=e60449]:
+            - generic [ref=e60454]:
+              - generic [ref=e60455]:
+                - heading "Views" [level=6] [ref=e60457]
+                - generic [ref=e60458]:
+                  - generic [ref=e60532]:
+                    - button [ref=e60534] [cursor=pointer]:
+                      - img [ref=e60535]: more_vert
+                    - generic [ref=e60538] [cursor=pointer]: All Employees
+                  - generic [ref=e60541]:
+                    - button [ref=e60543] [cursor=pointer]:
+                      - img [ref=e60544]: more_vert
+                    - generic [ref=e60547] [cursor=pointer]: Active Employees
+                  - generic [ref=e60550]:
+                    - button [ref=e60552] [cursor=pointer]:
+                      - img [ref=e60553]: more_vert
+                    - generic [ref=e60556] [cursor=pointer]: Recent Employees
+                  - generic [ref=e60559]:
+                    - button [ref=e60561] [cursor=pointer]:
+                      - img [ref=e60562]: more_vert
+                    - generic [ref=e60565] [cursor=pointer]: Offboarded Employees
+                  - generic [ref=e60568]:
+                    - button [ref=e60570] [cursor=pointer]:
+                      - img [ref=e60571]: more_vert
+                    - generic [ref=e60574] [cursor=pointer]: Offboarding Inprogress
+                  - generic [ref=e60577]:
+                    - button [ref=e60579] [cursor=pointer]:
+                      - img [ref=e60580]: more_vert
+                    - generic [ref=e60583] [cursor=pointer]: Employees on Bench
+                  - generic [ref=e60586]:
+                    - button [ref=e60588] [cursor=pointer]:
+                      - img [ref=e60589]: more_vert
+                    - generic [ref=e60592] [cursor=pointer]: FullTime Employees
+                  - generic [ref=e60595]:
+                    - button [ref=e60597] [cursor=pointer]:
+                      - img [ref=e60598]: more_vert
+                    - generic [ref=e60601] [cursor=pointer]: Contractor Employees
+              - button "Create View" [ref=e60460]:
+                - generic [ref=e60462]:
+                  - generic [ref=e60463]: Create View
+                  - img [ref=e60464]: add
+              - generic [ref=e60602]:
+                - heading "Folders" [level=6] [ref=e60604]
+                - generic [ref=e60605]:
+                  - generic [ref=e60608]:
+                    - button [ref=e60609] [cursor=pointer]:
+                      - img [ref=e60610]: more_vert
+                    - generic [ref=e60613] [cursor=pointer]: all
+                    - button [ref=e60615] [cursor=pointer]:
+                      - img [ref=e60616]: info
+                  - generic [ref=e60621]:
+                    - button [ref=e60622] [cursor=pointer]:
+                      - img [ref=e60623]: more_vert
+                    - generic [ref=e60626] [cursor=pointer]: DOB 1
+                    - button [ref=e60628] [cursor=pointer]:
+                      - img [ref=e60629]: info
+                  - generic [ref=e60634]:
+                    - button [ref=e60635] [cursor=pointer]:
+                      - img [ref=e60636]: more_vert
+                    - generic [ref=e60639] [cursor=pointer]: temp
+                    - button [ref=e60641] [cursor=pointer]:
+                      - img [ref=e60642]: info
+                  - generic [ref=e60647]:
+                    - button [ref=e60648] [cursor=pointer]:
+                      - img [ref=e60649]: more_vert
+                    - generic [ref=e60652] [cursor=pointer]: C2H Employee
+                    - button [ref=e60654] [cursor=pointer]:
+                      - img [ref=e60655]: info
+            - generic [ref=e60471]:
+              - generic [ref=e60472]:
+                - generic [ref=e60473]:
+                  - button [ref=e60474] [cursor=pointer]:
+                    - img [ref=e60475]: right_panel_open
+                  - generic [ref=e60482]:
+                    - textbox "Search ID, Name, Email, Designation" [ref=e60483]
+                    - button [ref=e60484] [cursor=pointer]:
+                      - img [ref=e60485]: search
+                - generic [ref=e60486]:
+                  - link "Add Employee" [ref=e60487] [cursor=pointer]:
+                    - /url: "#/employees/create"
+                    - img [ref=e60488]: add
+                    - generic [ref=e60489]: Add Employee
+                  - button [ref=e60658]:
+                    - img [ref=e60659]: view_column
+                  - button [ref=e60492]:
+                    - img [ref=e60493]: filter_alt
+                  - button [ref=e60496]:
+                    - img [ref=e60497]: tune
+                  - link "1" [ref=e60500] [cursor=pointer]:
+                    - /url: "#/pending_approvals/employees/assigned_to_me?module=employees"
+                    - img [ref=e60501]: check_circle
+                    - generic [ref=e60502]: "1"
+                  - button [ref=e60505]:
+                    - img [ref=e60506]: more_vert
+              - table [ref=e60511]:
+                - rowgroup [ref=e60512]:
+                  - row "Employee ID Employee Name Phone Number Last Name Email Notice Period" [ref=e60662]:
+                    - columnheader [ref=e60663]:
+                      - generic [ref=e60664]:
+                        - generic [ref=e60667] [cursor=pointer]:
+                          - checkbox [ref=e60668]
+                          - generic:
+                            - img
+                        - button [ref=e60669] [cursor=pointer]:
+                          - img [ref=e60670]: expand_more
+                    - columnheader "Employee ID" [ref=e60673]:
+                      - generic [ref=e60674]:
+                        - generic [ref=e60675]: Employee ID
+                        - button [ref=e60676] [cursor=pointer]:
+                          - img [ref=e60677]: filter_list
+                    - columnheader "Employee Name" [ref=e60680]:
+                      - generic [ref=e60681]:
+                        - generic [ref=e60682]: Employee Name
+                        - button [ref=e60683] [cursor=pointer]:
+                          - img [ref=e60684]: filter_list
+                    - columnheader "Phone Number" [ref=e60687]:
+                      - generic [ref=e60688]:
+                        - generic [ref=e60689]: Phone Number
+                        - button [ref=e60690] [cursor=pointer]:
+                          - img [ref=e60691]: filter_list
+                    - columnheader "Last Name" [ref=e60694]:
+                      - generic [ref=e60695]:
+                        - generic [ref=e60696]: Last Name
+                        - button [ref=e60697] [cursor=pointer]:
+                          - img [ref=e60698]: filter_list
+                    - columnheader "Email" [ref=e60701]:
+                      - generic [ref=e60702]:
+                        - generic [ref=e60703]: Email
+                        - button [ref=e60704] [cursor=pointer]:
+                          - img [ref=e60705]: filter_list
+                    - columnheader "Notice Period" [ref=e60708]:
+                      - generic [ref=e60709]:
+                        - generic [ref=e60710]: Notice Period
+                        - button [ref=e60711] [cursor=pointer]:
+                          - img [ref=e60712]: filter_list
+                - rowgroup [ref=e60715]:
+                  - row "desktop_windows EMPL- 2017 Mohan NewDev3 - NewDev3 mohan.pragada1+NewDev3@gmail.com -" [ref=e60716]:
+                    - cell "desktop_windows" [ref=e60717]:
+                      - generic [ref=e60718]:
+                        - generic [ref=e60721] [cursor=pointer]:
+                          - checkbox [ref=e60722]
+                          - generic:
+                            - img
+                        - button [ref=e60723] [cursor=pointer]:
+                          - img [ref=e60724]: more_vert
+                        - generic [ref=e60729]: desktop_windows
+                    - cell "EMPL- 2017" [ref=e60730]:
+                      - generic [ref=e60732]: EMPL- 2017
+                    - cell "Mohan NewDev3" [ref=e60733]:
+                      - link "Mohan NewDev3" [ref=e60735] [cursor=pointer]:
+                        - /url: "#/employees/2368/personal"
+                    - cell "-" [ref=e60736]:
+                      - generic [ref=e60738]: "-"
+                    - cell "NewDev3" [ref=e60739]:
+                      - generic [ref=e60741]: NewDev3
+                    - cell "mohan.pragada1+NewDev3@gmail.com" [ref=e60742]:
+                      - generic [ref=e60744]: mohan.pragada1+NewDev3@gmail.com
+                    - cell "-" [ref=e60745]:
+                      - generic [ref=e60747]: "-"
+                  - row "desktop_access_disabled EMPL- 2016 Mohan NewDev - NewDev mohan.pragada1+NewDev1@gmail.com -" [ref=e60748]:
+                    - cell "desktop_access_disabled" [ref=e60749]:
+                      - generic [ref=e60750]:
+                        - generic [ref=e60753] [cursor=pointer]:
+                          - checkbox [ref=e60754]
+                          - generic:
+                            - img
+                        - button [ref=e60755] [cursor=pointer]:
+                          - img [ref=e60756]: more_vert
+                        - generic [ref=e60761]: desktop_access_disabled
+                    - cell "EMPL- 2016" [ref=e60762]:
+                      - generic [ref=e60764]: EMPL- 2016
+                    - cell "Mohan NewDev" [ref=e60765]:
+                      - link "Mohan NewDev" [ref=e60767] [cursor=pointer]:
+                        - /url: "#/employees/2367/personal"
+                    - cell "-" [ref=e60768]:
+                      - generic [ref=e60770]: "-"
+                    - cell "NewDev" [ref=e60771]:
+                      - generic [ref=e60773]: NewDev
+                    - cell "mohan.pragada1+NewDev1@gmail.com" [ref=e60774]:
+                      - generic [ref=e60776]: mohan.pragada1+NewDev1@gmail.com
+                    - cell "-" [ref=e60777]:
+                      - generic [ref=e60779]: "-"
+                  - row "desktop_access_disabled EMPL- 2015 Mohan NewDev - NewDev mohan.pragada1+NewDev@gmail.com -" [ref=e60780]:
+                    - cell "desktop_access_disabled" [ref=e60781]:
+                      - generic [ref=e60782]:
+                        - generic [ref=e60785] [cursor=pointer]:
+                          - checkbox [ref=e60786]
+                          - generic:
+                            - img
+                        - button [ref=e60787] [cursor=pointer]:
+                          - img [ref=e60788]: more_vert
+                        - generic [ref=e60793]: desktop_access_disabled
+                    - cell "EMPL- 2015" [ref=e60794]:
+                      - generic [ref=e60796]: EMPL- 2015
+                    - cell "Mohan NewDev" [ref=e60797]:
+                      - link "Mohan NewDev" [ref=e60799] [cursor=pointer]:
+                        - /url: "#/employees/2366/personal"
+                    - cell "-" [ref=e60800]:
+                      - generic [ref=e60802]: "-"
+                    - cell "NewDev" [ref=e60803]:
+                      - generic [ref=e60805]: NewDev
+                    - cell "mohan.pragada1+NewDev@gmail.com" [ref=e60806]:
+                      - generic [ref=e60808]: mohan.pragada1+NewDev@gmail.com
+                    - cell "-" [ref=e60809]:
+                      - generic [ref=e60811]: "-"
+                  - row "desktop_access_disabled CSTEMP- 1762 Babu G +12018383383 G venu.vb11+987654345@gmail.com -" [ref=e60812]:
+                    - cell "desktop_access_disabled" [ref=e60813]:
+                      - generic [ref=e60814]:
+                        - generic [ref=e60817] [cursor=pointer]:
+                          - checkbox [ref=e60818]
+                          - generic:
+                            - img
+                        - button [ref=e60819] [cursor=pointer]:
+                          - img [ref=e60820]: more_vert
+                        - generic [ref=e60825]: desktop_access_disabled
+                    - cell "CSTEMP- 1762" [ref=e60826]:
+                      - generic [ref=e60828]: CSTEMP- 1762
+                    - cell "Babu G" [ref=e60829]:
+                      - link "Babu G" [ref=e60831] [cursor=pointer]:
+                        - /url: "#/employees/2362/personal"
+                    - cell "+12018383383" [ref=e60832]:
+                      - generic [ref=e60834]: "+12018383383"
+                    - cell "G" [ref=e60835]:
+                      - generic [ref=e60837]: G
+                    - cell "venu.vb11+987654345@gmail.com" [ref=e60838]:
+                      - generic [ref=e60840]: venu.vb11+987654345@gmail.com
+                    - cell "-" [ref=e60841]:
+                      - generic [ref=e60843]: "-"
+                  - row "desktop_access_disabled CEMP- 1761 Jaswanth Location - Location jaswanthb+location@oorwin.com -" [ref=e60844]:
+                    - cell "desktop_access_disabled" [ref=e60845]:
+                      - generic [ref=e60846]:
+                        - generic [ref=e60849] [cursor=pointer]:
+                          - checkbox [ref=e60850]
+                          - generic:
+                            - img
+                        - button [ref=e60851] [cursor=pointer]:
+                          - img [ref=e60852]: more_vert
+                        - generic [ref=e60857]: desktop_access_disabled
+                    - cell "CEMP- 1761" [ref=e60858]:
+                      - generic [ref=e60860]: CEMP- 1761
+                    - cell "Jaswanth Location" [ref=e60861]:
+                      - link "Jaswanth Location" [ref=e60863] [cursor=pointer]:
+                        - /url: "#/employees/2361/personal"
+                    - cell "-" [ref=e60864]:
+                      - generic [ref=e60866]: "-"
+                    - cell "Location" [ref=e60867]:
+                      - generic [ref=e60869]: Location
+                    - cell "jaswanthb+location@oorwin.com" [ref=e60870]:
+                      - generic [ref=e60872]: jaswanthb+location@oorwin.com
+                    - cell "-" [ref=e60873]:
+                      - generic [ref=e60875]: "-"
+                  - row "desktop_access_disabled CEMP- 1760 Mohan Candidate12 - Candidate12 mohan.pragada1+Candidate12@gmail.com -" [ref=e60876]:
+                    - cell "desktop_access_disabled" [ref=e60877]:
+                      - generic [ref=e60878]:
+                        - generic [ref=e60881] [cursor=pointer]:
+                          - checkbox [ref=e60882]
+                          - generic:
+                            - img
+                        - button [ref=e60883] [cursor=pointer]:
+                          - img [ref=e60884]: more_vert
+                        - generic [ref=e60889]: desktop_access_disabled
+                    - cell "CEMP- 1760" [ref=e60890]:
+                      - generic [ref=e60892]: CEMP- 1760
+                    - cell "Mohan Candidate12" [ref=e60893]:
+                      - link "Mohan Candidate12" [ref=e60895] [cursor=pointer]:
+                        - /url: "#/employees/2360/personal"
+                    - cell "-" [ref=e60896]:
+                      - generic [ref=e60898]: "-"
+                    - cell "Candidate12" [ref=e60899]:
+                      - generic [ref=e60901]: Candidate12
+                    - cell "mohan.pragada1+Candidate12@gmail.com" [ref=e60902]:
+                      - generic [ref=e60904]: mohan.pragada1+Candidate12@gmail.com
+                    - cell "-" [ref=e60905]:
+                      - generic [ref=e60907]: "-"
+                  - row "desktop_access_disabled EMPL- 2013 Prakash PK +12017738377 PK venug0806+prakashkumar@gmail.com 45 Days" [ref=e60908]:
+                    - cell "desktop_access_disabled" [ref=e60909]:
+                      - generic [ref=e60910]:
+                        - generic [ref=e60913] [cursor=pointer]:
+                          - checkbox [ref=e60914]
+                          - generic:
+                            - img
+                        - button [ref=e60915] [cursor=pointer]:
+                          - img [ref=e60916]: more_vert
+                        - generic [ref=e60921]: desktop_access_disabled
+                    - cell "EMPL- 2013" [ref=e60922]:
+                      - generic [ref=e60924]: EMPL- 2013
+                    - cell "Prakash PK" [ref=e60925]:
+                      - link "Prakash PK" [ref=e60927] [cursor=pointer]:
+                        - /url: "#/employees/2359/personal"
+                    - cell "+12017738377" [ref=e60928]:
+                      - generic [ref=e60930]: "+12017738377"
+                    - cell "PK" [ref=e60931]:
+                      - generic [ref=e60933]: PK
+                    - cell "venug0806+prakashkumar@gmail.com" [ref=e60934]:
+                      - generic [ref=e60936]: venug0806+prakashkumar@gmail.com
+                    - cell "45 Days" [ref=e60937]:
+                      - generic [ref=e60939]: 45 Days
+                  - row "desktop_access_disabled CEMP- 1759 Hardik Suthar +19727759637 Suthar venug0806+hardik.suthar@gmail.com -" [ref=e60940]:
+                    - cell "desktop_access_disabled" [ref=e60941]:
+                      - generic [ref=e60942]:
+                        - generic [ref=e60945] [cursor=pointer]:
+                          - checkbox [ref=e60946]
+                          - generic:
+                            - img
+                        - button [ref=e60947] [cursor=pointer]:
+                          - img [ref=e60948]: more_vert
+                        - generic [ref=e60953]: desktop_access_disabled
+                    - cell "CEMP- 1759" [ref=e60954]:
+                      - generic [ref=e60956]: CEMP- 1759
+                    - cell "Hardik Suthar" [ref=e60957]:
+                      - link "Hardik Suthar" [ref=e60959] [cursor=pointer]:
+                        - /url: "#/employees/2356/personal"
+                    - cell "+19727759637" [ref=e60960]:
+                      - generic [ref=e60962]: "+19727759637"
+                    - cell "Suthar" [ref=e60963]:
+                      - generic [ref=e60965]: Suthar
+                    - cell "venug0806+hardik.suthar@gmail.com" [ref=e60966]:
+                      - generic [ref=e60968]: venug0806+hardik.suthar@gmail.com
+                    - cell "-" [ref=e60969]:
+                      - generic [ref=e60971]: "-"
+                  - row "desktop_access_disabled CEMP- 1758 Divya Mishra - Mishra venu.vb11+testingdmishra0904@gmail.com 6" [ref=e60972]:
+                    - cell "desktop_access_disabled" [ref=e60973]:
+                      - generic [ref=e60974]:
+                        - generic [ref=e60977] [cursor=pointer]:
+                          - checkbox [ref=e60978]
+                          - generic:
+                            - img
+                        - button [ref=e60979] [cursor=pointer]:
+                          - img [ref=e60980]: more_vert
+                        - generic [ref=e60985]: desktop_access_disabled
+                    - cell "CEMP- 1758" [ref=e60986]:
+                      - generic [ref=e60988]: CEMP- 1758
+                    - cell "Divya Mishra" [ref=e60989]:
+                      - link "Divya Mishra" [ref=e60991] [cursor=pointer]:
+                        - /url: "#/employees/2353/personal"
+                    - cell "-" [ref=e60992]:
+                      - generic [ref=e60994]: "-"
+                    - cell "Mishra" [ref=e60995]:
+                      - generic [ref=e60997]: Mishra
+                    - cell "venu.vb11+testingdmishra0904@gmail.com" [ref=e60998]:
+                      - generic [ref=e61000]: venu.vb11+testingdmishra0904@gmail.com
+                    - cell "6" [ref=e61001]:
+                      - generic [ref=e61003]: "6"
+                  - row "desktop_access_disabled CEMP- 1757 sandip import104 - import104 sandip.mahato+import104@oorwin.com -" [ref=e61004]:
+                    - cell "desktop_access_disabled" [ref=e61005]:
+                      - generic [ref=e61006]:
+                        - generic [ref=e61009] [cursor=pointer]:
+                          - checkbox [ref=e61010]
+                          - generic:
+                            - img
+                        - button [ref=e61011] [cursor=pointer]:
+                          - img [ref=e61012]: more_vert
+                        - generic [ref=e61017]: desktop_access_disabled
+                    - cell "CEMP- 1757" [ref=e61018]:
+                      - generic [ref=e61020]: CEMP- 1757
+                    - cell "sandip import104" [ref=e61021]:
+                      - link "sandip import104" [ref=e61023] [cursor=pointer]:
+                        - /url: "#/employees/2349/personal"
+                    - cell "-" [ref=e61024]:
+                      - generic [ref=e61026]: "-"
+                    - cell "import104" [ref=e61027]:
+                      - generic [ref=e61029]: import104
+                    - cell "sandip.mahato+import104@oorwin.com" [ref=e61030]:
+                      - generic [ref=e61032]: sandip.mahato+import104@oorwin.com
+                    - cell "-" [ref=e61033]:
+                      - generic [ref=e61035]: "-"
+                  - row "desktop_access_disabled EMPL- 2012 sandip import103 - import103 sandip.mahato+import103@oorwin.com -" [ref=e61036]:
+                    - cell "desktop_access_disabled" [ref=e61037]:
+                      - generic [ref=e61038]:
+                        - generic [ref=e61041] [cursor=pointer]:
+                          - checkbox [ref=e61042]
+                          - generic:
+                            - img
+                        - button [ref=e61043] [cursor=pointer]:
+                          - img [ref=e61044]: more_vert
+                        - generic [ref=e61049]: desktop_access_disabled
+                    - cell "EMPL- 2012" [ref=e61050]:
+                      - generic [ref=e61052]: EMPL- 2012
+                    - cell "sandip import103" [ref=e61053]:
+                      - link "sandip import103" [ref=e61055] [cursor=pointer]:
+                        - /url: "#/employees/2348/personal"
+                    - cell "-" [ref=e61056]:
+                      - generic [ref=e61058]: "-"
+                    - cell "import103" [ref=e61059]:
+                      - generic [ref=e61061]: import103
+                    - cell "sandip.mahato+import103@oorwin.com" [ref=e61062]:
+                      - generic [ref=e61064]: sandip.mahato+import103@oorwin.com
+                    - cell "-" [ref=e61065]:
+                      - generic [ref=e61067]: "-"
+                  - row "desktop_access_disabled EMPL- 2011 sandip import101 - import101 sandip.mahato+import101@oorwin.com -" [ref=e61068]:
+                    - cell "desktop_access_disabled" [ref=e61069]:
+                      - generic [ref=e61070]:
+                        - generic [ref=e61073] [cursor=pointer]:
+                          - checkbox [ref=e61074]
+                          - generic:
+                            - img
+                        - button [ref=e61075] [cursor=pointer]:
+                          - img [ref=e61076]: more_vert
+                        - generic [ref=e61081]: desktop_access_disabled
+                    - cell "EMPL- 2011" [ref=e61082]:
+                      - generic [ref=e61084]: EMPL- 2011
+                    - cell "sandip import101" [ref=e61085]:
+                      - link "sandip import101" [ref=e61087] [cursor=pointer]:
+                        - /url: "#/employees/2347/personal"
+                    - cell "-" [ref=e61088]:
+                      - generic [ref=e61090]: "-"
+                    - cell "import101" [ref=e61091]:
+                      - generic [ref=e61093]: import101
+                    - cell "sandip.mahato+import101@oorwin.com" [ref=e61094]:
+                      - generic [ref=e61096]: sandip.mahato+import101@oorwin.com
+                    - cell "-" [ref=e61097]:
+                      - generic [ref=e61099]: "-"
+                  - row "desktop_windows CEMP- 1756 Jaswanth Submission1 - Submission1 jaswanthb+submission1@oorwin.com -" [ref=e61100]:
+                    - cell "desktop_windows" [ref=e61101]:
+                      - generic [ref=e61102]:
+                        - generic [ref=e61105] [cursor=pointer]:
+                          - checkbox [ref=e61106]
+                          - generic:
+                            - img
+                        - button [ref=e61107] [cursor=pointer]:
+                          - img [ref=e61108]: more_vert
+                        - generic [ref=e61113]: desktop_windows
+                    - cell "CEMP- 1756" [ref=e61114]:
+                      - generic [ref=e61116]: CEMP- 1756
+                    - cell "Jaswanth Submission1" [ref=e61117]:
+                      - link "Jaswanth Submission1" [ref=e61119] [cursor=pointer]:
+                        - /url: "#/employees/2341/personal"
+                    - cell "-" [ref=e61120]:
+                      - generic [ref=e61122]: "-"
+                    - cell "Submission1" [ref=e61123]:
+                      - generic [ref=e61125]: Submission1
+                    - cell "jaswanthb+submission1@oorwin.com" [ref=e61126]:
+                      - generic [ref=e61128]: jaswanthb+submission1@oorwin.com
+                    - cell "-" [ref=e61129]:
+                      - generic [ref=e61131]: "-"
+                  - row "desktop_access_disabled CEMP- 1755 Jaswanth Submission - Submission jaswanthb+submission@oorwin.com -" [ref=e61132]:
+                    - cell "desktop_access_disabled" [ref=e61133]:
+                      - generic [ref=e61134]:
+                        - generic [ref=e61137] [cursor=pointer]:
+                          - checkbox [ref=e61138]
+                          - generic:
+                            - img
+                        - button [ref=e61139] [cursor=pointer]:
+                          - img [ref=e61140]: more_vert
+                        - generic [ref=e61145]: desktop_access_disabled
+                    - cell "CEMP- 1755" [ref=e61146]:
+                      - generic [ref=e61148]: CEMP- 1755
+                    - cell "Jaswanth Submission" [ref=e61149]:
+                      - link "Jaswanth Submission" [ref=e61151] [cursor=pointer]:
+                        - /url: "#/employees/2340/personal"
+                    - cell "-" [ref=e61152]:
+                      - generic [ref=e61154]: "-"
+                    - cell "Submission" [ref=e61155]:
+                      - generic [ref=e61157]: Submission
+                    - cell "jaswanthb+submission@oorwin.com" [ref=e61158]:
+                      - generic [ref=e61160]: jaswanthb+submission@oorwin.com
+                    - cell "-" [ref=e61161]:
+                      - generic [ref=e61163]: "-"
+                  - row "desktop_access_disabled EMPL- 2010 Mohan LeaveSummary - LeaveSummary mohan.pragada1+LeaveSummary@gmail.com -" [ref=e61164]:
+                    - cell "desktop_access_disabled" [ref=e61165]:
+                      - generic [ref=e61166]:
+                        - generic [ref=e61169] [cursor=pointer]:
+                          - checkbox [ref=e61170]
+                          - generic:
+                            - img
+                        - button [ref=e61171] [cursor=pointer]:
+                          - img [ref=e61172]: more_vert
+                        - generic [ref=e61177]: desktop_access_disabled
+                    - cell "EMPL- 2010" [ref=e61178]:
+                      - generic [ref=e61180]: EMPL- 2010
+                    - cell "Mohan LeaveSummary" [ref=e61181]:
+                      - link "Mohan LeaveSummary" [ref=e61183] [cursor=pointer]:
+                        - /url: "#/employees/2335/personal"
+                    - cell "-" [ref=e61184]:
+                      - generic [ref=e61186]: "-"
+                    - cell "LeaveSummary" [ref=e61187]:
+                      - generic [ref=e61189]: LeaveSummary
+                    - cell "mohan.pragada1+LeaveSummary@gmail.com" [ref=e61190]:
+                      - generic [ref=e61192]: mohan.pragada1+LeaveSummary@gmail.com
+                    - cell "-" [ref=e61193]:
+                      - generic [ref=e61195]: "-"
+                  - row "desktop_access_disabled EMPL- 2009 Mohan LeaveReport - LeaveReport mohan.pragada1+LeaveReport@gmail.com -" [ref=e61196]:
+                    - cell "desktop_access_disabled" [ref=e61197]:
+                      - generic [ref=e61198]:
+                        - generic [ref=e61201] [cursor=pointer]:
+                          - checkbox [ref=e61202]
+                          - generic:
+                            - img
+                        - button [ref=e61203] [cursor=pointer]:
+                          - img [ref=e61204]: more_vert
+                        - generic [ref=e61209]: desktop_access_disabled
+                    - cell "EMPL- 2009" [ref=e61210]:
+                      - generic [ref=e61212]: EMPL- 2009
+                    - cell "Mohan LeaveReport" [ref=e61213]:
+                      - link "Mohan LeaveReport" [ref=e61215] [cursor=pointer]:
+                        - /url: "#/employees/2334/personal"
+                    - cell "-" [ref=e61216]:
+                      - generic [ref=e61218]: "-"
+                    - cell "LeaveReport" [ref=e61219]:
+                      - generic [ref=e61221]: LeaveReport
+                    - cell "mohan.pragada1+LeaveReport@gmail.com" [ref=e61222]:
+                      - generic [ref=e61224]: mohan.pragada1+LeaveReport@gmail.com
+                    - cell "-" [ref=e61225]:
+                      - generic [ref=e61227]: "-"
+                  - row "desktop_access_disabled EMPL- 2008 Mohan newleaveplan - newleaveplan mohan.pragada1+newleaveplan@gmail.com -" [ref=e61228]:
+                    - cell "desktop_access_disabled" [ref=e61229]:
+                      - generic [ref=e61230]:
+                        - generic [ref=e61233] [cursor=pointer]:
+                          - checkbox [ref=e61234]
+                          - generic:
+                            - img
+                        - button [ref=e61235] [cursor=pointer]:
+                          - img [ref=e61236]: more_vert
+                        - generic [ref=e61241]: desktop_access_disabled
+                    - cell "EMPL- 2008" [ref=e61242]:
+                      - generic [ref=e61244]: EMPL- 2008
+                    - cell "Mohan newleaveplan" [ref=e61245]:
+                      - link "Mohan newleaveplan" [ref=e61247] [cursor=pointer]:
+                        - /url: "#/employees/2332/personal"
+                    - cell "-" [ref=e61248]:
+                      - generic [ref=e61250]: "-"
+                    - cell "newleaveplan" [ref=e61251]:
+                      - generic [ref=e61253]: newleaveplan
+                    - cell "mohan.pragada1+newleaveplan@gmail.com" [ref=e61254]:
+                      - generic [ref=e61256]: mohan.pragada1+newleaveplan@gmail.com
+                    - cell "-" [ref=e61257]:
+                      - generic [ref=e61259]: "-"
+                  - row "desktop_access_disabled EMPL- 2007 Hanshith T - T oorwin1+qa@gmail.com -" [ref=e61260]:
+                    - cell "desktop_access_disabled" [ref=e61261]:
+                      - generic [ref=e61262]:
+                        - generic [ref=e61265] [cursor=pointer]:
+                          - checkbox [ref=e61266]
+                          - generic:
+                            - img
+                        - button [ref=e61267] [cursor=pointer]:
+                          - img [ref=e61268]: more_vert
+                        - generic [ref=e61273]: desktop_access_disabled
+                    - cell "EMPL- 2007" [ref=e61274]:
+                      - generic [ref=e61276]: EMPL- 2007
+                    - cell "Hanshith T" [ref=e61277]:
+                      - link "Hanshith T" [ref=e61279] [cursor=pointer]:
+                        - /url: "#/employees/2331/personal"
+                    - cell "-" [ref=e61280]:
+                      - generic [ref=e61282]: "-"
+                    - cell "T" [ref=e61283]:
+                      - generic [ref=e61285]: T
+                    - cell "oorwin1+qa@gmail.com" [ref=e61286]:
+                      - generic [ref=e61288]: oorwin1+qa@gmail.com
+                    - cell "-" [ref=e61289]:
+                      - generic [ref=e61291]: "-"
+                  - row "desktop_access_disabled CEMP- 1754 Jaswanth Contractor - Contractor Jaswanthb+contractor1@oorwin.com -" [ref=e61292]:
+                    - cell "desktop_access_disabled" [ref=e61293]:
+                      - generic [ref=e61294]:
+                        - generic [ref=e61297] [cursor=pointer]:
+                          - checkbox [ref=e61298]
+                          - generic:
+                            - img
+                        - button [ref=e61299] [cursor=pointer]:
+                          - img [ref=e61300]: more_vert
+                        - generic [ref=e61305]: desktop_access_disabled
+                    - cell "CEMP- 1754" [ref=e61306]:
+                      - generic [ref=e61308]: CEMP- 1754
+                    - cell "Jaswanth Contractor" [ref=e61309]:
+                      - link "Jaswanth Contractor" [ref=e61311] [cursor=pointer]:
+                        - /url: "#/employees/2329/personal"
+                    - cell "-" [ref=e61312]:
+                      - generic [ref=e61314]: "-"
+                    - cell "Contractor" [ref=e61315]:
+                      - generic [ref=e61317]: Contractor
+                    - cell "Jaswanthb+contractor1@oorwin.com" [ref=e61318]:
+                      - generic [ref=e61320]: Jaswanthb+contractor1@oorwin.com
+                    - cell "-" [ref=e61321]:
+                      - generic [ref=e61323]: "-"
+                  - row "desktop_access_disabled CEMP- 1724 Mohan CertificationExp - CertificationExp mohan.pragada1+CertificationExp@gmail.co... -" [ref=e61324]:
+                    - cell "desktop_access_disabled" [ref=e61325]:
+                      - generic [ref=e61326]:
+                        - generic [ref=e61329] [cursor=pointer]:
+                          - checkbox [ref=e61330]
+                          - generic:
+                            - img
+                        - button [ref=e61331] [cursor=pointer]:
+                          - img [ref=e61332]: more_vert
+                        - generic [ref=e61337]: desktop_access_disabled
+                    - cell "CEMP- 1724" [ref=e61338]:
+                      - generic [ref=e61340]: CEMP- 1724
+                    - cell "Mohan CertificationExp" [ref=e61341]:
+                      - link "Mohan CertificationExp" [ref=e61343] [cursor=pointer]:
+                        - /url: "#/employees/2328/personal"
+                    - cell "-" [ref=e61344]:
+                      - generic [ref=e61346]: "-"
+                    - cell "CertificationExp" [ref=e61347]:
+                      - generic [ref=e61349]: CertificationExp
+                    - cell "mohan.pragada1+CertificationExp@gmail.co..." [ref=e61350]:
+                      - generic [ref=e61352]: mohan.pragada1+CertificationExp@gmail.co...
+                    - cell "-" [ref=e61353]:
+                      - generic [ref=e61355]: "-"
+              - generic [ref=e60517]:
+                - generic [ref=e61356]:
+                  - generic [ref=e61357]: Go To
+                  - spinbutton [ref=e61359]
+                - combobox [ref=e60519]:
+                  - option "15" [selected]
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e61360]: Showing 1 to 15 of 1364
+                - list [ref=e60521]:
+                  - listitem [ref=e60522]:
+                    - generic: «
+                  - listitem [ref=e60524]:
+                    - generic: ‹
+                  - listitem [ref=e61361]:
+                    - generic [ref=e61362] [cursor=pointer]: "1"
+                  - listitem [ref=e61363]:
+                    - generic [ref=e61364] [cursor=pointer]: "2"
+                  - listitem [ref=e61365]:
+                    - generic [ref=e61366] [cursor=pointer]: "3"
+                  - listitem [ref=e61367]:
+                    - generic [ref=e61368] [cursor=pointer]: "4"
+                  - listitem [ref=e61369]:
+                    - generic: ...
+                  - listitem [ref=e61370]:
+                    - generic [ref=e61371] [cursor=pointer]: "91"
+                  - listitem [ref=e60526]:
+                    - generic [ref=e60527] [cursor=pointer]: ›
+                  - listitem [ref=e60528]:
+                    - generic [ref=e60529] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

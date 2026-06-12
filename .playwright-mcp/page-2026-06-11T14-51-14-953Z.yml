@@ -1,0 +1,985 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e74990]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e114]:
+                  - generic [ref=e115] [cursor=pointer]:
+                    - img [ref=e117]:
+                      - img [ref=e118]
+                    - generic [ref=e119]: HR
+                  - generic [ref=e72761]:
+                    - generic [ref=e72762]: Human Resources
+                    - generic [ref=e72764]:
+                      - link "Employees" [ref=e72765] [cursor=pointer]:
+                        - /url: "#/employees"
+                        - text:  Employees
+                      - link "" [ref=e72766] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72767]: 
+                    - generic [ref=e72769]:
+                      - link "Assignments" [ref=e72770] [cursor=pointer]:
+                        - /url: "#/assignments"
+                        - text:  Assignments
+                      - link "" [ref=e72771] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72772]: 
+                    - generic [ref=e72774]:
+                      - link "Timesheets" [ref=e72775] [cursor=pointer]:
+                        - /url: "#/timesheets/all"
+                        - text:  Timesheets
+                      - link "" [ref=e72776] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72777]: 
+                    - generic [ref=e72779]:
+                      - link "Expenses" [ref=e72780] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/submitted"
+                        - text:  Expenses
+                      - link "" [ref=e72781] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72782]: 
+                    - generic [ref=e72784]:
+                      - link "Invoices" [ref=e72785] [cursor=pointer]:
+                        - /url: "#/invoices/all"
+                        - text:  Invoices
+                      - link "" [ref=e72786] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72787]: 
+                    - generic [ref=e72789]:
+                      - link "Accounts Payable" [ref=e72790] [cursor=pointer]:
+                        - /url: "#/bills/list"
+                        - text:  Accounts Payable
+                      - link "" [ref=e72791] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72792]: 
+                    - generic [ref=e72794]:
+                      - link "US Immigration" [ref=e72795] [cursor=pointer]:
+                        - /url: "#/immigration/case_management"
+                        - text:  US Immigration
+                      - link "" [ref=e72796] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72797]: 
+                    - generic [ref=e72799]:
+                      - link "I9 Compliance" [ref=e72800] [cursor=pointer]:
+                        - /url: "#/i9/list"
+                        - text:  I9 Compliance
+                      - link "" [ref=e72801] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72802]: 
+                    - generic [ref=e72804]:
+                      - link "Tasks" [ref=e72805] [cursor=pointer]:
+                        - /url: "#/tasks_list"
+                        - text:  Tasks
+                      - link "" [ref=e72806] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72807]: 
+                    - generic [ref=e72809]:
+                      - link "Documents" [ref=e72810] [cursor=pointer]:
+                        - /url: "#/documents"
+                        - text:  Documents
+                      - link "" [ref=e72811] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72812]: 
+                    - generic [ref=e72814]:
+                      - link "Onboarding" [ref=e72815] [cursor=pointer]:
+                        - /url: "#/onboarding/requests"
+                        - text:  Onboarding
+                      - link "" [ref=e72816] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72817]: 
+                    - generic [ref=e72819]:
+                      - link "Attendance" [ref=e72820] [cursor=pointer]:
+                        - /url: "#/attendance"
+                        - text:  Attendance
+                      - link "" [ref=e72821] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72822]: 
+                    - generic [ref=e72824]:
+                      - link "Assets Management" [ref=e72825] [cursor=pointer]:
+                        - /url: "#/assets"
+                        - text:  Assets Management
+                      - link "" [ref=e72826] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72827]: 
+                    - generic [ref=e72829]:
+                      - link "Projects" [ref=e72830] [cursor=pointer]:
+                        - /url: "#/projects"
+                        - text:  Projects
+                      - link "" [ref=e72831] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72832]: 
+                    - generic [ref=e72834]:
+                      - link "Offboarding" [ref=e72835] [cursor=pointer]:
+                        - /url: "#/offboarding"
+                        - text:  Offboarding
+                      - link "" [ref=e72836] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72837]: 
+                    - generic [ref=e72839]:
+                      - link "Performance" [ref=e72840] [cursor=pointer]:
+                        - /url: "#/performance"
+                        - text:  Performance
+                      - link "" [ref=e72841] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72842]: 
+                    - generic [ref=e72844]:
+                      - link "Help Desk" [ref=e72845] [cursor=pointer]:
+                        - /url: "#/help_desk"
+                        - text:  Help Desk
+                      - link "" [ref=e72846] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72847]: 
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e74026]:
+          - generic [ref=e74027]:
+            - generic [ref=e74029]:
+              - heading "Invoices" [level=1] [ref=e74030]
+              - generic [ref=e74031]:
+                - link "Home" [ref=e74035] [cursor=pointer]:
+                  - /url: "#/dashboard"
+                - generic [ref=e74036]:
+                  - text: /
+                  - generic [ref=e74038]: Invoices
+            - navigation [ref=e74040]:
+              - generic [ref=e74043]:
+                - link "Invoices" [ref=e74044] [cursor=pointer]:
+                  - /url: "#/invoices/all"
+                  - generic [ref=e74046]: Invoices
+                - link "Approvals (0)" [ref=e74047] [cursor=pointer]:
+                  - /url: "#/invoice_and_bill_approvals/invoices/assigned_to_me"
+                  - generic [ref=e74049]: Approvals (0)
+                - link "Payments" [ref=e74050] [cursor=pointer]:
+                  - /url: "#/invoices_payments/payments"
+                  - generic [ref=e74052]: Payments
+                - link "Settings" [ref=e74053] [cursor=pointer]:
+                  - /url: "#/invoices_settings/invoice"
+                  - generic [ref=e74055]: Settings
+          - generic [ref=e74056]:
+            - generic [ref=e74062]:
+              - heading "Views" [level=6] [ref=e74064]
+              - generic [ref=e74065]:
+                - link "All Invoices" [ref=e74069] [cursor=pointer]:
+                  - /url: "#/invoices/all"
+                - link "Open Invoices" [ref=e74073] [cursor=pointer]:
+                  - /url: "#/invoices/open"
+                - link "Due Invoices" [ref=e74077] [cursor=pointer]:
+                  - /url: "#/invoices/due"
+                - link "Paid Invoices" [ref=e74081] [cursor=pointer]:
+                  - /url: "#/invoices/paid"
+                - link "Void Invoices" [ref=e74085] [cursor=pointer]:
+                  - /url: "#/invoices/void"
+                - link "Draft Invoices" [ref=e74089] [cursor=pointer]:
+                  - /url: "#/invoices/pending/assignment_invoices"
+                - link "Invoice Plans" [ref=e74093] [cursor=pointer]:
+                  - /url: "#/invoices/plans"
+                - link "Group Invoices" [ref=e74097] [cursor=pointer]:
+                  - /url: "#/invoices/group_invoices"
+            - generic [ref=e74101]:
+              - generic [ref=e74102]:
+                - generic [ref=e74103]:
+                  - generic [ref=e74104]:
+                    - button [ref=e74105] [cursor=pointer]:
+                      - img [ref=e74106]: left_panel_close
+                    - generic [ref=e74113]:
+                      - textbox "Search by Code, Client, Employee" [ref=e74114]
+                      - button [ref=e74115] [cursor=pointer]:
+                        - img [ref=e74116]: search
+                  - generic [ref=e74117]:
+                    - button "Create Invoice" [ref=e74118]:
+                      - generic [ref=e74120]:
+                        - generic [ref=e74121]: Create Invoice
+                        - img [ref=e74122]: expand_more
+                    - button "" [ref=e74125]:
+                      - generic [ref=e74127]: 
+                    - button [ref=e74130]:
+                      - img [ref=e74131]: upload
+                    - button [ref=e74134]:
+                      - img [ref=e74135]: tune
+                - generic [ref=e74138]:
+                  - generic [ref=e74139]:
+                    - combobox "All" [ref=e74144] [cursor=pointer]:
+                      - generic [ref=e74145]:
+                        - generic [ref=e74147]: All
+                        - img [ref=e74150]
+                    - combobox "Last 90 Days" [ref=e74156] [cursor=pointer]:
+                      - generic [ref=e74157]:
+                        - generic [ref=e74159]: Last 90 Days
+                        - img [ref=e74162]
+                  - generic [ref=e74164]:
+                    - button [ref=e74165]:
+                      - img [ref=e74166]: filter_alt
+                    - button [ref=e74169]:
+                      - img [ref=e74170]: refresh
+              - table [ref=e74175]:
+                - rowgroup [ref=e74176]:
+                  - 'row "Invoice # Customer Employee Name Business Development Manager Date Due Date Total Balance Due In" [ref=e74177]':
+                    - columnheader [ref=e74178]
+                    - 'columnheader "Invoice #" [ref=e74179]':
+                      - generic [ref=e74181]: "Invoice #"
+                    - columnheader "Customer" [ref=e74182]:
+                      - generic [ref=e74183]:
+                        - generic [ref=e74184]: Customer
+                        - button [ref=e74185] [cursor=pointer]:
+                          - img [ref=e74186]: filter_list
+                    - columnheader "Employee Name" [ref=e74189]:
+                      - generic [ref=e74190]:
+                        - generic [ref=e74191]: Employee Name
+                        - button [ref=e74192] [cursor=pointer]:
+                          - img [ref=e74193]: filter_list
+                    - columnheader "Business Development Manager" [ref=e74196]:
+                      - generic [ref=e74197]:
+                        - generic [ref=e74198]: Business Development Manager
+                        - button [ref=e74199] [cursor=pointer]:
+                          - img [ref=e74200]: filter_list
+                    - columnheader "Date" [ref=e74203]:
+                      - generic [ref=e74204]:
+                        - generic [ref=e74205]: Date
+                        - button [ref=e74206] [cursor=pointer]:
+                          - img [ref=e74207]: filter_list
+                    - columnheader "Due Date" [ref=e74210]:
+                      - generic [ref=e74211]:
+                        - generic [ref=e74212]: Due Date
+                        - button [ref=e74213] [cursor=pointer]:
+                          - img [ref=e74214]: filter_list
+                    - columnheader "Total" [ref=e74217]:
+                      - generic [ref=e74218]:
+                        - generic [ref=e74219]: Total
+                        - button [ref=e74220] [cursor=pointer]:
+                          - img [ref=e74221]: filter_list
+                    - columnheader "Balance" [ref=e74224]:
+                      - generic [ref=e74225]:
+                        - generic [ref=e74226]: Balance
+                        - button [ref=e74227] [cursor=pointer]:
+                          - img [ref=e74228]: filter_list
+                    - columnheader "Due In" [ref=e74231]:
+                      - generic [ref=e74232]:
+                        - generic [ref=e74233]: Due In
+                        - button [ref=e74234] [cursor=pointer]:
+                          - img [ref=e74235]: filter_list
+                - rowgroup [ref=e74238]:
+                  - row "INV-8057 TATA AMERICA INTERNATIONAL CORPORATION Jaswanth Submission1 June 11, 2026 June 18, 2026 $ 88.00 $ 88.00 Due in 7 days" [ref=e74239]:
+                    - cell [ref=e74240]:
+                      - generic [ref=e74241]:
+                        - generic [ref=e74244] [cursor=pointer]:
+                          - checkbox [ref=e74245]
+                          - generic:
+                            - img
+                        - button [ref=e74246] [cursor=pointer]:
+                          - img [ref=e74247]: more_vert
+                        - button [ref=e74252] [cursor=pointer]:
+                          - img [ref=e74253]: person_check
+                    - cell "INV-8057" [ref=e74256]:
+                      - link "INV-8057" [ref=e74258] [cursor=pointer]:
+                        - /url: "#/invoices/962/edit"
+                    - cell "TATA AMERICA INTERNATIONAL CORPORATION" [ref=e74259]:
+                      - link "TATA AMERICA INTERNATIONAL CORPORATION" [ref=e74261] [cursor=pointer]:
+                        - /url: "#/accounts/825/view"
+                    - cell "Jaswanth Submission1" [ref=e74262]:
+                      - generic [ref=e74263]: Jaswanth Submission1
+                    - cell [ref=e74264]
+                    - cell "June 11, 2026" [ref=e74265]:
+                      - generic [ref=e74266]: June 11, 2026
+                    - cell "June 18, 2026" [ref=e74267]:
+                      - generic [ref=e74268]: June 18, 2026
+                    - cell "$ 88.00" [ref=e74269]:
+                      - generic [ref=e74270]: $ 88.00
+                    - cell "$ 88.00" [ref=e74271]:
+                      - generic [ref=e74272]: $ 88.00
+                    - cell "Due in 7 days" [ref=e74273]:
+                      - generic [ref=e74274]: Due in 7 days
+                  - row "INV-8056 TATA AMERICA INTERNATIONAL CORPORATION Jaswanth Submission1 June 11, 2026 July 11, 2026 $ 440.00 $ 440.00 Due in 30 days" [ref=e74275]:
+                    - cell [ref=e74276]:
+                      - generic [ref=e74277]:
+                        - generic [ref=e74280] [cursor=pointer]:
+                          - checkbox [ref=e74281]
+                          - generic:
+                            - img
+                        - button [ref=e74282] [cursor=pointer]:
+                          - img [ref=e74283]: more_vert
+                        - button [ref=e74288] [cursor=pointer]:
+                          - img [ref=e74289]: person_check
+                    - cell "INV-8056" [ref=e74292]:
+                      - link "INV-8056" [ref=e74294] [cursor=pointer]:
+                        - /url: "#/invoices/961/edit"
+                    - cell "TATA AMERICA INTERNATIONAL CORPORATION" [ref=e74295]:
+                      - link "TATA AMERICA INTERNATIONAL CORPORATION" [ref=e74297] [cursor=pointer]:
+                        - /url: "#/accounts/825/view"
+                    - cell "Jaswanth Submission1" [ref=e74298]:
+                      - generic [ref=e74299]: Jaswanth Submission1
+                    - cell [ref=e74300]
+                    - cell "June 11, 2026" [ref=e74301]:
+                      - generic [ref=e74302]: June 11, 2026
+                    - cell "July 11, 2026" [ref=e74303]:
+                      - generic [ref=e74304]: July 11, 2026
+                    - cell "$ 440.00" [ref=e74305]:
+                      - generic [ref=e74306]: $ 440.00
+                    - cell "$ 440.00" [ref=e74307]:
+                      - generic [ref=e74308]: $ 440.00
+                    - cell "Due in 30 days" [ref=e74309]:
+                      - generic [ref=e74310]: Due in 30 days
+                  - row " INV-8050 Tata Harper Skincare June 10, 2026 June 17, 2026 $ 1100.00 $ 1100.00 Due in 6 days" [ref=e74311]:
+                    - cell "" [ref=e74312]:
+                      - generic [ref=e74313]:
+                        - generic [ref=e74316] [cursor=pointer]:
+                          - checkbox [ref=e74317]
+                          - generic:
+                            - img
+                        - button [ref=e74318] [cursor=pointer]:
+                          - img [ref=e74319]: more_vert
+                        - button [ref=e74324] [cursor=pointer]:
+                          - img [ref=e74325]: person_check
+                        - button "" [ref=e74329] [cursor=pointer]:
+                          - generic [ref=e74330]: 
+                    - cell "INV-8050" [ref=e74333]:
+                      - link "INV-8050" [ref=e74335] [cursor=pointer]:
+                        - /url: "#/invoices/project/955/edit"
+                    - cell "Tata Harper Skincare" [ref=e74336]:
+                      - link "Tata Harper Skincare" [ref=e74338] [cursor=pointer]:
+                        - /url: "#/accounts/664/view"
+                    - cell [ref=e74339]
+                    - cell [ref=e74340]
+                    - cell "June 10, 2026" [ref=e74341]:
+                      - generic [ref=e74342]: June 10, 2026
+                    - cell "June 17, 2026" [ref=e74343]:
+                      - generic [ref=e74344]: June 17, 2026
+                    - cell "$ 1100.00" [ref=e74345]:
+                      - generic [ref=e74346]: $ 1100.00
+                    - cell "$ 1100.00" [ref=e74347]:
+                      - generic [ref=e74348]: $ 1100.00
+                    - cell "Due in 6 days" [ref=e74349]:
+                      - generic [ref=e74350]: Due in 6 days
+                  - row "INV-8048 Nexa Experience Sandip Import Sandip Mahato June 4, 2026 June 19, 2026 $ 532.40 $ 0.00 Due in 8 days" [ref=e74351]:
+                    - cell [ref=e74352]:
+                      - generic [ref=e74353]:
+                        - generic [ref=e74356] [cursor=pointer]:
+                          - checkbox [ref=e74357]
+                          - generic:
+                            - img
+                        - button [ref=e74358] [cursor=pointer]:
+                          - img [ref=e74359]: more_vert
+                        - button [ref=e74364] [cursor=pointer]:
+                          - img [ref=e74365]: person_check
+                    - cell "INV-8048" [ref=e74368]:
+                      - link "INV-8048" [ref=e74370] [cursor=pointer]:
+                        - /url: "#/invoices/953/edit"
+                    - cell "Nexa Experience" [ref=e74371]:
+                      - link "Nexa Experience" [ref=e74373] [cursor=pointer]:
+                        - /url: "#/accounts/17/view"
+                    - cell "Sandip Import" [ref=e74374]:
+                      - generic [ref=e74375]: Sandip Import
+                    - cell "Sandip Mahato" [ref=e74376]:
+                      - generic [ref=e74377]: Sandip Mahato
+                    - cell "June 4, 2026" [ref=e74378]:
+                      - generic [ref=e74379]: June 4, 2026
+                    - cell "June 19, 2026" [ref=e74380]:
+                      - generic [ref=e74381]: June 19, 2026
+                    - cell "$ 532.40" [ref=e74382]:
+                      - generic [ref=e74383]: $ 532.40
+                    - cell "$ 0.00" [ref=e74384]:
+                      - generic [ref=e74385]: $ 0.00
+                    - cell "Due in 8 days" [ref=e74386]:
+                      - generic [ref=e74387]: Due in 8 days
+                  - row "INV-8047 tata test 1 SANDIP MAHATO Sandip Mahato June 4, 2026 June 9, 2026 $ 244.20 $ 0.00 Over Due by 2 days" [ref=e74388]:
+                    - cell [ref=e74389]:
+                      - generic [ref=e74390]:
+                        - generic [ref=e74393] [cursor=pointer]:
+                          - checkbox [ref=e74394]
+                          - generic:
+                            - img
+                        - button [ref=e74395] [cursor=pointer]:
+                          - img [ref=e74396]: more_vert
+                        - button [ref=e74401] [cursor=pointer]:
+                          - img [ref=e74402]: person_check
+                    - cell "INV-8047" [ref=e74405]:
+                      - link "INV-8047" [ref=e74407] [cursor=pointer]:
+                        - /url: "#/invoices/952/edit"
+                    - cell "tata test 1" [ref=e74408]:
+                      - link "tata test 1" [ref=e74410] [cursor=pointer]:
+                        - /url: "#/accounts/2788/view"
+                    - cell "SANDIP MAHATO" [ref=e74411]:
+                      - generic [ref=e74412]: SANDIP MAHATO
+                    - cell "Sandip Mahato" [ref=e74413]:
+                      - generic [ref=e74414]: Sandip Mahato
+                    - cell "June 4, 2026" [ref=e74415]:
+                      - generic [ref=e74416]: June 4, 2026
+                    - cell "June 9, 2026" [ref=e74417]:
+                      - generic [ref=e74418]: June 9, 2026
+                    - cell "$ 244.20" [ref=e74419]:
+                      - generic [ref=e74420]: $ 244.20
+                    - cell "$ 0.00" [ref=e74421]:
+                      - generic [ref=e74422]: $ 0.00
+                    - cell "Over Due by 2 days" [ref=e74423]:
+                      - generic [ref=e74424]: Over Due by 2 days
+                  - row "INV-8046 Revalsys Technologies May 15, 2026 June 14, 2026 $ 3300.00 $ 3300.00 Due in 3 days" [ref=e74425]:
+                    - cell [ref=e74426]:
+                      - generic [ref=e74427]:
+                        - generic [ref=e74430] [cursor=pointer]:
+                          - checkbox [ref=e74431]
+                          - generic:
+                            - img
+                        - button [ref=e74432] [cursor=pointer]:
+                          - img [ref=e74433]: more_vert
+                        - button [ref=e74438] [cursor=pointer]:
+                          - img [ref=e74439]: person_check
+                    - cell "INV-8046" [ref=e74442]:
+                      - link "INV-8046" [ref=e74444] [cursor=pointer]:
+                        - /url: "#/invoices/951/edit"
+                    - cell "Revalsys Technologies" [ref=e74445]:
+                      - link "Revalsys Technologies" [ref=e74447] [cursor=pointer]:
+                        - /url: "#/accounts/1223/view"
+                    - cell [ref=e74448]
+                    - cell [ref=e74449]
+                    - cell "May 15, 2026" [ref=e74450]:
+                      - generic [ref=e74451]: May 15, 2026
+                    - cell "June 14, 2026" [ref=e74452]:
+                      - generic [ref=e74453]: June 14, 2026
+                    - cell "$ 3300.00" [ref=e74454]:
+                      - generic [ref=e74455]: $ 3300.00
+                    - cell "$ 3300.00" [ref=e74456]:
+                      - generic [ref=e74457]: $ 3300.00
+                    - cell "Due in 3 days" [ref=e74458]:
+                      - generic [ref=e74459]: Due in 3 days
+                  - row "INV-8045 MosChip May 15, 2026 June 14, 2026 $ 0.00 $ 0.00 Due in 3 days" [ref=e74460]:
+                    - cell [ref=e74461]:
+                      - generic [ref=e74462]:
+                        - generic [ref=e74465] [cursor=pointer]:
+                          - checkbox [ref=e74466]
+                          - generic:
+                            - img
+                        - button [ref=e74467] [cursor=pointer]:
+                          - img [ref=e74468]: more_vert
+                        - button [ref=e74473] [cursor=pointer]:
+                          - img [ref=e74474]: person_check
+                    - cell "INV-8045" [ref=e74477]:
+                      - link "INV-8045" [ref=e74479] [cursor=pointer]:
+                        - /url: "#/invoices/950/edit"
+                    - cell "MosChip" [ref=e74480]:
+                      - link "MosChip" [ref=e74482] [cursor=pointer]:
+                        - /url: "#/accounts/2720/view"
+                    - cell [ref=e74483]
+                    - cell [ref=e74484]
+                    - cell "May 15, 2026" [ref=e74485]:
+                      - generic [ref=e74486]: May 15, 2026
+                    - cell "June 14, 2026" [ref=e74487]:
+                      - generic [ref=e74488]: June 14, 2026
+                    - cell "$ 0.00" [ref=e74489]:
+                      - generic [ref=e74490]: $ 0.00
+                    - cell "$ 0.00" [ref=e74491]:
+                      - generic [ref=e74492]: $ 0.00
+                    - cell "Due in 3 days" [ref=e74493]:
+                      - generic [ref=e74494]: Due in 3 days
+                  - row " INV-8044 Tata Harper Skincare May 15, 2026 May 22, 2026 $ 1100.00 $ 1100.00 Over Due by 20 days" [ref=e74495]:
+                    - cell "" [ref=e74496]:
+                      - generic [ref=e74497]:
+                        - generic [ref=e74500] [cursor=pointer]:
+                          - checkbox [ref=e74501]
+                          - generic:
+                            - img
+                        - button [ref=e74502] [cursor=pointer]:
+                          - img [ref=e74503]: more_vert
+                        - button [ref=e74508] [cursor=pointer]:
+                          - img [ref=e74509]: person_check
+                        - button "" [ref=e74513] [cursor=pointer]:
+                          - generic [ref=e74514]: 
+                    - cell "INV-8044" [ref=e74517]:
+                      - link "INV-8044" [ref=e74519] [cursor=pointer]:
+                        - /url: "#/invoices/project/949/edit"
+                    - cell "Tata Harper Skincare" [ref=e74520]:
+                      - link "Tata Harper Skincare" [ref=e74522] [cursor=pointer]:
+                        - /url: "#/accounts/664/view"
+                    - cell [ref=e74523]
+                    - cell [ref=e74524]
+                    - cell "May 15, 2026" [ref=e74525]:
+                      - generic [ref=e74526]: May 15, 2026
+                    - cell "May 22, 2026" [ref=e74527]:
+                      - generic [ref=e74528]: May 22, 2026
+                    - cell "$ 1100.00" [ref=e74529]:
+                      - generic [ref=e74530]: $ 1100.00
+                    - cell "$ 1100.00" [ref=e74531]:
+                      - generic [ref=e74532]: $ 1100.00
+                    - cell "Over Due by 20 days" [ref=e74533]:
+                      - generic [ref=e74534]: Over Due by 20 days
+                  - row "INV-8043 Tata-Cornell Institute for Agriculture a... Mohana Rao Mohan ANG0002 May 12, 2026 June 11, 2026 $ 589.60 $ 589.60 Due in 0 days" [ref=e74535]:
+                    - cell [ref=e74536]:
+                      - generic [ref=e74537]:
+                        - generic [ref=e74540] [cursor=pointer]:
+                          - checkbox [ref=e74541]
+                          - generic:
+                            - img
+                        - button [ref=e74542] [cursor=pointer]:
+                          - img [ref=e74543]: more_vert
+                        - button [ref=e74548] [cursor=pointer]:
+                          - img [ref=e74549]: person_check
+                    - cell "INV-8043" [ref=e74552]:
+                      - link "INV-8043" [ref=e74554] [cursor=pointer]:
+                        - /url: "#/invoices/948/edit"
+                    - cell "Tata-Cornell Institute for Agriculture a..." [ref=e74555]:
+                      - link "Tata-Cornell Institute for Agriculture a..." [ref=e74557] [cursor=pointer]:
+                        - /url: "#/accounts/1386/view"
+                    - cell "Mohana Rao" [ref=e74558]:
+                      - generic [ref=e74559]: Mohana Rao
+                    - cell "Mohan ANG0002" [ref=e74560]:
+                      - generic [ref=e74561]: Mohan ANG0002
+                    - cell "May 12, 2026" [ref=e74562]:
+                      - generic [ref=e74563]: May 12, 2026
+                    - cell "June 11, 2026" [ref=e74564]:
+                      - generic [ref=e74565]: June 11, 2026
+                    - cell "$ 589.60" [ref=e74566]:
+                      - generic [ref=e74567]: $ 589.60
+                    - cell "$ 589.60" [ref=e74568]:
+                      - generic [ref=e74569]: $ 589.60
+                    - cell "Due in 0 days" [ref=e74570]:
+                      - generic [ref=e74571]: Due in 0 days
+                  - row "INV-8042 TATA AMERICA INTERNATIONAL CORPORATION Jaswanth Submission1 May 11, 2026 June 10, 2026 $ 440.00 $ 440.00 Over Due by 1 days" [ref=e74572]:
+                    - cell [ref=e74573]:
+                      - generic [ref=e74574]:
+                        - generic [ref=e74577] [cursor=pointer]:
+                          - checkbox [ref=e74578]
+                          - generic:
+                            - img
+                        - button [ref=e74579] [cursor=pointer]:
+                          - img [ref=e74580]: more_vert
+                    - cell "INV-8042" [ref=e74585]:
+                      - link "INV-8042" [ref=e74587] [cursor=pointer]:
+                        - /url: "#/invoices/947/edit"
+                    - cell "TATA AMERICA INTERNATIONAL CORPORATION" [ref=e74588]:
+                      - link "TATA AMERICA INTERNATIONAL CORPORATION" [ref=e74590] [cursor=pointer]:
+                        - /url: "#/accounts/825/view"
+                    - cell "Jaswanth Submission1" [ref=e74591]:
+                      - generic [ref=e74592]: Jaswanth Submission1
+                    - cell [ref=e74593]
+                    - cell "May 11, 2026" [ref=e74594]:
+                      - generic [ref=e74595]: May 11, 2026
+                    - cell "June 10, 2026" [ref=e74596]:
+                      - generic [ref=e74597]: June 10, 2026
+                    - cell "$ 440.00" [ref=e74598]:
+                      - generic [ref=e74599]: $ 440.00
+                    - cell "$ 440.00" [ref=e74600]:
+                      - generic [ref=e74601]: $ 440.00
+                    - cell "Over Due by 1 days" [ref=e74602]:
+                      - generic [ref=e74603]: Over Due by 1 days
+                  - row " INV-8041 Tata Harper Skincare May 11, 2026 May 18, 2026 $ 2200.00 $ 2200.00 Over Due by 24 days" [ref=e74604]:
+                    - cell "" [ref=e74605]:
+                      - generic [ref=e74606]:
+                        - generic [ref=e74609] [cursor=pointer]:
+                          - checkbox [ref=e74610]
+                          - generic:
+                            - img
+                        - button [ref=e74611] [cursor=pointer]:
+                          - img [ref=e74612]: more_vert
+                        - button "" [ref=e74618] [cursor=pointer]:
+                          - generic [ref=e74619]: 
+                    - cell "INV-8041" [ref=e74622]:
+                      - link "INV-8041" [ref=e74624] [cursor=pointer]:
+                        - /url: "#/invoices/project/946/edit"
+                    - cell "Tata Harper Skincare" [ref=e74625]:
+                      - link "Tata Harper Skincare" [ref=e74627] [cursor=pointer]:
+                        - /url: "#/accounts/664/view"
+                    - cell [ref=e74628]
+                    - cell [ref=e74629]
+                    - cell "May 11, 2026" [ref=e74630]:
+                      - generic [ref=e74631]: May 11, 2026
+                    - cell "May 18, 2026" [ref=e74632]:
+                      - generic [ref=e74633]: May 18, 2026
+                    - cell "$ 2200.00" [ref=e74634]:
+                      - generic [ref=e74635]: $ 2200.00
+                    - cell "$ 2200.00" [ref=e74636]:
+                      - generic [ref=e74637]: $ 2200.00
+                    - cell "Over Due by 24 days" [ref=e74638]:
+                      - generic [ref=e74639]: Over Due by 24 days
+                  - row " INV-8040 Tata Harper Skincare May 11, 2026 May 18, 2026 $ 1100.00 $ 1100.00 Over Due by 24 days" [ref=e74640]:
+                    - cell "" [ref=e74641]:
+                      - generic [ref=e74642]:
+                        - generic [ref=e74645] [cursor=pointer]:
+                          - checkbox [ref=e74646]
+                          - generic:
+                            - img
+                        - button [ref=e74647] [cursor=pointer]:
+                          - img [ref=e74648]: more_vert
+                        - button "" [ref=e74654] [cursor=pointer]:
+                          - generic [ref=e74655]: 
+                    - cell "INV-8040" [ref=e74658]:
+                      - link "INV-8040" [ref=e74660] [cursor=pointer]:
+                        - /url: "#/invoices/project/945/edit"
+                    - cell "Tata Harper Skincare" [ref=e74661]:
+                      - link "Tata Harper Skincare" [ref=e74663] [cursor=pointer]:
+                        - /url: "#/accounts/664/view"
+                    - cell [ref=e74664]
+                    - cell [ref=e74665]
+                    - cell "May 11, 2026" [ref=e74666]:
+                      - generic [ref=e74667]: May 11, 2026
+                    - cell "May 18, 2026" [ref=e74668]:
+                      - generic [ref=e74669]: May 18, 2026
+                    - cell "$ 1100.00" [ref=e74670]:
+                      - generic [ref=e74671]: $ 1100.00
+                    - cell "$ 1100.00" [ref=e74672]:
+                      - generic [ref=e74673]: $ 1100.00
+                    - cell "Over Due by 24 days" [ref=e74674]:
+                      - generic [ref=e74675]: Over Due by 24 days
+                  - row "INV-8039 tataNexa Jaswanth Activity May 8, 2026 June 7, 2026 $ 11.00 $ 11.00 Over Due by 4 days" [ref=e74676]:
+                    - cell [ref=e74677]:
+                      - generic [ref=e74678]:
+                        - generic [ref=e74681] [cursor=pointer]:
+                          - checkbox [ref=e74682]
+                          - generic:
+                            - img
+                        - button [ref=e74683] [cursor=pointer]:
+                          - img [ref=e74684]: more_vert
+                        - button [ref=e74689] [cursor=pointer]:
+                          - img [ref=e74690]: person_check
+                    - cell "INV-8039" [ref=e74693]:
+                      - link "INV-8039" [ref=e74695] [cursor=pointer]:
+                        - /url: "#/invoices/944/edit"
+                    - cell "tataNexa" [ref=e74696]:
+                      - link "tataNexa" [ref=e74698] [cursor=pointer]:
+                        - /url: "#/accounts/656/view"
+                    - cell "Jaswanth Activity" [ref=e74699]:
+                      - generic [ref=e74700]: Jaswanth Activity
+                    - cell [ref=e74701]
+                    - cell "May 8, 2026" [ref=e74702]:
+                      - generic [ref=e74703]: May 8, 2026
+                    - cell "June 7, 2026" [ref=e74704]:
+                      - generic [ref=e74705]: June 7, 2026
+                    - cell "$ 11.00" [ref=e74706]:
+                      - generic [ref=e74707]: $ 11.00
+                    - cell "$ 11.00" [ref=e74708]:
+                      - generic [ref=e74709]: $ 11.00
+                    - cell "Over Due by 4 days" [ref=e74710]:
+                      - generic [ref=e74711]: Over Due by 4 days
+                  - row "INV-8038 Tata-Cornell Institute for Agriculture a... Mohana Rao Mohan ANG0002 May 5, 2026 June 4, 2026 $ 2300.00 $ 2300.00 Over Due by 7 days" [ref=e74712]:
+                    - cell [ref=e74713]:
+                      - generic [ref=e74714]:
+                        - generic [ref=e74717] [cursor=pointer]:
+                          - checkbox [ref=e74718]
+                          - generic:
+                            - img
+                        - button [ref=e74719] [cursor=pointer]:
+                          - img [ref=e74720]: more_vert
+                        - button [ref=e74725] [cursor=pointer]:
+                          - img [ref=e74726]: person_check
+                    - cell "INV-8038" [ref=e74729]:
+                      - link "INV-8038" [ref=e74731] [cursor=pointer]:
+                        - /url: "#/invoices/943/edit"
+                    - cell "Tata-Cornell Institute for Agriculture a..." [ref=e74732]:
+                      - link "Tata-Cornell Institute for Agriculture a..." [ref=e74734] [cursor=pointer]:
+                        - /url: "#/accounts/1386/view"
+                    - cell "Mohana Rao" [ref=e74735]:
+                      - generic [ref=e74736]: Mohana Rao
+                    - cell "Mohan ANG0002" [ref=e74737]:
+                      - generic [ref=e74738]: Mohan ANG0002
+                    - cell "May 5, 2026" [ref=e74739]:
+                      - generic [ref=e74740]: May 5, 2026
+                    - cell "June 4, 2026" [ref=e74741]:
+                      - generic [ref=e74742]: June 4, 2026
+                    - cell "$ 2300.00" [ref=e74743]:
+                      - generic [ref=e74744]: $ 2300.00
+                    - cell "$ 2300.00" [ref=e74745]:
+                      - generic [ref=e74746]: $ 2300.00
+                    - cell "Over Due by 7 days" [ref=e74747]:
+                      - generic [ref=e74748]: Over Due by 7 days
+                  - row "INV-8037 Tata-Cornell Institute for Agriculture a... Mohana Rao Mohan ANG0002 May 5, 2026 June 4, 2026 $ 3200.00 $ 3200.00 Over Due by 7 days" [ref=e74749]:
+                    - cell [ref=e74750]:
+                      - generic [ref=e74751]:
+                        - generic [ref=e74754] [cursor=pointer]:
+                          - checkbox [ref=e74755]
+                          - generic:
+                            - img
+                        - button [ref=e74756] [cursor=pointer]:
+                          - img [ref=e74757]: more_vert
+                        - button [ref=e74762] [cursor=pointer]:
+                          - img [ref=e74763]: person_check
+                    - cell "INV-8037" [ref=e74766]:
+                      - link "INV-8037" [ref=e74768] [cursor=pointer]:
+                        - /url: "#/invoices/942/edit"
+                    - cell "Tata-Cornell Institute for Agriculture a..." [ref=e74769]:
+                      - link "Tata-Cornell Institute for Agriculture a..." [ref=e74771] [cursor=pointer]:
+                        - /url: "#/accounts/1386/view"
+                    - cell "Mohana Rao" [ref=e74772]:
+                      - generic [ref=e74773]: Mohana Rao
+                    - cell "Mohan ANG0002" [ref=e74774]:
+                      - generic [ref=e74775]: Mohan ANG0002
+                    - cell "May 5, 2026" [ref=e74776]:
+                      - generic [ref=e74777]: May 5, 2026
+                    - cell "June 4, 2026" [ref=e74778]:
+                      - generic [ref=e74779]: June 4, 2026
+                    - cell "$ 3200.00" [ref=e74780]:
+                      - generic [ref=e74781]: $ 3200.00
+                    - cell "$ 3200.00" [ref=e74782]:
+                      - generic [ref=e74783]: $ 3200.00
+                    - cell "Over Due by 7 days" [ref=e74784]:
+                      - generic [ref=e74785]: Over Due by 7 days
+                  - row "INV-8031 prAna mohan consultation March 30, 2026 April 14, 2026 $ 707.26 $ 707.26 Over Due by 58 days" [ref=e74786]:
+                    - cell [ref=e74787]:
+                      - generic [ref=e74788]:
+                        - generic [ref=e74791] [cursor=pointer]:
+                          - checkbox [ref=e74792]
+                          - generic:
+                            - img
+                        - button [ref=e74793] [cursor=pointer]:
+                          - img [ref=e74794]: more_vert
+                        - button [ref=e74799] [cursor=pointer]:
+                          - img [ref=e74800]: person_check
+                    - cell "INV-8031" [ref=e74803]:
+                      - link "INV-8031" [ref=e74805] [cursor=pointer]:
+                        - /url: "#/invoices/935/edit"
+                    - cell "prAna" [ref=e74806]:
+                      - link "prAna" [ref=e74808] [cursor=pointer]:
+                        - /url: "#/accounts/19/view"
+                    - cell "mohan consultation" [ref=e74809]:
+                      - generic [ref=e74810]: mohan consultation
+                    - cell [ref=e74811]
+                    - cell "March 30, 2026" [ref=e74812]:
+                      - generic [ref=e74813]: March 30, 2026
+                    - cell "April 14, 2026" [ref=e74814]:
+                      - generic [ref=e74815]: April 14, 2026
+                    - cell "$ 707.26" [ref=e74816]:
+                      - generic [ref=e74817]: $ 707.26
+                    - cell "$ 707.26" [ref=e74818]:
+                      - generic [ref=e74819]: $ 707.26
+                    - cell "Over Due by 58 days" [ref=e74820]:
+                      - generic [ref=e74821]: Over Due by 58 days
+                  - row "INV-8030 Compforge mohan consultation3 March 30, 2026 April 29, 2026 $ 354.64 $ 354.64 Over Due by 43 days" [ref=e74822]:
+                    - cell [ref=e74823]:
+                      - generic [ref=e74824]:
+                        - generic [ref=e74827] [cursor=pointer]:
+                          - checkbox [ref=e74828]
+                          - generic:
+                            - img
+                        - button [ref=e74829] [cursor=pointer]:
+                          - img [ref=e74830]: more_vert
+                        - button [ref=e74835] [cursor=pointer]:
+                          - img [ref=e74836]: person_check
+                    - cell "INV-8030" [ref=e74839]:
+                      - link "INV-8030" [ref=e74841] [cursor=pointer]:
+                        - /url: "#/invoices/934/edit"
+                    - cell "Compforge" [ref=e74842]:
+                      - link "Compforge" [ref=e74844] [cursor=pointer]:
+                        - /url: "#/accounts/2581/view"
+                    - cell "mohan consultation3" [ref=e74845]:
+                      - generic [ref=e74846]: mohan consultation3
+                    - cell [ref=e74847]
+                    - cell "March 30, 2026" [ref=e74848]:
+                      - generic [ref=e74849]: March 30, 2026
+                    - cell "April 29, 2026" [ref=e74850]:
+                      - generic [ref=e74851]: April 29, 2026
+                    - cell "$ 354.64" [ref=e74852]:
+                      - generic [ref=e74853]: $ 354.64
+                    - cell "$ 354.64" [ref=e74854]:
+                      - generic [ref=e74855]: $ 354.64
+                    - cell "Over Due by 43 days" [ref=e74856]:
+                      - generic [ref=e74857]: Over Due by 43 days
+                  - row "INV-8029 Tata Consultancy Services Mohan External March 30, 2026 April 29, 2026 $ 17600.00 $ 17600.00 Over Due by 43 days" [ref=e74858]:
+                    - cell [ref=e74859]:
+                      - generic [ref=e74860]:
+                        - generic [ref=e74863] [cursor=pointer]:
+                          - checkbox [ref=e74864]
+                          - generic:
+                            - img
+                        - button [ref=e74865] [cursor=pointer]:
+                          - img [ref=e74866]: more_vert
+                        - button [ref=e74871] [cursor=pointer]:
+                          - img [ref=e74872]: person_check
+                    - cell "INV-8029" [ref=e74875]:
+                      - link "INV-8029" [ref=e74877] [cursor=pointer]:
+                        - /url: "#/invoices/933/edit"
+                    - cell "Tata Consultancy Services" [ref=e74878]:
+                      - link "Tata Consultancy Services" [ref=e74880] [cursor=pointer]:
+                        - /url: "#/accounts/8/view"
+                    - cell "Mohan External" [ref=e74881]:
+                      - generic [ref=e74882]: Mohan External
+                    - cell [ref=e74883]
+                    - cell "March 30, 2026" [ref=e74884]:
+                      - generic [ref=e74885]: March 30, 2026
+                    - cell "April 29, 2026" [ref=e74886]:
+                      - generic [ref=e74887]: April 29, 2026
+                    - cell "$ 17600.00" [ref=e74888]:
+                      - generic [ref=e74889]: $ 17600.00
+                    - cell "$ 17600.00" [ref=e74890]:
+                      - generic [ref=e74891]: $ 17600.00
+                    - cell "Over Due by 43 days" [ref=e74892]:
+                      - generic [ref=e74893]: Over Due by 43 days
+                  - row "INV-8028 CenturyLink Mohana Rao,Mohana Rao March 30, 2026 April 29, 2026 $ 10560.00 $ 10560.00 Over Due by 43 days" [ref=e74894]:
+                    - cell [ref=e74895]:
+                      - generic [ref=e74896]:
+                        - generic [ref=e74899] [cursor=pointer]:
+                          - checkbox [ref=e74900]
+                          - generic:
+                            - img
+                        - button [ref=e74901] [cursor=pointer]:
+                          - img [ref=e74902]: more_vert
+                        - button [ref=e74907] [cursor=pointer]:
+                          - img [ref=e74908]: person_check
+                    - cell "INV-8028" [ref=e74911]:
+                      - link "INV-8028" [ref=e74913] [cursor=pointer]:
+                        - /url: "#/invoices/932/edit"
+                    - cell "CenturyLink" [ref=e74914]:
+                      - link "CenturyLink" [ref=e74916] [cursor=pointer]:
+                        - /url: "#/accounts/4/view"
+                    - cell "Mohana Rao,Mohana Rao" [ref=e74917]:
+                      - generic [ref=e74918]: Mohana Rao,Mohana Rao
+                    - cell [ref=e74919]
+                    - cell "March 30, 2026" [ref=e74920]:
+                      - generic [ref=e74921]: March 30, 2026
+                    - cell "April 29, 2026" [ref=e74922]:
+                      - generic [ref=e74923]: April 29, 2026
+                    - cell "$ 10560.00" [ref=e74924]:
+                      - generic [ref=e74925]: $ 10560.00
+                    - cell "$ 10560.00" [ref=e74926]:
+                      - generic [ref=e74927]: $ 10560.00
+                    - cell "Over Due by 43 days" [ref=e74928]:
+                      - generic [ref=e74929]: Over Due by 43 days
+                  - row "INV-8027 Tata Consultancy Services Mohan Referralportal,Mohan Referralportal March 30, 2026 April 29, 2026 $ 0.00 $ 0.00 Over Due by 43 days" [ref=e74930]:
+                    - cell [ref=e74931]:
+                      - generic [ref=e74932]:
+                        - generic [ref=e74935] [cursor=pointer]:
+                          - checkbox [ref=e74936]
+                          - generic:
+                            - img
+                        - button [ref=e74937] [cursor=pointer]:
+                          - img [ref=e74938]: more_vert
+                        - button [ref=e74943] [cursor=pointer]:
+                          - img [ref=e74944]: person_check
+                    - cell "INV-8027" [ref=e74947]:
+                      - link "INV-8027" [ref=e74949] [cursor=pointer]:
+                        - /url: "#/invoices/931/edit"
+                    - cell "Tata Consultancy Services" [ref=e74950]:
+                      - link "Tata Consultancy Services" [ref=e74952] [cursor=pointer]:
+                        - /url: "#/accounts/8/view"
+                    - cell "Mohan Referralportal,Mohan Referralportal" [ref=e74953]:
+                      - generic [ref=e74954]: Mohan Referralportal,Mohan Referralportal
+                    - cell [ref=e74955]
+                    - cell "March 30, 2026" [ref=e74956]:
+                      - generic [ref=e74957]: March 30, 2026
+                    - cell "April 29, 2026" [ref=e74958]:
+                      - generic [ref=e74959]: April 29, 2026
+                    - cell "$ 0.00" [ref=e74960]:
+                      - generic [ref=e74961]: $ 0.00
+                    - cell "$ 0.00" [ref=e74962]:
+                      - generic [ref=e74963]: $ 0.00
+                    - cell "Over Due by 43 days" [ref=e74964]:
+                      - generic [ref=e74965]: Over Due by 43 days
+              - generic [ref=e74969]:
+                - generic [ref=e74970]:
+                  - generic [ref=e74971]: Go To
+                  - spinbutton [ref=e74973]
+                - combobox [ref=e74975]:
+                  - option "15" [selected]
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e74976]: Showing 1 to 15 of 20
+                - list [ref=e74978]:
+                  - listitem [ref=e74979]:
+                    - generic: «
+                  - listitem [ref=e74980]:
+                    - generic: ‹
+                  - listitem [ref=e74981]:
+                    - generic [ref=e74982] [cursor=pointer]: "1"
+                  - listitem [ref=e74983]:
+                    - generic [ref=e74984] [cursor=pointer]: "2"
+                  - listitem [ref=e74985]:
+                    - generic [ref=e74986] [cursor=pointer]: ›
+                  - listitem [ref=e74987]:
+                    - generic [ref=e74988] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

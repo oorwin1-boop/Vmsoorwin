@@ -1,0 +1,694 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e13850]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e167]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e172] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e12199]:
+          - generic [ref=e12201]:
+            - heading "Jobs" [level=1] [ref=e12203]
+            - generic [ref=e12204]:
+              - link "Home" [ref=e12208] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e12209]:
+                - text: /
+                - generic [ref=e12211]: Jobs
+          - generic [ref=e12214]:
+            - generic [ref=e12215]:
+              - generic [ref=e12216]:
+                - button "Select Job Template" [ref=e12218]:
+                  - generic [ref=e12219]: Select Job Template
+                - generic [ref=e12223]:
+                  - generic [ref=e12224] [cursor=pointer]:
+                    - checkbox "Do not publish" [ref=e12225]
+                    - generic:
+                      - img
+                  - generic [ref=e12226] [cursor=pointer]: Do not publish
+              - generic [ref=e12227]:
+                - generic [ref=e12229]:
+                  - generic [ref=e12230]:
+                    - generic [ref=e12232]: Job Details
+                    - generic [ref=e12235]:
+                      - generic [ref=e12238]:
+                        - generic [ref=e12242]:
+                          - generic [ref=e12244]: Primary Skills
+                          - generic "item.label_name" [ref=e12246]:
+                            - combobox "Primary Skills" [ref=e12247]
+                        - generic [ref=e12249]:
+                          - button [ref=e12250]:
+                            - img [ref=e12251]: settings
+                          - button [ref=e12254]:
+                            - img [ref=e12255]: refresh
+                      - generic [ref=e12264]:
+                        - generic [ref=e12266]: Job Title
+                        - textbox "Job Title" [ref=e12268]: Java developer
+                      - generic [ref=e12276]:
+                        - generic [ref=e12278]: OOR Location
+                        - textbox "OOR Location" [ref=e12280]
+                      - generic [ref=e12286]:
+                        - generic [ref=e12290]:
+                          - generic [ref=e12292]: Range the ...
+                          - spinbutton "Range the ..." [ref=e12294]: "2"
+                        - generic [ref=e12296]: To
+                        - generic [ref=e12300]:
+                          - generic [ref=e12302]: Range the ...
+                          - spinbutton "Range the ..." [ref=e12304]: "4"
+                      - generic [ref=e12312] [cursor=pointer]:
+                        - generic [ref=e12314]: Job Benefits
+                        - combobox "Job Benefits" [ref=e12316]:
+                          - img [ref=e12322]
+                      - generic [ref=e12331] [cursor=pointer]:
+                        - generic [ref=e12333]: Education Required
+                        - combobox "Education Required High School / 10th" [ref=e12335]:
+                          - generic [ref=e12336]:
+                            - generic [ref=e12339]: High School / 10th
+                            - img [ref=e12342]
+                      - generic [ref=e12351] [cursor=pointer]:
+                        - generic [ref=e12353]: Status
+                        - combobox "Status Active" [ref=e12355]:
+                          - generic [ref=e12356]:
+                            - generic [ref=e12358]: Active
+                            - img [ref=e12361]
+                      - generic [ref=e12367]:
+                        - generic:
+                          - generic:
+                            - generic [ref=e12369]: Job ID
+                            - textbox "Job ID" [disabled] [ref=e12370]: OOJ -86072
+                      - generic [ref=e12378] [cursor=pointer]:
+                        - generic [ref=e12380]: Customer Type
+                        - combobox "Customer Type Prime Vendor" [ref=e12382]:
+                          - generic [ref=e12383]:
+                            - generic [ref=e12385]: Prime Vendor
+                            - img [ref=e12388]
+                      - generic [ref=e12395]:
+                        - generic [ref=e12399]:
+                          - generic [ref=e12401]: Customer
+                          - combobox "Customer" [ref=e12403]: aws16
+                        - button [ref=e12406]:
+                          - img [ref=e12407]: add
+                      - generic [ref=e12414]:
+                        - generic [ref=e12415] [cursor=pointer]:
+                          - checkbox "SHOW Client And Vendor In..." [ref=e12416]
+                          - generic:
+                            - img
+                        - generic [ref=e12417] [cursor=pointer]: SHOW Client And Vendor In...
+                      - generic [ref=e12423]:
+                        - generic [ref=e12425]: NPA Qualification
+                        - textbox "NPA Qualification" [ref=e12427]
+                      - generic [ref=e12435] [cursor=pointer]:
+                        - generic [ref=e12437]: Industry
+                        - combobox "Industry Select" [ref=e12439]:
+                          - generic [ref=e12440]:
+                            - generic [ref=e12442]: Select
+                            - img [ref=e12445]
+                      - generic [ref=e12454] [cursor=pointer]:
+                        - generic [ref=e12456]: Company
+                        - combobox "Company oorwinui" [ref=e12458]:
+                          - generic [ref=e12459]:
+                            - generic [ref=e12462]: oorwinui
+                            - img [ref=e12465]
+                      - generic [ref=e12474]:
+                        - generic [ref=e12476]: Client Job ID
+                        - textbox "Client Job ID" [ref=e12478]
+                      - generic [ref=e12484]:
+                        - generic [ref=e12486]: City
+                        - generic "item.label_name" [ref=e12488]:
+                          - generic [ref=e12489]:
+                            - generic [ref=e12492]: Dallas, TX
+                            - button [ref=e12494] [cursor=pointer]:
+                              - img [ref=e12495]: close_small
+                          - combobox "City" [ref=e12496]
+                      - generic [ref=e12500]:
+                        - generic [ref=e12504]:
+                          - generic [ref=e12506]: Secondary Skills
+                          - generic "item.label_name" [ref=e12508]:
+                            - combobox "Secondary Skills" [ref=e12509]
+                        - button [ref=e12512]:
+                          - img [ref=e12513]: refresh
+                      - generic [ref=e12521] [cursor=pointer]:
+                        - generic [ref=e12523]: Country
+                        - combobox "Country USA" [ref=e12525]:
+                          - generic [ref=e12526]:
+                            - generic [ref=e12528]: USA
+                            - img [ref=e12531]
+                      - generic [ref=e12539] [cursor=pointer]:
+                        - generic [ref=e12541]: State
+                        - combobox "State Texas" [ref=e12543]:
+                          - generic [ref=e12544]:
+                            - generic [ref=e12546]: Texas
+                            - img [ref=e12549]
+                      - generic [ref=e12556]:
+                        - generic [ref=e12560]:
+                          - generic [ref=e12562]: Work Exper...
+                          - spinbutton "Work Exper..." [ref=e12564]
+                        - generic [ref=e12566]: To
+                        - generic [ref=e12570]:
+                          - generic [ref=e12572]: Work Exper...
+                          - spinbutton "Work Exper..." [ref=e12574]
+                      - generic [ref=e12581]:
+                        - generic [ref=e12583]: No. Positions
+                        - spinbutton "No. Positions" [ref=e12585]: "1"
+                      - generic [ref=e12592]:
+                        - generic [ref=e12594]: Target Date
+                        - textbox "Target Date" [ref=e12596]
+                        - button "Open calendar" [ref=e12599] [cursor=pointer]:
+                          - img [ref=e12600]
+                      - generic [ref=e12607]:
+                        - generic [ref=e12609]: Remote Status
+                        - radiogroup [ref=e12610]:
+                          - generic [ref=e12612]:
+                            - radio "OnSite" [checked] [ref=e12615] [cursor=pointer]
+                            - generic [ref=e12619]: OnSite
+                          - generic [ref=e12621]:
+                            - radio "Remote" [ref=e12624] [cursor=pointer]
+                            - generic [ref=e12627]: Remote
+                          - generic [ref=e12629]:
+                            - radio "Hybrid" [ref=e12632] [cursor=pointer]
+                            - generic [ref=e12635]: Hybrid
+                      - generic [ref=e12642] [cursor=pointer]:
+                        - generic [ref=e12644]: Priority
+                        - combobox "Priority adda" [ref=e12646]:
+                          - generic [ref=e12647]:
+                            - generic [ref=e12649]: adda
+                            - img [ref=e12652]
+                      - generic [ref=e12661]:
+                        - generic [ref=e12663]: Client Job ID
+                        - textbox "Client Job ID" [ref=e12665]
+                      - generic [ref=e12671]:
+                        - generic [ref=e12673]: Languages Required
+                        - generic "item.label_name" [ref=e12675]:
+                          - combobox "Languages Required" [ref=e12676]
+                      - generic [ref=e12684] [cursor=pointer]:
+                        - generic [ref=e12686]: Qualifications
+                        - combobox "Qualifications" [ref=e12688]:
+                          - img [ref=e12694]
+                      - generic [ref=e12703]:
+                        - generic [ref=e12705]: Office Internal
+                        - textbox "Office Internal" [ref=e12707]
+                      - generic [ref=e12715] [cursor=pointer]:
+                        - generic [ref=e12717]: Show Salary on Job Board
+                        - combobox "Show Salary on Job Board Select" [ref=e12719]:
+                          - generic [ref=e12720]:
+                            - generic [ref=e12722]: Select
+                            - img [ref=e12725]
+                      - generic [ref=e12734] [cursor=pointer]:
+                        - generic [ref=e12736]: Source Campaigns
+                        - combobox "Source Campaigns No" [ref=e12738]:
+                          - generic [ref=e12739]:
+                            - generic [ref=e12741]: "No"
+                            - img [ref=e12744]
+                      - generic [ref=e12753] [cursor=pointer]:
+                        - generic [ref=e12755]: Follow Up Campaigns
+                        - combobox "Follow Up Campaigns Enable" [ref=e12757]:
+                          - generic [ref=e12758]:
+                            - generic [ref=e12760]: Enable
+                            - img [ref=e12763]
+                      - generic [ref=e12770]:
+                        - generic [ref=e12774]:
+                          - generic [ref=e12776]: Project Name
+                          - combobox "Project Name" [ref=e12778]
+                        - button [ref=e12781]:
+                          - img [ref=e12782]: search
+                      - generic [ref=e12789]:
+                        - generic:
+                          - generic:
+                            - generic [ref=e12790]: Project ID
+                            - textbox "Project ID" [disabled] [ref=e12791]
+                      - generic [ref=e12799] [cursor=pointer]:
+                        - generic [ref=e12801]: Occupational Category
+                        - combobox "Occupational Category Select" [ref=e12803]:
+                          - generic [ref=e12804]:
+                            - generic [ref=e12806]: Select
+                            - img [ref=e12809]
+                      - generic [ref=e12814]:
+                        - generic [ref=e12816]: Gender
+                        - radiogroup [ref=e12817]:
+                          - generic [ref=e12819]:
+                            - radio "Male" [checked] [ref=e12822] [cursor=pointer]
+                            - generic [ref=e12826]: Male
+                          - generic [ref=e12828]:
+                            - radio "Female" [ref=e12831] [cursor=pointer]
+                            - generic [ref=e12834]: Female
+                      - generic [ref=e12841]:
+                        - generic [ref=e12843]: Are you willing to Reloca...
+                        - textbox "Are you willing to Reloca..." [ref=e12845]
+                      - generic [ref=e12853] [cursor=pointer]:
+                        - generic [ref=e12855]: Department
+                        - combobox "Department Select" [ref=e12857]:
+                          - generic [ref=e12858]:
+                            - generic [ref=e12860]: Select
+                            - img [ref=e12863]
+                      - generic [ref=e12872] [cursor=pointer]:
+                        - generic [ref=e12874]: SOW Name
+                        - combobox "SOW Name Select" [ref=e12876]:
+                          - generic [ref=e12877]:
+                            - generic [ref=e12879]: Select
+                            - img [ref=e12882]
+                      - generic [ref=e12890]:
+                        - generic [ref=e12892]: Date of Allocation
+                        - textbox "Date of Allocation" [ref=e12894]
+                        - button "Open calendar" [ref=e12897] [cursor=pointer]:
+                          - img [ref=e12898]
+                      - generic [ref=e12909] [cursor=pointer]:
+                        - generic [ref=e12911]: Band - Grade - New
+                        - combobox "Band - Grade - New" [ref=e12913]:
+                          - img [ref=e12919]
+                      - generic [ref=e12927]:
+                        - generic [ref=e12929]: Date of Position Hold -Cl...
+                        - textbox "Date of Position Hold -Cl..." [ref=e12931]
+                        - button "Open calendar" [ref=e12934] [cursor=pointer]:
+                          - img [ref=e12935]
+                      - generic [ref=e12945]:
+                        - generic [ref=e12947]: Format Date
+                        - textbox "Format Date" [ref=e12949]
+                        - button "Open calendar" [ref=e12952] [cursor=pointer]:
+                          - img [ref=e12953]
+                      - generic [ref=e12964] [cursor=pointer]:
+                        - generic [ref=e12966]: Hiring Category
+                        - combobox "Hiring Category Enabling Functions" [ref=e12968]:
+                          - generic [ref=e12969]:
+                            - generic [ref=e12971]: Enabling Functions
+                            - img [ref=e12974]
+                      - generic [ref=e12983]:
+                        - generic [ref=e12985]: Show Salary on Job Portal
+                        - textbox "Show Salary on Job Portal" [ref=e12987]
+                      - generic [ref=e12995]:
+                        - generic [ref=e12997]: VMS Job ID
+                        - textbox "VMS Job ID" [ref=e12999]
+                      - generic [ref=e13007]:
+                        - generic [ref=e13009]: Job ID VMS
+                        - textbox "Job ID VMS" [ref=e13011]
+                      - generic [ref=e13019] [cursor=pointer]:
+                        - generic [ref=e13021]: Category
+                        - combobox "Category" [ref=e13023]:
+                          - img [ref=e13029]
+                      - generic [ref=e13038]:
+                        - generic [ref=e13040]: new test sr
+                        - textbox "new test sr" [ref=e13042]
+                      - generic [ref=e13050] [cursor=pointer]:
+                        - generic [ref=e13052]: Q3 Qualified Jobs
+                        - combobox "Q3 Qualified Jobs" [ref=e13054]:
+                          - img [ref=e13060]
+                      - generic [ref=e13069] [cursor=pointer]:
+                        - generic [ref=e13071]: q4 jobs test
+                        - combobox "q4 jobs test Select" [ref=e13073]:
+                          - generic [ref=e13074]:
+                            - generic [ref=e13076]: Select
+                            - img [ref=e13079]
+                      - generic [ref=e13088] [cursor=pointer]:
+                        - generic [ref=e13090]: q5 jobs test
+                        - combobox "q5 jobs test Select" [ref=e13092]:
+                          - generic [ref=e13093]:
+                            - generic [ref=e13095]: Select
+                            - img [ref=e13098]
+                      - generic [ref=e13107] [cursor=pointer]:
+                        - generic [ref=e13109]: Q4 Qualified Jobs
+                        - combobox "Q4 Qualified Jobs" [ref=e13111]:
+                          - img [ref=e13117]
+                      - generic [ref=e13126]:
+                        - generic [ref=e13128]: max input
+                        - textbox "max input" [ref=e13130]
+                      - generic [ref=e13138]:
+                        - generic [ref=e13140]: Length Field
+                        - textbox "Length Field" [ref=e13142]
+                      - generic [ref=e13150]:
+                        - generic [ref=e13152]: Text 256
+                        - textbox "Text 256" [ref=e13154]
+                      - generic [ref=e13162]:
+                        - generic [ref=e13164]: Test 256 1
+                        - textbox "Test 256 1" [ref=e13166]
+                      - generic [ref=e13174]:
+                        - generic [ref=e13176]: Test 256 6
+                        - textbox "Test 256 6" [ref=e13178]
+                      - generic [ref=e13186]:
+                        - generic [ref=e13188]: test bill
+                        - textbox "test bill" [ref=e13190]
+                      - generic [ref=e13198]:
+                        - generic [ref=e13200]: tech Skill
+                        - textbox "tech Skill" [ref=e13202]
+                  - generic [ref=e13206]:
+                    - generic [ref=e13208]: Text Field Validation
+                    - generic [ref=e13218]:
+                      - generic [ref=e13220]: Test 256 5
+                      - textbox "Test 256 5" [ref=e13222]
+                  - generic [ref=e13224]:
+                    - generic [ref=e13225]:
+                      - generic [ref=e13226]: Pay & Billing Details
+                      - button "Add" [ref=e13228]:
+                        - img [ref=e13229]: add
+                        - generic [ref=e13230]: Add
+                    - generic [ref=e13233]:
+                      - generic [ref=e13235]:
+                        - generic [ref=e13242] [cursor=pointer]:
+                          - generic [ref=e13244]: Job Type
+                          - combobox "Job Type Contractual" [ref=e13246]:
+                            - generic [ref=e13247]:
+                              - generic [ref=e13249]: Contractual
+                              - img [ref=e13252]
+                        - generic [ref=e13261] [cursor=pointer]:
+                          - generic [ref=e13263]: Pay Type
+                          - combobox "Pay Type Hourly" [ref=e13265]:
+                            - generic [ref=e13266]:
+                              - generic [ref=e13268]: Hourly
+                              - img [ref=e13271]
+                        - generic [ref=e13278]:
+                          - generic [ref=e13282]:
+                            - generic [ref=e13284]: Bill Rate
+                            - spinbutton "Bill Rate" [ref=e13286]: "3"
+                          - generic [ref=e13288]: To
+                          - generic [ref=e13292]:
+                            - generic [ref=e13294]: Bill Rate
+                            - spinbutton "Bill Rate" [ref=e13296]: "4"
+                        - generic [ref=e13302]:
+                          - generic [ref=e13306]:
+                            - generic [ref=e13308]: Pay Rate
+                            - spinbutton "Pay Rate" [ref=e13310]: "2"
+                          - generic [ref=e13312]: To
+                          - generic [ref=e13316]:
+                            - generic [ref=e13318]: Pay Rate
+                            - spinbutton "Pay Rate" [ref=e13320]: "6"
+                        - generic [ref=e13324]:
+                          - generic:
+                            - generic:
+                              - generic:
+                                - checkbox "Mark as Preffered" [checked] [disabled]
+                                - generic:
+                                  - img
+                              - generic: Mark as Preffered
+                        - generic [ref=e13331]:
+                          - generic [ref=e13333]: Client Contract Period
+                          - textbox "Client Contract Period" [ref=e13335]: "2"
+                        - generic [ref=e13343] [cursor=pointer]:
+                          - generic [ref=e13345]: Client Pay Type
+                          - combobox "Client Pay Type Monthly" [ref=e13347]:
+                            - generic [ref=e13348]:
+                              - generic [ref=e13350]: Monthly
+                              - img [ref=e13353]
+                        - generic [ref=e13362] [cursor=pointer]:
+                          - generic [ref=e13364]: Placement Type
+                          - combobox "Placement Type Contractual" [ref=e13366]:
+                            - generic [ref=e13367]:
+                              - generic [ref=e13369]: Contractual
+                              - img [ref=e13372]
+                        - generic [ref=e13381]:
+                          - generic [ref=e13383]: Contract Period
+                          - textbox "Contract Period" [ref=e13385]
+                      - table [ref=e13390]:
+                        - rowgroup [ref=e13391]:
+                          - row "Job Type Pay Type Bill Rate Pay Rate Client Contract Period One Time Placement Bill Type One Time Placement Bill Value RPO Bill Type RPO Bill Value Client Pay Type Placement Type Contract Period" [ref=e13392]:
+                            - columnheader [ref=e13393]
+                            - columnheader "Job Type" [ref=e13394]
+                            - columnheader "Pay Type" [ref=e13395]
+                            - columnheader "Bill Rate" [ref=e13396]
+                            - columnheader "Pay Rate" [ref=e13397]
+                            - columnheader "Client Contract Period" [ref=e13398]
+                            - columnheader "One Time Placement Bill Type" [ref=e13399]
+                            - columnheader "One Time Placement Bill Value" [ref=e13400]
+                            - columnheader "RPO Bill Type" [ref=e13401]
+                            - columnheader "RPO Bill Value" [ref=e13402]
+                            - columnheader "Client Pay Type" [ref=e13403]
+                            - columnheader "Placement Type" [ref=e13404]
+                            - columnheader "Contract Period" [ref=e13405]
+                        - rowgroup [ref=e13406]:
+                          - row "No data found" [ref=e13407]:
+                            - cell "No data found" [ref=e13408]
+                  - generic [ref=e13409]:
+                    - generic [ref=e13411]: Recruitment Team
+                    - generic [ref=e13414]:
+                      - generic [ref=e13421] [cursor=pointer]:
+                        - generic [ref=e13423]: Recruiters
+                        - combobox "Recruiters" [ref=e13425]:
+                          - img [ref=e13431]
+                      - generic [ref=e13440] [cursor=pointer]:
+                        - generic [ref=e13442]: Additional Recruiters
+                        - combobox "Additional Recruiters Abdul HRMS" [ref=e13444]:
+                          - generic [ref=e13445]:
+                            - generic [ref=e13448]: Abdul HRMS
+                            - img [ref=e13451]
+                      - generic [ref=e13460] [cursor=pointer]:
+                        - generic [ref=e13462]: Account Manager
+                        - combobox "Account Manager Srikanth Akkala" [ref=e13464]:
+                          - generic [ref=e13465]:
+                            - generic [ref=e13468]: Srikanth Akkala
+                            - img [ref=e13471]
+                      - generic [ref=e13478]:
+                        - generic [ref=e13482] [cursor=pointer]:
+                          - generic [ref=e13484]: Client Contact Name
+                          - combobox "Client Contact Name" [ref=e13486]:
+                            - img [ref=e13492]
+                        - button [ref=e13496]:
+                          - img [ref=e13497]: add
+                      - generic [ref=e13505]:
+                        - generic [ref=e13507]: Maximum Submissions
+                        - spinbutton "Maximum Submissions" [ref=e13509]
+                      - generic [ref=e13517] [cursor=pointer]:
+                        - generic [ref=e13519]: Recruitment Manager
+                        - combobox "Recruitment Manager" [ref=e13521]:
+                          - img [ref=e13527]
+                      - generic [ref=e13536] [cursor=pointer]:
+                        - generic [ref=e13538]: Sourcer
+                        - combobox "Sourcer" [ref=e13540]:
+                          - img [ref=e13546]
+                      - generic [ref=e13555] [cursor=pointer]:
+                        - generic [ref=e13557]: Interview Panel
+                        - combobox "Interview Panel" [ref=e13559]:
+                          - img [ref=e13565]
+                      - generic [ref=e13571]:
+                        - generic [ref=e13574] [cursor=pointer]:
+                          - generic [ref=e13576]: Share To Partners
+                          - combobox "Share To Partners" [ref=e13578]:
+                            - img [ref=e13584]
+                        - img [ref=e13589]: info
+                      - generic [ref=e13596]:
+                        - generic [ref=e13598]: Test 256 2
+                        - textbox "Test 256 2" [ref=e13600]
+                  - generic [ref=e13602]:
+                    - generic [ref=e13604]: Recruiter Instructions
+                    - generic [ref=e13607]:
+                      - generic [ref=e13610]:
+                        - generic [ref=e13611]: Recruiter Instructions
+                        - application "Rich Text Editor, editor_form" [ref=e13613]:
+                          - group "Editor toolbars":
+                            - toolbar "Basic Styles" [ref=e13614]:
+                              - button "Bold" [ref=e13615]
+                              - button "Italic" [ref=e13617]
+                              - button "Copy" [disabled] [ref=e13619]
+                              - button "Paste" [ref=e13621]
+                            - toolbar "Paragraph" [ref=e13623]:
+                              - button "Insert/Remove Bulleted List" [ref=e13624]
+                              - button "Insert/Remove Numbered List" [ref=e13626]
+                            - toolbar "Editing" [ref=e13628]:
+                              - button "Align Left" [ref=e13629]
+                              - button "Center" [ref=e13631]
+                              - button "Justify" [ref=e13633]
+                              - button "Align Right" [ref=e13635]
+                            - toolbar "Links" [ref=e13637]:
+                              - button "Link" [ref=e13638]
+                            - toolbar "Insert" [ref=e13640]:
+                              - button "Image" [ref=e13641]
+                              - button "Table" [ref=e13643]
+                            - toolbar "Colors" [ref=e13645]:
+                              - button "Text Color" [ref=e13646]
+                              - button "Background Color" [ref=e13649]
+                            - toolbar "Clipboard/Undo" [ref=e13652]:
+                              - button "Undo" [disabled] [ref=e13653]
+                              - button "Redo" [disabled] [ref=e13655]
+                            - toolbar "Styles" [ref=e13657]:
+                              - button "Styles" [ref=e13658]:
+                                - generic [ref=e13659]: Styles
+                              - button "Format" [ref=e13662]:
+                                - generic [ref=e13663]: Format
+                              - button "Font" [ref=e13666]:
+                                - generic [ref=e13667]: Font
+                              - button "Size" [ref=e13670]:
+                                - generic [ref=e13671]: Size
+                              - button "Paste from Word" [ref=e13674]
+                              - button "Source" [ref=e13676]:
+                                - generic [ref=e13678]: Source
+                          - iframe [ref=e13679]:
+                            - textbox "Editor, editor_form" [active] [ref=f7e1]
+                      - generic [ref=e13686]:
+                        - generic [ref=e13688]: Test 256 3
+                        - textbox "Test 256 3" [ref=e13690]
+                  - generic [ref=e13692]:
+                    - generic [ref=e13694]: Job Description
+                    - generic [ref=e13697]:
+                      - generic [ref=e13700]:
+                        - generic [ref=e13701]: Job Description*
+                        - application "Rich Text Editor, editor_form" [ref=e13703]:
+                          - group "Editor toolbars":
+                            - toolbar "Basic Styles" [ref=e13704]:
+                              - button "Bold" [ref=e13705]
+                              - button "Italic" [ref=e13707]
+                              - button "Copy" [disabled] [ref=e13709]
+                              - button "Paste" [ref=e13711]
+                            - toolbar "Paragraph" [ref=e13713]:
+                              - button "Insert/Remove Bulleted List" [ref=e13714]
+                              - button "Insert/Remove Numbered List" [ref=e13716]
+                            - toolbar "Editing" [ref=e13718]:
+                              - button "Align Left" [ref=e13719]
+                              - button "Center" [ref=e13721]
+                              - button "Justify" [ref=e13723]
+                              - button "Align Right" [ref=e13725]
+                            - toolbar "Links" [ref=e13727]:
+                              - button "Link" [ref=e13728]
+                            - toolbar "Insert" [ref=e13730]:
+                              - button "Image" [ref=e13731]
+                              - button "Table" [ref=e13733]
+                            - toolbar "Colors" [ref=e13735]:
+                              - button "Text Color" [ref=e13736]
+                              - button "Background Color" [ref=e13739]
+                            - toolbar "Clipboard/Undo" [ref=e13742]:
+                              - button "Undo" [ref=e13743]
+                              - button "Redo" [disabled] [ref=e13745]
+                            - toolbar "Styles" [ref=e13747]:
+                              - button "Styles" [ref=e13748]:
+                                - generic [ref=e13749]: Styles
+                              - button "Format" [ref=e13752]:
+                                - generic [ref=e13753]: Format
+                              - button "Font" [ref=e13756]:
+                                - generic [ref=e13757]: Font
+                              - button "Size" [ref=e13760]:
+                                - generic [ref=e13761]: Size
+                              - button "Paste from Word" [ref=e13764]
+                              - button "Source" [ref=e13766]:
+                                - generic [ref=e13768]: Source
+                          - iframe [ref=e13769]:
+                            - textbox "Editor, editor_form" [active] [ref=f8e1]
+                      - generic [ref=e13772]:
+                        - generic [ref=e13776] [cursor=pointer]:
+                          - generic [ref=e13778]: Job Domain
+                          - combobox "Job Domain Select" [ref=e13780]:
+                            - generic [ref=e13781]:
+                              - generic [ref=e13783]: Select
+                              - img [ref=e13786]
+                        - img [ref=e13791]: info
+                      - generic [ref=e13798]:
+                        - generic [ref=e13800]: Test 256 4
+                        - textbox "Test 256 4" [ref=e13802]
+                - generic [ref=e13804]:
+                  - generic [ref=e13806]:
+                    - heading "Attachments" [level=1] [ref=e13808]
+                    - generic [ref=e13809]:
+                      - button [ref=e13813]:
+                        - img [ref=e13814]: add
+                        - generic [ref=e13815]: Attach File
+                      - generic [ref=e13818]:
+                        - img [ref=e13819]: cloud_upload
+                        - paragraph [ref=e13820]: No files attached yet
+                  - generic [ref=e13822]:
+                    - heading "Tags" [level=1] [ref=e13824]
+                    - generic [ref=e13828]:
+                      - generic [ref=e13830]: Add Tags
+                      - generic "Tag selection" [ref=e13832]:
+                        - textbox "Add Tags" [ref=e13833]
+            - generic [ref=e13836]:
+              - button "Cancel" [ref=e13837] [cursor=pointer]:
+                - generic [ref=e13838]: Cancel
+              - button "Save and Search" [ref=e13841]:
+                - generic [ref=e13842]: Save and Search
+              - button "Save" [ref=e13845]:
+                - generic [ref=e13846]: Save
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e582]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

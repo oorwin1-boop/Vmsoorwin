@@ -1,0 +1,1219 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e69319]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e69324]:
+          - generic [ref=e69326]:
+            - generic [ref=e69328]: Jobs
+            - generic [ref=e69329]:
+              - link "Home" [ref=e69333] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e69334]:
+                - text: /
+                - generic [ref=e69336]: Jobs
+          - generic [ref=e69338]:
+            - generic [ref=e69339]:
+              - generic [ref=e69340]:
+                - generic [ref=e69341]:
+                  - button [ref=e69342]:
+                    - img [ref=e69343]: keyboard_backspace
+                  - img [ref=e69551] [cursor=pointer]
+                - generic [ref=e69346]:
+                  - button "Publish" [ref=e69347]:
+                    - generic [ref=e69349]:
+                      - generic [ref=e69350]: Publish
+                      - img [ref=e69351]: keyboard_arrow_down
+                  - button "Candidate" [ref=e69354]:
+                    - generic [ref=e69356]:
+                      - generic [ref=e69357]: Candidate
+                      - img [ref=e69358]: keyboard_arrow_down
+                  - button "Pipeline" [ref=e69361]:
+                    - generic [ref=e69363]:
+                      - generic [ref=e69364]: Pipeline
+                      - img [ref=e69365]: keyboard_arrow_down
+              - generic [ref=e69368]:
+                - generic [ref=e69553]:
+                  - generic [ref=e69554]:
+                    - generic [ref=e69555]:
+                      - generic [ref=e69556]:
+                        - generic [ref=e69557]: OOJ - 86070
+                        - generic [ref=e69558]: Active (1 day ago)
+                      - generic [ref=e69559]:
+                        - generic [ref=e69560]: Php Developer 1
+                        - generic [ref=e69563]: Dallas Texas, USA
+                    - separator [ref=e69564]
+                    - generic [ref=e69565]:
+                      - generic [ref=e69566]:
+                        - generic [ref=e69567]: Positions
+                        - generic [ref=e69568]:
+                          - generic [ref=e69569]: 9 Open
+                          - generic [ref=e69570]: 0 Closed
+                      - generic [ref=e69571]:
+                        - generic [ref=e69572]: "Source Campaigns : No"
+                        - generic [ref=e69573]:
+                          - generic [ref=e69574]: "CN :"
+                          - generic [ref=e69575]: "IC : 1"
+                  - generic [ref=e69577]:
+                    - button [ref=e69578]:
+                      - img [ref=e69579]: share
+                    - button [ref=e69582]:
+                      - img [ref=e69583]: more_vert
+                - generic [ref=e69369]:
+                  - generic [ref=e69371]:
+                    - generic [ref=e69372]:
+                      - generic [ref=e69373]: Pipeline
+                      - paragraph [ref=e69374]: "2"
+                    - button [ref=e69375] [cursor=pointer]:
+                      - img [ref=e69376]: account_tree
+                  - generic [ref=e69380]:
+                    - generic [ref=e69381]:
+                      - generic [ref=e69382]: Submitted
+                      - paragraph [ref=e69383]: "0"
+                    - button [ref=e69384] [cursor=pointer]:
+                      - img [ref=e69385]: export_notes
+                  - generic [ref=e69389]:
+                    - generic [ref=e69390]:
+                      - generic [ref=e69391]: End client
+                      - paragraph [ref=e69392]: "0"
+                    - button [ref=e69393] [cursor=pointer]:
+                      - img [ref=e69394]: assignment_ind
+                  - generic [ref=e69398]:
+                    - generic [ref=e69399]:
+                      - generic [ref=e69400]: Interviews
+                      - paragraph [ref=e69401]: "0"
+                    - button [ref=e69402] [cursor=pointer]:
+                      - img [ref=e69403]: adaptive_audio_mic
+                  - generic [ref=e69407]:
+                    - generic [ref=e69408]:
+                      - generic [ref=e69409]: Confirmations
+                      - paragraph [ref=e69410]: "0"
+                    - button [ref=e69411] [cursor=pointer]:
+                      - img [ref=e69412]: verified
+                  - generic [ref=e69416]:
+                    - generic [ref=e69417]:
+                      - generic [ref=e69418]: Rejected
+                      - paragraph [ref=e69419]: "0"
+                    - button [ref=e69420] [cursor=pointer]:
+                      - img [ref=e69421]: block
+                  - generic [ref=e69425]:
+                    - generic [ref=e69426]:
+                      - generic [ref=e69427]: Onboarded
+                      - paragraph [ref=e69428]: "0"
+                    - button [ref=e69429] [cursor=pointer]:
+                      - img [ref=e69430]: id_card
+                - navigation [ref=e69433]:
+                  - button [disabled]
+                  - generic [ref=e69436]:
+                    - link "Overview" [ref=e69437] [cursor=pointer]:
+                      - /url: "#/jobs/9553/overview"
+                      - generic [ref=e69439]: Overview
+                    - link "Info" [ref=e69440] [cursor=pointer]:
+                      - /url: "#/jobs/9553/view"
+                      - generic [ref=e69442]: Info
+                    - link "Considered Candidates (2)" [ref=e69586] [cursor=pointer]:
+                      - /url: "#/jobs/9553/consideration_details?page=1"
+                      - generic [ref=e69588]:
+                        - text: Considered Candidates
+                        - generic [ref=e69589]: (2)
+                    - link "Pipeline (2)" [ref=e69590] [cursor=pointer]:
+                      - /url: "#/jobs/9553/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                      - generic [ref=e69592]:
+                        - text: Pipeline
+                        - generic [ref=e69593]: (2)
+                    - link "Submissions (0)" [ref=e69594] [cursor=pointer]:
+                      - /url: "#/jobs/9553/submission_details"
+                      - generic [ref=e69596]:
+                        - text: Submissions
+                        - generic [ref=e69597]: (0)
+                    - link "Interviews (0)" [ref=e69598] [cursor=pointer]:
+                      - /url: "#/jobs/9553/interviews"
+                      - generic [ref=e69600]:
+                        - text: Interviews
+                        - generic [ref=e69601]: (0)
+                    - link "Communications" [ref=e69602] [cursor=pointer]:
+                      - /url: "#/jobs/9553/communications/mail_track"
+                      - generic [ref=e69604]: Communications
+                    - link "Recruiter Actions" [ref=e69446] [cursor=pointer]:
+                      - /url: "#/jobs/9553/settings"
+                      - generic [ref=e69448]: Recruiter Actions
+                    - link "Assessments (0)" [ref=e69449] [cursor=pointer]:
+                      - /url: "#/jobs/9553/assessments?type=tagged"
+                      - generic [ref=e69451]:
+                        - text: Assessments
+                        - generic [ref=e69452]: (0)
+                  - button [ref=e69605] [cursor=pointer]
+                - generic [ref=e69454]:
+                  - navigation [ref=e69455]:
+                    - generic [ref=e69458]:
+                      - link "Identified (1)" [ref=e69607] [cursor=pointer]:
+                        - /url: "#/jobs/9553/pipeline_details/list/-2?page=1&view_id=submission_view&stage=-2"
+                        - generic [ref=e69461]: Identified (1)
+                      - link "Prospective (1)" [ref=e69608] [cursor=pointer]:
+                        - /url: "#/jobs/9553/pipeline_details/list/496?page=1&view_id=submission_view&stage=496"
+                        - generic [ref=e69464]: Prospective (1)
+                      - link "Review (0)" [ref=e69465] [cursor=pointer]:
+                        - /url: "#/jobs/9553/pipeline_details/list/497?page=1&view_id=submission_view&stage=497"
+                        - generic [ref=e69467]: Review (0)
+                      - link "Parked (0)" [ref=e69468] [cursor=pointer]:
+                        - /url: "#/jobs/9553/pipeline_details/list/498?page=1&view_id=submission_view&stage=498"
+                        - generic [ref=e69470]: Parked (0)
+                  - generic [ref=e69474]:
+                    - generic [ref=e69475]:
+                      - generic [ref=e69477]:
+                        - generic [ref=e69482]:
+                          - textbox "Candidate ID, Candidate Name" [ref=e69483]
+                          - button [ref=e69484] [cursor=pointer]:
+                            - img [ref=e69485]: search
+                        - combobox "Select Partner Account" [ref=e69491]
+                      - generic [ref=e69492]:
+                        - button [ref=e69493]:
+                          - img [ref=e69494]: view_column
+                        - button [ref=e69497]:
+                          - img [ref=e69498]: filter_alt
+                        - button [ref=e69501]:
+                          - img [ref=e69502]: upload
+                    - table [ref=e69611]:
+                      - rowgroup [ref=e69612]:
+                        - row [ref=e69613]:
+                          - columnheader [ref=e69614]:
+                            - generic [ref=e69615]:
+                              - generic [ref=e69618] [cursor=pointer]:
+                                - checkbox [ref=e69619]
+                                - generic:
+                                  - img
+                              - button [ref=e69620] [cursor=pointer]:
+                                - img [ref=e69621]: expand_more
+                          - columnheader "Full Name" [ref=e69624]:
+                            - generic [ref=e69625]:
+                              - generic [ref=e69626]: Full Name
+                              - button [ref=e69627] [cursor=pointer]:
+                                - img [ref=e69628]: filter_list
+                          - columnheader "Years of Experience" [ref=e69631]:
+                            - generic [ref=e69632]:
+                              - generic [ref=e69633]: Years of Experience
+                              - button [ref=e69634] [cursor=pointer]:
+                                - img [ref=e69635]: filter_list
+                          - columnheader "Job Title" [ref=e69638]:
+                            - generic [ref=e69639]:
+                              - generic [ref=e69640]: Job Title
+                              - button [ref=e69641] [cursor=pointer]:
+                                - img [ref=e69642]: filter_list
+                          - columnheader "City" [ref=e69645]:
+                            - generic [ref=e69646]:
+                              - generic [ref=e69647]: City
+                              - button [ref=e69648] [cursor=pointer]:
+                                - img [ref=e69649]: filter_list
+                          - columnheader "State" [ref=e69652]:
+                            - generic [ref=e69653]:
+                              - generic [ref=e69654]: State
+                              - button [ref=e69655] [cursor=pointer]:
+                                - img [ref=e69656]: filter_list
+                          - columnheader "Created Date" [ref=e69659]:
+                            - generic [ref=e69660]:
+                              - generic [ref=e69661]: Created Date
+                              - button [ref=e69662] [cursor=pointer]:
+                                - img [ref=e69663]: filter_list
+                          - columnheader "Status" [ref=e69666]:
+                            - generic [ref=e69667]:
+                              - generic [ref=e69668]: Status
+                              - button [ref=e69669] [cursor=pointer]:
+                                - img [ref=e69670]: filter_list
+                          - columnheader "Rating" [ref=e69673]:
+                            - generic [ref=e69674]:
+                              - generic [ref=e69675]: Rating
+                              - button [ref=e69676] [cursor=pointer]:
+                                - img [ref=e69677]: filter_list
+                          - columnheader "Owner" [ref=e69680]:
+                            - generic [ref=e69681]:
+                              - generic [ref=e69682]: Owner
+                              - button [ref=e69683] [cursor=pointer]:
+                                - img [ref=e69684]: filter_list
+                          - columnheader "Pipeline Owner" [ref=e69687]:
+                            - generic [ref=e69688]:
+                              - generic [ref=e69689]: Pipeline Owner
+                              - button [ref=e69690] [cursor=pointer]:
+                                - img [ref=e69691]: filter_list
+                          - columnheader "No of times pitched" [ref=e69694]:
+                            - generic [ref=e69695]:
+                              - generic [ref=e69696]: No of times pitched
+                              - button [ref=e69697] [cursor=pointer]:
+                                - img [ref=e69698]: filter_list
+                          - columnheader "Campaign Initiated Date" [ref=e69701]:
+                            - generic [ref=e69702]:
+                              - generic [ref=e69703]: Campaign Initiated Date
+                              - button [ref=e69704] [cursor=pointer]:
+                                - img [ref=e69705]: filter_list
+                          - columnheader "Last Campaign Date" [ref=e69708]:
+                            - generic [ref=e69709]:
+                              - generic [ref=e69710]: Last Campaign Date
+                              - button [ref=e69711] [cursor=pointer]:
+                                - img [ref=e69712]: filter_list
+                          - columnheader "Last Campaign Mode" [ref=e69715]:
+                            - generic [ref=e69716]:
+                              - generic [ref=e69717]: Last Campaign Mode
+                              - button [ref=e69718] [cursor=pointer]:
+                                - img [ref=e69719]: filter_list
+                          - columnheader "Campaigns Automated" [ref=e69722]:
+                            - generic [ref=e69723]:
+                              - generic [ref=e69724]: Campaigns Automated
+                              - button [ref=e69725] [cursor=pointer]:
+                                - img [ref=e69726]: filter_list
+                          - columnheader "Source" [ref=e69729]:
+                            - generic [ref=e69730]:
+                              - generic [ref=e69731]: Source
+                              - button [ref=e69732] [cursor=pointer]:
+                                - img [ref=e69733]: filter_list
+                          - columnheader "Source" [ref=e69736]:
+                            - generic [ref=e69737]:
+                              - generic [ref=e69738]: Source
+                              - button [ref=e69739] [cursor=pointer]:
+                                - img [ref=e69740]: filter_list
+                          - columnheader "What is your current work location?" [ref=e69743]:
+                            - generic [ref=e69744]:
+                              - generic [ref=e69745]: What is your current work location?
+                              - button [ref=e69746] [cursor=pointer]:
+                                - img [ref=e69747]: filter_list
+                          - columnheader "What is your native place?" [ref=e69750]:
+                            - generic [ref=e69751]:
+                              - generic [ref=e69752]: What is your native place?
+                              - button [ref=e69753] [cursor=pointer]:
+                                - img [ref=e69754]: filter_list
+                          - columnheader "Current Company" [ref=e69757]:
+                            - generic [ref=e69758]:
+                              - generic [ref=e69759]: Current Company
+                              - button [ref=e69760] [cursor=pointer]:
+                                - img [ref=e69761]: filter_list
+                          - columnheader "Score" [ref=e69764]:
+                            - generic [ref=e69765]:
+                              - generic [ref=e69766]: Score
+                              - button [ref=e69767] [cursor=pointer]:
+                                - img [ref=e69768]: filter_list
+                          - columnheader "Current Industry" [ref=e69771]:
+                            - generic [ref=e69772]:
+                              - generic [ref=e69773]: Current Industry
+                              - button [ref=e69774] [cursor=pointer]:
+                                - img [ref=e69775]: filter_list
+                          - columnheader "Have you worked in the Solar Industry?" [ref=e69778]:
+                            - generic [ref=e69779]:
+                              - generic [ref=e69780]: Have you worked in the Solar Industry?
+                              - button [ref=e69781] [cursor=pointer]:
+                                - img [ref=e69782]: filter_list
+                          - columnheader "What is your total CTC?" [ref=e69785]:
+                            - generic [ref=e69786]:
+                              - generic [ref=e69787]: What is your total CTC?
+                              - button [ref=e69788] [cursor=pointer]:
+                                - img [ref=e69789]: filter_list
+                          - columnheader "What is your average CTC?" [ref=e69792]:
+                            - generic [ref=e69793]:
+                              - generic [ref=e69794]: What is your average CTC?
+                              - button [ref=e69795] [cursor=pointer]:
+                                - img [ref=e69796]: filter_list
+                          - columnheader "What is your variable CTC?" [ref=e69799]:
+                            - generic [ref=e69800]:
+                              - generic [ref=e69801]: What is your variable CTC?
+                              - button [ref=e69802] [cursor=pointer]:
+                                - img [ref=e69803]: filter_list
+                          - columnheader "Email" [ref=e69806]:
+                            - generic [ref=e69807]:
+                              - generic [ref=e69808]: Email
+                              - button [ref=e69809] [cursor=pointer]:
+                                - img [ref=e69810]: filter_list
+                          - columnheader "Last Source" [ref=e69813]:
+                            - generic [ref=e69814]:
+                              - generic [ref=e69815]: Last Source
+                              - button [ref=e69816] [cursor=pointer]:
+                                - img [ref=e69817]: filter_list
+                          - columnheader "Candidate ID" [ref=e69820]:
+                            - generic [ref=e69821]:
+                              - generic [ref=e69822]: Candidate ID
+                              - button [ref=e69823] [cursor=pointer]:
+                                - img [ref=e69824]: filter_list
+                          - columnheader "First Name" [ref=e69827]:
+                            - generic [ref=e69828]:
+                              - generic [ref=e69829]: First Name
+                              - button [ref=e69830] [cursor=pointer]:
+                                - img [ref=e69831]: filter_list
+                          - columnheader "Last Name" [ref=e69834]:
+                            - generic [ref=e69835]:
+                              - generic [ref=e69836]: Last Name
+                              - button [ref=e69837] [cursor=pointer]:
+                                - img [ref=e69838]: filter_list
+                          - columnheader "Middle Name" [ref=e69841]:
+                            - generic [ref=e69842]:
+                              - generic [ref=e69843]: Middle Name
+                              - button [ref=e69844] [cursor=pointer]:
+                                - img [ref=e69845]: filter_list
+                          - columnheader "Alternate Email" [ref=e69848]:
+                            - generic [ref=e69849]:
+                              - generic [ref=e69850]: Alternate Email
+                              - button [ref=e69851] [cursor=pointer]:
+                                - img [ref=e69852]: filter_list
+                          - columnheader "Phone" [ref=e69855]:
+                            - generic [ref=e69856]:
+                              - generic [ref=e69857]: Phone
+                              - button [ref=e69858] [cursor=pointer]:
+                                - img [ref=e69859]: filter_list
+                          - columnheader "Work Authorization" [ref=e69862]:
+                            - generic [ref=e69863]:
+                              - generic [ref=e69864]: Work Authorization
+                              - button [ref=e69865] [cursor=pointer]:
+                                - img [ref=e69866]: filter_list
+                          - columnheader "Age" [ref=e69869]:
+                            - generic [ref=e69870]:
+                              - generic [ref=e69871]: Age
+                              - button [ref=e69872] [cursor=pointer]:
+                                - img [ref=e69873]: filter_list
+                          - columnheader "Remote Status" [ref=e69876]:
+                            - generic [ref=e69877]:
+                              - generic [ref=e69878]: Remote Status
+                              - button [ref=e69879] [cursor=pointer]:
+                                - img [ref=e69880]: filter_list
+                          - columnheader "GENDER" [ref=e69883]:
+                            - generic [ref=e69884]:
+                              - generic [ref=e69885]: GENDER
+                              - button [ref=e69886] [cursor=pointer]:
+                                - img [ref=e69887]: filter_list
+                          - columnheader "Job Type" [ref=e69890]:
+                            - generic [ref=e69891]:
+                              - generic [ref=e69892]: Job Type
+                              - button [ref=e69893] [cursor=pointer]:
+                                - img [ref=e69894]: filter_list
+                          - columnheader "Authorized to work in Which Countries" [ref=e69897]:
+                            - generic [ref=e69898]:
+                              - generic [ref=e69899]: Authorized to work in Which Countries
+                              - button [ref=e69900] [cursor=pointer]:
+                                - img [ref=e69901]: filter_list
+                          - columnheader "Candidate Status" [ref=e69904]:
+                            - generic [ref=e69905]:
+                              - generic [ref=e69906]: Candidate Status
+                              - button [ref=e69907] [cursor=pointer]:
+                                - img [ref=e69908]: filter_list
+                          - columnheader "Mobile" [ref=e69911]:
+                            - generic [ref=e69912]:
+                              - generic [ref=e69913]: Mobile
+                              - button [ref=e69914] [cursor=pointer]:
+                                - img [ref=e69915]: filter_list
+                          - columnheader "Date Of Birth" [ref=e69918]:
+                            - generic [ref=e69919]:
+                              - generic [ref=e69920]: Date Of Birth
+                              - button [ref=e69921] [cursor=pointer]:
+                                - img [ref=e69922]: filter_list
+                          - columnheader "Vendor" [ref=e69925]:
+                            - generic [ref=e69926]:
+                              - generic [ref=e69927]: Vendor
+                              - button [ref=e69928] [cursor=pointer]:
+                                - img [ref=e69929]: filter_list
+                          - columnheader "Vendor Contact Name" [ref=e69932]:
+                            - generic [ref=e69933]:
+                              - generic [ref=e69934]: Vendor Contact Name
+                              - button [ref=e69935] [cursor=pointer]:
+                                - img [ref=e69936]: filter_list
+                          - columnheader "Country" [ref=e69939]:
+                            - generic [ref=e69940]:
+                              - generic [ref=e69941]: Country
+                              - button [ref=e69942] [cursor=pointer]:
+                                - img [ref=e69943]: filter_list
+                          - columnheader "Address" [ref=e69946]:
+                            - generic [ref=e69947]:
+                              - generic [ref=e69948]: Address
+                              - button [ref=e69949] [cursor=pointer]:
+                                - img [ref=e69950]: filter_list
+                          - columnheader "Pincode" [ref=e69953]:
+                            - generic [ref=e69954]:
+                              - generic [ref=e69955]: Pincode
+                              - button [ref=e69956] [cursor=pointer]:
+                                - img [ref=e69957]: filter_list
+                          - columnheader "Skills" [ref=e69960]:
+                            - generic [ref=e69961]:
+                              - generic [ref=e69962]: Skills
+                              - button [ref=e69963] [cursor=pointer]:
+                                - img [ref=e69964]: filter_list
+                          - columnheader "Soft Skills" [ref=e69967]:
+                            - generic [ref=e69968]:
+                              - generic [ref=e69969]: Soft Skills
+                              - button [ref=e69970] [cursor=pointer]:
+                                - img [ref=e69971]: filter_list
+                          - columnheader "Profile Summary" [ref=e69974]:
+                            - generic [ref=e69975]:
+                              - generic [ref=e69976]: Profile Summary
+                              - button [ref=e69977] [cursor=pointer]:
+                                - img [ref=e69978]: filter_list
+                          - columnheader "Facebook URL" [ref=e69981]:
+                            - generic [ref=e69982]:
+                              - generic [ref=e69983]: Facebook URL
+                              - button [ref=e69984] [cursor=pointer]:
+                                - img [ref=e69985]: filter_list
+                          - columnheader "LinkedIn URL" [ref=e69988]:
+                            - generic [ref=e69989]:
+                              - generic [ref=e69990]: LinkedIn URL
+                              - button [ref=e69991] [cursor=pointer]:
+                                - img [ref=e69992]: filter_list
+                          - columnheader "Expected Candidate CTC Type" [ref=e69995]:
+                            - generic [ref=e69996]:
+                              - generic [ref=e69997]: Expected Candidate CTC Type
+                              - button [ref=e69998] [cursor=pointer]:
+                                - img [ref=e69999]: filter_list
+                          - columnheader "Willing to relocate" [ref=e70002]:
+                            - generic [ref=e70003]:
+                              - generic [ref=e70004]: Willing to relocate
+                              - button [ref=e70005] [cursor=pointer]:
+                                - img [ref=e70006]: filter_list
+                          - columnheader "Account" [ref=e70009]:
+                            - generic [ref=e70010]:
+                              - generic [ref=e70011]: Account
+                              - button [ref=e70012] [cursor=pointer]:
+                                - img [ref=e70013]: filter_list
+                          - columnheader "Contact Name" [ref=e70016]:
+                            - generic [ref=e70017]:
+                              - generic [ref=e70018]: Contact Name
+                              - button [ref=e70019] [cursor=pointer]:
+                                - img [ref=e70020]: filter_list
+                          - columnheader "Current Candidate CTC Type" [ref=e70023]:
+                            - generic [ref=e70024]:
+                              - generic [ref=e70025]: Current Candidate CTC Type
+                              - button [ref=e70026] [cursor=pointer]:
+                                - img [ref=e70027]: filter_list
+                          - columnheader "Current Candidate CTC" [ref=e70030]:
+                            - generic [ref=e70031]:
+                              - generic [ref=e70032]: Current Candidate CTC
+                              - button [ref=e70033] [cursor=pointer]:
+                                - img [ref=e70034]: filter_list
+                          - columnheader "Languages Known" [ref=e70037]:
+                            - generic [ref=e70038]:
+                              - generic [ref=e70039]: Languages Known
+                              - button [ref=e70040] [cursor=pointer]:
+                                - img [ref=e70041]: filter_list
+                          - columnheader "Nationality" [ref=e70044]:
+                            - generic [ref=e70045]:
+                              - generic [ref=e70046]: Nationality
+                              - button [ref=e70047] [cursor=pointer]:
+                                - img [ref=e70048]: filter_list
+                          - columnheader "Preferred Shift" [ref=e70051]:
+                            - generic [ref=e70052]:
+                              - generic [ref=e70053]: Preferred Shift
+                              - button [ref=e70054] [cursor=pointer]:
+                                - img [ref=e70055]: filter_list
+                          - columnheader "Notice Period" [ref=e70058]:
+                            - generic [ref=e70059]:
+                              - generic [ref=e70060]: Notice Period
+                              - button [ref=e70061] [cursor=pointer]:
+                                - img [ref=e70062]: filter_list
+                          - columnheader "Contact this candidate directly" [ref=e70065]:
+                            - generic [ref=e70066]:
+                              - generic [ref=e70067]: Contact this candidate directly
+                              - button [ref=e70068] [cursor=pointer]:
+                                - img [ref=e70069]: filter_list
+                          - columnheader "Percentage of Client Fee" [ref=e70072]:
+                            - generic [ref=e70073]:
+                              - generic [ref=e70074]: Percentage of Client Fee
+                              - button [ref=e70075] [cursor=pointer]:
+                                - img [ref=e70076]: filter_list
+                          - columnheader "Security Clearance" [ref=e70079]:
+                            - generic [ref=e70080]:
+                              - generic [ref=e70081]: Security Clearance
+                              - button [ref=e70082] [cursor=pointer]:
+                                - img [ref=e70083]: filter_list
+                          - columnheader "Ask for Referrals" [ref=e70086]:
+                            - generic [ref=e70087]:
+                              - generic [ref=e70088]: Ask for Referrals
+                              - button [ref=e70089] [cursor=pointer]:
+                                - img [ref=e70090]: filter_list
+                          - columnheader "Security Clearance Level" [ref=e70093]:
+                            - generic [ref=e70094]:
+                              - generic [ref=e70095]: Security Clearance Level
+                              - button [ref=e70096] [cursor=pointer]:
+                                - img [ref=e70097]: filter_list
+                          - columnheader "Marital Status" [ref=e70100]:
+                            - generic [ref=e70101]:
+                              - generic [ref=e70102]: Marital Status
+                              - button [ref=e70103] [cursor=pointer]:
+                                - img [ref=e70104]: filter_list
+                          - columnheader "Highest Degree" [ref=e70107]:
+                            - generic [ref=e70108]:
+                              - generic [ref=e70109]: Highest Degree
+                              - button [ref=e70110] [cursor=pointer]:
+                                - img [ref=e70111]: filter_list
+                          - columnheader "Custom Phone" [ref=e70114]:
+                            - generic [ref=e70115]:
+                              - generic [ref=e70116]: Custom Phone
+                              - button [ref=e70117] [cursor=pointer]:
+                                - img [ref=e70118]: filter_list
+                          - columnheader "Industry" [ref=e70121]:
+                            - generic [ref=e70122]:
+                              - generic [ref=e70123]: Industry
+                              - button [ref=e70124] [cursor=pointer]:
+                                - img [ref=e70125]: filter_list
+                          - columnheader "Nick Name" [ref=e70128]:
+                            - generic [ref=e70129]:
+                              - generic [ref=e70130]: Nick Name
+                              - button [ref=e70131] [cursor=pointer]:
+                                - img [ref=e70132]: filter_list
+                          - columnheader "Candidate Custom Tags" [ref=e70135]:
+                            - generic [ref=e70136]:
+                              - generic [ref=e70137]: Candidate Custom Tags
+                              - button [ref=e70138] [cursor=pointer]:
+                                - img [ref=e70139]: filter_list
+                          - columnheader "Assigned To" [ref=e70142]:
+                            - generic [ref=e70143]:
+                              - generic [ref=e70144]: Assigned To
+                              - button [ref=e70145] [cursor=pointer]:
+                                - img [ref=e70146]: filter_list
+                          - columnheader "Updated By" [ref=e70149]:
+                            - generic [ref=e70150]:
+                              - generic [ref=e70151]: Updated By
+                              - button [ref=e70152] [cursor=pointer]:
+                                - img [ref=e70153]: filter_list
+                          - columnheader "Application Type" [ref=e70156]:
+                            - generic [ref=e70157]:
+                              - generic [ref=e70158]: Application Type
+                              - button [ref=e70159] [cursor=pointer]:
+                                - img [ref=e70160]: filter_list
+                          - columnheader "Modified Date" [ref=e70163]:
+                            - generic [ref=e70164]:
+                              - generic [ref=e70165]: Modified Date
+                              - button [ref=e70166] [cursor=pointer]:
+                                - img [ref=e70167]: filter_list
+                          - columnheader "No Response Action" [ref=e70170]:
+                            - generic [ref=e70171]:
+                              - generic [ref=e70172]: No Response Action
+                              - button [ref=e70173] [cursor=pointer]:
+                                - img [ref=e70174]: filter_list
+                          - columnheader "Github URL" [ref=e70177]:
+                            - generic [ref=e70178]:
+                              - generic [ref=e70179]: Github URL
+                              - button [ref=e70180] [cursor=pointer]:
+                                - img [ref=e70181]: filter_list
+                          - columnheader "Inactive Start Date" [ref=e70184]:
+                            - generic [ref=e70185]:
+                              - generic [ref=e70186]: Inactive Start Date
+                              - button [ref=e70187] [cursor=pointer]:
+                                - img [ref=e70188]: filter_list
+                          - columnheader "Inactive End Date" [ref=e70191]:
+                            - generic [ref=e70192]:
+                              - generic [ref=e70193]: Inactive End Date
+                              - button [ref=e70194] [cursor=pointer]:
+                                - img [ref=e70195]: filter_list
+                          - columnheader "Video Resume" [ref=e70198]:
+                            - generic [ref=e70199]:
+                              - generic [ref=e70200]: Video Resume
+                              - button [ref=e70201] [cursor=pointer]:
+                                - img [ref=e70202]: filter_list
+                          - columnheader "Candidate notice period" [ref=e70205]:
+                            - generic [ref=e70206]:
+                              - generic [ref=e70207]: Candidate notice period
+                              - button [ref=e70208] [cursor=pointer]:
+                                - img [ref=e70209]: filter_list
+                          - columnheader "Response Action" [ref=e70212]:
+                            - generic [ref=e70213]:
+                              - generic [ref=e70214]: Response Action
+                              - button [ref=e70215] [cursor=pointer]:
+                                - img [ref=e70216]: filter_list
+                          - columnheader "Follow-up Status" [ref=e70219]:
+                            - generic [ref=e70220]:
+                              - generic [ref=e70221]: Follow-up Status
+                              - button [ref=e70222] [cursor=pointer]:
+                                - img [ref=e70223]: filter_list
+                          - columnheader "Total Follow-ups" [ref=e70226]:
+                            - generic [ref=e70227]:
+                              - generic [ref=e70228]: Total Follow-ups
+                              - button [ref=e70229] [cursor=pointer]:
+                                - img [ref=e70230]: filter_list
+                          - columnheader "Follow-up Interval" [ref=e70233]:
+                            - generic [ref=e70234]:
+                              - generic [ref=e70235]: Follow-up Interval
+                              - button [ref=e70236] [cursor=pointer]:
+                                - img [ref=e70237]: filter_list
+                          - columnheader "X (Twitter) URL" [ref=e70240]:
+                            - generic [ref=e70241]:
+                              - generic [ref=e70242]: X (Twitter) URL
+                              - button [ref=e70243] [cursor=pointer]:
+                                - img [ref=e70244]: filter_list
+                          - columnheader "willing to relocate to any place" [ref=e70247]:
+                            - generic [ref=e70248]:
+                              - generic [ref=e70249]: willing to relocate to any place
+                              - button [ref=e70250] [cursor=pointer]:
+                                - img [ref=e70251]: filter_list
+                          - columnheader "Mark as Preffered" [ref=e70254]:
+                            - generic [ref=e70255]:
+                              - generic [ref=e70256]: Mark as Preffered
+                              - button [ref=e70257] [cursor=pointer]:
+                                - img [ref=e70258]: filter_list
+                      - rowgroup [ref=e70261]:
+                        - row " Uma Dev 5 Pega developer Newton West Virginia June 11, 2026 22:08:... testing Select Alicia Rayos Srikanth Akkala 1 June 11, 2026 June 11, 2026 Job Share No Foundit Internal - - - 0.00% - - - - - venubabu.goli@oorwin... Career Portal OOC - 10865 Uma Dev - - - Need H1 Visa - OnSite - - - - +1916-666-1168 Whatsapp - - - USA - 4870 FINANCING , DATA TRA... - - - https://www.linkedin... Per hour no - - - - - - - - - - - - - - - - - - Prasad - Existing June 11, 2026 22:08:... - - - - - - - - - - - - -" [ref=e70262]:
+                          - cell "" [ref=e70263]:
+                            - generic [ref=e70264]:
+                              - generic [ref=e70267] [cursor=pointer]:
+                                - checkbox [ref=e70268]
+                                - generic:
+                                  - img
+                              - button [ref=e70269] [cursor=pointer]:
+                                - img [ref=e70270]: more_vert
+                              - generic [ref=e70273]:
+                                - img [ref=e70275]
+                                - button "" [ref=e70277] [cursor=pointer]:
+                                  - generic [ref=e70278]: 
+                                - button [ref=e70281] [cursor=pointer]:
+                                  - img [ref=e70282]: description
+                          - cell "Uma Dev" [ref=e70285]:
+                            - link "Uma Dev" [ref=e70287] [cursor=pointer]:
+                              - /url: "#/candidates/6752/view"
+                          - cell "5" [ref=e70288]:
+                            - generic [ref=e70291]: "5"
+                          - cell "Pega developer" [ref=e70292]:
+                            - generic [ref=e70295]: Pega developer
+                          - cell "Newton" [ref=e70296]:
+                            - generic [ref=e70299]: Newton
+                          - cell "West Virginia" [ref=e70300]:
+                            - generic [ref=e70303]: West Virginia
+                          - cell "June 11, 2026 22:08:..." [ref=e70304]:
+                            - generic [ref=e70307]: June 11, 2026 22:08:...
+                          - cell "testing" [ref=e70308]:
+                            - combobox "testing" [ref=e70314] [cursor=pointer]:
+                              - generic [ref=e70315]:
+                                - generic [ref=e70317]: testing
+                                - img [ref=e70320]
+                          - cell "Select" [ref=e70322]:
+                            - combobox "Select" [ref=e70328] [cursor=pointer]:
+                              - generic [ref=e70329]:
+                                - generic [ref=e70330]: Select
+                                - img [ref=e70333]
+                          - cell "Alicia Rayos" [ref=e70335]:
+                            - generic [ref=e70338]: Alicia Rayos
+                          - cell "Srikanth Akkala" [ref=e70339]: Srikanth Akkala
+                          - cell "1" [ref=e70340]:
+                            - generic [ref=e70343]: "1"
+                          - cell "June 11, 2026" [ref=e70344]:
+                            - generic [ref=e70347]: June 11, 2026
+                          - cell "June 11, 2026" [ref=e70348]:
+                            - generic [ref=e70351]: June 11, 2026
+                          - cell "Job Share" [ref=e70352]:
+                            - generic [ref=e70355]: Job Share
+                          - cell "No" [ref=e70356]:
+                            - generic [ref=e70359]: "No"
+                          - cell "Foundit" [ref=e70360]:
+                            - generic [ref=e70363]: Foundit
+                          - cell "Internal" [ref=e70364]:
+                            - generic [ref=e70367]: Internal
+                          - cell "-" [ref=e70368]:
+                            - generic [ref=e70369]: "-"
+                          - cell "-" [ref=e70370]:
+                            - generic [ref=e70371]: "-"
+                          - cell "-" [ref=e70372]:
+                            - generic [ref=e70373]: "-"
+                          - cell "0.00%" [ref=e70374]:
+                            - generic [ref=e70375]:
+                              - button [ref=e70377] [cursor=pointer]:
+                                - img [ref=e70378]: id_card
+                              - generic [ref=e70382]:
+                                - generic [ref=e70383]: 0.00%
+                                - img [ref=e70385] [cursor=pointer]: refresh
+                          - cell "-" [ref=e70386]:
+                            - generic [ref=e70387]: "-"
+                          - cell "-" [ref=e70388]:
+                            - generic [ref=e70389]: "-"
+                          - cell "-" [ref=e70390]:
+                            - generic [ref=e70391]: "-"
+                          - cell "-" [ref=e70392]:
+                            - generic [ref=e70393]: "-"
+                          - cell "-" [ref=e70394]:
+                            - generic [ref=e70395]: "-"
+                          - cell "venubabu.goli@oorwin..." [ref=e70396]:
+                            - generic [ref=e70399]: venubabu.goli@oorwin...
+                          - cell "Career Portal" [ref=e70400]:
+                            - generic [ref=e70403]: Career Portal
+                          - cell "OOC - 10865" [ref=e70404]:
+                            - link "OOC - 10865" [ref=e70406] [cursor=pointer]:
+                              - /url: "#/candidates/6752/view"
+                          - cell "Uma" [ref=e70407]:
+                            - generic [ref=e70410]: Uma
+                          - cell "Dev" [ref=e70411]:
+                            - generic [ref=e70414]: Dev
+                          - cell "-" [ref=e70415]:
+                            - generic [ref=e70416]: "-"
+                          - cell "-" [ref=e70417]:
+                            - generic [ref=e70418]: "-"
+                          - cell "-" [ref=e70419]:
+                            - generic [ref=e70420]: "-"
+                          - cell "Need H1 Visa" [ref=e70421]:
+                            - generic [ref=e70424]: Need H1 Visa
+                          - cell "-" [ref=e70425]:
+                            - generic [ref=e70426]: "-"
+                          - cell "OnSite" [ref=e70427]:
+                            - generic [ref=e70430]: OnSite
+                          - cell "-" [ref=e70431]:
+                            - generic [ref=e70432]: "-"
+                          - cell "-" [ref=e70433]:
+                            - generic [ref=e70434]: "-"
+                          - cell "-" [ref=e70435]:
+                            - generic [ref=e70436]: "-"
+                          - cell "-" [ref=e70437]:
+                            - generic [ref=e70438]: "-"
+                          - cell "+1916-666-1168 Whatsapp" [ref=e70439]:
+                            - generic [ref=e70440]:
+                              - generic [ref=e70442]: +1916-666-1168
+                              - button "Whatsapp" [ref=e70443] [cursor=pointer]:
+                                - img "Whatsapp" [ref=e70444]
+                          - cell "-" [ref=e70447]:
+                            - generic [ref=e70448]: "-"
+                          - cell "-" [ref=e70449]:
+                            - generic [ref=e70450]: "-"
+                          - cell "-" [ref=e70451]:
+                            - generic [ref=e70452]: "-"
+                          - cell "USA" [ref=e70453]:
+                            - generic [ref=e70456]: USA
+                          - cell "-" [ref=e70457]:
+                            - generic [ref=e70458]: "-"
+                          - cell "4870" [ref=e70459]:
+                            - generic [ref=e70462]: "4870"
+                          - cell "FINANCING , DATA TRA..." [ref=e70463]:
+                            - generic [ref=e70466]: FINANCING , DATA TRA...
+                          - cell "-" [ref=e70467]:
+                            - generic [ref=e70468]: "-"
+                          - cell "-" [ref=e70469]:
+                            - generic [ref=e70470]: "-"
+                          - cell "-" [ref=e70471]:
+                            - generic [ref=e70472]: "-"
+                          - cell "https://www.linkedin..." [ref=e70473]:
+                            - generic [ref=e70476]: https://www.linkedin...
+                          - cell "Per hour" [ref=e70477]:
+                            - generic [ref=e70480]: Per hour
+                          - cell "no" [ref=e70481]:
+                            - generic [ref=e70484]: "no"
+                          - cell "-" [ref=e70485]:
+                            - generic [ref=e70486]: "-"
+                          - cell "-" [ref=e70487]:
+                            - generic [ref=e70488]: "-"
+                          - cell "-" [ref=e70489]:
+                            - generic [ref=e70490]: "-"
+                          - cell "-" [ref=e70491]:
+                            - generic [ref=e70492]: "-"
+                          - cell "-" [ref=e70493]:
+                            - generic [ref=e70494]: "-"
+                          - cell "-" [ref=e70495]:
+                            - generic [ref=e70496]: "-"
+                          - cell "-" [ref=e70497]:
+                            - generic [ref=e70498]: "-"
+                          - cell "-" [ref=e70499]:
+                            - generic [ref=e70500]: "-"
+                          - cell "-" [ref=e70501]:
+                            - generic [ref=e70502]: "-"
+                          - cell "-" [ref=e70503]:
+                            - generic [ref=e70504]: "-"
+                          - cell "-" [ref=e70505]:
+                            - generic [ref=e70506]: "-"
+                          - cell "-" [ref=e70507]:
+                            - generic [ref=e70508]: "-"
+                          - cell "-" [ref=e70509]:
+                            - generic [ref=e70510]: "-"
+                          - cell "-" [ref=e70511]:
+                            - generic [ref=e70512]: "-"
+                          - cell "-" [ref=e70513]:
+                            - generic [ref=e70514]: "-"
+                          - cell "-" [ref=e70515]:
+                            - generic [ref=e70516]: "-"
+                          - cell "-" [ref=e70517]:
+                            - generic [ref=e70518]: "-"
+                          - cell "-" [ref=e70519]:
+                            - generic [ref=e70520]: "-"
+                          - cell "Prasad" [ref=e70521]:
+                            - generic [ref=e70524]: Prasad
+                          - cell "-" [ref=e70525]:
+                            - generic [ref=e70526]:
+                              - text: "-"
+                              - button [ref=e70527] [cursor=pointer]:
+                                - img [ref=e70528]: edit
+                          - cell [ref=e70531]
+                          - cell "Existing" [ref=e70532]:
+                            - generic [ref=e70535]: Existing
+                          - cell "June 11, 2026 22:08:..." [ref=e70536]:
+                            - generic [ref=e70539]: June 11, 2026 22:08:...
+                          - cell "-" [ref=e70540]:
+                            - generic [ref=e70541]: "-"
+                          - cell "-" [ref=e70542]:
+                            - generic [ref=e70543]: "-"
+                          - cell "-" [ref=e70544]:
+                            - generic [ref=e70545]: "-"
+                          - cell "-" [ref=e70546]:
+                            - generic [ref=e70547]: "-"
+                          - cell "-" [ref=e70548]:
+                            - generic [ref=e70549]: "-"
+                          - cell "-" [ref=e70550]:
+                            - generic [ref=e70551]: "-"
+                          - cell "-" [ref=e70552]:
+                            - generic [ref=e70553]: "-"
+                          - cell "-" [ref=e70554]:
+                            - generic [ref=e70555]: "-"
+                          - cell "-" [ref=e70556]:
+                            - generic [ref=e70557]: "-"
+                          - cell "-" [ref=e70558]:
+                            - generic [ref=e70559]: "-"
+                          - cell "-" [ref=e70560]:
+                            - generic [ref=e70561]: "-"
+                          - cell "-" [ref=e70562]:
+                            - generic [ref=e70563]: "-"
+                          - cell "-" [ref=e70564]:
+                            - generic [ref=e70565]: "-"
+                        - row " Sathya Akkala Akkala - Java developer Dallas, TX Alaska June 10, 2026 16:30:... Not Responsive Select - System Automation - - - - No Career Portal Career Portal - - MAXGEN TECHNOLOGIES ... 0.00% - - - - - srikanth.akkala+mohe... Career Portal OOC - 16260 Sathya Akkala Akkala - +19126262277 Whatsapp Unspecified - OnSite - - - Available +19128228289 Whatsapp May 05, 1992 - - USA - - WEB DEVELOPMENT,JAVA... COMMUNICATION - - www.linkedin.com/in/... - yes - - - - English - - , - - - - - - - - - - - - Existing June 10, 2026 16:30:... - - - - - - - - - - - - -" [ref=e70566]:
+                          - cell "" [ref=e70567]:
+                            - generic [ref=e70568]:
+                              - generic [ref=e70571] [cursor=pointer]:
+                                - checkbox [ref=e70572]
+                                - generic:
+                                  - img
+                              - button [ref=e70573] [cursor=pointer]:
+                                - img [ref=e70574]: more_vert
+                              - generic [ref=e70577]:
+                                - img [ref=e70579]
+                                - button "" [ref=e70581] [cursor=pointer]:
+                                  - generic [ref=e70582]: 
+                                - button [ref=e70585] [cursor=pointer]:
+                                  - img [ref=e70586]: description
+                          - cell "Sathya Akkala Akkala" [ref=e70589]:
+                            - link "Sathya Akkala Akkala" [ref=e70591] [cursor=pointer]:
+                              - /url: "#/candidates/12458/view"
+                          - cell "-" [ref=e70592]:
+                            - generic [ref=e70593]: "-"
+                          - cell "Java developer" [ref=e70594]:
+                            - generic [ref=e70597]: Java developer
+                          - cell "Dallas, TX" [ref=e70598]:
+                            - generic [ref=e70601]: Dallas, TX
+                          - cell "Alaska" [ref=e70602]:
+                            - generic [ref=e70605]: Alaska
+                          - cell "June 10, 2026 16:30:..." [ref=e70606]:
+                            - generic [ref=e70609]: June 10, 2026 16:30:...
+                          - cell "Not Responsive" [ref=e70610]:
+                            - combobox "Not Responsive" [ref=e70616] [cursor=pointer]:
+                              - generic [ref=e70617]:
+                                - generic [ref=e70619]: Not Responsive
+                                - img [ref=e70622]
+                          - cell "Select" [ref=e70624]:
+                            - combobox "Select" [ref=e70630] [cursor=pointer]:
+                              - generic [ref=e70631]:
+                                - generic [ref=e70632]: Select
+                                - img [ref=e70635]
+                          - cell "-" [ref=e70637]:
+                            - generic [ref=e70638]: "-"
+                          - cell "System Automation" [ref=e70639]: System Automation
+                          - cell "-" [ref=e70640]:
+                            - generic [ref=e70641]: "-"
+                          - cell "-" [ref=e70642]:
+                            - generic [ref=e70643]: "-"
+                          - cell "-" [ref=e70644]:
+                            - generic [ref=e70645]: "-"
+                          - cell "-" [ref=e70646]:
+                            - generic [ref=e70647]: "-"
+                          - cell "No" [ref=e70648]:
+                            - generic [ref=e70651]: "No"
+                          - cell "Career Portal" [ref=e70652]:
+                            - generic [ref=e70655]: Career Portal
+                          - cell "Career Portal" [ref=e70656]:
+                            - generic [ref=e70659]: Career Portal
+                          - cell "-" [ref=e70660]:
+                            - generic [ref=e70661]: "-"
+                          - cell "-" [ref=e70662]:
+                            - generic [ref=e70663]: "-"
+                          - cell "MAXGEN TECHNOLOGIES ..." [ref=e70664]:
+                            - generic [ref=e70667]: MAXGEN TECHNOLOGIES ...
+                          - cell "0.00%" [ref=e70668]:
+                            - generic [ref=e70669]:
+                              - button [ref=e70671] [cursor=pointer]:
+                                - img [ref=e70672]: id_card
+                              - generic [ref=e70676]:
+                                - generic [ref=e70677]: 0.00%
+                                - img [ref=e70679] [cursor=pointer]: refresh
+                          - cell "-" [ref=e70680]:
+                            - generic [ref=e70681]: "-"
+                          - cell "-" [ref=e70682]:
+                            - generic [ref=e70683]: "-"
+                          - cell "-" [ref=e70684]:
+                            - generic [ref=e70685]: "-"
+                          - cell "-" [ref=e70686]:
+                            - generic [ref=e70687]: "-"
+                          - cell "-" [ref=e70688]:
+                            - generic [ref=e70689]: "-"
+                          - cell "srikanth.akkala+mohe..." [ref=e70690]:
+                            - generic [ref=e70693]: srikanth.akkala+mohe...
+                          - cell "Career Portal" [ref=e70694]:
+                            - generic [ref=e70697]: Career Portal
+                          - cell "OOC - 16260" [ref=e70698]:
+                            - link "OOC - 16260" [ref=e70700] [cursor=pointer]:
+                              - /url: "#/candidates/12458/view"
+                          - cell "Sathya" [ref=e70701]:
+                            - generic [ref=e70704]: Sathya
+                          - cell "Akkala" [ref=e70705]:
+                            - generic [ref=e70708]: Akkala
+                          - cell "Akkala" [ref=e70709]:
+                            - generic [ref=e70712]: Akkala
+                          - cell "-" [ref=e70713]:
+                            - generic [ref=e70714]: "-"
+                          - cell "+19126262277 Whatsapp" [ref=e70715]:
+                            - generic [ref=e70716]:
+                              - generic [ref=e70718]: "+19126262277"
+                              - button "Whatsapp" [ref=e70719] [cursor=pointer]:
+                                - img "Whatsapp" [ref=e70720]
+                          - cell "Unspecified" [ref=e70723]:
+                            - generic [ref=e70726]: Unspecified
+                          - cell "-" [ref=e70727]:
+                            - generic [ref=e70728]: "-"
+                          - cell "OnSite" [ref=e70729]:
+                            - generic [ref=e70732]: OnSite
+                          - cell "-" [ref=e70733]:
+                            - generic [ref=e70734]: "-"
+                          - cell "-" [ref=e70735]:
+                            - generic [ref=e70736]: "-"
+                          - cell "-" [ref=e70737]:
+                            - generic [ref=e70738]: "-"
+                          - cell "Available" [ref=e70739]:
+                            - generic [ref=e70742]: Available
+                          - cell "+19128228289 Whatsapp" [ref=e70743]:
+                            - generic [ref=e70744]:
+                              - generic [ref=e70746]: "+19128228289"
+                              - button "Whatsapp" [ref=e70747] [cursor=pointer]:
+                                - img "Whatsapp" [ref=e70748]
+                          - cell "May 05, 1992" [ref=e70751]:
+                            - generic [ref=e70754]: May 05, 1992
+                          - cell "-" [ref=e70755]:
+                            - generic [ref=e70756]: "-"
+                          - cell "-" [ref=e70757]:
+                            - generic [ref=e70758]: "-"
+                          - cell "USA" [ref=e70759]:
+                            - generic [ref=e70762]: USA
+                          - cell "-" [ref=e70763]:
+                            - generic [ref=e70764]: "-"
+                          - cell "-" [ref=e70765]:
+                            - generic [ref=e70766]: "-"
+                          - cell "WEB DEVELOPMENT,JAVA..." [ref=e70767]:
+                            - generic [ref=e70770]: WEB DEVELOPMENT,JAVA...
+                          - cell "COMMUNICATION" [ref=e70771]:
+                            - generic [ref=e70774]: COMMUNICATION
+                          - cell "-" [ref=e70775]:
+                            - generic [ref=e70776]: "-"
+                          - cell "-" [ref=e70777]:
+                            - generic [ref=e70778]: "-"
+                          - cell "www.linkedin.com/in/..." [ref=e70779]:
+                            - generic [ref=e70782]: www.linkedin.com/in/...
+                          - cell "-" [ref=e70783]:
+                            - generic [ref=e70784]: "-"
+                          - cell "yes" [ref=e70785]:
+                            - generic [ref=e70788]: "yes"
+                          - cell "-" [ref=e70789]:
+                            - generic [ref=e70790]: "-"
+                          - cell "-" [ref=e70791]:
+                            - generic [ref=e70792]: "-"
+                          - cell "-" [ref=e70793]:
+                            - generic [ref=e70794]: "-"
+                          - cell "-" [ref=e70795]:
+                            - generic [ref=e70796]: "-"
+                          - cell "English" [ref=e70797]:
+                            - generic [ref=e70800]: English
+                          - cell "-" [ref=e70801]:
+                            - generic [ref=e70802]: "-"
+                          - cell "-" [ref=e70803]:
+                            - generic [ref=e70804]: "-"
+                          - cell "," [ref=e70805]:
+                            - generic [ref=e70808]: ","
+                          - cell "-" [ref=e70809]:
+                            - generic [ref=e70810]: "-"
+                          - cell "-" [ref=e70811]:
+                            - generic [ref=e70812]: "-"
+                          - cell "-" [ref=e70813]:
+                            - generic [ref=e70814]: "-"
+                          - cell "-" [ref=e70815]:
+                            - generic [ref=e70816]: "-"
+                          - cell "-" [ref=e70817]:
+                            - generic [ref=e70818]: "-"
+                          - cell "-" [ref=e70819]:
+                            - generic [ref=e70820]: "-"
+                          - cell "-" [ref=e70821]:
+                            - generic [ref=e70822]: "-"
+                          - cell "-" [ref=e70823]:
+                            - generic [ref=e70824]: "-"
+                          - cell "-" [ref=e70825]:
+                            - generic [ref=e70826]: "-"
+                          - cell "-" [ref=e70827]:
+                            - generic [ref=e70828]: "-"
+                          - cell "-" [ref=e70829]:
+                            - generic [ref=e70830]: "-"
+                          - cell "-" [ref=e70831]:
+                            - generic [ref=e70832]:
+                              - text: "-"
+                              - button [ref=e70833] [cursor=pointer]:
+                                - img [ref=e70834]: edit
+                          - cell [ref=e70837]
+                          - cell "Existing" [ref=e70838]:
+                            - generic [ref=e70841]: Existing
+                          - cell "June 10, 2026 16:30:..." [ref=e70842]:
+                            - generic [ref=e70845]: June 10, 2026 16:30:...
+                          - cell "-" [ref=e70846]:
+                            - generic [ref=e70847]: "-"
+                          - cell "-" [ref=e70848]:
+                            - generic [ref=e70849]: "-"
+                          - cell "-" [ref=e70850]:
+                            - generic [ref=e70851]: "-"
+                          - cell "-" [ref=e70852]:
+                            - generic [ref=e70853]: "-"
+                          - cell "-" [ref=e70854]:
+                            - generic [ref=e70855]: "-"
+                          - cell "-" [ref=e70856]:
+                            - generic [ref=e70857]: "-"
+                          - cell "-" [ref=e70858]:
+                            - generic [ref=e70859]: "-"
+                          - cell "-" [ref=e70860]:
+                            - generic [ref=e70861]: "-"
+                          - cell "-" [ref=e70862]:
+                            - generic [ref=e70863]: "-"
+                          - cell "-" [ref=e70864]:
+                            - generic [ref=e70865]: "-"
+                          - cell "-" [ref=e70866]:
+                            - generic [ref=e70867]: "-"
+                          - cell "-" [ref=e70868]:
+                            - generic [ref=e70869]: "-"
+                          - cell "-" [ref=e70870]:
+                            - generic [ref=e70871]: "-"
+                    - generic [ref=e69507]:
+                      - combobox [ref=e69509]:
+                        - option "15"
+                        - option "20" [selected]
+                        - option "25"
+                        - option "30"
+                        - option "35"
+                        - option "50"
+                        - option "100"
+                      - generic [ref=e70872]: Showing 1 to 2 of 2
+                      - list [ref=e69511]:
+                        - listitem [ref=e69512]:
+                          - generic: «
+                        - listitem [ref=e69514]:
+                          - generic: ‹
+                        - listitem [ref=e70873]:
+                          - generic [ref=e70874] [cursor=pointer]: "1"
+                        - listitem [ref=e69516]:
+                          - generic: ›
+                        - listitem [ref=e69518]:
+                          - generic: »
+              - generic [ref=e69521]:
+                - button "Clone" [ref=e69522]:
+                  - generic [ref=e69523]: Clone
+                - button "Edit" [ref=e70875]:
+                  - generic [ref=e70876]: Edit
+                - button "Previous" [ref=e70879]:
+                  - generic [ref=e70880]: Previous
+                - button "Next" [ref=e70883]:
+                  - generic [ref=e70884]: Next
+            - generic [ref=e69529]:
+              - generic [ref=e69531] [cursor=pointer]: 
+              - generic [ref=e69533] [cursor=pointer]: 
+              - generic [ref=e70888] [cursor=pointer]: 
+              - separator [ref=e70889]
+              - generic [ref=e69535] [cursor=pointer]: 
+              - generic [ref=e69537] [cursor=pointer]: 
+              - generic [ref=e69539] [cursor=pointer]: 
+              - generic [ref=e69541] [cursor=pointer]: 
+              - generic [ref=e69543] [cursor=pointer]: 
+              - generic [ref=e69545] [cursor=pointer]: 
+              - generic [ref=e69547] [cursor=pointer]: 
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

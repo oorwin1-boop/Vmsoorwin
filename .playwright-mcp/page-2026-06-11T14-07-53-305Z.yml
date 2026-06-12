@@ -1,0 +1,174 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e21497]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e17788]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e17789] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e21502]:
+          - generic [ref=e21504]:
+            - heading "Jobs" [level=1] [ref=e21506]
+            - generic [ref=e21507]:
+              - link "Home" [ref=e21511] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e21512]:
+                - text: /
+                - generic [ref=e21514]: Jobs
+          - navigation [ref=e21516]:
+            - generic [ref=e21519]:
+              - link "All Jobs" [ref=e21520] [cursor=pointer]:
+                - /url: "#/jobs"
+                - generic [ref=e21522]: All Jobs
+              - link "Published Jobs" [ref=e21523] [cursor=pointer]:
+                - /url: "#/jobs/getPromotedJobsListView"
+                - generic [ref=e21525]: Published Jobs
+          - generic [ref=e21526]:
+            - generic [ref=e21531]:
+              - heading "Views" [level=6] [ref=e21534]
+              - button "Create View" [ref=e21537]:
+                - generic [ref=e21539]:
+                  - generic [ref=e21540]: Create View
+                  - img [ref=e21541]: add
+            - generic [ref=e21548]:
+              - generic [ref=e21549]:
+                - generic [ref=e21550]:
+                  - button [ref=e21551] [cursor=pointer]:
+                    - img [ref=e21552]: right_panel_open
+                  - generic [ref=e21560]:
+                    - textbox "Search Job Title, Job ID ,Tags" [ref=e21561]
+                    - button [ref=e21562] [cursor=pointer]:
+                      - img [ref=e21563]: search
+                - generic [ref=e21565]:
+                  - button "Add Job" [ref=e21566]:
+                    - generic [ref=e21568]:
+                      - img [ref=e21569]: add
+                      - generic [ref=e21570]: Add Job
+                      - img [ref=e21571]: expand_more
+                  - button [ref=e21574]:
+                    - img [ref=e21575]: view_column
+                  - button [ref=e21578]:
+                    - img [ref=e21579]: more_vert
+              - table [ref=e21584]:
+                - rowgroup [ref=e21585]:
+                  - row [ref=e21586]
+                - rowgroup
+              - generic [ref=e21590]:
+                - combobox [ref=e21592]:
+                  - option "15"
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - list [ref=e21594]:
+                  - listitem [ref=e21595]:
+                    - generic [ref=e21596] [cursor=pointer]: «
+                  - listitem [ref=e21597]:
+                    - generic [ref=e21598] [cursor=pointer]: ‹
+                  - listitem [ref=e21599]:
+                    - generic [ref=e21600] [cursor=pointer]: ›
+                  - listitem [ref=e21601]:
+                    - generic [ref=e21602] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e17839]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

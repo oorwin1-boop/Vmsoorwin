@@ -1,0 +1,89 @@
+name: Daily Playwright Tests
+
+on:
+  schedule:
+    - cron: '30 2 * * *'   # 8:00 AM IST (UTC+5:30) = 02:30 UTC
+  workflow_dispatch:        # manual trigger button in GitHub UI
+    inputs:
+      project:
+        description: 'Browser project to run'
+        required: false
+        default: 'chromium'
+        type: choice
+        options:
+          - chromium
+          - firefox
+          - webkit
+
+jobs:
+  test:
+    name: Playwright E2E Tests
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Install Playwright browsers
+        run: npx playwright install --with-deps chromium
+
+      - name: Run Playwright tests
+        run: npx playwright test --project=${{ github.event.inputs.project || 'chromium' }}
+        env:
+          TEST_ENV: development
+          BASE_URL: ${{ secrets.BASE_URL }}
+          LOGIN_URL: ${{ secrets.LOGIN_URL }}
+          TEST_USER_EMAIL: ${{ secrets.TEST_USER_EMAIL }}
+          TEST_USER_PASSWORD: ${{ secrets.TEST_USER_PASSWORD }}
+          ADMIN_EMAIL: ${{ secrets.ADMIN_EMAIL }}
+          ADMIN_PASSWORD: ${{ secrets.ADMIN_PASSWORD }}
+          CI: true
+
+      - name: Upload Playwright HTML report
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: playwright-report-${{ github.run_number }}
+          path: playwright-report/
+          retention-days: 14
+
+      - name: Upload test results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: test-results-${{ github.run_number }}
+          path: test-results/
+          retention-days: 7
+
+      - name: Upload Allure results
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: allure-results-${{ github.run_number }}
+          path: allure-results/
+          retention-days: 7
+
+      - name: Post summary
+        if: always()
+        run: |
+          echo "## Test Run Summary" >> $GITHUB_STEP_SUMMARY
+          echo "- **Date:** $(date -u '+%Y-%m-%d %H:%M UTC')" >> $GITHUB_STEP_SUMMARY
+          echo "- **Branch:** ${{ github.ref_name }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Project:** ${{ github.event.inputs.project || 'chromium' }}" >> $GITHUB_STEP_SUMMARY
+          echo "- **Run:** [${{ github.run_number }}](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})" >> $GITHUB_STEP_SUMMARY
+          if [ -f test-results/results.json ]; then
+            TOTAL=$(cat test-results/results.json | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('stats',{}).get('expected',0))")
+            FAILED=$(cat test-results/results.json | python3 -c "import sys,json; d=json.load(sys.stdin); print(d.get('stats',{}).get('unexpected',0))")
+            echo "- **Passed:** $((TOTAL - FAILED)) / $TOTAL" >> $GITHUB_STEP_SUMMARY
+            echo "- **Failed:** $FAILED" >> $GITHUB_STEP_SUMMARY
+          fi

@@ -1,0 +1,346 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e75546]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e114]:
+                  - generic [ref=e115] [cursor=pointer]:
+                    - img [ref=e117]:
+                      - img [ref=e118]
+                    - generic [ref=e119]: HR
+                  - generic [ref=e72761]:
+                    - generic [ref=e72762]: Human Resources
+                    - generic [ref=e72764]:
+                      - link "Employees" [ref=e72765] [cursor=pointer]:
+                        - /url: "#/employees"
+                        - text:  Employees
+                      - link "" [ref=e72766] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72767]: 
+                    - generic [ref=e72769]:
+                      - link "Assignments" [ref=e72770] [cursor=pointer]:
+                        - /url: "#/assignments"
+                        - text:  Assignments
+                      - link "" [ref=e72771] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72772]: 
+                    - generic [ref=e72774]:
+                      - link "Timesheets" [ref=e72775] [cursor=pointer]:
+                        - /url: "#/timesheets/all"
+                        - text:  Timesheets
+                      - link "" [ref=e72776] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72777]: 
+                    - generic [ref=e72779]:
+                      - link "Expenses" [ref=e72780] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/submitted"
+                        - text:  Expenses
+                      - link "" [ref=e72781] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72782]: 
+                    - generic [ref=e72784]:
+                      - link "Invoices" [ref=e72785] [cursor=pointer]:
+                        - /url: "#/invoices/all"
+                        - text:  Invoices
+                      - link "" [ref=e72786] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72787]: 
+                    - generic [ref=e72789]:
+                      - link "Accounts Payable" [ref=e72790] [cursor=pointer]:
+                        - /url: "#/bills/list"
+                        - text:  Accounts Payable
+                      - link "" [ref=e72791] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72792]: 
+                    - generic [ref=e72794]:
+                      - link "US Immigration" [ref=e72795] [cursor=pointer]:
+                        - /url: "#/immigration/case_management"
+                        - text:  US Immigration
+                      - link "" [ref=e72796] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72797]: 
+                    - generic [ref=e72799]:
+                      - link "I9 Compliance" [ref=e72800] [cursor=pointer]:
+                        - /url: "#/i9/list"
+                        - text:  I9 Compliance
+                      - link "" [ref=e72801] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72802]: 
+                    - generic [ref=e72804]:
+                      - link "Tasks" [ref=e72805] [cursor=pointer]:
+                        - /url: "#/tasks_list"
+                        - text:  Tasks
+                      - link "" [ref=e72806] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72807]: 
+                    - generic [ref=e72809]:
+                      - link "Documents" [ref=e72810] [cursor=pointer]:
+                        - /url: "#/documents"
+                        - text:  Documents
+                      - link "" [ref=e72811] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72812]: 
+                    - generic [ref=e72814]:
+                      - link "Onboarding" [ref=e72815] [cursor=pointer]:
+                        - /url: "#/onboarding/requests"
+                        - text:  Onboarding
+                      - link "" [ref=e72816] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72817]: 
+                    - generic [ref=e72819]:
+                      - link "Attendance" [ref=e72820] [cursor=pointer]:
+                        - /url: "#/attendance"
+                        - text:  Attendance
+                      - link "" [ref=e72821] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72822]: 
+                    - generic [ref=e72824]:
+                      - link "Assets Management" [ref=e72825] [cursor=pointer]:
+                        - /url: "#/assets"
+                        - text:  Assets Management
+                      - link "" [ref=e72826] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72827]: 
+                    - generic [ref=e72829]:
+                      - link "Projects" [ref=e72830] [cursor=pointer]:
+                        - /url: "#/projects"
+                        - text:  Projects
+                      - link "" [ref=e72831] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72832]: 
+                    - generic [ref=e72834]:
+                      - link "Offboarding" [ref=e72835] [cursor=pointer]:
+                        - /url: "#/offboarding"
+                        - text:  Offboarding
+                      - link "" [ref=e72836] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72837]: 
+                    - generic [ref=e72839]:
+                      - link "Performance" [ref=e72840] [cursor=pointer]:
+                        - /url: "#/performance"
+                        - text:  Performance
+                      - link "" [ref=e72841] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72842]: 
+                    - generic [ref=e72844]:
+                      - link "Help Desk" [ref=e72845] [cursor=pointer]:
+                        - /url: "#/help_desk"
+                        - text:  Help Desk
+                      - link "" [ref=e72846] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72847]: 
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e75551]:
+          - generic [ref=e75553]:
+            - generic [ref=e75554]: US Immigration
+            - generic [ref=e75555]:
+              - link "Home" [ref=e75559] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e75560]:
+                - text: /
+                - generic [ref=e75562]: US Immigration
+          - navigation [ref=e75564]:
+            - generic [ref=e75567]:
+              - link "Dashboard" [ref=e75568] [cursor=pointer]:
+                - /url: "#/immigration/dashboard"
+                - generic [ref=e75570]: Dashboard
+              - link "Case Management" [ref=e75571] [cursor=pointer]:
+                - /url: "#/immigration/case_management"
+                - generic [ref=e75573]: Case Management
+          - generic [ref=e75575]:
+            - generic [ref=e75581]:
+              - link "All Cases" [ref=e75585] [cursor=pointer]:
+                - /url: javascript:;
+              - link "LCA" [ref=e75589] [cursor=pointer]:
+                - /url: javascript:;
+              - link "H-1B" [ref=e75593] [cursor=pointer]:
+                - /url: javascript:;
+              - link "Public Access File" [ref=e75597] [cursor=pointer]:
+                - /url: javascript:;
+              - link "Settings" [ref=e75601] [cursor=pointer]:
+                - /url: javascript:;
+            - generic [ref=e75605]:
+              - generic [ref=e75606]:
+                - generic [ref=e75607]:
+                  - button [ref=e75608] [cursor=pointer]:
+                    - img [ref=e75609]: left_panel_close
+                  - generic [ref=e75616]:
+                    - textbox "Search Case ID, Employees, Case Type" [ref=e75617]
+                    - button [ref=e75618] [cursor=pointer]:
+                      - img [ref=e75619]: search
+                - generic [ref=e75621]:
+                  - button "Reference Links" [ref=e75622]:
+                    - generic [ref=e75624]:
+                      - generic [ref=e75625]: Reference Links
+                      - img [ref=e75626]: expand_more
+                  - button "Create CASE" [ref=e75629]:
+                    - generic [ref=e75631]:
+                      - generic [ref=e75632]: Create CASE
+                      - img [ref=e75633]: expand_more
+              - table [ref=e75638]:
+                - rowgroup [ref=e75639]:
+                  - row "Case Id Employee Name Case Type Case Sub-Type Initiated Date Processing Type Case Status Filing Date Created By" [ref=e75640]:
+                    - columnheader [ref=e75641]
+                    - columnheader "Case Id" [ref=e75642]:
+                      - generic [ref=e75643]:
+                        - generic [ref=e75644]: Case Id
+                        - button [ref=e75645] [cursor=pointer]:
+                          - img [ref=e75646]: filter_list
+                    - columnheader "Employee Name" [ref=e75649]:
+                      - generic [ref=e75650]:
+                        - generic [ref=e75651]: Employee Name
+                        - button [ref=e75652] [cursor=pointer]:
+                          - img [ref=e75653]: filter_list
+                    - columnheader "Case Type" [ref=e75656]:
+                      - generic [ref=e75657]:
+                        - generic [ref=e75658]: Case Type
+                        - button [ref=e75659] [cursor=pointer]:
+                          - img [ref=e75660]: filter_list
+                    - columnheader "Case Sub-Type" [ref=e75663]:
+                      - generic [ref=e75664]:
+                        - generic [ref=e75665]: Case Sub-Type
+                        - button [ref=e75666] [cursor=pointer]:
+                          - img [ref=e75667]: filter_list
+                    - columnheader "Initiated Date" [ref=e75670]:
+                      - generic [ref=e75671]:
+                        - generic [ref=e75672]: Initiated Date
+                        - button [ref=e75673] [cursor=pointer]:
+                          - img [ref=e75674]: filter_list
+                    - columnheader "Processing Type" [ref=e75677]:
+                      - generic [ref=e75678]:
+                        - generic [ref=e75679]: Processing Type
+                        - button [ref=e75680] [cursor=pointer]:
+                          - img [ref=e75681]: filter_list
+                    - columnheader "Case Status" [ref=e75684]:
+                      - generic [ref=e75685]:
+                        - generic [ref=e75686]: Case Status
+                        - button [ref=e75687] [cursor=pointer]:
+                          - img [ref=e75688]: filter_list
+                    - columnheader "Filing Date" [ref=e75691]:
+                      - generic [ref=e75692]:
+                        - generic [ref=e75693]: Filing Date
+                        - button [ref=e75694] [cursor=pointer]:
+                          - img [ref=e75695]: filter_list
+                    - columnheader "Created By" [ref=e75698]:
+                      - generic [ref=e75699]:
+                        - generic [ref=e75700]: Created By
+                        - button [ref=e75701] [cursor=pointer]:
+                          - img [ref=e75702]: filter_list
+                - rowgroup
+              - generic [ref=e75708]:
+                - combobox [ref=e75710]:
+                  - option "15"
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - list [ref=e75712]:
+                  - listitem [ref=e75713]:
+                    - generic [ref=e75714] [cursor=pointer]: «
+                  - listitem [ref=e75715]:
+                    - generic [ref=e75716] [cursor=pointer]: ‹
+                  - listitem [ref=e75717]:
+                    - generic [ref=e75718] [cursor=pointer]: ›
+                  - listitem [ref=e75719]:
+                    - generic [ref=e75720] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

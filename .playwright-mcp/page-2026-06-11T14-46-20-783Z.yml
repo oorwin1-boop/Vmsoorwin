@@ -1,0 +1,516 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e68666]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e115] [cursor=pointer]:
+                  - img [ref=e117]:
+                    - img [ref=e118]
+                  - generic [ref=e119]: HR
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e67621]:
+          - generic [ref=e67623]:
+            - heading "Leads" [level=1] [ref=e67625]
+            - generic [ref=e67626]:
+              - link "Home" [ref=e67630] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e67631]:
+                - text: /
+                - generic [ref=e67633]: Leads
+          - generic [ref=e67636]:
+            - generic [ref=e67637]:
+              - button [ref=e67638]:
+                - img [ref=e67639]: keyboard_backspace
+              - generic [ref=e67642]: Add Lead
+            - generic [ref=e67644]:
+              - generic [ref=e67647]:
+                - generic [ref=e67648]:
+                  - generic [ref=e67650]: Lead Details
+                  - generic [ref=e67653]:
+                    - generic [ref=e67660]:
+                      - generic [ref=e67662]: First Name
+                      - textbox "First Name" [ref=e67664]
+                    - generic [ref=e67672]:
+                      - generic [ref=e67674]: 22Tag
+                      - generic "item.label_name" [ref=e67676]:
+                        - textbox "22Tag" [ref=e67677]
+                    - generic [ref=e67685] [cursor=pointer]:
+                      - generic [ref=e67687]: 22Test1
+                      - combobox "22Test1" [ref=e67689]:
+                        - img [ref=e67695]
+                    - generic [ref=e67704] [cursor=pointer]:
+                      - generic [ref=e67706]: 22users
+                      - combobox "22users Select" [ref=e67708]:
+                        - generic [ref=e67709]:
+                          - generic [ref=e67711]: Select
+                          - img [ref=e67714]
+                    - generic [ref=e67719]:
+                      - generic [ref=e67720]: 22CheckBoxes
+                      - generic [ref=e67721]:
+                        - generic [ref=e67723]:
+                          - generic [ref=e67724] [cursor=pointer]:
+                            - checkbox "22Test3" [ref=e67725]
+                            - generic:
+                              - img
+                          - generic [ref=e67726] [cursor=pointer]: 22Test3
+                        - generic [ref=e67728]:
+                          - generic [ref=e67729] [cursor=pointer]:
+                            - checkbox "22Test4" [ref=e67730]
+                            - generic:
+                              - img
+                          - generic [ref=e67731] [cursor=pointer]: 22Test4
+                    - generic [ref=e67736]:
+                      - generic [ref=e67740]:
+                        - generic [ref=e67742]: 22Range
+                        - spinbutton "22Range" [ref=e67744]
+                      - generic [ref=e67746]: To
+                      - generic [ref=e67750]:
+                        - generic [ref=e67752]: 22Range
+                        - spinbutton "22Range" [ref=e67754]
+                    - generic [ref=e67762] [cursor=pointer]:
+                      - generic [ref=e67764]: 22Muti Usres
+                      - combobox "22Muti Usres" [ref=e67766]:
+                        - img [ref=e67772]
+                    - generic [ref=e67777]:
+                      - generic [ref=e67779]: 22Radio Buttons
+                      - radiogroup [ref=e67780]:
+                        - generic [ref=e67782]:
+                          - radio "22rTest1" [ref=e67785] [cursor=pointer]
+                          - generic [ref=e67788]: 22rTest1
+                        - generic [ref=e67790]:
+                          - radio "22rTest2" [ref=e67793] [cursor=pointer]
+                          - generic [ref=e67796]: 22rTest2
+                    - generic [ref=e67803] [cursor=pointer]:
+                      - generic [ref=e67805]: 22DropDown
+                      - combobox "22DropDown Select" [ref=e67807]:
+                        - generic [ref=e67808]:
+                          - generic [ref=e67810]: Select
+                          - img [ref=e67813]
+                    - generic [ref=e67821]:
+                      - generic [ref=e67823]: 22textArea
+                      - textbox "22textArea" [ref=e67825]
+                    - generic [ref=e67829]:
+                      - generic [ref=e67830]: 22Text Editor
+                      - application "Rich Text Editor, editor_form" [ref=e67832]:
+                        - group "Editor toolbars":
+                          - toolbar "Basic Styles" [ref=e67833]:
+                            - button "Bold" [ref=e67834]
+                            - button "Italic" [ref=e67836]
+                            - button "Copy" [disabled] [ref=e67838]
+                            - button "Paste" [ref=e67840]
+                          - toolbar "Paragraph" [ref=e67842]:
+                            - button "Insert/Remove Bulleted List" [ref=e67843]
+                            - button "Insert/Remove Numbered List" [ref=e67845]
+                          - toolbar "Editing" [ref=e67847]:
+                            - button "Align Left" [ref=e67848]
+                            - button "Center" [ref=e67850]
+                            - button "Justify" [ref=e67852]
+                            - button "Align Right" [ref=e67854]
+                          - toolbar "Links" [ref=e67856]:
+                            - button "Link" [ref=e67857]
+                          - toolbar "Insert" [ref=e67859]:
+                            - button "Image" [ref=e67860]
+                            - button "Table" [ref=e67862]
+                          - toolbar "Colors" [ref=e67864]:
+                            - button "Text Color" [ref=e67865]
+                            - button "Background Color" [ref=e67868]
+                          - toolbar "Clipboard/Undo" [ref=e67871]:
+                            - button "Undo" [disabled] [ref=e67872]
+                            - button "Redo" [disabled] [ref=e67874]
+                          - toolbar "Styles" [ref=e67876]:
+                            - button "Styles" [ref=e67877]:
+                              - generic [ref=e67878]: Styles
+                            - button "Format" [ref=e67881]:
+                              - generic [ref=e67882]: Format
+                            - button "Font" [ref=e67885]:
+                              - generic [ref=e67886]: Font
+                            - button "Size" [ref=e67889]:
+                              - generic [ref=e67890]: Size
+                            - button "Paste from Word" [ref=e67893]
+                            - button "Source" [ref=e67895]:
+                              - generic [ref=e67897]: Source
+                        - iframe [ref=e67898]:
+                          - textbox "Editor, editor_form" [active] [ref=f15e1]
+                    - generic [ref=e67904]:
+                      - generic [ref=e67906]: 22 Date
+                      - textbox "22 Date" [ref=e67908]
+                      - button "Open calendar" [ref=e67911] [cursor=pointer]:
+                        - img [ref=e67912]
+                    - generic [ref=e67922]:
+                      - generic [ref=e67924]: 22Currency
+                      - textbox "22Currency" [ref=e67926]
+                    - generic [ref=e67934]:
+                      - generic [ref=e67936]: Middle Name
+                      - textbox "Middle Name" [ref=e67938]
+                    - generic [ref=e67946]:
+                      - generic [ref=e67948]: Last Name
+                      - textbox "Last Name" [ref=e67950]
+                    - generic [ref=e67958] [cursor=pointer]:
+                      - generic [ref=e67960]: Lead Workflow
+                      - combobox "Lead Workflow Select" [ref=e67962]:
+                        - generic [ref=e67963]:
+                          - generic [ref=e67965]: Select
+                          - img [ref=e67968]
+                    - generic [ref=e67977]:
+                      - generic [ref=e67979]: Department
+                      - textbox "Department" [ref=e67981]
+                    - generic [ref=e67989] [cursor=pointer]:
+                      - generic [ref=e67991]: Lead Owner
+                      - combobox "Lead Owner Pavan Kumar DEV" [ref=e67993]:
+                        - generic [ref=e67994]:
+                          - generic [ref=e67997]: Pavan Kumar DEV
+                          - img [ref=e68000]
+                    - generic [ref=e68009]:
+                      - generic [ref=e68011]: Title
+                      - textbox "Title" [ref=e68013]
+                    - generic [ref=e68021]:
+                      - generic [ref=e68023]: Phone
+                      - generic [ref=e68026]:
+                        - button "+1" [ref=e68027]:
+                          - generic [ref=e68028]: "+1"
+                        - textbox [ref=e68032]
+                    - generic [ref=e68039]:
+                      - generic [ref=e68041]: Email
+                      - textbox "Email" [ref=e68043]
+                    - generic [ref=e68051]:
+                      - generic [ref=e68053]: Mobile
+                      - generic [ref=e68056]:
+                        - button "+1" [ref=e68057]:
+                          - generic [ref=e68058]: "+1"
+                        - textbox [ref=e68062]
+                    - generic [ref=e68070]:
+                      - generic [ref=e68072]: Nick Name
+                      - textbox "Nick Name" [ref=e68074]
+                    - generic [ref=e68082] [cursor=pointer]:
+                      - generic [ref=e68084]: Lead Rating
+                      - combobox "Lead Rating Select" [ref=e68086]:
+                        - generic [ref=e68087]:
+                          - generic [ref=e68089]: Select
+                          - img [ref=e68092]
+                    - generic [ref=e68101] [cursor=pointer]:
+                      - generic [ref=e68103]: Lead Source
+                      - combobox "Lead Source Select" [ref=e68105]:
+                        - generic [ref=e68106]:
+                          - generic [ref=e68108]: Select
+                          - img [ref=e68111]
+                    - generic [ref=e68118]:
+                      - generic [ref=e68122]:
+                        - generic [ref=e68124]: Account Name
+                        - combobox "Account Name" [ref=e68126]
+                      - button [ref=e68129]:
+                        - img [ref=e68130]: add
+                    - generic [ref=e68139]:
+                      - generic [ref=e68141]: Street
+                      - textbox "Street" [ref=e68143]
+                    - generic [ref=e68150]:
+                      - generic [ref=e68152]: City
+                      - combobox "City" [ref=e68154]
+                    - generic [ref=e68161] [cursor=pointer]:
+                      - generic [ref=e68163]: Country
+                      - combobox "Country USA" [ref=e68165]:
+                        - generic [ref=e68166]:
+                          - generic [ref=e68168]: USA
+                          - img [ref=e68171]
+                    - generic [ref=e68179] [cursor=pointer]:
+                      - generic [ref=e68181]: State
+                      - combobox "State" [ref=e68183]:
+                        - img [ref=e68189]
+                    - generic [ref=e68198]:
+                      - generic [ref=e68200]: Postal Code
+                      - textbox "Postal Code" [ref=e68202]
+                    - generic [ref=e68209]:
+                      - generic [ref=e68211]: Linkedin Url
+                      - textbox "Linkedin Url" [ref=e68213]
+                    - generic [ref=e68217]:
+                      - generic [ref=e68219]: Test Radio Buttons
+                      - radiogroup [ref=e68220]:
+                        - generic [ref=e68222]:
+                          - radio "Test1" [ref=e68225] [cursor=pointer]
+                          - generic [ref=e68228]: Test1
+                        - generic [ref=e68230]:
+                          - radio "Test2" [ref=e68233] [cursor=pointer]
+                          - generic [ref=e68236]: Test2
+                        - generic [ref=e68238]:
+                          - radio "Test3" [ref=e68241] [cursor=pointer]
+                          - generic [ref=e68244]: Test3
+                        - generic [ref=e68246]:
+                          - radio "Test4" [ref=e68249] [cursor=pointer]
+                          - generic [ref=e68252]: Test4
+                        - generic [ref=e68254]:
+                          - radio "Test5" [ref=e68257] [cursor=pointer]
+                          - generic [ref=e68260]: Test5
+                        - generic [ref=e68262]:
+                          - radio "Test6" [ref=e68265] [cursor=pointer]
+                          - generic [ref=e68268]: Test6
+                    - generic [ref=e68273]:
+                      - generic:
+                        - generic:
+                          - generic [ref=e68275]: Source of Creation
+                          - textbox "Source of Creation" [disabled] [ref=e68276]: Portal
+                    - generic [ref=e68283]:
+                      - generic [ref=e68285]: Facebook Url
+                      - textbox "Facebook Url" [ref=e68287]
+                    - generic [ref=e68294]:
+                      - generic [ref=e68296]: X (Twitter) URL
+                      - textbox "X (Twitter) URL" [ref=e68298]
+                    - generic [ref=e68302]:
+                      - generic [ref=e68304]: Radio
+                      - radiogroup [ref=e68305]:
+                        - generic [ref=e68307]:
+                          - radio "Male" [ref=e68310] [cursor=pointer]
+                          - generic [ref=e68313]: Male
+                        - generic [ref=e68315]:
+                          - radio "Female" [ref=e68318] [cursor=pointer]
+                          - generic [ref=e68321]: Female
+                    - generic [ref=e68328]:
+                      - generic [ref=e68330]: Test 2
+                      - textbox "Test 2" [ref=e68332]
+                    - generic [ref=e68340]:
+                      - generic [ref=e68342]: Test Mandatory
+                      - textbox "Test Mandatory" [ref=e68344]
+                    - generic [ref=e68348]:
+                      - generic [ref=e68349]: I would like to know more about
+                      - generic [ref=e68350]:
+                        - generic [ref=e68352]:
+                          - generic [ref=e68353] [cursor=pointer]:
+                            - checkbox "Applicant Tracking System" [ref=e68354]
+                            - generic:
+                              - img
+                          - generic [ref=e68355] [cursor=pointer]: Applicant Tracking System
+                        - generic [ref=e68357]:
+                          - generic [ref=e68358] [cursor=pointer]:
+                            - checkbox "Human Resource Management" [ref=e68359]
+                            - generic:
+                              - img
+                          - generic [ref=e68360] [cursor=pointer]: Human Resource Management
+                        - generic [ref=e68362]:
+                          - generic [ref=e68363] [cursor=pointer]:
+                            - checkbox "Customer Relationship Management" [ref=e68364]
+                            - generic:
+                              - img
+                          - generic [ref=e68365] [cursor=pointer]: Customer Relationship Management
+                    - generic [ref=e68372]:
+                      - generic [ref=e68374]: Test 1
+                      - textbox "Test 1" [ref=e68376]
+                    - generic [ref=e68384]:
+                      - generic [ref=e68386]: Lead Test 1
+                      - textbox "Lead Test 1" [ref=e68388]
+                    - generic [ref=e68396]:
+                      - generic [ref=e68398]: Test Field
+                      - textbox "Test Field" [ref=e68400]
+                    - generic [ref=e68406]:
+                      - generic [ref=e68410]:
+                        - generic [ref=e68412]: Lead Oppor...
+                        - spinbutton "Lead Oppor..." [ref=e68414]
+                      - generic [ref=e68416]: To
+                      - generic [ref=e68420]:
+                        - generic [ref=e68422]: Lead Oppor...
+                        - spinbutton "Lead Oppor..." [ref=e68424]
+                    - generic [ref=e68432]:
+                      - generic [ref=e68434]: Test Lead Tags
+                      - generic "item.label_name" [ref=e68436]:
+                        - textbox "Test Lead Tags" [ref=e68437]
+                    - generic [ref=e68445]:
+                      - generic [ref=e68447]: Test11
+                      - textbox "Test11" [ref=e68449]
+                    - generic [ref=e68457]:
+                      - generic [ref=e68459]: Text 12
+                      - textbox "Text 12" [ref=e68461]
+                    - generic [ref=e68465]:
+                      - generic [ref=e68466]: Interested Field
+                      - generic [ref=e68467]:
+                        - generic [ref=e68469]:
+                          - generic [ref=e68470] [cursor=pointer]:
+                            - checkbox "ATS" [ref=e68471]
+                            - generic:
+                              - img
+                          - generic [ref=e68472] [cursor=pointer]: ATS
+                        - generic [ref=e68474]:
+                          - generic [ref=e68475] [cursor=pointer]:
+                            - checkbox "HRM" [ref=e68476]
+                            - generic:
+                              - img
+                          - generic [ref=e68477] [cursor=pointer]: HRM
+                        - generic [ref=e68479]:
+                          - generic [ref=e68480] [cursor=pointer]:
+                            - checkbox "CRM" [ref=e68481]
+                            - generic:
+                              - img
+                          - generic [ref=e68482] [cursor=pointer]: CRM
+                    - generic [ref=e68489] [cursor=pointer]:
+                      - generic [ref=e68491]: Users Active
+                      - combobox "Users Active" [ref=e68493]:
+                        - img [ref=e68499]
+                    - generic [ref=e68508]:
+                      - generic [ref=e68510]: Client
+                      - textbox "Client" [ref=e68512]
+                - generic [ref=e68514]:
+                  - generic [ref=e68516]: LEAD BUSINESS
+                  - generic [ref=e68522]:
+                    - generic [ref=e68523]: Detail Info Pay
+                    - application "Rich Text Editor, editor_form" [ref=e68525]:
+                      - group "Editor toolbars":
+                        - toolbar "Basic Styles" [ref=e68526]:
+                          - button "Bold" [ref=e68527]
+                          - button "Italic" [ref=e68529]
+                          - button "Copy" [disabled] [ref=e68531]
+                          - button "Paste" [ref=e68533]
+                        - toolbar "Paragraph" [ref=e68535]:
+                          - button "Insert/Remove Bulleted List" [ref=e68536]
+                          - button "Insert/Remove Numbered List" [ref=e68538]
+                        - toolbar "Editing" [ref=e68540]:
+                          - button "Align Left" [ref=e68541]
+                          - button "Center" [ref=e68543]
+                          - button "Justify" [ref=e68545]
+                          - button "Align Right" [ref=e68547]
+                        - toolbar "Links" [ref=e68549]:
+                          - button "Link" [ref=e68550]
+                        - toolbar "Insert" [ref=e68552]:
+                          - button "Image" [ref=e68553]
+                          - button "Table" [ref=e68555]
+                        - toolbar "Colors" [ref=e68557]:
+                          - button "Text Color" [ref=e68558]
+                          - button "Background Color" [ref=e68561]
+                        - toolbar "Clipboard/Undo" [ref=e68564]:
+                          - button "Undo" [disabled] [ref=e68565]
+                          - button "Redo" [disabled] [ref=e68567]
+                        - toolbar "Styles" [ref=e68569]:
+                          - button "Styles" [ref=e68570]:
+                            - generic [ref=e68571]: Styles
+                          - button "Format" [ref=e68574]:
+                            - generic [ref=e68575]: Format
+                          - button "Font" [ref=e68578]:
+                            - generic [ref=e68579]: Font
+                          - button "Size" [ref=e68582]:
+                            - generic [ref=e68583]: Size
+                          - button "Paste from Word" [ref=e68586]
+                          - button "Source" [ref=e68588]:
+                            - generic [ref=e68590]: Source
+                      - iframe [ref=e68591]:
+                        - textbox "Editor, editor_form" [active] [ref=f16e1]
+                - generic [ref=e68592]:
+                  - generic [ref=e68594]: LEAD TESTING
+                  - generic [ref=e68597]:
+                    - generic [ref=e68604]:
+                      - generic [ref=e68606]: test99
+                      - textbox "test99" [ref=e68608]
+                    - generic [ref=e68616]:
+                      - generic [ref=e68618]: test9
+                      - textbox "test9" [ref=e68620]
+                    - generic [ref=e68626]:
+                      - generic [ref=e68630]:
+                        - generic [ref=e68632]: Testt
+                        - spinbutton "Testt" [ref=e68634]
+                      - generic [ref=e68636]: To
+                      - generic [ref=e68640]:
+                        - generic [ref=e68642]: Testt
+                        - spinbutton "Testt" [ref=e68644]
+              - generic [ref=e68646]:
+                - heading "Duplicate Leads" [level=4] [ref=e68648]
+                - generic [ref=e68651]:
+                  - img "No Records" [ref=e68653]
+                  - generic [ref=e68654]: No Duplicate Leads Found
+            - generic [ref=e68656]:
+              - button "Back" [ref=e68657]:
+                - generic [ref=e68658]: Back
+              - button "Save" [ref=e68661]
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;
+  - generic [ref=e68664]: Pavan Kumar DEV Super Admin

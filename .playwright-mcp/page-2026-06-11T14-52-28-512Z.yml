@@ -1,0 +1,753 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - img [ref=e81922]
+    - generic [ref=e84]:
+      - generic [ref=e87]:
+        - generic:
+          - generic:
+            - button [ref=e899] [cursor=pointer]
+            - navigation [ref=e88]:
+              - generic [ref=e89]:
+                - generic [ref=e91] [cursor=pointer]:
+                  - link [ref=e92]:
+                    - /url: "#/dashboard"
+                    - img [ref=e93]:
+                      - img [ref=e94]
+                  - generic [ref=e95]: Dashboards
+                - generic [ref=e97] [cursor=pointer]:
+                  - img [ref=e99]:
+                    - img [ref=e100]
+                  - generic [ref=e101]: Favourites
+                - generic [ref=e103] [cursor=pointer]:
+                  - img [ref=e105]:
+                    - img [ref=e106]
+                  - generic [ref=e107]: Sales
+                - generic [ref=e109] [cursor=pointer]:
+                  - img [ref=e111]:
+                    - img [ref=e112]
+                  - generic [ref=e113]: Recruit
+                - generic [ref=e114]:
+                  - generic [ref=e115] [cursor=pointer]:
+                    - img [ref=e117]:
+                      - img [ref=e118]
+                    - generic [ref=e119]: HR
+                  - generic [ref=e72761]:
+                    - generic [ref=e72762]: Human Resources
+                    - generic [ref=e72764]:
+                      - link "Employees" [ref=e72765] [cursor=pointer]:
+                        - /url: "#/employees"
+                        - text:  Employees
+                      - link "" [ref=e72766] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72767]: 
+                    - generic [ref=e72769]:
+                      - link "Assignments" [ref=e72770] [cursor=pointer]:
+                        - /url: "#/assignments"
+                        - text:  Assignments
+                      - link "" [ref=e72771] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72772]: 
+                    - generic [ref=e72774]:
+                      - link "Timesheets" [ref=e72775] [cursor=pointer]:
+                        - /url: "#/timesheets/all"
+                        - text:  Timesheets
+                      - link "" [ref=e72776] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72777]: 
+                    - generic [ref=e72779]:
+                      - link "Expenses" [ref=e72780] [cursor=pointer]:
+                        - /url: "#/expenses/expenses/submitted"
+                        - text:  Expenses
+                      - link "" [ref=e72781] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72782]: 
+                    - generic [ref=e72784]:
+                      - link "Invoices" [ref=e72785] [cursor=pointer]:
+                        - /url: "#/invoices/all"
+                        - text:  Invoices
+                      - link "" [ref=e72786] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72787]: 
+                    - generic [ref=e72789]:
+                      - link "Accounts Payable" [ref=e72790] [cursor=pointer]:
+                        - /url: "#/bills/list"
+                        - text:  Accounts Payable
+                      - link "" [ref=e72791] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72792]: 
+                    - generic [ref=e72794]:
+                      - link "US Immigration" [ref=e72795] [cursor=pointer]:
+                        - /url: "#/immigration/case_management"
+                        - text:  US Immigration
+                      - link "" [ref=e72796] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72797]: 
+                    - generic [ref=e72799]:
+                      - link "I9 Compliance" [ref=e72800] [cursor=pointer]:
+                        - /url: "#/i9/list"
+                        - text:  I9 Compliance
+                      - link "" [ref=e72801] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72802]: 
+                    - generic [ref=e72804]:
+                      - link "Tasks" [ref=e72805] [cursor=pointer]:
+                        - /url: "#/tasks_list"
+                        - text:  Tasks
+                      - link "" [ref=e72806] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72807]: 
+                    - generic [ref=e72809]:
+                      - link "Documents" [ref=e72810] [cursor=pointer]:
+                        - /url: "#/documents"
+                        - text:  Documents
+                      - link "" [ref=e72811] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72812]: 
+                    - generic [ref=e72814]:
+                      - link "Onboarding" [ref=e72815] [cursor=pointer]:
+                        - /url: "#/onboarding/requests"
+                        - text:  Onboarding
+                      - link "" [ref=e72816] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72817]: 
+                    - generic [ref=e72819]:
+                      - link "Attendance" [ref=e72820] [cursor=pointer]:
+                        - /url: "#/attendance"
+                        - text:  Attendance
+                      - link "" [ref=e72821] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72822]: 
+                    - generic [ref=e72824]:
+                      - link "Assets Management" [ref=e72825] [cursor=pointer]:
+                        - /url: "#/assets"
+                        - text:  Assets Management
+                      - link "" [ref=e72826] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72827]: 
+                    - generic [ref=e72829]:
+                      - link "Projects" [ref=e72830] [cursor=pointer]:
+                        - /url: "#/projects"
+                        - text:  Projects
+                      - link "" [ref=e72831] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72832]: 
+                    - generic [ref=e72834]:
+                      - link "Offboarding" [ref=e72835] [cursor=pointer]:
+                        - /url: "#/offboarding"
+                        - text:  Offboarding
+                      - link "" [ref=e72836] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72837]: 
+                    - generic [ref=e72839]:
+                      - link "Performance" [ref=e72840] [cursor=pointer]:
+                        - /url: "#/performance"
+                        - text:  Performance
+                      - link "" [ref=e72841] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72842]: 
+                    - generic [ref=e72844]:
+                      - link "Help Desk" [ref=e72845] [cursor=pointer]:
+                        - /url: "#/help_desk"
+                        - text:  Help Desk
+                      - link "" [ref=e72846] [cursor=pointer]:
+                        - /url: javascript:;
+                        - generic [ref=e72847]: 
+                - generic [ref=e121] [cursor=pointer]:
+                  - img [ref=e123]:
+                    - img [ref=e124]
+                  - generic [ref=e125]: General
+                - generic [ref=e127] [cursor=pointer]:
+                  - link [ref=e128]:
+                    - /url: "#/reports/allReports/hire"
+                    - img [ref=e129]:
+                      - img [ref=e130]
+                  - generic [ref=e131]: Reports
+                - generic [ref=e133] [cursor=pointer]:
+                  - link [ref=e134]:
+                    - /url: "#/marketplace/available"
+                    - img [ref=e135]:
+                      - img [ref=e136]
+                  - generic [ref=e137]: Marketplace
+                - generic [ref=e138]:
+                  - generic [ref=e140] [cursor=pointer]:
+                    - link [ref=e141]:
+                      - /url: "#/admin"
+                      - img [ref=e142]:
+                        - img [ref=e143]
+                    - generic [ref=e144]: Settings
+                  - generic [ref=e146] [cursor=pointer]:
+                    - link [ref=e147]:
+                      - /url: "#/helpcenter"
+                      - img [ref=e148]:
+                        - img [ref=e149]
+                    - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e50469]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e50470] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e81223]:
+          - generic [ref=e81225]:
+            - heading "Offboarding" [level=1] [ref=e81226]
+            - generic [ref=e81227]:
+              - link "Home" [ref=e81231] [cursor=pointer]:
+                - /url: "#/dashboard"
+              - generic [ref=e81232]:
+                - text: /
+                - generic [ref=e81234]: Offboarding
+          - generic [ref=e81235]:
+            - navigation [ref=e81241]:
+              - generic [ref=e81245] [cursor=pointer]: All
+              - generic [ref=e81249] [cursor=pointer]: Offboarding Inprogress
+              - generic [ref=e81253] [cursor=pointer]: Pending Approvals
+              - generic [ref=e81257] [cursor=pointer]: Approved
+              - generic [ref=e81261] [cursor=pointer]: Rejected Requests
+              - generic [ref=e81265] [cursor=pointer]: Offboarded
+              - generic [ref=e81269] [cursor=pointer]: My Offboardings
+            - generic [ref=e81273]:
+              - generic [ref=e81274]:
+                - generic [ref=e81275]:
+                  - button [ref=e81276] [cursor=pointer]:
+                    - img [ref=e81277]: left_panel_close
+                  - generic [ref=e81283]:
+                    - textbox "Employee Name, Email, Code" [ref=e81284]
+                    - button [ref=e81285] [cursor=pointer]:
+                      - img [ref=e81286]: search
+                - generic [ref=e81287]:
+                  - button "Initiate Offboarding" [ref=e81288]:
+                    - generic [ref=e81289]: Initiate Offboarding
+                  - button [ref=e81292]:
+                    - img [ref=e81293]: view_column
+                  - button [ref=e81296]:
+                    - img [ref=e81297]: Upload
+              - table [ref=e81309]:
+                - rowgroup [ref=e81310]:
+                  - row "Offboarding ID Offboarding Workflow Offboarding Progress Employee Name Employee ID Email Resignation Type Resignation Date Last Working Date Initiator Initiated On Status Comments" [ref=e81311]:
+                    - columnheader [ref=e81312]
+                    - columnheader "Offboarding ID" [ref=e81313]:
+                      - generic [ref=e81315]: Offboarding ID
+                    - columnheader "Offboarding Workflow" [ref=e81316]:
+                      - generic [ref=e81318]: Offboarding Workflow
+                    - columnheader "Offboarding Progress" [ref=e81319]:
+                      - generic [ref=e81321]: Offboarding Progress
+                    - columnheader "Employee Name" [ref=e81322]:
+                      - generic [ref=e81324]: Employee Name
+                    - columnheader "Employee ID" [ref=e81325]:
+                      - generic [ref=e81327]: Employee ID
+                    - columnheader "Email" [ref=e81328]:
+                      - generic [ref=e81330]: Email
+                    - columnheader "Resignation Type" [ref=e81331]:
+                      - generic [ref=e81333]: Resignation Type
+                    - columnheader "Resignation Date" [ref=e81334]:
+                      - generic [ref=e81336]: Resignation Date
+                    - columnheader "Last Working Date" [ref=e81337]:
+                      - generic [ref=e81339]: Last Working Date
+                    - columnheader "Initiator" [ref=e81340]:
+                      - generic [ref=e81342]: Initiator
+                    - columnheader "Initiated On" [ref=e81343]:
+                      - generic [ref=e81345]: Initiated On
+                    - columnheader "Status" [ref=e81346]:
+                      - generic [ref=e81348]: Status
+                    - columnheader "Comments" [ref=e81349]:
+                      - generic [ref=e81351]: Comments
+                - rowgroup [ref=e81352]:
+                  - row " OFB- 1542 Sandip import EMPL- 2006 sandip.mahato+import1@oorwin.com Resignation June 11, 2026 June 21, 2026 Sandip Mahato June 11, 2026 Offboarding Initiation - Pending Approval" [ref=e81353]:
+                    - cell "" [ref=e81354]:
+                      - generic [ref=e81355]:
+                        - button [ref=e81356] [cursor=pointer]:
+                          - img [ref=e81357]: more_vert
+                        - button [ref=e81360] [cursor=pointer]:
+                          - img [ref=e81361]: description
+                        - button "" [ref=e81364] [cursor=pointer]:
+                          - generic [ref=e81365]: 
+                        - button [ref=e81368] [cursor=pointer]:
+                          - img [ref=e81369]: person_check
+                    - cell "OFB- 1542" [ref=e81372]:
+                      - link "OFB- 1542" [ref=e81374] [cursor=pointer]:
+                        - /url: "#/offboarding/view/769/offboard_initation"
+                    - cell [ref=e81375]
+                    - cell [ref=e81376]
+                    - cell "Sandip import" [ref=e81377]:
+                      - link "Sandip import" [ref=e81378] [cursor=pointer]:
+                        - /url: "#/employees/2324/info"
+                    - cell "EMPL- 2006" [ref=e81379]
+                    - cell "sandip.mahato+import1@oorwin.com" [ref=e81380]
+                    - cell "Resignation" [ref=e81381]
+                    - cell "June 11, 2026" [ref=e81382]
+                    - cell "June 21, 2026" [ref=e81383]
+                    - cell "Sandip Mahato" [ref=e81384]
+                    - cell "June 11, 2026" [ref=e81385]
+                    - cell "Offboarding Initiation - Pending Approval" [ref=e81386]
+                    - cell [ref=e81387]
+                  - row " OFB- 1541 Mohan NewDev3 EMPL- 2017 mohan.pragada1+NewDev3@gmail.com Resignation June 10, 2026 June 20, 2026 Mohana Rao June 10, 2026 Offboarding Initiation - Pending Approval" [ref=e81388]:
+                    - cell "" [ref=e81389]:
+                      - generic [ref=e81390]:
+                        - button [ref=e81391] [cursor=pointer]:
+                          - img [ref=e81392]: more_vert
+                        - button [ref=e81395] [cursor=pointer]:
+                          - img [ref=e81396]: description
+                        - button "" [ref=e81399] [cursor=pointer]:
+                          - generic [ref=e81400]: 
+                        - button [ref=e81403] [cursor=pointer]:
+                          - img [ref=e81404]: person_check
+                    - cell "OFB- 1541" [ref=e81407]:
+                      - link "OFB- 1541" [ref=e81409] [cursor=pointer]:
+                        - /url: "#/offboarding/view/768/offboard_initation"
+                    - cell [ref=e81410]
+                    - cell [ref=e81411]
+                    - cell "Mohan NewDev3" [ref=e81412]:
+                      - link "Mohan NewDev3" [ref=e81413] [cursor=pointer]:
+                        - /url: "#/employees/2368/info"
+                    - cell "EMPL- 2017" [ref=e81414]
+                    - cell "mohan.pragada1+NewDev3@gmail.com" [ref=e81415]
+                    - cell "Resignation" [ref=e81416]
+                    - cell "June 10, 2026" [ref=e81417]
+                    - cell "June 20, 2026" [ref=e81418]
+                    - cell "Mohana Rao" [ref=e81419]
+                    - cell "June 10, 2026" [ref=e81420]
+                    - cell "Offboarding Initiation - Pending Approval" [ref=e81421]
+                    - cell [ref=e81422]
+                  - row " OFB- 1540 A A New Offboarding Workflow with 2 stag... 55% Mohan p1 EMPL- 1685 mohan.pragada1+p1@gmail.com Resignation April 24, 2026 May 4, 2026 Mohana Rao April 24, 2026 testing offboarding initiation request c..." [ref=e81423]:
+                    - cell "" [ref=e81424]:
+                      - generic [ref=e81425]:
+                        - button [ref=e81426] [cursor=pointer]:
+                          - img [ref=e81427]: more_vert
+                        - button [ref=e81430] [cursor=pointer]:
+                          - img [ref=e81431]: description
+                        - button "" [ref=e81434] [cursor=pointer]:
+                          - generic [ref=e81435]: 
+                        - button [ref=e81438] [cursor=pointer]:
+                          - img [ref=e81439]: person_check
+                    - cell "OFB- 1540" [ref=e81442]:
+                      - link "OFB- 1540" [ref=e81444] [cursor=pointer]:
+                        - /url: "#/offboarding/view/767/offboard_initation"
+                    - cell "A A New Offboarding Workflow with 2 stag..." [ref=e81445]
+                    - cell "55%" [ref=e81446]:
+                      - generic [ref=e81451]: 55%
+                    - cell "Mohan p1" [ref=e81452]:
+                      - link "Mohan p1" [ref=e81453] [cursor=pointer]:
+                        - /url: "#/employees/1247/info"
+                    - cell "EMPL- 1685" [ref=e81454]
+                    - cell "mohan.pragada1+p1@gmail.com" [ref=e81455]
+                    - cell "Resignation" [ref=e81456]
+                    - cell "April 24, 2026" [ref=e81457]
+                    - cell "May 4, 2026" [ref=e81458]
+                    - cell "Mohana Rao" [ref=e81459]
+                    - cell "April 24, 2026" [ref=e81460]
+                    - cell [ref=e81461]
+                    - cell "testing offboarding initiation request c..." [ref=e81462]
+                  - row " OFB- 1538 A A New Offboarding Workflow with 2 stag... 55% mohanarao Employee Overview EMP- 1255 mohanarao+overview@oorwin.com Resignation April 23, 2026 May 23, 2026 Mohana Rao April 23, 2026 testing offboarding initiation request c..." [ref=e81463]:
+                    - cell "" [ref=e81464]:
+                      - generic [ref=e81465]:
+                        - button [ref=e81466] [cursor=pointer]:
+                          - img [ref=e81467]: more_vert
+                        - button [ref=e81470] [cursor=pointer]:
+                          - img [ref=e81471]: description
+                        - button "" [ref=e81474] [cursor=pointer]:
+                          - generic [ref=e81475]: 
+                        - button [ref=e81478] [cursor=pointer]:
+                          - img [ref=e81479]: person_check
+                    - cell "OFB- 1538" [ref=e81482]:
+                      - link "OFB- 1538" [ref=e81484] [cursor=pointer]:
+                        - /url: "#/offboarding/view/765/offboard_initation"
+                    - cell "A A New Offboarding Workflow with 2 stag..." [ref=e81485]
+                    - cell "55%" [ref=e81486]:
+                      - generic [ref=e81491]: 55%
+                    - cell "mohanarao Employee Overview" [ref=e81492]:
+                      - link "mohanarao Employee Overview" [ref=e81493] [cursor=pointer]:
+                        - /url: "#/employees/423/info"
+                    - cell "EMP- 1255" [ref=e81494]
+                    - cell "mohanarao+overview@oorwin.com" [ref=e81495]
+                    - cell "Resignation" [ref=e81496]
+                    - cell "April 23, 2026" [ref=e81497]
+                    - cell "May 23, 2026" [ref=e81498]
+                    - cell "Mohana Rao" [ref=e81499]
+                    - cell "April 23, 2026" [ref=e81500]
+                    - cell [ref=e81501]
+                    - cell "testing offboarding initiation request c..." [ref=e81502]
+                  - row " OFB- 1537 Jassi New Workflow 0% Jaswanth Contractor CEMP- 1754 Jaswanthb+contractor1@oorwin.com Resignation April 21, 2026 May 1, 2026 Jaswanth burugupalli April 21, 2026" [ref=e81503]:
+                    - cell "" [ref=e81504]:
+                      - generic [ref=e81505]:
+                        - button [ref=e81506] [cursor=pointer]:
+                          - img [ref=e81507]: more_vert
+                        - button [ref=e81510] [cursor=pointer]:
+                          - img [ref=e81511]: description
+                        - button "" [ref=e81514] [cursor=pointer]:
+                          - generic [ref=e81515]: 
+                        - button [ref=e81518] [cursor=pointer]:
+                          - img [ref=e81519]: person_check
+                    - cell "OFB- 1537" [ref=e81522]:
+                      - link "OFB- 1537" [ref=e81524] [cursor=pointer]:
+                        - /url: "#/offboarding/view/764/offboard_initation"
+                    - cell "Jassi New Workflow" [ref=e81525]
+                    - cell "0%" [ref=e81526]:
+                      - generic [ref=e81530]: 0%
+                    - cell "Jaswanth Contractor" [ref=e81531]:
+                      - link "Jaswanth Contractor" [ref=e81532] [cursor=pointer]:
+                        - /url: "#/employees/2329/info"
+                    - cell "CEMP- 1754" [ref=e81533]
+                    - cell "Jaswanthb+contractor1@oorwin.com" [ref=e81534]
+                    - cell "Resignation" [ref=e81535]
+                    - cell "April 21, 2026" [ref=e81536]
+                    - cell "May 1, 2026" [ref=e81537]
+                    - cell "Jaswanth burugupalli" [ref=e81538]
+                    - cell "April 21, 2026" [ref=e81539]
+                    - cell [ref=e81540]
+                    - cell [ref=e81541]
+                  - row " OFB- 1532 A A New Offboarding Workflow with 2 stag... Mohan Resource EMP- 1268 mohan.pragada1+resource@gmail.com Resignation April 20, 2026 May 20, 2026 Mohana Rao April 20, 2026" [ref=e81542]:
+                    - cell "" [ref=e81543]:
+                      - generic [ref=e81544]:
+                        - button [ref=e81545] [cursor=pointer]:
+                          - img [ref=e81546]: more_vert
+                        - button [ref=e81549] [cursor=pointer]:
+                          - img [ref=e81550]: description
+                        - button "" [ref=e81553] [cursor=pointer]:
+                          - generic [ref=e81554]: 
+                        - button [ref=e81557] [cursor=pointer]:
+                          - img [ref=e81558]: person_check
+                    - cell "OFB- 1532" [ref=e81561]:
+                      - link "OFB- 1532" [ref=e81563] [cursor=pointer]:
+                        - /url: "#/offboarding/view/759/offboard_initation"
+                    - cell "A A New Offboarding Workflow with 2 stag..." [ref=e81564]
+                    - cell [ref=e81565]
+                    - cell "Mohan Resource" [ref=e81566]:
+                      - link "Mohan Resource" [ref=e81567] [cursor=pointer]:
+                        - /url: "#/employees/460/info"
+                    - cell "EMP- 1268" [ref=e81568]
+                    - cell "mohan.pragada1+resource@gmail.com" [ref=e81569]
+                    - cell "Resignation" [ref=e81570]
+                    - cell "April 20, 2026" [ref=e81571]
+                    - cell "May 20, 2026" [ref=e81572]
+                    - cell "Mohana Rao" [ref=e81573]
+                    - cell "April 20, 2026" [ref=e81574]
+                    - cell [ref=e81575]
+                    - cell [ref=e81576]
+                  - row " OFB- 1531 A A New Offboarding Workflow with 2 stag... Mohan Sai EMPL- 1948 mohan.pragada1+roshan@gmail.com Resignation April 17, 2026 April 27, 2026 Mohana Rao April 17, 2026" [ref=e81577]:
+                    - cell "" [ref=e81578]:
+                      - generic [ref=e81579]:
+                        - button [ref=e81580] [cursor=pointer]:
+                          - img [ref=e81581]: more_vert
+                        - button [ref=e81584] [cursor=pointer]:
+                          - img [ref=e81585]: description
+                        - button "" [ref=e81588] [cursor=pointer]:
+                          - generic [ref=e81589]: 
+                        - button [ref=e81592] [cursor=pointer]:
+                          - img [ref=e81593]: person_check
+                    - cell "OFB- 1531" [ref=e81596]:
+                      - link "OFB- 1531" [ref=e81598] [cursor=pointer]:
+                        - /url: "#/offboarding/view/758/offboard_initation"
+                    - cell "A A New Offboarding Workflow with 2 stag..." [ref=e81599]
+                    - cell [ref=e81600]
+                    - cell "Mohan Sai" [ref=e81601]:
+                      - link "Mohan Sai" [ref=e81602] [cursor=pointer]:
+                        - /url: "#/employees/484/info"
+                    - cell "EMPL- 1948" [ref=e81603]
+                    - cell "mohan.pragada1+roshan@gmail.com" [ref=e81604]
+                    - cell "Resignation" [ref=e81605]
+                    - cell "April 17, 2026" [ref=e81606]
+                    - cell "April 27, 2026" [ref=e81607]
+                    - cell "Mohana Rao" [ref=e81608]
+                    - cell "April 17, 2026" [ref=e81609]
+                    - cell [ref=e81610]
+                    - cell [ref=e81611]
+                  - row " OFB- 1530 Mohan SOCTesting CEMP- 1715 mohan.pragada1+SOCTesting@gmail.com Resignation April 2, 2026 April 12, 2026 Mohana Rao April 2, 2026 testing offboarding initiation comments...." [ref=e81612]:
+                    - cell "" [ref=e81613]:
+                      - generic [ref=e81614]:
+                        - button [ref=e81615] [cursor=pointer]:
+                          - img [ref=e81616]: more_vert
+                        - button [ref=e81619] [cursor=pointer]:
+                          - img [ref=e81620]: description
+                        - button "" [ref=e81623] [cursor=pointer]:
+                          - generic [ref=e81624]: 
+                        - button [ref=e81627] [cursor=pointer]:
+                          - img [ref=e81628]: person_check
+                    - cell "OFB- 1530" [ref=e81631]:
+                      - link "OFB- 1530" [ref=e81633] [cursor=pointer]:
+                        - /url: "#/offboarding/view/757/offboard_initation"
+                    - cell [ref=e81634]
+                    - cell [ref=e81635]
+                    - cell "Mohan SOCTesting" [ref=e81636]:
+                      - link "Mohan SOCTesting" [ref=e81637] [cursor=pointer]:
+                        - /url: "#/employees/2313/info"
+                    - cell "CEMP- 1715" [ref=e81638]
+                    - cell "mohan.pragada1+SOCTesting@gmail.com" [ref=e81639]
+                    - cell "Resignation" [ref=e81640]
+                    - cell "April 2, 2026" [ref=e81641]
+                    - cell "April 12, 2026" [ref=e81642]
+                    - cell "Mohana Rao" [ref=e81643]
+                    - cell "April 2, 2026" [ref=e81644]
+                    - cell [ref=e81645]
+                    - cell "testing offboarding initiation comments...." [ref=e81646]
+                  - row " OFB- 1529 A A New Mohan Offboarding Doc Comments Mohan QA EMPL- 1994 mohan.pragada1+QA@gmail.com Resignation April 2, 2026 April 12, 2026 Mohana Rao April 2, 2026 testing offboarding initiation request c..." [ref=e81647]:
+                    - cell "" [ref=e81648]:
+                      - generic [ref=e81649]:
+                        - button [ref=e81650] [cursor=pointer]:
+                          - img [ref=e81651]: more_vert
+                        - button [ref=e81654] [cursor=pointer]:
+                          - img [ref=e81655]: description
+                        - button "" [ref=e81658] [cursor=pointer]:
+                          - generic [ref=e81659]: 
+                        - button [ref=e81662] [cursor=pointer]:
+                          - img [ref=e81663]: person_check
+                    - cell "OFB- 1529" [ref=e81666]:
+                      - link "OFB- 1529" [ref=e81668] [cursor=pointer]:
+                        - /url: "#/offboarding/view/756/offboard_initation"
+                    - cell "A A New Mohan Offboarding Doc Comments" [ref=e81669]
+                    - cell [ref=e81670]
+                    - cell "Mohan QA" [ref=e81671]:
+                      - link "Mohan QA" [ref=e81672] [cursor=pointer]:
+                        - /url: "#/employees/2310/info"
+                    - cell "EMPL- 1994" [ref=e81673]
+                    - cell "mohan.pragada1+QA@gmail.com" [ref=e81674]
+                    - cell "Resignation" [ref=e81675]
+                    - cell "April 2, 2026" [ref=e81676]
+                    - cell "April 12, 2026" [ref=e81677]
+                    - cell "Mohana Rao" [ref=e81678]
+                    - cell "April 2, 2026" [ref=e81679]
+                    - cell [ref=e81680]
+                    - cell "testing offboarding initiation request c..." [ref=e81681]
+                  - row " OFB- 1525 A A New Mohan Offboarding Doc Comments Faisal Nkutu CEMP- 1708 faisal.nkutu+2@gmail.com Resignation March 27, 2026 April 6, 2026 Sandip Mahato March 27, 2026" [ref=e81682]:
+                    - cell "" [ref=e81683]:
+                      - generic [ref=e81684]:
+                        - button [ref=e81685] [cursor=pointer]:
+                          - img [ref=e81686]: more_vert
+                        - button [ref=e81689] [cursor=pointer]:
+                          - img [ref=e81690]: description
+                        - button "" [ref=e81693] [cursor=pointer]:
+                          - generic [ref=e81694]: 
+                        - button [ref=e81697] [cursor=pointer]:
+                          - img [ref=e81698]: person_check
+                    - cell "OFB- 1525" [ref=e81701]:
+                      - link "OFB- 1525" [ref=e81703] [cursor=pointer]:
+                        - /url: "#/offboarding/view/752/offboard_initation"
+                    - cell "A A New Mohan Offboarding Doc Comments" [ref=e81704]
+                    - cell [ref=e81705]
+                    - cell "Faisal Nkutu" [ref=e81706]:
+                      - link "Faisal Nkutu" [ref=e81707] [cursor=pointer]:
+                        - /url: "#/employees/2298/info"
+                    - cell "CEMP- 1708" [ref=e81708]
+                    - cell "faisal.nkutu+2@gmail.com" [ref=e81709]
+                    - cell "Resignation" [ref=e81710]
+                    - cell "March 27, 2026" [ref=e81711]
+                    - cell "April 6, 2026" [ref=e81712]
+                    - cell "Sandip Mahato" [ref=e81713]
+                    - cell "March 27, 2026" [ref=e81714]
+                    - cell [ref=e81715]
+                    - cell [ref=e81716]
+                  - row " OFB- 1524 Faisal Nkutu CEMP- 1709 faisal.nkutu+3@gmail.com Resignation March 27, 2026 April 6, 2026 Sandip Mahato March 27, 2026" [ref=e81717]:
+                    - cell "" [ref=e81718]:
+                      - generic [ref=e81719]:
+                        - button [ref=e81720] [cursor=pointer]:
+                          - img [ref=e81721]: more_vert
+                        - button [ref=e81724] [cursor=pointer]:
+                          - img [ref=e81725]: description
+                        - button "" [ref=e81728] [cursor=pointer]:
+                          - generic [ref=e81729]: 
+                        - button [ref=e81732] [cursor=pointer]:
+                          - img [ref=e81733]: person_check
+                    - cell "OFB- 1524" [ref=e81736]:
+                      - link "OFB- 1524" [ref=e81738] [cursor=pointer]:
+                        - /url: "#/offboarding/view/751/offboard_initation"
+                    - cell [ref=e81739]
+                    - cell [ref=e81740]
+                    - cell "Faisal Nkutu" [ref=e81741]:
+                      - link "Faisal Nkutu" [ref=e81742] [cursor=pointer]:
+                        - /url: "#/employees/2299/info"
+                    - cell "CEMP- 1709" [ref=e81743]
+                    - cell "faisal.nkutu+3@gmail.com" [ref=e81744]
+                    - cell "Resignation" [ref=e81745]
+                    - cell "March 27, 2026" [ref=e81746]
+                    - cell "April 6, 2026" [ref=e81747]
+                    - cell "Sandip Mahato" [ref=e81748]
+                    - cell "March 27, 2026" [ref=e81749]
+                    - cell [ref=e81750]
+                    - cell [ref=e81751]
+                  - row " OFB- 1523 A A New Mohan Offboarding Doc Comments Jaswanth B92 CEMP- 1712 jaswanthb+cd4@oorwin.com Resignation March 26, 2026 April 5, 2026 Jaswanth burugupalli March 26, 2026" [ref=e81752]:
+                    - cell "" [ref=e81753]:
+                      - generic [ref=e81754]:
+                        - button [ref=e81755] [cursor=pointer]:
+                          - img [ref=e81756]: more_vert
+                        - button [ref=e81759] [cursor=pointer]:
+                          - img [ref=e81760]: description
+                        - button "" [ref=e81763] [cursor=pointer]:
+                          - generic [ref=e81764]: 
+                        - button [ref=e81767] [cursor=pointer]:
+                          - img [ref=e81768]: person_check
+                    - cell "OFB- 1523" [ref=e81771]:
+                      - link "OFB- 1523" [ref=e81773] [cursor=pointer]:
+                        - /url: "#/offboarding/view/750/offboard_initation"
+                    - cell "A A New Mohan Offboarding Doc Comments" [ref=e81774]
+                    - cell [ref=e81775]
+                    - cell "Jaswanth B92" [ref=e81776]:
+                      - link "Jaswanth B92" [ref=e81777] [cursor=pointer]:
+                        - /url: "#/employees/2292/info"
+                    - cell "CEMP- 1712" [ref=e81778]
+                    - cell "jaswanthb+cd4@oorwin.com" [ref=e81779]
+                    - cell "Resignation" [ref=e81780]
+                    - cell "March 26, 2026" [ref=e81781]
+                    - cell "April 5, 2026" [ref=e81782]
+                    - cell "Jaswanth burugupalli" [ref=e81783]
+                    - cell "March 26, 2026" [ref=e81784]
+                    - cell [ref=e81785]
+                    - cell [ref=e81786]
+                  - row " OFB- 1521 A A New Mohan Offboarding Doc Comments Mohan External EMPL- 1983 mohan.pragada1+External@gmail.com Resignation March 26, 2026 April 5, 2026 Sandip Mahato March 26, 2026 Offboard Finalization - Pending" [ref=e81787]:
+                    - cell "" [ref=e81788]:
+                      - generic [ref=e81789]:
+                        - button [ref=e81790] [cursor=pointer]:
+                          - img [ref=e81791]: more_vert
+                        - button [ref=e81794] [cursor=pointer]:
+                          - img [ref=e81795]: description
+                        - button "" [ref=e81798] [cursor=pointer]:
+                          - generic [ref=e81799]: 
+                        - button [ref=e81802] [cursor=pointer]:
+                          - img [ref=e81803]: person_check
+                    - cell "OFB- 1521" [ref=e81806]:
+                      - link "OFB- 1521" [ref=e81808] [cursor=pointer]:
+                        - /url: "#/offboarding/view/748/offboard_initation"
+                    - cell "A A New Mohan Offboarding Doc Comments" [ref=e81809]
+                    - cell [ref=e81810]
+                    - cell "Mohan External" [ref=e81811]:
+                      - link "Mohan External" [ref=e81812] [cursor=pointer]:
+                        - /url: "#/employees/2272/info"
+                    - cell "EMPL- 1983" [ref=e81813]
+                    - cell "mohan.pragada1+External@gmail.com" [ref=e81814]
+                    - cell "Resignation" [ref=e81815]
+                    - cell "March 26, 2026" [ref=e81816]
+                    - cell "April 5, 2026" [ref=e81817]
+                    - cell "Sandip Mahato" [ref=e81818]
+                    - cell "March 26, 2026" [ref=e81819]
+                    - cell "Offboard Finalization - Pending" [ref=e81820]
+                    - cell [ref=e81821]
+                  - row " OFB- 1518 Mohan OnbInitiation1 CEMP- 1696 mohan.pragada1+OnbInitiation1@gmail.com Resignation March 16, 2026 March 26, 2026 Mohana Rao March 16, 2026 Offboard Finalization - Pending testing ofb comments from employees list..." [ref=e81822]:
+                    - cell "" [ref=e81823]:
+                      - generic [ref=e81824]:
+                        - button [ref=e81825] [cursor=pointer]:
+                          - img [ref=e81826]: more_vert
+                        - button [ref=e81829] [cursor=pointer]:
+                          - img [ref=e81830]: description
+                        - button "" [ref=e81833] [cursor=pointer]:
+                          - generic [ref=e81834]: 
+                        - button [ref=e81837] [cursor=pointer]:
+                          - img [ref=e81838]: person_check
+                    - cell "OFB- 1518" [ref=e81841]:
+                      - link "OFB- 1518" [ref=e81843] [cursor=pointer]:
+                        - /url: "#/offboarding/view/745/offboard_initation"
+                    - cell [ref=e81844]
+                    - cell [ref=e81845]
+                    - cell "Mohan OnbInitiation1" [ref=e81846]:
+                      - link "Mohan OnbInitiation1" [ref=e81847] [cursor=pointer]:
+                        - /url: "#/employees/2284/info"
+                    - cell "CEMP- 1696" [ref=e81848]
+                    - cell "mohan.pragada1+OnbInitiation1@gmail.com" [ref=e81849]
+                    - cell "Resignation" [ref=e81850]
+                    - cell "March 16, 2026" [ref=e81851]
+                    - cell "March 26, 2026" [ref=e81852]
+                    - cell "Mohana Rao" [ref=e81853]
+                    - cell "March 16, 2026" [ref=e81854]
+                    - cell "Offboard Finalization - Pending" [ref=e81855]
+                    - cell "testing ofb comments from employees list..." [ref=e81856]
+                  - row " OFB- 1517 Mohan OnbInitiation2 EMPL- 1984 mohan.pragada1+OnbInitiation2@gmail.com Resignation March 16, 2026 March 26, 2026 Mohana Rao March 16, 2026 testing offboarding comments from employ..." [ref=e81857]:
+                    - cell "" [ref=e81858]:
+                      - generic [ref=e81859]:
+                        - button [ref=e81860] [cursor=pointer]:
+                          - img [ref=e81861]: more_vert
+                        - button [ref=e81864] [cursor=pointer]:
+                          - img [ref=e81865]: description
+                        - button "" [ref=e81868] [cursor=pointer]:
+                          - generic [ref=e81869]: 
+                        - button [ref=e81872] [cursor=pointer]:
+                          - img [ref=e81873]: person_check
+                    - cell "OFB- 1517" [ref=e81876]:
+                      - link "OFB- 1517" [ref=e81878] [cursor=pointer]:
+                        - /url: "#/offboarding/view/744/offboard_initation"
+                    - cell [ref=e81879]
+                    - cell [ref=e81880]
+                    - cell "Mohan OnbInitiation2" [ref=e81881]:
+                      - link "Mohan OnbInitiation2" [ref=e81882] [cursor=pointer]:
+                        - /url: "#/employees/2285/info"
+                    - cell "EMPL- 1984" [ref=e81883]
+                    - cell "mohan.pragada1+OnbInitiation2@gmail.com" [ref=e81884]
+                    - cell "Resignation" [ref=e81885]
+                    - cell "March 16, 2026" [ref=e81886]
+                    - cell "March 26, 2026" [ref=e81887]
+                    - cell "Mohana Rao" [ref=e81888]
+                    - cell "March 16, 2026" [ref=e81889]
+                    - cell [ref=e81890]
+                    - cell "testing offboarding comments from employ..." [ref=e81891]
+              - generic [ref=e81894]:
+                - generic [ref=e81895]:
+                  - generic [ref=e81896]: Go To
+                  - spinbutton [ref=e81898]
+                - combobox [ref=e81900]:
+                  - option "15" [selected]
+                  - option "20"
+                  - option "25"
+                  - option "30"
+                  - option "35"
+                  - option "50"
+                  - option "100"
+                - generic [ref=e81901]: Showing 1 to 15 of 280
+                - list [ref=e81903]:
+                  - listitem [ref=e81904]:
+                    - generic: «
+                  - listitem [ref=e81905]:
+                    - generic: ‹
+                  - listitem [ref=e81906]:
+                    - generic [ref=e81907] [cursor=pointer]: "1"
+                  - listitem [ref=e81908]:
+                    - generic [ref=e81909] [cursor=pointer]: "2"
+                  - listitem [ref=e81910]:
+                    - generic [ref=e81911] [cursor=pointer]: "3"
+                  - listitem [ref=e81912]:
+                    - generic [ref=e81913] [cursor=pointer]: "4"
+                  - listitem [ref=e81914]:
+                    - generic: ...
+                  - listitem [ref=e81915]:
+                    - generic [ref=e81916] [cursor=pointer]: "19"
+                  - listitem [ref=e81917]:
+                    - generic [ref=e81918] [cursor=pointer]: ›
+                  - listitem [ref=e81919]:
+                    - generic [ref=e81920] [cursor=pointer]: »
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e50722]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;

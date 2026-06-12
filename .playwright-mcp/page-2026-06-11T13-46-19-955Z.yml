@@ -1,0 +1,532 @@
+- generic [ref=e1]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - img
+  - generic [ref=e2]:
+    - generic [ref=e84]:
+      - navigation [ref=e88]:
+        - generic [ref=e89]:
+          - generic [ref=e91] [cursor=pointer]:
+            - link [ref=e92]:
+              - /url: "#/dashboard"
+              - img [ref=e93]:
+                - img [ref=e94]
+            - generic [ref=e95]: Dashboards
+          - generic [ref=e97] [cursor=pointer]:
+            - img [ref=e99]:
+              - img [ref=e100]
+            - generic [ref=e101]: Favourites
+          - generic [ref=e103] [cursor=pointer]:
+            - img [ref=e105]:
+              - img [ref=e106]
+            - generic [ref=e107]: Sales
+          - generic [ref=e108]:
+            - generic [ref=e109] [cursor=pointer]:
+              - img [ref=e111]:
+                - img [ref=e112]
+              - generic [ref=e113]: Recruit
+            - generic [ref=e847]:
+              - generic [ref=e848]: Recruitment
+              - generic [ref=e850]:
+                - link "Requisitions" [ref=e851] [cursor=pointer]:
+                  - /url: "#/requisitions"
+                  - text:  Requisitions
+                - link "" [ref=e852] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e853]: 
+              - generic [ref=e855]:
+                - link "Jobs" [ref=e856] [cursor=pointer]:
+                  - /url: "#/jobs"
+                  - text:  Jobs
+                - link "" [ref=e857] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e858]: 
+              - generic [ref=e860]:
+                - link "Candidates" [ref=e861] [cursor=pointer]:
+                  - /url: "#/candidates"
+                  - text:  Candidates
+                - link "" [ref=e862] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e863]: 
+              - generic [ref=e865]:
+                - link "Submissions" [ref=e866] [cursor=pointer]:
+                  - /url: "#/applications"
+                  - text:  Submissions
+                - link "" [ref=e867] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e868]: 
+              - generic [ref=e870]:
+                - link "Interviews" [ref=e871] [cursor=pointer]:
+                  - /url: "#/interviews"
+                  - text:  Interviews
+                - link "" [ref=e872] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e873]: 
+              - generic [ref=e875]:
+                - link "Resource Pool" [ref=e876] [cursor=pointer]:
+                  - /url: "#/resourcePool"
+                  - text:  Resource Pool
+                - link "" [ref=e877] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e878]: 
+              - generic [ref=e880]:
+                - link "Perm Placements" [ref=e881] [cursor=pointer]:
+                  - /url: "#/one_time_placement"
+                  - text:  Perm Placements
+                - link "" [ref=e882] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e883]: 
+              - generic [ref=e885]:
+                - link "Trainings" [ref=e886] [cursor=pointer]:
+                  - /url: "#/trainings/trainings"
+                  - text:  Trainings
+                - link "" [ref=e887] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e888]: 
+              - generic [ref=e890]:
+                - link "Harvesting" [ref=e891] [cursor=pointer]:
+                  - /url: "#/harvesting/list"
+                  - text:  Harvesting
+                - link "" [ref=e892] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e893]: 
+              - generic [ref=e895]:
+                - link "Job Grabber" [ref=e896] [cursor=pointer]:
+                  - /url: "#/job_grabber/agents"
+                  - text:  Job Grabber
+                - link "" [ref=e897] [cursor=pointer]:
+                  - /url: javascript:;
+                  - generic [ref=e898]: 
+          - generic [ref=e115] [cursor=pointer]:
+            - img [ref=e117]:
+              - img [ref=e118]
+            - generic [ref=e119]: HR
+          - generic [ref=e121] [cursor=pointer]:
+            - img [ref=e123]:
+              - img [ref=e124]
+            - generic [ref=e125]: General
+          - generic [ref=e127] [cursor=pointer]:
+            - link [ref=e128]:
+              - /url: "#/reports/allReports/hire"
+              - img [ref=e129]:
+                - img [ref=e130]
+            - generic [ref=e131]: Reports
+          - generic [ref=e133] [cursor=pointer]:
+            - link [ref=e134]:
+              - /url: "#/marketplace/available"
+              - img [ref=e135]:
+                - img [ref=e136]
+            - generic [ref=e137]: Marketplace
+          - generic [ref=e138]:
+            - generic [ref=e140] [cursor=pointer]:
+              - link [ref=e141]:
+                - /url: "#/admin"
+                - img [ref=e142]:
+                  - img [ref=e143]
+              - generic [ref=e144]: Settings
+            - generic [ref=e146] [cursor=pointer]:
+              - link [ref=e147]:
+                - /url: "#/helpcenter"
+                - img [ref=e148]:
+                  - img [ref=e149]
+              - generic [ref=e150]: Help
+      - generic [ref=e152]:
+        - generic [ref=e156]:
+          - link [ref=e158] [cursor=pointer]:
+            - /url: "#/dashboard"
+          - generic [ref=e159]:
+            - generic [ref=e166]:
+              - textbox "Search..." [ref=e167]
+              - button [ref=e168] [cursor=pointer]:
+                - img [ref=e169]: search
+            - link "Advanced Search" [ref=e172] [cursor=pointer]:
+              - /url: "#/integrations/CandidateSearchV3"
+              - generic [ref=e173]: Advanced Search
+          - generic [ref=e177]:
+            - generic [ref=e179]:
+              - link [ref=e183] [cursor=pointer]:
+                - /url: "#/admin/subscription/top_up"
+                - img [ref=e184]: shopping_cart
+              - img [ref=e191] [cursor=pointer]: multiple_stop
+              - link [ref=e197] [cursor=pointer]:
+                - /url: "#/bgv_list/available"
+                - img [ref=e198]: shield_person
+              - img [ref=e205] [cursor=pointer]:
+                - text: stream_apps
+                - generic: "0"
+              - img [ref=e212] [cursor=pointer]: check_circle
+              - img [ref=e220] [cursor=pointer]:
+                - text: notifications
+                - generic: "4"
+            - img [ref=e225] [cursor=pointer]: expand_more
+        - generic [ref=e227]:
+          - navigation [ref=e233]:
+            - generic [ref=e237]:
+              - button [ref=e238]:
+                - img [ref=e239]: keyboard_backspace
+              - heading "ATS Dashboard" [level=2] [ref=e242] [cursor=pointer]:
+                - text: ATS Dashboard
+                - img [ref=e244]: expand_more
+              - img [ref=e246] [cursor=pointer]: star
+          - generic [ref=e252]:
+            - navigation [ref=e254]:
+              - generic [ref=e257]:
+                - link "Executive Dashboard" [ref=e258] [cursor=pointer]:
+                  - /url: "#/hire/executiveDashboard"
+                  - generic [ref=e260]: Executive Dashboard
+                - link "My Recruitment" [ref=e261] [cursor=pointer]:
+                  - /url: "#/hire/dashboard"
+                  - generic [ref=e263]: My Recruitment
+                - link "My Sales" [ref=e264] [cursor=pointer]:
+                  - /url: "#/hire/userDashboardSales"
+                  - generic [ref=e266]: My Sales
+                - link "Recruitment Team" [ref=e267] [cursor=pointer]:
+                  - /url: "#/hire/teamDashboardRecruitment"
+                  - generic [ref=e269]: Recruitment Team
+                - link "Sales Team" [ref=e270] [cursor=pointer]:
+                  - /url: "#/hire/teamDashboardSales"
+                  - generic [ref=e272]: Sales Team
+            - generic [ref=e273]:
+              - generic [ref=e274]:
+                - generic [ref=e276]:
+                  - textbox "Select Period" [ref=e277]: June 01, 2026 - June 30, 2026
+                  - generic:
+                    - generic:
+                      - generic:
+                        - list:
+                          - listitem:
+                            - button "Today"
+                          - listitem:
+                            - button "Yesterday"
+                          - listitem:
+                            - button "Last 7 Days"
+                          - listitem:
+                            - button "This Week"
+                          - listitem:
+                            - button "Last Week"
+                          - listitem:
+                            - button "Last 30 Days"
+                          - listitem:
+                            - button "Current Month"
+                          - listitem:
+                            - button "Last Month"
+                          - listitem:
+                            - button "Custom Range"
+                - generic [ref=e281] [cursor=pointer]:
+                  - generic [ref=e283]: Users
+                  - combobox "Users Pavan Kumar DEV" [ref=e285]:
+                    - generic [ref=e286]:
+                      - generic [ref=e288]: Pavan Kumar DEV
+                      - img [ref=e291]
+                - generic "Client" [ref=e298]:
+                  - combobox "Clients" [ref=e299]
+                - generic [ref=e300]:
+                  - button [ref=e302]:
+                    - img [ref=e303]: filter_alt
+                  - button [ref=e307]:
+                    - img [ref=e308]: refresh
+              - button "Add Widget" [ref=e312]:
+                - generic [ref=e314]:
+                  - img [ref=e315]: add
+                  - generic [ref=e316]: Add Widget
+            - generic [ref=e321]:
+              - heading "My Summary" [level=1] [ref=e322]
+              - generic [ref=e323]:
+                - generic [ref=e325] [cursor=pointer]:
+                  - generic [ref=e326]:
+                    - generic [ref=e327]: Jobs
+                    - generic [ref=e328]: "0"
+                  - generic [ref=e329]:
+                    - generic [ref=e330]:
+                      - generic [ref=e591]: trending_down
+                      - generic [ref=e332]: "-5 (-100.00%)"
+                    - generic [ref=e592]: Current Month
+                - generic [ref=e334] [cursor=pointer]:
+                  - generic [ref=e335]:
+                    - generic [ref=e336]: Candidates
+                    - generic [ref=e337]: "2"
+                  - generic [ref=e338]:
+                    - generic [ref=e339]:
+                      - generic [ref=e340]: trending_up
+                      - generic [ref=e341]: 2 (100.00%)
+                    - generic [ref=e593]: Current Month
+                - generic [ref=e343] [cursor=pointer]:
+                  - generic [ref=e344]:
+                    - generic [ref=e345]: Submissions
+                    - generic [ref=e346]: "0"
+                  - generic [ref=e347]:
+                    - generic [ref=e348]:
+                      - generic [ref=e349]: trending_up
+                      - generic [ref=e350]: 0 (0%)
+                    - generic [ref=e594]: Current Month
+                - generic [ref=e352] [cursor=pointer]:
+                  - generic [ref=e353]:
+                    - generic [ref=e354]: End Client Submissions
+                    - generic [ref=e355]: "0"
+                  - generic [ref=e356]:
+                    - generic [ref=e357]:
+                      - generic [ref=e358]: trending_up
+                      - generic [ref=e359]: 0 (0%)
+                    - generic [ref=e595]: Current Month
+                - generic [ref=e361] [cursor=pointer]:
+                  - generic [ref=e362]:
+                    - generic [ref=e363]: Interviews
+                    - generic [ref=e364]: "0"
+                  - generic [ref=e365]:
+                    - generic [ref=e366]:
+                      - generic [ref=e367]: trending_up
+                      - generic [ref=e368]: 0 (0%)
+                    - generic [ref=e596]: Current Month
+                - generic [ref=e370] [cursor=pointer]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: Confirmations
+                    - generic [ref=e373]: "0"
+                  - generic [ref=e374]:
+                    - generic [ref=e375]:
+                      - generic [ref=e376]: trending_up
+                      - generic [ref=e377]: 0 (0%)
+                    - generic [ref=e597]: Current Month
+                - generic [ref=e379] [cursor=pointer]:
+                  - generic [ref=e380]:
+                    - generic [ref=e381]: Offers
+                    - generic [ref=e382]: "0"
+                  - generic [ref=e383]:
+                    - generic [ref=e384]:
+                      - generic [ref=e385]: trending_up
+                      - generic [ref=e386]: 0 (0%)
+                    - generic [ref=e598]: Current Month
+                - generic [ref=e388] [cursor=pointer]:
+                  - generic [ref=e389]:
+                    - generic [ref=e390]: Placements
+                    - generic [ref=e391]: "0"
+                  - generic [ref=e392]:
+                    - generic [ref=e393]:
+                      - generic [ref=e394]: trending_up
+                      - generic [ref=e395]: 0 (0%)
+                    - generic [ref=e599]: Current Month
+                - generic [ref=e397] [cursor=pointer]:
+                  - generic [ref=e398]:
+                    - generic [ref=e399]: Rejected Submissions
+                    - generic [ref=e400]: "0"
+                  - generic [ref=e401]:
+                    - generic [ref=e402]:
+                      - generic [ref=e403]: trending_up
+                      - generic [ref=e404]: 0 (0%)
+                    - generic [ref=e600]: Current Month
+                - generic [ref=e406] [cursor=pointer]:
+                  - generic [ref=e407]:
+                    - generic [ref=e408]: Drop Outs
+                    - generic [ref=e409]: "0"
+                  - generic [ref=e410]:
+                    - generic [ref=e411]:
+                      - generic [ref=e412]: trending_up
+                      - generic [ref=e413]: 0 (0%)
+                    - generic [ref=e601]: Current Month
+              - generic [ref=e429]:
+                - table [ref=e430]:
+                  - rowgroup [ref=e431]:
+                    - row "Job Title Status Job ID Customer Type Customer City State Recruiters Additional Recruiters Account Manager Recruitment Manager Created Date" [ref=e602]:
+                      - columnheader "Job Title" [ref=e603]:
+                        - generic [ref=e605]: Job Title
+                      - columnheader "Status" [ref=e606]:
+                        - generic [ref=e608]: Status
+                      - columnheader "Job ID" [ref=e609]:
+                        - generic [ref=e611]: Job ID
+                      - columnheader "Customer Type" [ref=e612]:
+                        - generic [ref=e614]: Customer Type
+                      - columnheader "Customer" [ref=e615]:
+                        - generic [ref=e617]: Customer
+                      - columnheader "City" [ref=e618]:
+                        - generic [ref=e620]: City
+                      - columnheader "State" [ref=e621]:
+                        - generic [ref=e623]: State
+                      - columnheader "Recruiters" [ref=e624]:
+                        - generic [ref=e626]: Recruiters
+                      - columnheader "Additional Recruiters" [ref=e627]:
+                        - generic [ref=e629]: Additional Recruiters
+                      - columnheader "Account Manager" [ref=e630]:
+                        - generic [ref=e632]: Account Manager
+                      - columnheader "Recruitment Manager" [ref=e633]:
+                        - generic [ref=e635]: Recruitment Manager
+                      - columnheader "Created Date" [ref=e636]:
+                        - generic [ref=e638]: Created Date
+                  - rowgroup
+                - generic [ref=e639]:
+                  - img "No Records" [ref=e641]
+                  - generic [ref=e642]: Looks like you don't have any Data to view.
+            - generic [ref=e447]:
+              - generic [ref=e448]:
+                - generic [ref=e451]:
+                  - heading "Recruitment Summary" [level=1] [ref=e452]
+                  - generic [ref=e453]:
+                    - generic [ref=e455]:
+                      - generic [ref=e456]:
+                        - generic [ref=e457]:
+                          - text: Total
+                          - text: Placements
+                        - generic [ref=e643] [cursor=pointer]: "0"
+                      - generic [ref=e459]: 
+                    - generic [ref=e461]:
+                      - generic [ref=e462]:
+                        - generic [ref=e463]:
+                          - text: Average Days
+                          - generic [ref=e465]: 
+                          - text: to fill a job
+                        - generic [ref=e644]: ".00"
+                      - generic [ref=e467]: 
+                    - generic [ref=e469]:
+                      - generic [ref=e470]:
+                        - generic [ref=e471]:
+                          - text: Average Submissions
+                          - text: per Job
+                          - generic [ref=e473]: 
+                        - generic [ref=e645]: ".00"
+                      - generic [ref=e475]: 
+                    - generic [ref=e477]:
+                      - generic [ref=e478]:
+                        - generic [ref=e479]:
+                          - text: Job
+                          - text: Share
+                        - generic [ref=e646]: "0"
+                      - generic [ref=e481]: 
+                - generic [ref=e484]:
+                  - heading "Candidates Sourced" [level=1] [ref=e485]
+                  - img [ref=e650]:
+                    - generic [ref=e657]: Values
+                    - generic "Chart context menu" [ref=e719] [cursor=pointer]
+                    - generic [ref=e725]:
+                      - generic [ref=e727] [cursor=pointer]: Total Sourced
+                      - generic [ref=e730] [cursor=pointer]: Total Onboarded
+                      - generic [ref=e734] [cursor=pointer]: Success Rate
+                    - generic [ref=e735]:
+                      - generic [ref=e736]: NPAmarketplace
+                      - generic [ref=e737]: Direct Sourcing
+                      - generic [ref=e738]: TechFetch
+                      - generic [ref=e739]: Jobomas
+                      - generic [ref=e740]: Github
+                      - generic [ref=e741]: Talent
+                      - generic [ref=e742]: Portal
+                      - generic [ref=e743]: Team Source
+                      - generic [ref=e744]: Google Jobs
+                      - generic [ref=e745]: New Lead
+                      - generic [ref=e746]: Twitter
+                      - generic [ref=e747]: Indeed
+                      - generic [ref=e748]: GigaJobs
+                      - generic [ref=e749]: Snaprecruit
+                      - generic [ref=e750]: Oorwin
+                      - generic [ref=e751]: Dr.Jobs Pro
+                      - generic [ref=e752]: Shine
+                      - generic [ref=e753]: Jobboard.com
+                      - generic [ref=e754]: URL sharing
+                    - generic [ref=e755]:
+                      - generic [ref=e756]: "0"
+                      - generic [ref=e757]: "0.25"
+                      - generic [ref=e758]: "0.5"
+                      - generic [ref=e759]: "0.75"
+                      - generic [ref=e760]: "1"
+                      - generic [ref=e761]: "1.25"
+                - generic [ref=e486]:
+                  - generic [ref=e490]:
+                    - heading "Communication Activities" [level=1] [ref=e491]
+                    - generic [ref=e493]:
+                      - generic [ref=e495]:
+                        - generic [ref=e496]:
+                          - generic [ref=e498]: 
+                          - text: EMAILS SENT
+                        - heading "2" [level=4] [ref=e763]
+                      - generic [ref=e500]:
+                        - generic [ref=e501]:
+                          - generic [ref=e503]: 
+                          - text: SMS SENT
+                        - heading "0" [level=4] [ref=e765]
+                      - generic [ref=e505]:
+                        - generic [ref=e506]:
+                          - generic [ref=e508]: 
+                          - text: Calls
+                        - heading "0" [level=4] [ref=e767]
+                  - generic [ref=e512]:
+                    - heading "Placement Trends " [level=1] [ref=e513]:
+                      - text: Placement Trends
+                      - generic [ref=e515]: 
+                    - img [ref=e769] [cursor=pointer]:
+                      - generic "Chart context menu" [ref=e785]
+                      - generic [ref=e789]:
+                        - generic [ref=e790]: Jul-Sep
+                        - generic [ref=e791]: Oct-Dec
+                        - generic [ref=e792]: Jan-Mar
+                        - generic [ref=e793]: Apr-Jun
+                      - generic [ref=e794]:
+                        - generic [ref=e795]: "0"
+                        - generic [ref=e796]: "1"
+                        - generic [ref=e797]: "2"
+                        - generic [ref=e798]: "3"
+                        - generic [ref=e799]: "4"
+              - generic [ref=e518]:
+                - generic [ref=e522]:
+                  - heading "Ownership" [level=1] [ref=e523]
+                  - img [ref=e801]:
+                    - generic "Chart context menu" [ref=e813] [cursor=pointer]
+                    - generic [ref=e817]:
+                      - generic [ref=e818]: Candidates
+                      - generic [ref=e819]: Accounts
+                      - generic [ref=e820]: Contacts
+                    - generic [ref=e821]:
+                      - generic [ref=e822]: "0"
+                      - generic [ref=e823]: "2"
+                      - generic [ref=e824]: "4"
+                      - generic [ref=e825]: "6"
+                - generic [ref=e529]:
+                  - generic [ref=e530]: Candidate Submissions to Placements
+                  - generic [ref=e531]:
+                    - generic [ref=e826]: "0"
+                    - generic [ref=e827]: "0"
+                    - generic [ref=e828]: "0"
+                    - generic [ref=e829]: "0"
+                    - generic [ref=e536]:
+                      - generic [ref=e537]: Total Submissions
+                      - generic [ref=e539]:
+                        - text: End Client Submissions
+                        - generic [ref=e542]: 
+                      - generic [ref=e543]:
+                        - text: Onboarding Inprogress
+                        - generic [ref=e546]: 
+                      - generic [ref=e547]:
+                        - text: Total Onboardings
+                        - generic [ref=e550]: 
+            - generic [ref=e554]:
+              - heading "Active Job Summary" [level=1] [ref=e555]
+              - generic [ref=e556]:
+                - table [ref=e557]:
+                  - rowgroup [ref=e558]:
+                    - row "Job ID Job Title Pipeline Candidates Prospective Review Identified Total Submissions End Client Submissions Interviews Joined" [ref=e830]:
+                      - columnheader "Job ID" [ref=e831]
+                      - columnheader "Job Title" [ref=e832]
+                      - columnheader "Pipeline Candidates" [ref=e833]
+                      - columnheader "Prospective" [ref=e834]
+                      - columnheader "Review" [ref=e835]
+                      - columnheader "Identified" [ref=e836]
+                      - columnheader "Total Submissions" [ref=e837]
+                      - columnheader "End Client Submissions" [ref=e838]
+                      - columnheader "Interviews" [ref=e839]
+                      - columnheader "Joined" [ref=e840]
+                  - rowgroup
+                - generic [ref=e842]:
+                  - img [ref=e844]
+                  - generic [ref=e845]: No Data
+                  - generic [ref=e846]: Looks like you don't have any list to view.
+    - generic [ref=e581] [cursor=pointer]:
+      - img "Plugins" [ref=e582]
+      - generic [ref=e583]:
+        - link [ref=e584]:
+          - /url: https://chromewebstore.google.com/detail/oorwin/mknnokdoimnnbiojigiifegoagcchipd
+          - img [ref=e585]
+        - link [ref=e586]:
+          - /url: javascript:;
+          - img [ref=e587]
+        - link [ref=e588]:
+          - /url: https://workspace.google.com/marketplace/app/oorwin_labs_for_gmail/901984136810
+          - img [ref=e589]
+        - link [ref=e590]:
+          - /url: javascript:;
